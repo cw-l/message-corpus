@@ -1,0 +1,276 @@
+Authentication-Results: mx.microsoft.com 1; spf=softfail (sender IP is
+ 136.67.175.196) smtp.mailfrom=soft98.ir; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=soft98.ir;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:2938A84C920A140A245950AD490D464690B28E15806CED4B95045D0A734FEA7B;UpperCasedChecksum:9DD8A368623561CD4B08173CFB82EF734319D4CBC535546C2E1CD849828821AB;SizeAsReceived:284;Count:7
+From: Smart Wellness Deal Club <support@soft98.ir>
+To: <redacted@redacted.com>
+Subject: Smart Band Savings: Herz P1 Review
+Message-ID: <3648d95cf29e475b976fe9fccdc9071a@soft98.ir>
+Date: Sun, 11 Oct 2026 01:23:38 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 11 Oct 2026 01:23:38.5213
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 3d908752-d6fc-4bf8-d7d5-08df27364724
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ MN7PEPF00000150:EE_|SJ2P220MB1452:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ MN7PEPF00000150.namprd04.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/10/2026 12:49:01 PM
+X-MS-Office365-Filtering-Correlation-Id: 3d908752-d6fc-4bf8-d7d5-08df27364724
+X-Sender-IP: 136.67.175.196
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 6
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|3069299007|5149299006|45200799018|10300799038|9400799043|32020799003|970799063|6100799021|34130799006|260928210016899003|5139299004|3025599003|1290799033|32080799009|2700799033|70000799018|9000799056|46080799009|260826003000599003|60050799012|1680799066|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Oct 2026 01:23:38.2985
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 3d908752-d6fc-4bf8-d7d5-08df27364724
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ MN7PEPF00000150.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ2P220MB1452
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.7400572
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0496.018
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(10010005)(10005027)(9610028)(9540006)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+<!DOCTYPE html><html xmlns="hxxp://www[.]w3[.]org/1999/xhtml" lang="en-GB"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Special Report: Herz P1 Smart Band</title>
+    <style>
+        @import url('hxxps://fonts[.]googleapis[.]com/css2?family=Fraunces:ital,opsz,wght@0,9[.][.]144,300;0,9[.][.]144,600;1,9[.][.]144,300;1,9[.][.]144,600&family=Outfit:wght@300;400;500;600&display=swap');
+    </style>
+</head>
+
+<body style="margin:0;padding:0;background-color:#F4F6F3;-webkit-font-smoothing:antialiased;">
+
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#F4F6F3;">
+        <tbody>
+            <tr>
+                <td align="center" style="padding:32px 12px 44px 12px;">
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+                        <tbody>
+
+                            <!-- LOGO HEADER -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:20px 28px 0 28px;border-radius:6px 6px 0 0;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <a href="hxxps://storage[.]googleapis[.]com/yuetrhfbhdfhbgsgwd/lis" target="_blank" style="text-decoration:none;">
+                                                        <img src="hxxps://s3-eu-west-1[.]amazonaws[.]com/tpd/logos/6960d18062f8fe8a8cb12c84/0x0[.]png" alt="Herz P1 Smart Band" width="130" style="display:block;border:none;max-width:100%;">
+                                                    </a>
+                                                </td>
+                                                <td align="right" valign="middle">
+
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <!-- Accent underline -->
+                                    <div style="margin-top:18px;height:3px;background-color:#334930;border-radius:2px 2px 0 0;">
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <!-- HEADLINE + INTRO SECTION -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:30px 28px 26px 28px;">
+                                    <!-- Label -->
+                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:10px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#334930;margin:0 0 16px 0;">
+                                        INDEPENDENT DEAL REPORT</p>
+                                    <!-- Big headline -->
+                                    <h1 style="font-family:'Fraunces',Georgia,'Times New Roman',serif;font-size:33px;font-weight:300;color:#1A1A1A;margin:0 0 22px 0;line-height:1.22;letter-spacing:-0.3px;">
+                                        The Smart Band Designed to Keep Health Tracking Simple
+                                    </h1>
+                                    <!-- Author strip -->
+                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;color:#777F76;margin:0 0 0 0;">
+                                        A closer look at the Herz P1 Smart Band and its current 50% offer
+                                    </p>
+                                </td>
+                            </tr>
+
+                            <!-- HERO IMAGE -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:0;">
+                                    <a href="hxxps://storage[.]googleapis[.]com/yuetrhfbhdfhbgsgwd/lis" style="text-decoration:none;display:block;">
+                                        <img src="hxxps://offer[.]herzp1[.]com/smartband/images/band-img-2[.]png" alt="Herz P1 Smart Band" width="100%" style="display:block;max-width:100%;border:none;">
+                                    </a>
+                                </td>
+                            </tr>
+
+                            <!-- OPENING COPY -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:28px 28px 0 28px;">
+                                    <p style="font-family:'Fraunces',Georgia,serif;font-size:18px;font-weight:300;color:#2E2A26;line-height:1.75;margin:0 0 20px 0;">
+                                        Most health wearables ask you to accept a tradeoff: more features often mean a
+                                        bulkier device, more notifications, and more frequent charging. The Herz P1
+                                        Smart Band takes a quieter approach, focusing on continuous health and wellness
+                                        tracking in a slim, lightweight design.
+                                    </p>
+                                    <p style="font-family:'Fraunces',Georgia,serif;font-size:18px;font-weight:300;color:#2E2A26;line-height:1.75;margin:0 0 20px 0;">
+                                        The result is a band built around the information people actually want to
+                                        review: heart rate, HRV, blood oxygen, sredactedp, stress, activity and temperature.
+                                        It can track more than 20 health metrics and connect with the free Herz app on
+                                        iOS and Android.
+                                    </p>
+                                </td>
+                            </tr>
+
+                            <!-- THREE FEATURE CARDS -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:4px 28px 24px 28px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <!-- Card 1 -->
+                                                <td width="31%" valign="top" style="background-color:#EEF1EC;border-top:3px solid #334930;border-radius:3px;padding:14px 12px;">
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:2px;color:#334930;margin:0 0 8px 0;">
+                                                        24/7 TRACKING</p>
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:12px;font-weight:300;color:#444440;line-height:1.6;margin:0;">
+                                                        Continuous monitoring of heart rate, sredactedp, stress, oxygen and
+                                                        more.</p>
+                                                </td>
+                                                <td width="3%"></td>
+                                                <!-- Card 2 -->
+                                                <td width="31%" valign="top" style="background-color:#EEF1EC;border-top:3px solid #334930;border-radius:3px;padding:14px 12px;">
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:2px;color:#334930;margin:0 0 8px 0;">
+                                                        30-DAY POWER</p>
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:12px;font-weight:300;color:#444440;line-height:1.6;margin:0;">
+                                                        Up to 30 days of regular use on one charge, with up to 60 days
+                                                        standby.</p>
+                                                </td>
+                                                <td width="3%"></td>
+                                                <!-- Card 3 -->
+                                                <td width="31%" valign="top" style="background-color:#EEF1EC;border-top:3px solid #334930;border-radius:3px;padding:14px 12px;">
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:2px;color:#334930;margin:0 0 8px 0;">
+                                                        NO SUBSCRIPTION</p>
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:12px;font-weight:300;color:#444440;line-height:1.6;margin:0;">
+                                                        One-time purchase with a free companion app and no monthly fee.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- SECOND IMAGE -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:0 28px 24px 28px;">
+                                    <a href="hxxps://storage[.]googleapis[.]com/yuetrhfbhdfhbgsgwd/lis" style="text-decoration:none;display:block;">
+                                        <img src="hxxps://offer[.]herzp1[.]com/smartband/images/band-img-4[.]png" alt="Herz P1 Smart Band" width="100%" style="display:block;max-width:100%;border:none;border-radius:2px;">
+                                    </a>
+                                </td>
+                            </tr>
+
+                            <!-- RESULT COPY -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:4px 28px 0 28px;">
+                                    <p style="font-family:'Fraunces',Georgia,serif;font-size:18px;font-weight:300;color:#2E2A26;line-height:1.75;margin:0 0 20px 0;">
+                                        What stands out is the emphasis on wearing the band throughout the day and
+                                        night. Its slim profile and breathable nylon strap are designed for everyday
+                                        comfort, while the zinc alloy body is built for regular use. The device is also
+                                        rated water resistant to 32 feet and can sync stored data with the companion app
+                                        when Bluetooth reconnects.
+                                    </p>
+                                </td>
+                            </tr>
+
+                            <!-- PRODUCT + OFFER BLOCK -->
+                            <tr>
+                                <td style="background-color:#EEF1EC;padding:28px;border-top:1px solid #CCD2C9;border-bottom:1px solid #CCD2C9;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <!-- Left: product image -->
+                                                <td width="230" valign="middle" style="padding-right:20px;">
+                                                    <a href="hxxps://storage[.]googleapis[.]com/yuetrhfbhdfhbgsgwd/lis" style="text-decoration:none;">
+                                                        <img src="hxxps://offer[.]herzp1[.]com/smartband/images/band-img-7[.]png" alt="Herz P1 Smart Band" width="210" style="display:block;border:none;max-width:150%;">
+                                                    </a>
+                                                </td>
+                                                <!-- Right: offer text -->
+                                                <td valign="middle">
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:10px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#334930;margin:0 0 8px 0;">
+                                                        CURRENT DEAL</p>
+                                                    <p style="font-family:'Fraunces',Georgia,serif;font-size:22px;font-weight:600;color:#1A1A1A;margin:0 0 8px 0;line-height:1.2;">
+                                                        Save 50% on the Herz P1</p>
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:13px;font-weight:300;color:#555550;line-height:1.6;margin:0 0 6px 0;">
+                                                        The current offer makes the smart band available at a reduced
+                                                        price while the promotion remains active.</p>
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:11px;color:#777F76;margin:0;">
+                                                        Offer availability and pricing may change.</p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- CTA BUTTON -->
+                            <tr>
+                                <td style="background-color:#ffffff;padding:28px 28px 32px 28px;text-align:center;border-radius:0 0 6px 6px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td style="background-color:#334930;border-radius:4px;">
+                                                    <a href="hxxps://storage[.]googleapis[.]com/yuetrhfbhdfhbgsgwd/lis" target="_blank" style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;color:#ffffff;text-decoration:none;padding:17px 40px;display:inline-block;letter-spacing:1.5px;text-transform:uppercase;">
+                                                        CHECK CURRENT DEAL
+                                                    </a>
+                                                </td><br>
+                                                <!-- SPACER + FOOTER -->
+                                            <tr>
+                                                <td style="height:24px;"></td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center">
+                                                    <p style="font-family:'Outfit',Helvetica,Arial,sans-serif;font-size:11px;color:#BBBBBB;line-height:1.7;margin:0;">
+                                                        Individual results may vary. <br>
+                                                        <a href="hxxps://www[.]powerscawebly[.]com/o-qtkr-d21-593db0e66583a5bd0350586efca1be81" style="color:#BBBBBB;text-decoration:underline;">Unsubscribe
+                                                            from future
+                                                            emails.</a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    </td>
+    </tr>
+    </tbody>
+    </table>
+
+</body>
+
+</html>
