@@ -1,0 +1,268 @@
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 185.201.16.174) smtp.mailfrom=linkbees.fr; dkim=pass (signature was verified)
+ header.d=linkbees.fr;dmarc=pass action=none
+ header.from=linkbees.fr;compauth=pass reason=100
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:8B8622092A0BB6839CAB62ED56F574C766B6DFCA023E8654ED99E2796D3DB236;UpperCasedChecksum:BB9E20C4F655CF57CEF93EB5D0AC0571B21D79EB98270DB2BEFC66A74D347A55;SizeAsReceived:5083;Count:24
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=linkbees.fr
+	; s=default; h=Content-Type:MIME-Version:To:FROM:References:Message-ID:
+	Subject:Date:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:List-Id:List-Help:List-Unsubscribe:
+	List-Unsubscribe-Post:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=BHHLkzAadE15xzEhOZk50JU2v0zAloLM6HHJ0DoSWno=; b=s9wDGKVPz7N9nzM649sr5YBQiS
+	PPI3477nriIZK0zXuAvweUWYUuApEFNkMVDHgqUPgIBIsyMf2rbPtGWOvF5+zfoJLkqG2ZW9G/kRO
+	97S8pziO+4KcKGwS5X8BpEtI4MSWwyVY/FsyMzuKDfjzUjWXBzA4KeuYllErs/i2fCvdAFBuCdp81
+	gl0ZhDyED20L2WweZoCKWFzDeN2Aop7A/zsve4QSfB4Sz+/w4Gpi1TLB6tMmjuZS/bLFZfc0Xi2Hm
+	MEO4XyC4Kg3wfiVtAKQI+TMrb3PI/QMdr7CbGkECUrodJ7wcpiS37eeur53E6SS4lb5gvhTwh8aaU
+	qvRWOy4Q==;
+X-COMMS-C: N
+X-Attach-Flag: N
+Date: Sun, 18 Oct 2026 02:37:05 +0000
+Subject: Your SimplyGo Points Are Expiring on 19 October 2026 - 439075
+Message-ID: <1yevkaliidzjyvxt7eklso8i.1381791465377@t-online.de>
+References: <bdfbfl4cxh3jpg31d5z81bs0.1895217747255@t-online.de>
+FROM: TransitLink <info@linkbees.fr>
+To: cilence727@hotmail.com
+Content-Type: multipart/alternative;
+ boundary="Apple-Mail=_1B0D656F38-EE5C-5CEF-0F12-A5DC8ADE154"
+X-AuthUser: info@linkbees.fr
+X-Originating-IP: 139.162.132.232
+X-Spampanel-Domain: node234.myfcloudde.com
+X-Spampanel-Username: 139.162.132.232
+Authentication-Results-Original: antispamcloud.com; auth=pass
+ smtp.auth=139.162.132.232@node234.myfcloudde.com
+X-Spampanel-Outgoing-Class: unsure
+X-Spampanel-Outgoing-Evidence: Combined (0.15)
+X-Recommended-Action: accept
+X-Filter-ID: 
+ 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
+ 2EnG060Fzb0V4WczReGaLCq49UBm
+X-Report-Abuse-To: spam@quarantine16.antispamcloud.com
+X-Complaints-To: abuse@master.antispamcloud.com
+X-IncomingHeaderCount: 24
+X-MS-Exchange-Organization-ExpirationStartTime: 18 Oct 2026 03:12:05.3257
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ e333c38b-70f0-4b05-a498-08df2cc59664
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ SJ5PEPF00000205:EE_|SJ0P220MB0446:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ SJ5PEPF00000205.namprd05.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/18/2026 1:03:33 AM
+X-MS-Office365-Filtering-Correlation-Id: e333c38b-70f0-4b05-a498-08df2cc59664
+X-Sender-IP: 185.201.16.174
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|34130799006|47200799027|32020799003|2700799033|13020799009|260928210016899003|119000799009|30140799009|58200799025|33080799006|260804220100599006|3069299007|970799063|9400799043|3600799018|260826003000599003|3412199025|440099028|1370799030|1380799030|1360799030|56899033|30041999003|5090599003;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Oct 2026 03:12:05.2856
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ e333c38b-70f0-4b05-a498-08df2cc59664
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ SJ5PEPF00000205.namprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0P220MB0446
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.9808436
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;auth:1;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9710001)(9610028)(9520007)(10115022)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+--Apple-Mail=_1B0D656F38-EE5C-5CEF-0F12-A5DC8ADE154
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Your 5,000 points will expire on 10/18/2026. Convert them to an eVoucher or=
+ cash now.
+
+
+SimplyGoNotification
+
+Dear Customer,
+This is a friendly reminder that your5,000 pointswill expire on19-10-2026.
+You can convert your points to an eVoucher or cash instantly!
+Redeem your points:
+hxxps://sinalipot[.]s3[.]eu-west-1[.]amazonaws[.]com/r295_65c8f1wqed[.]html
+Hey, thanks for being an amazing customer!
+You can claim an eVoucher or cash with Rewards points directly to your acco=
+unt.
+Happy Traveling!
+Thank you.
+Regards,
+Transit Link Pte Ltd
+=C2=A9 2026 Transit Link Pte Ltd. All Rights Reserved.
+
+--Apple-Mail=_1B0D656F38-EE5C-5CEF-0F12-A5DC8ADE154
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+  <title>SimplyGo</title>
+</head>
+<body style=3D"margin:0; padding:0; background:#f4f4f4; font-family: Arial,=
+ Helvetica, sans-serif; -webkit-font-smoothing:antialiased;">
+
+  <!-- Preheader -->
+  <div style=3D"display:none; max-height:0; overflow:hidden; opacity:0; mso=
+-hide:all;">
+    Your 5,000 points will expire on 10/18/2026. Convert them to an eVouche=
+r or cash now.
+  </div>
+
+  <table role=3D"presentation" align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" style=3D"background:#f4f4f4; padding:24px 12px;">
+    <tr>
+      <td align=3D"center">
+
+        <!-- Card principale -->
+        <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600" style=3D"max-width:600px; width:100%; background:#ffffff; borde=
+r:1px solid #cc3333; border-radius:12px; overflow:hidden;">
+
+          <!-- Header con brand testuale -->
+          <tr>
+            <td style=3D"padding:24px 24px; border-bottom:4px solid #cc3333=
+;">
+              <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+                <tr>
+                  <td align=3D"left" valign=3D"middle">
+                    <span style=3D"font-size:22px; font-weight:700; letter-=
+spacing:-0.3px; color:#cc3333;">SimplyGo</span>
+                  </td>
+                  <td align=3D"right" valign=3D"middle">
+                    <span style=3D"font-size:12px; font-weight:600; letter-=
+spacing:1px; text-transform:uppercase; color:#999999;">Notification</span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Contenuto -->
+          <tr>
+            <td style=3D"padding:32px 24px; font-family: Arial, Helvetica, =
+sans-serif; font-size:15px; line-height:24px; color:#333333;">
+
+              <p style=3D"margin:0 0 16px;">Dear Customer,</p>
+
+              <p style=3D"margin:0 0 16px;">
+                This is a friendly reminder that your <strong>5,000 points<=
+/strong> will expire on
+                <strong style=3D"color:#ae213b;">19-10-2026</strong>.
+              </p>
+
+              <p style=3D"margin:0 0 24px;">
+                You can convert your points to an eVoucher or cash instantl=
+y!
+              </p>
+
+              <!-- Box CTA -->
+              <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" style=3D"background:#fdf2f3; border-left:4px solid #cc33=
+33; border-radius:8px; margin:0 0 24px;">
+                <tr>
+                  <td style=3D"padding:18px 20px; font-family: Arial, Helve=
+tica, sans-serif; font-size:15px; line-height:22px; color:#333333;">
+                    <strong>Redeem your points:</strong><br>
+                    <a href=3D"hxxps://sinalipot[.]s3[.]eu-west-1[.]amazona=
+ws[.]com/r295_65c8f1wqed[.]html" style=3D"color:#ae213b; font-weight:bold; =
+text-decoration:underline;">Convert now</a>
+                  </td>
+                </tr>
+              </table>
+
+              <p style=3D"margin:0 0 16px;">Hey, thanks for being an amazin=
+g customer!</p>
+
+              <p style=3D"margin:0 0 16px;">
+                You can claim an eVoucher or cash with Rewards points direc=
+tly to your account.
+              </p>
+
+              <p style=3D"margin:0 0 24px;">Happy Traveling!</p>
+
+              <p style=3D"margin:0 0 4px;">Thank you.</p>
+              <p style=3D"margin:0 0 4px;">Regards,</p>
+              <p style=3D"margin:0; font-weight:bold; color:#111827;">Trans=
+it Link Pte Ltd</p>
+
+            </td>
+          </tr>
+
+          <!-- Footer legale rosso -->
+          <tr>
+            <td style=3D"background:#cc3333; padding:14px 20px; font-family=
+: Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#ff=
+ffff; text-align:center;">
+              =C2=A9 2026 Transit Link Pte Ltd. All Rights Reserved.
+            </td>
+          </tr>
+
+        </table>
+        <!-- /Card principale -->
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+
+--Apple-Mail=_1B0D656F38-EE5C-5CEF-0F12-A5DC8ADE154--

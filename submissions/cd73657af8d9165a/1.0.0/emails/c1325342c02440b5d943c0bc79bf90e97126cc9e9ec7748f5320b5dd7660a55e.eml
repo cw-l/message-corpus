@@ -1,0 +1,795 @@
+ARC-Seal: i=1; a=rsa-sha256; t=1792305209; cv=none;
+        d=google.com; s=arc-20260327;
+        b=Yb7SESrhMqQ7o6EMUisDuV4ZqYisjsjS87K/Rt5opfpp0Mk4oGKR0/VNHqs6Jeyj7O
+         Ojyb2GpNwU7r7etH7Cp4IMOSwt+uMpY5t7UHxBllC1YyzoGVE9HbmNObcibiaD4Qrk8u
+         Bk68ArHFoDXLwEcUh6M8ID960r9LEjvXPeQhZ+YXPvA/lOn9s8E8hg/8OQ8SceOS42w+
+         +1diTnEn2zHx6zY2JkV9yh8WW7mbzGWoGyZ4GjuZa5rheNKHOsG5w1+qghGGW/9ku53T
+         IGc91BII/FmEk8FXHtiuGlK9QkAc370K96jHF2Ad/ZenJ0e7k7htGfjpImygfJbeAsWr
+         eEyw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=sender:date:list-unsubscribe:message-id:envelope-to:precedence
+         :mime-version:to:from:subject:delivered-to:domainkey-signature
+         :dkim-signature;
+        bh=XuAeDNHIR2VnAU56TneDIKiipzUgTToLE8mDhQqu9XQ=;
+        fh=5mDISkEnApbHbeyplF34/W/bGeiyjRLMmd/AgjlFR1Y=;
+        b=EaZ+V2fsa3l5bKo6TmpsRc5o87zrh6rYBnLO9m2NMXfRsSMUOekrBOD/ZhW9LcKaPH
+         5QiaNeyFfcPWz72Nn0KqmFPLr5Y4UHKopOCzP2eHlccFNgaIbnzf833LvEwcoBjyqL0a
+         6E/TK1HS5rMZEPMDLCt0yGs6UXUUw51H/5e3F6+9EaSekDcDM/6Zmk7J4mHURaXZ0mtT
+         CM5iG9hiK3CYhI1rj3zX/dLL3yTSxzaWuZFQBDjTezfvMccz53KUVqToeCOv1QRY+WIq
+         Uznng9vOWlcImMvzmoOIAztd1RZ4TRIzwY40IEEYHO8q4vC5IHza+gvxNbgBHvMqmxIh
+         MHtA==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@yxzcyjay.keplo.quorveta.my.id header.s=smtp
+ header.b=QPy34imJ;
+       spf=pass (google.com: domain of gwqohzxeoiarr@keplo.quorveta.my.id
+ designates 46.31.78.29 as permitted sender)
+ smtp.mailfrom=gwqohzxeoiarr@keplo.quorveta.my.id
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@yxzcyjay.keplo.quorveta.my.id header.s=smtp
+ header.b=QPy34imJ;
+       spf=pass (google.com: domain of gwqohzxeoiarr@keplo.quorveta.my.id
+ designates 46.31.78.29 as permitted sender)
+ smtp.mailfrom=gwqohzxeoiarr@keplo.quorveta.my.id
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp;
+ d=yxzcyjay.keplo.quorveta.my.id;
+ h=Subject:From:To:MIME-Version:Message-Id:List-Unsubscribe:Content-Type:Date:Sender;
+ i=uyrxmrhxodbbjhvmziupd@yxzcyjay.keplo.quorveta.my.id;
+ bh=ssehlRDJLB28rB5Gx9HSU/HMEUk=;
+ b=QPy34imJdUHK+TngP4sBnc3nTbBecsCspXCqlZo0EfT0AcUoUxXuYTPMTODJ7WmldKV/cCsTJ79j
+   0+X/REaFoKf7c2tChlWRWBwizBCKAjdBOAQhsEWbwiRUrtt7YPcav05rWwKsx6Ff6Q0OH/h6YY7w
+   c0aNa+Td6uKw1tuKPYczED/QI8bUhDJXtcx4WyOSHb5RYEND+IanZWgIOlbDqaIKo0eDXp6h1zc7
+   f8EXLwJcl7Fhxn51ExKEO8KHdb2wy85ZXNxxVgm4bHxczziPi94ytvWSw2j6fBp1sZwvgiSVcIVO
+   W+v7JZI3+8sPmvKwyZ32bGxE6F18UqQHO7v4IA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=smtp;
+ d=yxzcyjay.keplo.quorveta.my.id;
+ b=FNeEW0SBf6xA8Ycj76RawmuM30g4mXVZLN+TIyLWNAoT9aG8g4dmB+zurkyMo7EmckxFv9LCR7Kl
+   I2LGt3AR/ccG6eUkznEr6v33NgyxrConOLKEtUFEuqdLqZKw/juyeXw3l6QU+ooU+mN9riiX0Q/x
+   +5+MyM+J4xdTMbghawIC2KoOU2WXk4fNTHzZ4NTXhhW+VgyOqZR+9JMKsCKVXY0Hw5mbi39LuYTG
+   Lz7AIgKirgQGljJWPb0mmIZd9aslO8iqWhvsAHhN8tvqFueVhVXa8Wr7ZBb02vwbw/fSnENqaHxn
+   hFdLsWILkR1jxMAhPMbazB3TZljYIA/ACcD3gg==;
+Subject: The 30-second salt morning ritual supporting quiet, clear ears
+From: Natural_Hearing_Report
+  <etcmxtt.32.195982@yxzcyjay.keplo.quorveta.my.id>
+To: redacted@redacted.com
+MIME-Version: 1.0
+Precedence: bulk
+X-Originating-IP: 46.31.78.29
+X-Google-Original-Message-ID: <-@vevida.net>
+Message-Id: <tklhkowkdehlpcchjuoxtigosjsctb@w4wrobsnnanzh64m7t>
+List-Unsubscribe: <http://moirtop.lu.eu.org/LEAVE=To>
+Content-Type: multipart/digest; boundary="----=_Part_1_26968133"
+Date: Sun, 18 Oct 2026 06:33:28 +0000
+Sender: uyrxmrhxodbbjhvmziupd@yxzcyjay.keplo.quorveta.my.id
+
+------=_Part_1_26968133
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+------=_Part_1_26968133
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: NpoT9Er4mB
+
+
+
+
+
+</br></br></br><center>
+<a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#ZrqBcqIustjZjkgmXqXpJeVxqwpYfo&4DxJRorSgmy&299343/1760/lxwcvdhojq[.]home[.]php?sq=32-195982&lk=45391-7&page=812" style="text-decoration:none; color:black">
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "hxxp://www[.]w3[.]org/TR/xhtml1/DTD/xhtml1-strict[.]dtd">
+<html xmlns="hxxp://www[.]w3[.]org/1999/xhtml" lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <title>Auditory Wellness Report</title>
+    <style type="text/css">
+        body,
+        table,
+        td,
+        a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            font-family: Arial, Helvetica, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        @media only screen and (max-width: 620px) {
+            .main-container {
+                width: 100% !important;
+            }
+
+            .content-pad {
+                padding-left: 18px !important;
+                padding-right: 18px !important;
+            }
+
+            .headline {
+                font-size: 24px !important;
+                line-height: 1.25 !important;
+            }
+
+            .body-text {
+                font-size: 16px !important;
+                line-height: 1.6 !important;
+            }
+
+            .btn-cta {
+                width: 100% !important;
+                padding: 16px 10px !important;
+                font-size: 16px !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .footer-col {
+                display: block !important;
+                width: 100% !important;
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div
+        style="display: none; font-size: 1px; color: #f7f7f7; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;">
+        Auditory Health Report: The natural salt morning habit supporting inner ear peace and quiet...
+        &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;
+    </div>
+
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%"
+        style="background-color: #f7f7f7;">
+        <tbody>
+            <tr>
+                <td align="center" style="padding: 30px 10px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+                    <tr>
+                    <td align="center" valign="top" width="600">
+                    <![endif]-->
+
+                    <table class="main-container" role="presentation" border="0" cellpadding="0" cellspacing="0"
+                        width="100%"
+                        style="max-width: 600px; background-color: #ffffff; border-radius: 4px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border: 1px solid #e8e8e8;">
+                        <tbody>
+
+                            <tr>
+                                <td class="content-pad" style="padding: 30px 35px 20px 35px; text-align: center;">
+
+                                    <h1 class="headline"
+                                        style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 28px; font-weight: 900; color: #111111; margin: 0 0 22px 0; line-height: 1.25; letter-spacing: -0.5px; text-align: center;">
+                                        The 30-Second Salt Morning Routine That Helps Support Quiet, Comfortable Hearing
+                                    </h1>
+
+                                    <div style="margin: 0 auto 25px auto; text-align: center;">
+                                        <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#qjkLBnrEoSGcjRIeAWMyWrmPaoBETC&4YqzaWLkuit&299343/1760/lcdebmldky[.]home[.]php?sq=32-195982&lk=45391-7&page=485" target="_blank"
+                                            style="text-decoration: none; display: block;">
+                                            <img src="hxxps://i[.]imgur[.]com/zFHBi8h[.]png"
+                                                alt="Watch The Salt Routine Presentation"
+                                                width="530"
+                                                style="display: block; width: 100%; max-width: 530px; height: auto; border: 0; margin: 0 auto;" />
+                                        </a>
+                                    </div>
+
+                                    <div class="body-text"
+                                        style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #111111; line-height: 1.6; text-align: left;">
+
+                                        <p style="margin: 0 0 18px 0;">
+                                            Hearing wellness specialists have pointed out that persistent ringing and
+                                            auditory fatigue often stem from cellular mineral imbalances and stressed
+                                            nerve pathways connecting the inner ear to the brain.
+                                        </p>
+
+                                        <p style="margin: 0 0 18px 0;">
+                                            A breakthrough nutritional approach called the
+                                            <strong><a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#DuzrsyDRlzJjmEIeVSQqoAZhduPXDb&4rrvYVaiUvP&299343/1760/oxttfanhzi[.]home[.]php?sq=32-195982&lk=45391-7&page=788" target="_blank" style="color: #000000; text-decoration: underline;">Morning Salt Routine</a></strong>
+                                            combines natural trace minerals with the concentrated botanical compounds in
+                                            <strong>SilentFlow</strong>, helping soothe auditory nerve sensitivity,
+                                            encourage healthy blood flow to delicate ear tissues, and restore a sense
+                                            of natural calm.
+                                        </p>
+
+                                        <p style="margin: 0 0 18px 0;">
+                                            Unlike temporary white noise generators or invasive procedures, this gentle
+                                            formula nourishes auditory pathways at the root level. Every order is
+                                            backed by an industry-leading 180-day money-back guarantee, allowing you
+                                            to experience the results with complete confidence.
+                                        </p>
+
+                                        <p style="margin: 0 0 30px 0;">
+                                            Watch the full educational presentation now to learn how this simple kitchen
+                                            habit can help you reclaim peace, focus, and quiet days.
+                                        </p>
+
+                                    </div>
+
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                        style="margin-bottom: 35px;">
+                                        <tbody>
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#vcDeGncPBERLXpqPHueZtykMyRYQLQ&4uzxLuokgEw&299343/1760/qynqkcukwi[.]home[.]php?sq=32-195982&lk=45391-7&page=123" target="_blank" class="btn-cta"
+                                                        style="background-color: #cc0000; color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none; padding: 18px 34px; border-radius: 3px; display: inline-block; letter-spacing: 0.5px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+                                                        Watch The Recipe Presentation
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="background-color: #111111; padding: 25px 30px; color: #ffffff;">
+                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td colspan="2" align="center"
+                                                    style="font-family: Arial, sans-serif; font-size: 11px; color: #888888; line-height: 1.6;">
+                                                    <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#botNfHvdZNdEpKFMctzDhGwJqdXjlh&4fLhuDNWkoW&299343/1760/wlzlrxvfxl[.]home[.]php?sq=32-195982&lk=45391-7&page=452" target="_blank"
+                                                        style="color: #ffffff; text-decoration: none; font-weight: bold;">Privacy
+                                                        Policy</a> &nbsp;|&nbsp;
+                                                    <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#uoKDNUhUSFZhUoMZNnNIrTmIWtRKiu&4TMAiwVDjLw&299343/1760/wqywdqjoqs[.]home[.]php?sq=32-195982&lk=45391-7&page=004" target="_blank"
+                                                        style="color: #ffffff; text-decoration: none; font-weight: bold;">Terms
+                                                        of Use</a> &nbsp;|&nbsp;
+                                                    <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#ziGYxAydVRSLsXXizxdPEraAZyuxJv&5ZZkqubgOmt&299343/1760/jfmvwtaktx[.]home[.]php?sq=32-195982&lk=45391-7&page=946" target="_blank"
+                                                        style="color: #cc0000; text-decoration: underline; font-weight: bold;">Unsubscribe</a>
+                                                    <br />
+                                                    &copy; 2026 Auditory Health Reporting. All rights reserved.<br />
+                                                    *Statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary.
+													<br><br><br><br><br><center>Unsubscribe to
+													<a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#JUsQupgeWBALiqgYloSiPbipEikfcX&6RnAasANQne&299343/1760/ttxsaztemk[.]home[.]php?sq=32-195982&lk=45391-7&page=589">click here</a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
+<table style="display:none;"><HEaD/>
+
+<div style="display:none;"><HEaD/>
+	
+<object IWZGXSEHLLKNHZXTOZVYLASMJFGDOZCVPITPNDBXNHIKORBSUHHQCWGFTBHB>
+
+Dear LSKIYHRAGIBLUFUSNGQNLB fjdmvvefnyozfbkgajinkh,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is hwknvkwtgtytycstnghhxjpsokkj.
+
+Your membership delivers faster reservations and rentals, a special members-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free Rental Days after you activate your rewards. Please allow 24 hours for system updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rental experience more rewarding.
+
+<title>
+
+emd 
+added
+to
+newsletterGet
+and
+ask
+childrenShare
+this
+ExperimentSegregation
+Americaxs
+report
+United
+May
+ETPerhaps
+going
+wants
+In
+federal
+that
+says
+plan
+boasted
+unemployment
+lowest
+everSo
+rightWhile
+down
+remained
+last
+this
+does
+communities
+to
+land
+opportunityOne
+Americans
+suffer
+opposed
+white
+inequality
+in
+while
+step
+inequality
+will
+that
+looks
+housing
+disparities
+on
+For
+more
+of
+on
+resources
+their
+childrens
+care
+going
+on
+cities
+on
+nation
+Shortly
+still
+have
+evidence
+doesnt
+decades
+expanding
+emerged
+of
+failed
+laws
+about
+and
+people
+housewives
+at
+Franz
+in
+New
+Orleans
+poverty
+public
+which
+to
+of
+we
+has
+failed
+chronicled
+deregulation
+Who
+children
+has
+work
+direct
+former
+have
+has
+of
+And
+as
+Professor
+documented
+more
+than
+problem
+Commission
+commission
+there
+with
+this
+was
+urban
+ideology
+without
+policy
+resulted
+be
+has
+hard
+students
+provides
+model
+graders
+salute
+flag
+of
+school
+atrisk
+will
+to
+of
+creates
+race
+to
+Brookings
+or
+integrate
+government
+to
+for
+potential
+enforcement
+The
+privatesector
+effect
+intentional
+with
+racial
+and
+make
+housing
+will
+access
+housing
+access
+Act
+making
+and
+integration
+poor
+developers
+lowincome
+lower
+half
+and
+by
+University
+college
+than
+children
+had
+and
+We
+need
+that
+but
+living
+Robert
+observed
+Bernard
+Why
+never
+ask
+and
+America
+Eisenhower
+Foundation
+Kerner
+Commission
+Violence
+senator
+at
+Healing
+America
+Years
+After
+
+<title/>
+
+Hi imqziowzoymtozzaag,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again: 
+
+If not, just let me know and we'll find something else.
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi geqbslzmefwgmonzwudpmbdn,
+
+Thanks for signing up, and congratulations
+on your new mis fgybgmsiqvuqdhrcid account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=== Account Information ===
+ Username: ejkgcrtqttgefukajdiediobzj
+ Site ID: cuexjrhbzarqemkihaapziwlu
+
+=== Your Account Console ===
+
+Thanks again!
+Team HXUWPIQWGATITPJMRZEDIB
+
+Powered by EDTFILMIZUTPMDSKOSUCFR 
+
+</title>
+
+Dear NYRXFHHAAVATFNOQDYXYQBONB gdxjaoiqqwdaqcnwrdaulwwitr,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is ilcrukpvykyilicytmaxfsleg.
+
+Your membership delivers faster reservations and rentals, a special members-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free Rental Days after you activate your rewards. Please allow 24 hours for system updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rental experience more rewarding.
+
+== You need a budget, and your email needs confirmation. ==
+
+ Hello! Quick note to let you know that your email needs to be confirmed
+before all sorts of great things happen. Like your being able to use YNAB
+all along your road to budgeting glory. Please confirm by clicking the link
+below:
+
+ Confirm your email
+
+ Thank you!
+
+ And we're serious about budgeting glory. It's a real thing, and you will
+bask in it.
+
+ Regards,
+
+ The YNAB Team
+
+
+Dear Dalewoowood IOFZWLCYIEQTVHTSHGWXUV,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is __Random_com[17,17,u].
+
+Your membership delivers faster reservations and rentals, a special members-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free Rental Days after you activate your rewards. Please allow 24 hours for system updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rental experience more rewarding.
+
+UHOLOYFYEROIYQKPFUHXYIPJCAUWDPPJNSVRNYWIDRGCFYGMWFCTMSBKTJZFQKZZNISISLINYQCFCVTJNLAQXWPYBBXOCFSHZMEUDQQEOQSZFYPFDZRPCWPHFIOVNIOFEZWXGAQKSNHUCDTIECGYRYCKPSXKTIIYBHSTBOVEAXWIXDFPMVQJEPVTSQXQXYFZPBREPPYI
+
+ Hi ELTFMQGBOMEAVDOWQKQANX,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:
+
+If not, just let me know and we'll find something else.
+
+fbogkrdtevyeoiowgtpdrultzwjstqlwbsjeyghkotudguauaulclhuugjnwmfryvsishxdipncvvnfbtfusxhrwjvenlploetpuipyalzstlonxxkpshnqikxcejmwdfbzcsipeqfzepliztxsgywscqotulqcrbzmlpxbmbqyrncnjshdjtfpitvfohdhzayvspjwk
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi ZHCUOIZ5G71TXN3IYAVKHZ01Z,
+
+Thanks for signing up, and congratulations
+on your new misiuumqymehkehfaptsv account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=== Account Information ===
+ Username: ktrt
+ Site ID: bmfn
+
+=== Your Account Console ===
+
+Thanks again!
+
+Team ZFPTOXQIRODMKIFFQVFONJ
+Powered by UAHSSETWCYDLWJYXHVNFWW
+
+Login Name: DLJUNADOAGHRRKEVWLKUKA
+Password: VPPOLLLLWCKODRBDFRBBEL
+
+How do I become a tester for the XT 808 flashlight?
+
+Login Name: UHE
+Password: RKGBRNJVXEDCBKGEPCEFNI
+
+	TFVXFQ6XKT0DOQ74OY NY3DB2TD9DU2P0I TPFYSUODBI8K4 VAG576O9HQ52OIIHV6 2INOYTFIZMM43KE BIKG8C12MHBEZ VWCWRZ2TFVP5ZG1D70 
+	S1URHB4FYWB3P74VCN CB4W6BFT5LZVJ9O UJ8PI12UTOTRQ 8WWZD54QK84O0VUY55 30VHMTQ9B1A159S XNKNV96SFDO6H 1DCTDB2MPLARQL80Z7 
+	1YXZ1MCGW6KECJ7 62GYA81GTK66Y 64KAF0L5XDHKHGBG9P PLZPMFTS8F8EG75 4TC1NVKNFOE69 Q21FRHJSHWCOC74JNU KCIWQCJUTYAMADD
+	N6Q3UJ0ASB8YC GU08D1YC7XSFS2CNKH 0IR71WB6QX8KHFD OM8EFCATELW1U DETXZGLW74UL8FNW1L Z9Z3IY76FFS86OC KWQT3VI8RN1TF 
+	0IQEZ16GE1LQFJAE6J OBELJJGB75MDZLB 46GC0UIXM1XYM JQ8X4QBY0384ZYAMP4 LR3J5QGU63XB2EO 420FYEM3J6PE0 68A3JMFATD262DY9X0 
+	N1G9YQBAREN63Q8 UZ8YBF4I3UVA0 F1RRREFXVNCRC1HFS6 Y2KU2J3IMD0UJFI EEIAWOKR8UU84 SD3DPJC6G295S6T132 1GQQWSVARAP0YAA 
+	TY4AAPU9NAGSP E1W8C37S6B0SYOR84L EKRQPKKENLIGPH2 TFDBYSKWFP616 2MTI60YH6OF6LKZTE3 QUFT8KSIWGX48HZ 9FKXN18PEBV5N 
+	0MGNKI5LWTUWBNC8ZP 5UUWP379UUP2V38 V8OR0WOVB1ZF7 68GJZQQZJGLH47A93J 9LJOEO1K8Y2O71R GXGUMS508H5U9 MS44SMJIG2L80AR0OA 
+	SVFRD92I3C026LN MACQ4FET4V2Z3 K1IRPDRBHSZK4Y5IXR LQE37YDAZ90C3UR 6IJYO6AUBPU9M H6Y8BDS98A1D3DBV6R ZLTOPPJCPVXKEW7 
+	J0TTZ4OYD1JUF V8H4Z36DFLKFU7UEOA 0QJZ58EDW0A6LPP FTEFAL4GUXKT4 68R8AY8GE2IRGP4CXU Y0XNLB1E230X306 TB7LDTK2H7TSE 
+	W57VZC11OGA1LDCJKH H1QZM89MRPIVOGR GGH730L7R60HH WRFV2R8SEN59PACYBT 36W6KOJYIRF7JP2 LFXE6GN4QDRSV TF2U80PRNB8H0LEW63 
+	ZP4DJWWC8NC7IU9 KHJ8JCQHULFRY OGJVFCJT6HDCOVVZNN NSQSBE3SZSQECWX JW0X5Q8CCX8X9 VJW3H8O279NVOZ1J5A 2FRY0AU1UXK05QT 
+	AIWLAQNLJ47Q1 ZS07VFOBPLW8Q9X59W 1SD3YZE297KZY23 2UTOKCSYDPMGI YDZJW7UV7KDQVKF9LG FCC8Y7WLKU2QEJZ PDM0O669H78V4 
+	S8S3NCIRDGSS10TKRV 9568I838HYXM06J 26CUI1Q57OU68 M4RWYC4Q3KE9N0F42H O6NZFFR2OAV55KH UD3VW6YTEQV8O 5O0OVPXQDTMIMU5CV2 
+	6D7Y03ZYV3K4SK3 9LFNWY5J99IUY OUUFUQ0YOB9JYKDKAT XA5SX7YWZ479PLR VTEGB3M6L6994 QBKZILFAKC4OQUHSGT TH6JNTVU80CA13X 
+	9B75MPFV15IIJ VV0YM9SZZMR27TVX3S 6TLER17RU68TY2B JPN3NQ3NX561I 2B9REWI0YPV4TWNIEN EQ5JS3HGMAAPKZB 11R4GN68ZICBI 
+	8CGZ5XWTFC4KEKZKEO 1SVGH7IE0GF76CA ZZJGDGRC3VRQI WSTIP1JP72RU0E0SAP E8MKHRR2THR6X2W IATAVW52LB61D L66PC7UHHLK2CA0V4G 
+	CTN0UWPHC0M5WBP Y9F875TRCC69Y 9B4GTJ0LFN53H08X1M WR90Q7PV3FX60LN NYZZH1CL561XB L9E005SJM90PZ2IE4S TIYE2R6IAVYU7CM 
+
+More than a quarter of Europeans surveyed believe Jews have too much influence in business and finance. One in five say they have too much influence in media and politics. In individual
+1. Download Parsec for your device
+
+2. Set up Parsec on your PC to invite friends to game with you or to play from anywhere
+
+3. Connect with your friends on Parsec
+
+4. If you don't have a gaming PC to co-op with friends, build one on Parsec
+
+5. Join our Discord for support, updates, and finding friends to game with
+
+       Less than 10% of EU aid money reaches the countries where it is most needed, according to a study that found levels of assistance had dropped for the second year running.
+
+The EU and its member states remain the biggest development donor group in the world ? investing ?71.9bn ($61bn) in 2018, more than half of global aid ? but its contribution was 5.8% lower than in 2017, the European NGO network, Concord, found in its AidWatch report.
+
+Progress on meeting the UN target of spending 0.7% of gross national income on aid, laid down in 1970, has gone into reverse, said the group. Their research showed that aid decreased to 0.47% of the EU?s combined GNI last year, compared with 0.49% in 2017 and 0.51% in 2016.
+
+Advertisement
+
+Only Sweden, Luxembourg, Denmark and the UK met the 0.7% commitment.
+
+The UK?s three main political parties have committed to retaining the aid target.
+
+Aid from five countries ? Italy, Greece, Finland, Austria and Lithuania ? decreased by 10%.
+
+?We are moving further away from the 2030 Agenda [for sustainable development],? said Luca De Fraia of ActionAid Italy. ?Not only are we missing the target in terms of quantity, but also the quality of aid is lagging behind.?
+
+Despite a marginal rise in aid going to the least developed countries (from 0.11% in 2017 to 0.12% in 2018), 16 countries, among the poorest in the world, currently receive only 8% of EU funding, AidWatch found.
+
+Guardian Today: the headlines, the analysis, the debate - sent direct to you
+ Read more
+?sa Thomasson, from Concord Sweden, called on EU leaders to provide more aid and ensure it is used effectively to ?make the biggest difference to people who are most marginalised, excluded or discriminated against and the poorest and most financially challenged countries?.
+
+The report noted progress on what can legitimately be recorded as aid. Some countries had included domestic spending on students, refugees or security in official figures. But such costs ? like debt relief, interest repayments on loans, or assistance ?tied? to the donor country ? are categorised as ?inflated aid?, since they do not necessarily contribute to development and are often funds that never leave the EU.
+
+This year?s report shows a 25% reduction in inflated aid, while refugee costs decreased by approximately 35% and the use of aid for debt relief dropped by 66%.
+
+Jan van de Poel, policy and advocacy manager at the European Network on Debt and Development, said he was concerned that the commission is overestimating the potential for ?blended finance? (linking aid with loans from publicly-owned institutions or commercial lenders) to help achieve the sustainable development goals.
+
+He pointed out that, as recently as 2016, more than half of all reported contracts were still awarded to firms in the donor country. ?Donors not only need to untie all aid, but also make sure that their procurement practices are tailored towards the private sector in developing countries,? he said.
+
+Claire Godfrey, interim director of policy, advocacy and research at Bond, the UK development network, praised the Department for International Development (DfID) for maintaining the 0.7% pledge and ensuring that the majority of its aid reached the people who need it the most. She added that other EU countries needed to ?step up to the plate?.
+EGYSBDQACPPQSQELVGWFEMLJJZPEJGGYNQDXXXCTMMOQNJPWLZJJGPGTAEBYLYZVKFHVCJYQUTSLFDWADIOJHMEQERAEYJEERPVFWGIANPSTPOABULBKLJCJFHVZHIMTPEKEVTXCIYHHVOGOXMVXMOMWATFFNEIPDKNDDSEAXXCSSAVZESTKKTFMTPWLXQLCAFOOGIWPV
+Godfrey said DfID would ideally have oversight of all UK aid, rather than multiple departments, since this would ?ensure not a single penny is diverted away from the poorest, most vulnerable and most marginalised?.
+
+With a general election looming, Labour, the Conservatives and the Liberal Democrats have all stated their commitment to retaining the 0.7% aid target, equating to roughly ?14bn, while the Green party said they would raise it to 1% ? in line with Sweden.
+
+
+Two-thirds of British people see overseas aid as 'a major priority'
+ Read more
+At a joint hustings event on women?s rights and sustainable development held by ActionAid UK and the Overseas Development Institute on Monday, Lord Ray Collins pledged that Labour would triple funding to KFTOLSIQDAJMTPYPOVMCSRWCKKCTQMVLIZODUCULLEYMOETCUNFNVSVKASCKRYXSOZYOYSXAPAWKFMJEASJLBTJLATKWMYQMPWDJYDLIBUHKTAWVFDQOQBBLYHWNKJJZMYLQLVKYYUDNQCIXHSANVQHQNYOVVQANJSUCYRYUGLQLYRYFYGWVUIVXUSFIYZZBFSPDPFBC roots women?s groups in the global south.
+
+Elizabeth Babade, candidate for the Brexit party in Warrington North, said her party would cut the foreign aid budget but declined to say by how much.
+
+The Conservative party did not put forward a candidate for the event, but restated its commitment to the 0.7% target in the House of Commons earlier this month. It stopped short, however, of committing to the retention of DfID as a separate department MEFQSMCUFBHKQINBQKDNVOJZLOYOUMTIBSSQROKLENWCUFASBXOOHMXAWZYNTRZYKMDDQZWBXIXTKFTYRWUNIYXRETNMVWXTKIREOKTNRCFUWEBTOILCUEEAZBDMJYNCEDJPUKWRQXYUBWJADVredactedJWFLRVXXOKYGCWGKKIGMSJGMHXQQWUFMZNPSJPCMFAKTACFSKFQC to the Foreign and Commonwealth Office.
+
+The UN Conference on Trade and Development?s Least developed countries report, also published this week, called on the world?s poorest nations to ensure external finance from all sources is ?directed to nation AILGQHXSCBYMMWAFMVXOPNIMQYIYCEJZHAIUUJXMMIENGSJSPXNJWXWCKWKMQJPVVWMAEPQKZDHPMTHDHKADXTQCSWQCXIKKJTIQWPKNYZLAIIFCYMIVSRBEAUJOJDOVXKNONKTYKGLYTREVKBLWPDPELCWOMLRMCBWXKJKBSWKHNTYGVNEMJOXAUUILRZIKKORBTLCQT development priorities? as the best way to ?manage their aid dependency and eventually escape it?.
+
+Since you?re here?
+? we have a small favour to ask. More people, like you, are reading and supporting the Guardian?s independent, investigative journalism than ever before. And unlike many news organisations, we made the choice to keep our reporting open for all, regardless of where they live or what they can afford to pay.
+
+The Guardian will QCSATGHZTCWIPZOVAQDZXZQZGQFRXTTGQXVROBXZIKKAAVSCELWPHPKTGNNBQELLJQHJQVDSGPXFZCOEOEGWVBTZXLQWXERSUVBCYVZPQUKCWXCGABVSOXPYRKAWCZDYXRZZSRWCUZIHDIQVYCSXFCHQDFAPWMHVPPGAMLKSJSELANWDWGDUMHFSQKHJZFLYBPKPWXSWIEZKYNVSHTTGMRCMIKUBEEPXIXKXBGSAHSPLPEEACUGWZFNEUWIWVPRYHUEBXOGSQZMDWPIBTYIRILGLHVXPEOXIGAETDYVXSYCOCSUKTSXQNXORRBQTYKFQIJVUTPWKDNINQYKXZSDYSPMLGVNEVMDRVTIYNNZASWBVDBLATNCPPIGUNDMDHNRGHDJDUZTHWPIEERVO  ? 
+from the escalating climate catastrophe to widespread inequality to the influence of big tech on our lives. At a time when factual information is a necessity, we believe that each of us, around the world, deserves access to accurate reporting with integrity at its heart.
+
+Our editorial independence means we set our own agenda and voice our own opinions. Guardian journalism is free from commercial and political bias and not influenced by billionaire owners or shareholders. This means we can give a voice to those less heard, explore where others turn away, and rigorously challenge those in power.
+
+We hope you will consider supporting us today. We need your support JFGDUWIWONYDVKHGNKAEGNNCUBEBKCTFLYYQTDZUVNYYPZGLYEDSTAWPJTJRKCNDOKLVAUGKXJKGNGPLENMDARTHULYZBGLVBFXZWENVSDDWSZJZLRYCNLTWLTKMSOTSOZSFVTDAEFLTXIWTMIRFGWDXXQBOOIGWRUNTNOXAYKTTLCQVOMODABIGVCKJLROKUPPBXBFY  to keep delivering quality journalism that?s open and independent. Every reader contribution, however big or small, is so valuable. Support The Guardian from as little as $1 ? and it only takes a minute. Thank you.       
+
+Parsec Cloud, Inc. 
+115 Broadway, Fifth Floor, New York, NY 10006, USA
+
+</object>
+
+------=_Part_1_26968133
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<object style=3D"display:none;">
+This message was sent from a trusted sender
+<div style=3D"font-size:1px;color:#333333;line-height:1px;max-height:0px;ma=
+x-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0</div>
+She tried to explain that love wasn't like pie. There wasn't a set number o=
+f slices to be given out. There wasn't less to be given to one person if yo=
+u wanted to give more to another. That after a set amount was given out it =
+would all disappear. She tried to explain this, but it fell on deaf ears.
+I've rented a car in Las Vegas and have reserved a hotel in Twentynine Palm=
+s which is just north of Joshua Tree. We'll drive from Las Vegas through Mo=
+jave National Preserve and possibly do a short hike on our way down. Then s=
+pend all day on Monday at Joshua Tree. We can decide the next morning if we=
+ want to do more in Joshua Tree or Mojave before we head back.
+Symptoms of acute mountain sickness, or AMS as it=E2=80=99s known, include =
+trouble sredactedping, nausea, loss of appetite, and fatigue. If you keep g=
+oing higher and ignore signals from your body, you could develop HAPE, high=
+ altitude pulmonary edema, or HACE, high altitude cerebral edema, both of w=
+hich are very serious.
+They had no proof. He knew that they knew he had done it but they didn't ha=
+ve any proof. It was a huge distinction and it was the difference between h=
+im keeping his freedom or being locked away for decades. They continued to =
+question him, probing him for information that they could use against him o=
+r find the proof they needed to put him away. He smiled and continued to bl=
+ock their every inquiry by feigning his innocence for a crime they all knew=
+ he committed.
+</div><object><div style=3D"font-size:1px;color:#333333;line-height:1px;max=
+-height:0px;max-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0</div> </body></html>
+
+------=_Part_1_26968133
+
+
+
+------=_Part_1_26968133--

@@ -1,0 +1,351 @@
+Authentication-Results: mx.microsoft.com 1; spf=permerror (sender IP is
+ 34.143.161.115) smtp.mailfrom=jamisbikes.com; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=jamisbikes.com;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:7909DAAAF67E18D5A769AC45C33089B9A3F81949B1BA7CAFE70E5C182222906D;UpperCasedChecksum:D89B25D75ADDB3536FB399B35C629E42DFF2EE0519F56F2ADD24E5D243AC4B2C;SizeAsReceived:316;Count:7
+From: Golden Years Brain Health <support@jamisbikes.com>
+To: <redacted@redacted.com>
+Subject: Brain Wellness: Small Habits That Can Make a Difference
+Message-ID: <f7da378c80ce470bbe6aa82a316b462e@jamisbikes.com>
+Date: Fri, 16 Oct 2026 21:17:52 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 16 Oct 2026 21:17:54.1509
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 87804feb-09d2-4e0c-f4c5-08df2bcaf14a
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ CH7PEPF00000016:EE_|BY1P220MB1918:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ CH7PEPF00000016.namprd21.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/16/2026 3:23:37 PM
+X-MS-Office365-Filtering-Correlation-Id: 87804feb-09d2-4e0c-f4c5-08df2bcaf14a
+X-Sender-IP: 34.143.161.115
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: NONE
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|5301999021|11119299006|3069299007|970799063|6401999021|60050799012|10300799038|32020799003|260928210016899003|34130799006|11001999021|6100799021|9400799043|1290799033|32080799009|2700799033|1680799066|5139299004|260826003000599003|9000799056|56899033|6022199012|3412199025|440099028|4302099013|8011999015|1360799030|1370799030|1380799030|1602099012|30041999003|3200799286|2406899039;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 16 Oct 2026 21:17:53.4995
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 87804feb-09d2-4e0c-f4c5-08df2bcaf14a
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ CH7PEPF00000016.namprd21.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY1P220MB1918
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.0500421
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <meta name=3D"x-apple-disable-message-reformatting">
+  <title>Memory Restoration Protocol</title>
+
+  <style>
+    body, table, td, a {
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table, td {
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0b0f19;
+      font-family: Arial, Helvetica, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      border: 0;
+      outline: none;
+      text-decoration: none;
+    }
+
+    @media only screen and (max-width: 620px) {
+      .broadcast-wrapper {
+        width: 100% !important;
+      }
+
+      .mobile-pad {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+      }
+
+      .broadcast-headline {
+        font-size: 25px !important;
+        line-height: 1.3 !important;
+      }
+
+      .broadcast-body {
+        font-size: 16px !important;
+        line-height: 1.65 !important;
+      }
+
+      .broadcast-btn {
+        display: block !important;
+        box-sizing: border-box !important;
+        width: 100% !important;
+        text-align: center !important;
+        padding: 16px 12px !important;
+      }
+
+      .footer-col {
+        display: block !important;
+        width: 100% !important;
+        text-align: center !important;
+        padding-left: 0 !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Hidden Preheader -->
+  <div style=3D"display:none;font-size:1px;color:#0b0f19;line-height:1px;ma=
+x-height:0;max-width:0;opacity:0;overflow:hidden;mso-hide:all;">
+    Explore a natural approach to daily wellness and learn more about memor=
+y health.
+    \u200c&nbsp;\u2007=EF=BF=BD\u200c&nbsp;\u2007=EF=BF=BD
+  </div>
+
+  <!-- Outer Background -->
+  <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"background-color:#0b0f19;">
+    <tbody>
+      <tr>
+        <td align=3D"center" style=3D"padding:25px 10px;">
+
+          <!-- Main Card -->
+          <table role=3D"presentation" class=3D"broadcast-wrapper" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-widt=
+h:600px;background-color:#ffffff;border-radius:4px;overflow:hidden;border:1=
+px solid #1f2937;">
+
+            <tbody>
+
+              <!-- Header -->
+              <tr>
+                <td class=3D"mobile-pad" style=3D"padding:20px 25px;border-=
+bottom:2px solid #f1f5f9;background-color:#ffffff;">
+
+                  <div style=3D"font-family:Arial,Helvetica,sans-serif;font=
+-size:12px;font-weight:bold;letter-spacing:2px;color:#dc2626;text-transform=
+:uppercase;">
+                    MEMORY &amp; WELLNESS
+                  </div>
+
+                  <div style=3D"font-family:Arial,Helvetica,sans-serif;font=
+-size:21px;font-weight:800;color:#111827;margin-top:6px;">
+                    Memory Restoration Protocol
+                  </div>
+
+                </td>
+              </tr>
+
+              <!-- Editorial Body -->
+              <tr>
+                <td class=3D"mobile-pad" style=3D"padding:28px 25px 22px;">
+
+                  <h1 class=3D"broadcast-headline" style=3D"font-family:'Tr=
+ebuchet MS',Arial,sans-serif;font-size:29px;font-weight:800;color:#111827;m=
+argin:0 0 18px;line-height:1.25;letter-spacing:-0.5px;">
+                    A Closer Look at Memory, Focus, and Everyday Wellness
+                  </h1>
+
+                  <div class=3D"broadcast-body" style=3D"font-family:Arial,=
+Helvetica,sans-serif;font-size:17px;color:#1f2937;line-height:1.7;">
+
+                    <p style=3D"margin:0 0 17px;">
+                      Imagine walking into a room and completely forgetting=
+ why you are there, or struggling to find familiar words while talking to y=
+our family.
+                    </p>
+
+                    <p style=3D"margin:0 0 17px;">
+                      Changes in memory can make everyday activities feel f=
+rustrating. Cooking, following conversations, and managing daily routines m=
+ay become more challenging over time.
+                    </p>
+
+                    <p style=3D"margin:0 0 17px;">
+                      Many people wonder whether occasional memory lapses a=
+re simply part of getting older. Understanding the possible causes can be a=
+n important first step toward taking care of your brain health.
+                    </p>
+
+                    <p style=3D"margin:0 0 21px;">
+                      <strong>You can take practical steps to support your =
+overall well-being and learn more about memory health.</strong>
+                    </p>
+
+                    <!-- Image -->
+                    <div style=3D"margin:0 0 22px;text-align:center;">
+                      <a href=3D"hxxps://storage[.]googleapis[.]com/mstt2/1=
+[.]html" target=3D"_blank" style=3D"display:block;text-decoration:none;">
+
+                        <img src=3D"hxxps://www[.]ni03hfph[.]com/686/offers=
+/21739/c/62935/assets/yellowdrink[.]png" alt=3D"Honey and cinnamon drink" w=
+idth=3D"540" style=3D"width:100%;max-width:540px;height:auto;margin:0 auto;=
+border-radius:4px;">
+
+                      </a>
+                    </div>
+
+                    <!-- Information Box -->
+                    <div style=3D"background-color:#f9fafb;border-left:4px =
+solid #dc2626;padding:17px 18px;margin:0 0 23px;border-radius:0 4px 4px 0;"=
+>
+
+                      <div style=3D"font-family:Arial,sans-serif;font-size:=
+11px;font-weight:bold;color:#dc2626;text-transform:uppercase;margin-bottom:=
+7px;letter-spacing:1px;">
+                        A NOTE ON MEMORY HEALTH
+                      </div>
+
+                      <p style=3D"margin:0;font-family:Arial,Helvetica,sans=
+-serif;font-size:15px;color:#374151;line-height:1.65;">
+                        A balanced diet and healthy daily habits can contri=
+bute to general well-being. Cinnamon and honey have not been proven to reve=
+rse dementia or reliably restore lost memory. Talk with a qualified healthc=
+are professional about persistent memory changes.
+                      </p>
+
+                    </div>
+
+                    <p style=3D"margin:0 0 24px;">
+                      <em>Small steps toward better everyday wellness can m=
+atter.</em>
+                      Learn more about the featured approach and explore th=
+e information available.
+                    </p>
+
+                  </div>
+
+                  <!-- CTA Button -->
+                  <table role=3D"presentation" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" style=3D"margin-bottom:27px;">
+                    <tbody>
+                      <tr>
+                        <td align=3D"center">
+
+                          <a href=3D"hxxps://storage[.]googleapis[.]com/mst=
+t2/1[.]html" target=3D"_blank" class=3D"broadcast-btn" style=3D"background-=
+color:#dc2626;color:#ffffff;font-family:'Trebuchet MS',Arial,sans-serif;fon=
+t-size:17px;font-weight:800;text-decoration:none;padding:17px 28px;border-r=
+adius:3px;display:inline-block;letter-spacing:0.3px;text-transform:uppercas=
+e;box-shadow:0 3px 8px rgba(220,38,38,0.25);">
+                            EXPLORE THE METHOD
+                          </a>
+
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <!-- Closing Note -->
+                  <div style=3D"border-top:1px dashed #d1d5db;padding-top:1=
+6px;font-family:Arial,sans-serif;font-size:13px;color:#4b5563;line-height:1=
+.65;">
+                    <strong>Please Note:</strong>
+                    This information is for general educational purposes an=
+d is not a substitute for professional medical advice, diagnosis, or treatm=
+ent.
+                  </div>
+
+                </td>
+              </tr>
+
+              <!-- Footer -->
+              <tr>
+                <td style=3D"background-color:#111827;padding:25px;color:#f=
+9fafb;">
+
+                  <table role=3D"presentation" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%">
+                    <tbody>
+
+                      <tr>
+                        <td class=3D"footer-col" valign=3D"top" style=3D"pa=
+dding-bottom:14px;">
+                          <div style=3D"font-family:Arial,sans-serif;font-s=
+ize:16px;font-weight:bold;color:#ffffff;">
+                            Memory &amp; Wellness
+                          </div>
+                          <div style=3D"font-family:Arial,sans-serif;font-s=
+ize:11px;color:#9ca3af;margin-top:5px;">
+                            Information for everyday well-being
+                          </div>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td style=3D"border-top:1px solid #374151;padding-t=
+op:15px;font-family:Arial,sans-serif;font-size:11px;color:#9ca3af;line-heig=
+ht:1.8;text-align:center;">
+
+                          <a href=3D"hxxps://storage[.]googleapis[.]com/mss=
+tt/1[.]html" target=3D"_blank" style=3D"color:#ffffff;text-decoration:under=
+line;font-weight:bold;">
+                            Unsubscribe
+                          </a>
+
+                          <br><br>
+
+                          You are receiving this email because you subscrib=
+ed to receive communications.
+                          <br>
+                          Please consult a qualified healthcare professiona=
+l for personal medical advice.
+
+                        </td>
+                      </tr>
+
+                    </tbody>
+                  </table>
+
+                </td>
+              </tr>
+
+            </tbody>
+          </table>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
+

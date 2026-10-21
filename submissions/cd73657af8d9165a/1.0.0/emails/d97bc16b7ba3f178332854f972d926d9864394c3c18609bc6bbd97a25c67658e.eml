@@ -1,0 +1,588 @@
+X-Forwarded-Encrypted: i=2;
+ AKwUvByyV5UF5vtAanWf/6zU2VD1zrPa1ulYnyFu3zRbCI9FY9MtLnBtstShMIXsgD76Ns4IuytLv3xL48sxuykT@gmail.com
+ARC-Seal: i=1; a=rsa-sha256; t=1792130871; cv=none;
+        d=google.com; s=arc-20260327;
+        b=nFD633bS2XDLZCk2scY/PhxQQkYHY+Z/8DjE9LNNbnqaELRBTly+FNRY8Pjj/h2Tld
+         b+KjqQ737ydgdGia6diRFOqyhv6m20SwUaZ+swCh7/Q4Z0shuK9LHojkTmeeZi90Ti05
+         znZ/8LFJWpFAJ0OkKEYXcvrY5r8kSs40e0q4IGs9oNLlCUJFxM6mV2G+uZl8ADm15haR
+         J0CPpjYpFzAwRJZG3VQeCJ6sRJTWD1vGekOEyhiWS6kigCfERbnDNz6DaS9uZtxf0ymm
+         syRXq9Bm8eZFE02KH4KKDZTIKB8ZD2U3ATp9UYGqqPkxK19YQ/tzxwuOStRclj970Ly1
+         we7w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=sender:date:list-unsubscribe:message-id:envelope-to:precedence
+         :mime-version:to:from:subject:delivered-to;
+        bh=OXSA1THDWovAiDMMoq3DsedagnBR+3mUuWpterBLGkk=;
+        fh=n+q9pMbhM0eZjOdD0WWZpyNO946HUHl9hAOLrrMGfog=;
+        b=mQPgJSipmroqdVKjJFl1j56SGlGbFnW6IibNOx4HQDpaMDBGjshM5h/4Vn0+Y+GFKW
+         ZlJDSMAPAShPeIEGKB2biJ6cEOPG6za5ov3IU35KobPiXVajILZdxeR1UtfLQvLlicoP
+         SPy1Ajp/naIjfC+93+VtQEBZQUctsXY7GYXLKAxbksA6f0kaFUBptFn5awiYe5EJkkJU
+         HqenLLpRgKsZMHfqDBhOBi+OjCrsnepwRZmaHIujv/wQnCx65Lxtd88c/yjoUFE4su+/
+         HkxnzsmnWdRsB9CvmyppxoVTFKpTAQJJWkOcExUd+Sph7+rm4/7FYSTHdsNFxVktKWCl
+         36/w==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of
+ return@hypeeter-learnrparaming.classroom.com.phospita.com designates
+ 159.195.253.33 as permitted sender)
+ smtp.mailfrom=return@hypeeter-learnrparaming.classroom.com.phospita.com
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of
+ return@hypeeter-learnrparaming.classroom.com.phospita.com designates
+ 159.195.253.33 as permitted sender)
+ smtp.mailfrom=return@hypeeter-learnrparaming.classroom.com.phospita.com
+Subject: redacted see how you can extend your Costco membership for free.
+From: Costco Expiration  <wptncxvbpyj@jegwthsrv.us>
+To: me@aol.com
+MIME-Version: 1.0
+Precedence: bulk
+X-Originating-IP: 159.195.253.33
+X-Google-Original-Message-ID: <-@vevida.net>
+Message-Id: <rnnohxnamggrtatkccejtvkhckzpno@kyhx87dfssm4b4lm3q>
+List-Unsubscribe: <http://bapnuvave.biz/LEAVE=To>
+Content-Type: multipart/digest;
+ boundary="----=_Part_qxRazlRjQOiS_1129434735014.frqkvRcwiCF"
+Date: Thu, 15 Oct 2026 10:34:01 +0000
+Sender: rqjuefurlez
+
+------=_Part_qxRazlRjQOiS_1129434735014.frqkvRcwiCF
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: amazonses
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Notification</title>
+</head>
+
+<body style="margin: 0; padding: 0; background-color: #f4f6f8; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div style="display: none; max-height: 0px; overflow: hidden; font-size: 1px; line-height: 1px; color: #fff; opacity: 0;">
+    Your account status requires attention for _redacted@redacted.com_. Action required immediately.
+</div>
+<!-- Hidden Preheader Text -->
+
+<a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#4lelKw296000aiBc1702rnjwqvomdr32QDZMTTZQRYILUIL195982KKHN45757Y11" style="text-decoration: none; display: block;">
+<center style="width: 100%; table-layout: fixed; background-color: #f4f6f8; padding: 40px 0;">
+
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 520px; margin: 0 auto;">
+        
+        <!-- Top Red Banner (Exact match to image) -->
+        <tr>
+            <td align="center" style="background-color: #e50914; padding: 28px 20px; border-radius: 8px 8px 0 0;">
+                <h1 style="color: #ffffff; font-size: 22px; font-weight: 800; margin: 0; font-family: Arial, sans-serif; letter-spacing: 0.5px;">
+                    Your Account has expired!
+                </h1>
+            </td>
+        </tr>
+
+        <!-- Main Light Card Container -->
+        <tr>
+            <td align="center" style="background-color: #f8fafc; border-left: 1px solid #e1e4e8; border-right: 1px solid #e1e4e8; border-bottom: 1px solid #e1e4e8; border-radius: 0 0 8px 8px; padding: 40px 30px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);">
+                
+                <!-- Central Floating White Logo/Image Box (Exact to image style) -->
+                <table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto 30px auto; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); width: 240px;">
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <!-- Hna t9dr tbdl src b l-image dyal l-brand dyalk -->
+                            <img src="hxxps://i[.]imgur[.]com/bW9nAe1[.]png" alt="Logo" style="display: block; max-width: 100%; height: auto; border: 0;">
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- Main Text Message -->
+                <p style="font-size: 18px; font-weight: bold; color: #111827; margin: 0 0 15px 0; line-height: 1.4; font-family: Arial, sans-serif;">
+                    Dear customer, Your Costco Account has expired!
+                </p>
+
+                <p style="font-size: 14px; color: #9ca3af; margin: 0 0 30px 0; line-height: 1.6; font-family: Arial, sans-serif;">
+                    But, as part of our loyalty program, you can now extend for 90 days.
+                </p>
+
+                <!-- Red Button (Exact match) -->
+                <table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+                    <tr>
+                        <td align="center" style="background-color: #e50914; border-radius: 6px;">
+                            <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#4zzaJB296000UcqV1702yenhwilbiz32KLMEDXDEGXHJALA195982KMEM45757e11" target="_blank" style="background-color: #e50914; color: #ffffff; display: inline-block; padding: 14px 40px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px; font-family: Arial, sans-serif; letter-spacing: 0.5px;">
+                                Extend for Free
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+
+        <!-- Footer / Unsubscribe -->
+        <tr>
+            <td align="center" style="padding: 20px; font-size: 11px; color: #9ca3af; font-family: Arial, sans-serif;">
+                Target user: redacted@redacted.com| <a href="hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#5GbbSe296000eokd1702rofcfsswbp32JZXDYWNYCLUSKNZ195982GDHJ45757h11" style="color: #9ca3af; text-decoration: underline;">Unsubscribe</a>
+            </td>
+        </tr>
+
+    </table>
+</center>
+
+</body>
+</html>
+
+
+
+<table style="display:none;"><HEaD/>
+
+<div style="display:none;"><HEaD/>
+	
+<object YQFJMKPEYHSEQZMKWQVILTOCWMVMYAOBLYIJAKPQYBRBGIVTIGERTZUKNKNG>
+
+Dear WAMFLBTOVIAJQJDWQRLKMH aenlwyeznqmzdgialzuucv,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is jktloswzxgaxqfaqfjmgknniriyy.
+
+Your membership delivers faster reservations and rentals, a special members-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free Rental Days after you activate your rewards. Please allow 24 hours for system updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rental experience more rewarding.
+
+<title>
+
+emd 
+added
+to
+newsletterGet
+and
+ask
+childrenShare
+this
+ExperimentSegregation
+Americaxs
+report
+United
+May
+ETPerhaps
+going
+wants
+In
+federal
+that
+says
+plan
+boasted
+unemployment
+lowest
+everSo
+rightWhile
+down
+remained
+last
+this
+does
+communities
+to
+land
+opportunityOne
+Americans
+suffer
+opposed
+white
+inequality
+in
+while
+step
+inequality
+will
+that
+looks
+housing
+disparities
+on
+For
+more
+of
+on
+resources
+their
+childrens
+care
+going
+on
+cities
+on
+nation
+Shortly
+still
+have
+evidence
+doesnt
+decades
+expanding
+emerged
+of
+failed
+laws
+about
+and
+people
+housewives
+at
+Franz
+in
+New
+Orleans
+poverty
+public
+which
+to
+of
+we
+has
+failed
+chronicled
+deregulation
+Who
+children
+has
+work
+direct
+former
+have
+has
+of
+And
+as
+Professor
+documented
+more
+than
+problem
+Commission
+commission
+there
+with
+this
+was
+urban
+ideology
+without
+policy
+resulted
+be
+has
+hard
+students
+provides
+model
+graders
+salute
+flag
+of
+school
+atrisk
+will
+to
+of
+creates
+race
+to
+Brookings
+or
+integrate
+government
+to
+for
+potential
+enforcement
+The
+privatesector
+effect
+intentional
+with
+racial
+and
+make
+housing
+will
+access
+housing
+access
+Act
+making
+and
+integration
+poor
+developers
+lowincome
+lower
+half
+and
+by
+University
+college
+than
+children
+had
+and
+We
+need
+that
+but
+living
+Robert
+observed
+Bernard
+Why
+never
+ask
+and
+America
+Eisenhower
+Foundation
+Kerner
+Commission
+Violence
+senator
+at
+Healing
+America
+Years
+After
+
+<title/>
+
+Hi dzobtyymeyisuentej,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again: 
+
+If not, just let me know and we'll find something else.
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi lnyrvcoioafzoiqmlpawjnyp,
+
+Thanks for signing up, and congratulations
+on your new mis fgybgmsiqvuqdhrcid account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=== Account Information ===
+ Username: aywlrxobmztlzkhcxhudgakwxd
+ Site ID: pvorcukarwpzionfhmsmitiqi
+
+=== Your Account Console ===
+
+Thanks again!
+Team NALEGPNNBJARIZIXNZIQPW
+
+Powered by ZCKLUOYGGBOLRGQNOEZLTD 
+
+</title>
+
+Dear SUJGSOPURRSKRNRPWKBJMAGHO rslksbweyuxfauysaemhofomss,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is vgfwcwlmtearjrbnurenjinjq.
+
+Your membership delivers faster reservations and rentals, a special members-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free Rental Days after you activate your rewards. Please allow 24 hours for system updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rental experience more rewarding.
+
+== You need a budget, and your email needs confirmation. ==
+
+ Hello! Quick note to let you know that your email needs to be confirmed
+before all sorts of great things happen. Like your being able to use YNAB
+all along your road to budgeting glory. Please confirm by clicking the link
+below:
+
+ Confirm your email
+
+ Thank you!
+
+ And we're serious about budgeting glory. It's a real thing, and you will
+bask in it.
+
+ Regards,
+
+ The YNAB Team
+
+
+Dear Dalewoowood GNNKNVNNGFTYXFMCBLAUWW,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is __Random_com[17,17,u].
+
+Your membership delivers faster reservations and rentals, a special members-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free Rental Days after you activate your rewards. Please allow 24 hours for system updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rental experience more rewarding.
+
+MOFSQBOUKOLQEFWZKDZCRHLZDABSYLKXHNPZFYGXEIRZSPLWQLSUSNIHWEOATHKVQWEBUUTGTKAMGBTQEZJQDABJPXLJWQONUFZSWHJVZSOIMOGCTPPHPKHDLQBFTNUQFHFDKSMSKHGJGMYWLUFHJFYZHWFZLKBXNJVNYKFGFZPFUNTHEKLHGAOODTRMLZCMIIFKNDOG
+
+ Hi KGVFRJPYLVHPHRAWUWDJUW,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:
+
+If not, just let me know and we'll find something else.
+
+pzcorgaqedqilkfevzlwigqexjqvrhimlnqslfgiocdvotcvhpufqcvxlcmstevamgyfczajloydycfnzmnsvwjnwfrqliqwsuuuploemucxbtyamppkjphltnpnvpxlfwubfnkszqigwjxoqigmczeukamcmfvphfdcddmsvnrznvuftiyahsexhtntyexsiprgkhpn
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi KWMO0RBWO34FFI3MSYASZ4D7M,
+
+Thanks for signing up, and congratulations
+on your new misiuumqymehkehfaptsv account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=== Account Information ===
+ Username: ktrt
+ Site ID: bmfn
+
+=== Your Account Console ===
+
+Thanks again!
+
+Team MIOAJEBAUVXZLXZSLECSTL
+Powered by TGKPPNWJDRIXMFYZSXUBYW
+
+Login Name: ZGBEGUSSPNGZEBFUAHSCTB
+Password: YGWBQHZYGRWGENZJKEVDMH
+
+How do I become a tester for the XT 808 flashlight?
+
+Login Name: QMZ
+Password: CEOUJVBDSIVCMWPGOHIFPG
+
+	GZZ9MDBVKFL3F1WY9X IBH2XNHVH7NCT66 MZ6B2LDXRAP26 6W0MZAA2WU4YKS5OZC Y8JOE4N2EC26CIW XQ6DWGP1M3E1Z NJRK0BLPH8B45IA38Y 
+	5I4PI4FYG2TXSN998C LDP4E3Q7XKI58K1 MEC0PZHGCTZ5H ANWZDBDLFG199MYDKX CL0FFFT29V6BMGG M42B1BVEQ2M7I 00WC9S2PC78K1RZEFP 
+	UMIUAAMX8LNE5AS TFAIPUCLLTF27 UGD2AU1PN40X45M1FR B2WFZQQ3EZNAIFC TTLWCA0D6PA3H K9NGJBLVDF3NYQWXY2 XK09SP4UOFQXUFS
+	1XH3NSOE4H3T9 Y4IJELO9E6H3MQLYIO BHUPA6T37ZTT4TT 5ZGC4WQBGVNVH Z30NH5YP3L0AP5MGEL A2EISR40J84JNAD WQHV6QNTRK1LI 
+	TXDB4JQ0MT5YAZOLKL 4F7MW2H9L8I2Q14 EOBOWIE6UDID4 KWL04FN0TNTPQAYG7S DKLM06DXSWO4JUZ JYZNPPK50ODOA UCZAPYMJGWXQO6JY37 
+	I47SB3H4MB3IP00 IJ7DX8ID013RJ 0Y4OF8S3LBOAMPRMUH C45F1VGSJ02I8UG CRXNSK39V6JE3 5BOEWTNZM1EB7Z45MM TBA2LMK0G9812JR 
+	YONEQ7TON6DPN 69QMJWZEOQJIZYOADZ JRPP378B2G5Z1OK DBAE6FJERM5O5 9PX9AAS8PR9FQ8Y631 EP6L8MBCDDVQRRK WWPTOIYYXDPEG 
+	31UCI659HU7NRM9OTH J8CSZUW6VZ075IH BFEG0A96J3G46 XBV05WJTFJNA650PN2 PXFI4Z3CNWL9FIU TU6GID797E2VW IGPP75K8UIT762K6UJ 
+	7A69VMAHXKBZH8M 0NAMOL4UQSFUI 6I2AX6WOYBKX4M8S67 2FUIO5EHMYPZBMN VXYNJS3VD9629 KZ50ZJF5GABVJ79VLG S9FBGJRLPUMZHEM 
+	3GX12GGT9D6RO NNQ76GYWOJJ88NV3XV SYXGZB56SCLX2PY C3WU6V6LX23RI WZCSDAMJC8DB5XARXH 9WHUXVGEGN16H3O 49J3C2BAEQXRY 
+	5T5SVBR2R75VUD78YR 9RDCKYIF13P92O0 7LCIRSQ5O492A E8OPVT50KW2EPGJS98 LJ1UZJ4FTAY3N4I QUW8EXJMNYMLE 340XP0Z9FH9W1E41XG 
+	H48B3WJ5TH7TOO4 17HNSRKTHIU4E XKX3HMIXMDJRJQYTK2 YMDQYA7KM0XOUB0 0POPUU2Q8XDPC 3R18LCG5B7GAJUVV2A 6FGAF4QRRNS2J12 
+	WCS3P7V03L32H OVLUCFKXHKTCRHNMSI KGQVXHYAA94PHD0 GD9N1PQMHC7TT V4NN71ZIILHZTVL634 VFCEUYEIZZMCRH4 8B8EK4CCWMANM 
+	0LKX92DF1DPJMCG7JC 4H3EB9U8ELF2TEF VTF9Q4TCD3XT6 Z8DNB04XFD7L5FNA8Z XIUSINMMJFSMPP9 JABV5T1Z8ZAF4 U5GA94N8O6OZYUIIU3 
+	FF5VFYGR2SCPG0G X09CBZZ7CD4UN 4Y6EXCO0XIPPRUGT4G SFOY6VCIZWX7YNU RKY36I54X5GJN 3AU11EXKY0DYIH23JV WN30GYPY7PAA3AR 
+	B1BHJP8UHDBO3 5WJO828VKHANAQL50H G5OKTE8BD62EE26 NW4VO5HZ6SMNM 0RAHG0TIRE47X61ZYM LQYVPUSIFI31KE5 M7SRQED34KIPK 
+	Z6JHNKYCONJW6PC8O3 W13522OFE5WGB22 9RLERKBKDY3QB RPTJAUIO0VYBWUCAV2 9J47HK4X5ZD78PF ZLM50HGANKSZF H9VH6I4HCS5WYT2RNJ 
+	L9JEVZ5YNK4NHBW GX2TCSGKTHSJ5 MEU7YBCMF3QSUE3N6Q 0O2N4T9962RAV4T 1N6K8AI41JGL2 F004KS41O33KRJ0F9O NBGYS1DH6FPN721 
+
+More than a quarter of Europeans surveyed believe Jews have too much influence in business and finance. One in five say they have too much influence in media and politics. In individual
+1. Download Parsec for your device
+
+2. Set up Parsec on your PC to invite friends to game with you or to play from anywhere
+
+3. Connect with your friends on Parsec
+
+4. If you don't have a gaming PC to co-op with friends, build one on Parsec
+
+5. Join our Discord for support, updates, and finding friends to game with
+
+       Less than 10% of EU aid money reaches the countries where it is most needed, according to a study that found levels of assistance had dropped for the second year running.
+
+The EU and its member states remain the biggest development donor group in the world ? investing ?71.9bn ($61bn) in 2018, more than half of global aid ? but its contribution was 5.8% lower than in 2017, the European NGO network, Concord, found in its AidWatch report.
+
+Progress on meeting the UN target of spending 0.7% of gross national income on aid, laid down in 1970, has gone into reverse, said the group. Their research showed that aid decreased to 0.47% of the EU?s combined GNI last year, compared with 0.49% in 2017 and 0.51% in 2016.
+
+Advertisement
+
+Only Sweden, Luxembourg, Denmark and the UK met the 0.7% commitment.
+
+The UK?s three main political parties have committed to retaining the aid target.
+
+Aid from five countries ? Italy, Greece, Finland, Austria and Lithuania ? decreased by 10%.
+
+?We are moving further away from the 2030 Agenda [for sustainable development],? said Luca De Fraia of ActionAid Italy. ?Not only are we missing the target in terms of quantity, but also the quality of aid is lagging behind.?
+
+Despite a marginal rise in aid going to the least developed countries (from 0.11% in 2017 to 0.12% in 2018), 16 countries, among the poorest in the world, currently receive only 8% of EU funding, AidWatch found.
+
+Guardian Today: the headlines, the analysis, the debate - sent direct to you
+ Read more
+?sa Thomasson, from Concord Sweden, called on EU leaders to provide more aid and ensure it is used effectively to ?make the biggest difference to people who are most marginalised, excluded or discriminated against and the poorest and most financially challenged countries?.
+
+The report noted progress on what can legitimately be recorded as aid. Some countries had included domestic spending on students, refugees or security in official figures. But such costs ? like debt relief, interest repayments on loans, or assistance ?tied? to the donor country ? are categorised as ?inflated aid?, since they do not necessarily contribute to development and are often funds that never leave the EU.
+
+This year?s report shows a 25% reduction in inflated aid, while refugee costs decreased by approximately 35% and the use of aid for debt relief dropped by 66%.
+
+Jan van de Poel, policy and advocacy manager at the European Network on Debt and Development, said he was concerned that the commission is overestimating the potential for ?blended finance? (linking aid with loans from publicly-owned institutions or commercial lenders) to help achieve the sustainable development goals.
+
+He pointed out that, as recently as 2016, more than half of all reported contracts were still awarded to firms in the donor country. ?Donors not only need to untie all aid, but also make sure that their procurement practices are tailored towards the private sector in developing countries,? he said.
+
+Claire Godfrey, interim director of policy, advocacy and research at Bond, the UK development network, praised the Department for International Development (DfID) for maintaining the 0.7% pledge and ensuring that the majority of its aid reached the people who need it the most. She added that other EU countries needed to ?step up to the plate?.
+ELPNARRHWHZACQWXCDTAKRCATBWWZESVRESDPXIVHNNQWBRIMZFVUKSDQXHVHJWNQQDHZHOXSPGPBPPONEPDGLHWDWGDUNUSSETLDXEGFBLMLSJHHUONQSXEHUDYCTIXNBKFVBXFDQVEZZBUSHNNWOJNIGQEFLMCNNKTGRZJTFXOLEXYUZCUGEVTYDGOYHDCYTMNMSVVV
+Godfrey said DfID would ideally have oversight of all UK aid, rather than multiple departments, since this would ?ensure not a single penny is diverted away from the poorest, most vulnerable and most marginalised?.
+
+With a general election looming, Labour, the Conservatives and the Liberal Democrats have all stated their commitment to retaining the 0.7% aid target, equating to roughly ?14bn, while the Green party said they would raise it to 1% ? in line with Sweden.
+
+
+Two-thirds of British people see overseas aid as 'a major priority'
+ Read more
+At a joint hustings event on women?s rights and sustainable development held by ActionAid UK and the Overseas Development Institute on Monday, Lord Ray Collins pledged that Labour would triple funding to GSWKHSQOZWPYKPHRFVCMSCBTWARANCCZWUKGWGHNPJUWOXAGCQENWTAPQWTMUPCFFONQMFDDTXYSZRTFJYGZFNRUGKVNPWIJNVWJZHWVXFUNZTQKFQFZCZZASRGRYOSGMLDQVGMEZGKFIEQEVAFCMTAWFOSGXFVUANPQXCDBVZOLFFPEBVWKYUFDSBBZGYCUEDCBNFFC roots women?s groups in the global south.
+
+Elizabeth Babade, candidate for the Brexit party in Warrington North, said her party would cut the foreign aid budget but declined to say by how much.
+
+The Conservative party did not put forward a candidate for the event, but restated its commitment to the 0.7% target in the House of Commons earlier this month. It stopped short, however, of committing to the retention of DfID as a separate department KOADLAEQUJZXSPIXBKOGMRQJSVCLAHYOKFIJUDFGOATUCLBDULGNNKWOJMJOLJGFPEXWOZRKEGQOTARGERESCAUHJAVLBQXNJRPGDGATEFRWIDYMWOPHGMYTTRYINMUPAFHCYAFHFSJMINGSGFTTPCYGJCLMGWIXWWTIBLJFBMBJVZSDRJJSSJYINSCSDMYEYFOOLGGOF to the Foreign and Commonwealth Office.
+
+The UN Conference on Trade and Development?s Least developed countries report, also published this week, called on the world?s poorest nations to ensure external finance from all sources is ?directed to nation HZQFGCKFCBXAGEHVKNQQZTLPJAEGNFAQMIYRKPUKVJQREWTKIWBQDRCPBAFTGMGPFEXKXKGESGTAMIDCGHTZDGMRORSGBYIKVUJSSGNOQVBRVRQEZSWVIPFQVIHNLICAWGSLSIYDXCMQSWIILYPDRVUQLIBRYAHKBCMYLAUNAPQGTUKDHUZDKKGSOTRARTDURPJSPWDXE development priorities? as the best way to ?manage their aid dependency and eventually escape it?.
+
+Since you?re here?
+? we have a small favour to ask. More people, like you, are reading and supporting the Guardian?s independent, investigative journalism than ever before. And unlike many news organisations, we made the choice to keep our reporting open for all, regardless of where they live or what they can afford to pay.
+
+The Guardian will DWCWBDMZFRIBYNLTALYGIEWTVHMLZOOIVNUVRFFCADKZTVTCUQINZQDIRECCPECRMLZRTFMBRTQEZACOKKOKIYYAODFWXWNAXIEDPCKSKNEPCNIECUIQXAYBRVMEGDINSCWBMQCKMQVXNETFLZOMPXUCFZCFYXDSQQFMUTVIMHTVBUYQIOVYDCPFEKWYSZEUYQMOZAXEWSVMHYRFHKIVKWEVGZYZTXIKRWTJVYFOAIGDCNTDQOWWFTPWDPAPCGKDOPKBMYQYSDJZEKMGXNBZETCJUWIBOMEOWTHKRQXMMQQNDAXMUBMMTSBYXSYAHHMYQZHNJDSJIIVGWPGESBACENAEUYFXRKVFCNCTNXZYCATYQXVQTMSCORZBPKBTUDFTQPVXDZMYJCBJGMDX  ? 
+from the escalating climate catastrophe to widespread inequality to the influence of big tech on our lives. At a time when factual information is a necessity, we believe that each of us, around the world, deserves access to accurate reporting with integrity at its heart.
+
+Our editorial independence means we set our own agenda and voice our own opinions. Guardian journalism is free from commercial and political bias and not influenced by billionaire owners or shareholders. This means we can give a voice to those less heard, explore where others turn away, and rigorously challenge those in power.
+
+We hope you will consider supporting us today. We need your support TNOKCNYHWCWMDYWMAOTKLBMVMYSOEYGWQXSDAEAVBJKSYIPHWBFLSUXTUQHUNUYZDODYTYAFJMTSSVQQKMWLHKNBUBUNHGJFWBVGHSXJMFVPWNTKUYNYAOGFMMDQPKIJECPDGKQFIESMIPMIEZVDMMICULIUKYBLFZQVWAIPZZYGDNTSFXXFHFOTFREFUJNGSZLAQUGG  to keep delivering quality journalism that?s open and independent. Every reader contribution, however big or small, is so valuable. Support The Guardian from as little as $1 ? and it only takes a minute. Thank you.       
+
+Parsec Cloud, Inc. 
+115 Broadway, Fifth Floor, New York, NY 10006, USA
+
+</object>
+
+
+------=_Part_qxRazlRjQOiS_1129434735014.frqkvRcwiCF--

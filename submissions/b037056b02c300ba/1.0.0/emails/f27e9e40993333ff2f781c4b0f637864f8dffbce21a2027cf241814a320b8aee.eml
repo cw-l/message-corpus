@@ -1,0 +1,259 @@
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 54.240.9.67) smtp.mailfrom=rsend.l3alaoui.com; dkim=pass (signature was
+ verified) header.d=l3alaoui.com;dkim=pass (signature was verified)
+ header.d=amazonses.com;dmarc=pass action=none
+ header.from=l3alaoui.com;compauth=pass reason=100
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:C1560DF8ABC3DA822C85603DA47F879C9DD0F15566330FAC0F786E55F493A4E3;UpperCasedChecksum:69D0383871F3F7547FBBC3556A1A3DFD0E7D3DAC7EC611CB1DD33131A0F3264E;SizeAsReceived:1520;Count:10
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=resend;
+	d=l3alaoui.com; t=1792070129;
+	h=From:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	bh=vCMPCeyF4sE+T2FjHfbWK5RiUo91OfOO4zJXHAX/Gc0=;
+	b=fpEjEPHZm1SHGjc3GFnHsRADypwVBJdlRhUWgh8upfsL8zK0FZQBkr7cG8YnfMAe
+	AxUwX+sN+WFb7viqrFiiGVG8XVw5CKwfw9d+igT0x9ZhwmnMbTF+KPoXfe2BhwnKV27
+	uiMgu6t39BkoKW2YkCf+l7uyUD9805AmuipBj0i4=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1792070129;
+	h=From:Subject:Message-ID:Date:MIME-Version:Content-Type:Feedback-ID;
+	bh=vCMPCeyF4sE+T2FjHfbWK5RiUo91OfOO4zJXHAX/Gc0=;
+	b=h8Si06l/eiuynMG1x1sV1Nd+6ZWXX14V3hg1528yftIiOm/whWx/Vq07uo1bzqSP
+	qz6SfIfw2nLnJ6d4NtqWT/MZJbt3h9E8uzUrvZwzE30kNi9BwpG3Xb3qv/a6RjbhD7j
+	mFr9ZjrH89pxISGZLkcHxEtAJbAr/8VqHvtwBXYY=
+From: SwissPass <info@l3alaoui.com>
+Subject: 
+ =?utf-8?q?Action_requise_=3A_Votre_SwissPass_a_=C3=A9t=C3=A9_suspendu?=
+Message-ID: 
+ <010001a13fb416aa-ec8fb62f-011b-4b0a-aa77-cd45e206cff8-000000@email.amazonses.com>
+Date: Thu, 15 Oct 2026 13:15:29 +0000
+Content-Type: multipart/alternative;
+ boundary="--_NmP-c65e279bf2551a65-Part_1"
+Feedback-ID: 
+ :1.us-east-1.4I3kPVivseSUMnCmQy9XXcOwm3vOm8aVXr10HNToewlGujJLzvK7HGj/1yooTAOoybpcR4+S6tw4TulXHf52syztS6PFx1e0NS+8ka46sAL1wiroZ85iLASoyfWewq0kri67OjYyH8w0aklL92cdE2ajAqRmwbVlHgANWIyDZZU=:1.us-east-1.QSNtDRXSTq9sAuvRl56h5mypgasnQ5yDLNpVzTnziu0=:AmazonSES
+X-SES-Outgoing: 2026.10.15-54.240.9.67
+X-IncomingHeaderCount: 10
+X-MS-Exchange-Organization-ExpirationStartTime: 15 Oct 2026 13:15:31.2315
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ c850a6b4-b183-494f-2f7b-08df2abe638e
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ DB3PEPF0000885D:EE_|LV8P220MB1544:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ DB3PEPF0000885D.eurprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/15/2026 8:43:33 AM
+X-MS-Office365-Filtering-Correlation-Id: c850a6b4-b183-494f-2f7b-08df2abe638e
+X-Sender-IP: 54.240.9.67
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|34130799006|9400799043|32020799003|970799063|9800799015|260826003000599003|42300799018|58200799025|69000799021|13020799009|51300799024|87000799021|46080799009|2700799033|1290799033|70000799018|260928210016899003|16002599021|45200799018|2607281247196008|30041999003|1122599022|4601999015|1380799030|1360799030|1370799030|440099028|3412199025|26104999009;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 15 Oct 2026 13:15:31.0434
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ c850a6b4-b183-494f-2f7b-08df2abe638e
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ DB3PEPF0000885D.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: LV8P220MB1544
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.9144084
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;auth:1;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 8ashDMQIKJAIiAfLWlEgJQEwEhKLu4HA3fvUomMj+zocmOLWz1ekcehEgJLOXqUhFghTcjpTE1dgbPfInJKEVUs/fnOD+LA8wexktRmHZ6IyuyfH8mFJXi+ccat6RNsQDPU4hEsmHOwFjpmyPYlKE8tILVj6kt9tCJFxWLJAkO0kzY9vYXaN3f893oeUADLAQvv+3U00R33BmTLsFPouZPI8YTVe9qZBTyDzCbif72S9WtAOHLVb5/MLNiEwrSDoe7GHUt2CydmWMQzwunFXTyAG4F6587a/chd9KsS+Gr4Io4+zmE9t81ayssa3EsqXOrE24e4lOQymwCoYNCSXnlvNmcFD2PZrUOiow6K1+aYuXIYu754CC0qoT/Z7hCq6V4CChLVf8MHEwvfASvv3yFIaWoxF1QJ7gGxIY9DdjQO64Usa2PglDThf06SAmrowkMiXeIW4HsD7Rh0JOr2LOnA+wqVHNJgmW4Op7ijc22q+QpM/BgSB99ugO1xuDqKoemSG9AGWg7AfXKKtmNVUkJo5PYx99OmVUCbwXPLEBc4U6CR/c6AdRpcpEq2HZhUXqdN4JZ4bqcUaNWP3wccK733rexyKhfucFr3Pc1BWh29HB+okKxZ4FkC8pXzIZS2dD/B7tu+n7xLhZSMwM7VsR1lXfRLr6cLXDhrM9LEyOFUC5nSAP2FVjxWBECPsLrZ18y3sSxtnZYRzxlPHGU9zyezK6Fp4HezqiI6tq6WTEc81idyBB5nKirfmHvNpPkeG/fYG3e2lANAOSNKU9cRizGgBKbzhgUsnpuBR+ufbDoJZ6S8QQBipVZRcN5l2vA9f02mEWdl+LpfS1FRAPw1FnITlJsNNckb0/Mky2F7BSRYC92mbnWMs5ZB1J2Q8M2cSK0zC9qeVpHWBkibRAAz+AzaZSpiD0nfHB2uXDH0riL4J641TJjH/0FGbbkvZngcbnBfQSmrocZcqQw7ZZSkQS14IDIWL99sMp8aYKhd/MPQU0Z33M9NKNkhOKsCuKFgqryfbQ8TA8NkOW4ObI/S3e5Tv9L5K4azUG3YFHWBm0i5trJjSY9MfjkpEQ7G6fHli+Bf8iivib7fCWyS2hRBCQkhhxvYKI+JTbOXMMhvl+epq2kqY1aJKgm09RVwq5GE+np3I36gBFQAbZ8EFbXDBumhFpujxZoMJgah7wCLM4+wvvsgBJt6GBsBHCJb4h8zKgyUi1H/DWv7skNjKdp1HwE/TEr9LbfOGIsoaeJUV23IUsiFssXuEY3iyo+BOaM9zox3DQcANF1oDR6uJOnSyV2obzGvYymP+MwfSTvhER8zvomgYndOks/VMEYfjiCm2W+wQTStBYXFY90K+BozwmdVFFCnBCnK+9pSX5FLaKXyyFxnohpPeFW+30RM8Y1629M5UGemcc7Gi5bco/KvTqORlO/f8QIO+Bp3pm+eTOaWmrh7WFiJkZDFmasd+qh12KfsxT5JFQxjQQCmFwSVdZWy6Eww59IWsXzzqFtRU60lrfRT3ZE/XJ3bcMU3lgi0p5bGAk/VKD8Ouu2A0bLFiL9YLI4Xii6Beq573hEOC2TA90z41Y2BPH20BbmuH2gN4q6Hbm00TUFnyQnihH7Ryg8TeXSQ54u0ccmVkoR2yX1P8qp25PtVtJfYyz6OWm8r7RbS+dXZ7DCzYfnbW+as/l6BqHf/7XA7vRjCMSxEBM7xuQfWFSUN/gRARhrulgkVUQTTxCVNxT5CRjDUQu4ZMTOTR9VtzgkufcO3zj/P3lwXUoWid8fi6+YTUpoxPuCrc2F8sSEDm3HGAKPc/EKFGfOEsgVQdZXpl1npWW4Hh0Qrzc1XM+67ennWlqr9Qiz01HgvGmAdvqkWEoivtGkv2bqpEkmzKzkzJ8MN9I3W/PgyKAN8gE4ryxbDTs7qO9xmjlOXJfE06ry+HXTi4YGBdfaFZAvp4Jq8JPLs7Tz2NOEsSmgrqJS+It4g+kZA8RB/Yd+O/++QyOKr1mvrQZCsCMbH80gM2N6KUmkQNh291EJ+IkhFw8sUpoMXQKax/Jwqu76Z+kbgJZF0ib0IzXBXcChtGAdOVTWv8XENtZUXGzjpaTbM+izGE2V03x64G7IzRh9uMp3z6H5raO88rSb+jFPihvwUi4ppCiOg30FJlSG53QHOC4ywXEVwvmrPWfn6woO6fzBfsDJsv+jjCSoS8ccMtVkr9fV2fkcgneaE5iZHeMP3zPHKWgg+eHNiFJTMP1b7pH8cRZcuy4Cr505BYFxu3nZxtXfvCEBT6OwGUoA6dmG9/IFJw3hVfI2dCbL4egHKYy2tZePaJ16e8XXsf4nEcSAWR/X1q1Er6Hwg7Kq/SOrEawMIxdKj6NOTf1Er5Pe1pA6hdU6epQ34wOZnbvkPjhjEALoYaWkdEP/l1HmPABs+haLLt1XgBv+knyMti
+MIME-Version: 1.0
+
+----_NmP-c65e279bf2551a65-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+SBB CFF FFS
+
+
+BONJOUR,
+
+Nous avons constat=C3=A9 que votre SwissPass a =C3=A9t=C3=A9 suspendu tempo=
+rairement.
+
+Ceci peut =C3=AAtre d=C3=BB =C3=A0 un retard de paiement, une v=C3=A9rifica=
+tion de s=C3=A9curit=C3=A9 rutin=C3=A8re ou un dysfonctionnement technique.
+
+Vous pouvez r=C3=A9activer votre SwissPass rapidement en cliquant sur le bo=
+uton ci-dessous :
+
+R=C3=A9activer mon SwissPass hxxps://hi[.]switchy[.]io/1193M
+
+Si vous avez des questions, notre service client se tient =C3=A0 votre enti=
+=C3=A8re disposition.
+
+Nous vous remercions de votre confiance.
+
+Cordialement,
+L'=C3=A9quipe SwissPass
+SBB CFF FFS
+
+SBB AG =C2=B7 Service client SwissPass =C2=B7 3000 Berne
+
+Ceci est un e-mail automatique. Merci de ne pas y r=C3=A9pondre.
+
+Plus d'infos ? =E2=86=92 www.sbb.ch/swisspass
+----_NmP-c65e279bf2551a65-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"fr"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>SBB CFF FFS - SwissPass</title>
+    <style>
+        /*=20
+           VARIABLES MODIFIABLES :
+           Tu peux changer la couleur et la police ici tr=C3=A8s facilement=
+=20
+        */
+        :root {
+            --primary-color: #eb0000; /* Changement de couleur ici */
+            --bg-color: #f4f6f8;
+            --text-main: #333333;
+            --text-muted: #666666;
+            --card-bg: #ffffff;
+            --font-family: "Helvetica Neue", Arial, sans-serif;
+        }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 25px 15px;
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border: 1px solid #e8e8e8;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+        }
+        .header {
+            background-color: var(--primary-color);
+            padding: 30px;
+            color: #ffffff;
+            font-weight: 800;
+            font-size: 24px;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+        .content {
+            padding: 45px 40px;
+        }
+        h2 {
+            font-size: 26px;
+            color: #1a1a1a;
+            margin: 0 0 20px 0;
+            font-weight: 700;
+        }
+        p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #444444;
+        }
+        strong {
+            color: #000000;
+            font-weight: 600;
+        }
+        .btn-container {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .btn-link {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: #ffffff !important;
+            text-decoration: none;
+            padding: 16px 40px;
+            font-weight: 700;
+            font-size: 17px;
+            border-radius: 10px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            transition: background 0.3s ease;
+        }
+        .footer {
+            padding: 30px 40px;
+            font-size: 13px;
+            color: var(--text-muted);
+            border-top: 1px solid #f0f0f0;
+            background-color: #fafafa;
+            text-align: center;
+        }
+        .footer p {
+            margin: 5px 0;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D"container">
+        <!-- Header -->
+        <div class=3D"header">
+            SBB CFF FFS
+        </div>
+     =20
+        <!-- Corps de l'email -->
+        <div class=3D"content">
+            <h2>Bonjour,</h2>
+        =20
+            <p>Nous avons constat=C3=A9 que votre <strong>SwissPass a =C3=
+=A9t=C3=A9 suspendu</strong> temporairement.</p>
+        =20
+            <p>Ceci peut =C3=AAtre d=C3=BB =C3=A0 un retard de paiement, un=
+e v=C3=A9rification de s=C3=A9curit=C3=A9 rutin=C3=A8re ou un dysfonctionne=
+ment technique.</p>
+        =20
+            <p>Vous pouvez r=C3=A9activer votre SwissPass rapidement en cli=
+quant sur le bouton ci-dessous :</p>
+        =20
+            <div class=3D"btn-container">
+                <a href=3D"hxxps://hi[.]switchy[.]io/1193M" class=3D"btn-li=
+nk">R=C3=A9activer mon SwissPass</a>
+            </div>
+        =20
+            <p>Si vous avez des questions, notre service client se tient =
+=C3=A0 votre enti=C3=A8re disposition.</p>
+        =20
+            <p>Nous vous remercions de votre confiance.<br><br>
+            Cordialement,<br>
+            <strong>L'=C3=A9quipe SwissPass</strong><br>
+            SBB CFF FFS
+            </p>
+        </div>
+     =20
+        <!-- Pied de page -->
+        <div class=3D"footer">
+            <p><strong>SBB AG</strong> =C2=B7 Service client SwissPass =C2=
+=B7 3000 Berne</p>
+            <p>Ceci est un e-mail automatique. Merci de ne pas y r=C3=A9pon=
+dre.</p>
+            <p>Plus d'infos ? =E2=86=92 <strong>www.sbb.ch/swisspass</stron=
+g></p>
+        </div>
+    </div>
+</body>
+</html>
+----_NmP-c65e279bf2551a65-Part_1--

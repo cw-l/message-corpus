@@ -1,0 +1,389 @@
+Authentication-Results: mx.microsoft.com 1; spf=softfail (sender IP is
+ 35.237.194.164) smtp.mailfrom=soratabi.com; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=soratabi.com;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:A4AA5722ACDD19F9E87B6C5B37058B8B8E560952842995A12375877C0BBB3097;UpperCasedChecksum:773DD409B51D6C5A83054569233ED7E814E421C4CAA7CED6BE980FB571ABE2F7;SizeAsReceived:304;Count:7
+From: The Skincare Review Desk <support@soratabi.com>
+To: <redacted@redacted.com>
+Subject: What Makes Pink Gelatin a Trending Beauty Topic?
+Message-ID: <b504040db8dc415287607f60fccf79d1@soratabi.com>
+Date: Wed, 14 Oct 2026 12:18:18 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 14 Oct 2026 12:18:19.3447
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 6d361bbc-1640-4a24-143b-08df29ed3b94
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ PH1PEPF00062F2A:EE_|SA1P220MB1926:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ PH1PEPF00062F2A.namprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/14/2026 11:06:47 AM
+X-MS-Office365-Filtering-Correlation-Id: 6d361bbc-1640-4a24-143b-08df29ed3b94
+X-Sender-IP: 35.237.194.164
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|5139299004|1680799066|3069299007|5149299006|6100799021|9000799056|5301999021|260928210016899003|260826003000599003|1290799033|970799063|6401999021|2700799033|32020799003|46080799009|34130799006|60050799012|28130799009|9400799043|11119299006|10300799038|11001999021|8301999021|6022199012|18021999003|4302099013|440099028|1380799030|1370799030|3412199025|1360799030|56899033|1602099012|30041999003|2607281247196008|2406899039;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 14 Oct 2026 12:18:19.1526
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 6d361bbc-1640-4a24-143b-08df29ed3b94
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ PH1PEPF00062F2A.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA1P220MB1926
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.8657946
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "hxxp://www[.]w3[.=
+]org/TR/xhtml1/DTD/xhtml1-strict[.]dtd"><html xmlns=3D"hxxp://www[.]w3[.]or=
+g/1999/xhtml" lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <title>Beauty Intelligence Executive Report</title>
+    <style type=3D"text/css">
+        /* Client-Specific Resets */
+        body,
+        table,
+        td,
+        a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #EFECE6;
+            font-family: Georgia, 'Times New Roman', serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Mobile Optimization */
+        @media only screen and (max-width: 620px) {
+            .container {
+                width: 100% !important;
+            }
+
+            .pad {
+                padding-left: 18px !important;
+                padding-right: 18px !important;
+            }
+
+            .paper-h {
+                font-size: 24px !important;
+                line-height: 1.25 !important;
+            }
+
+            .paper-body {
+                font-size: 16px !important;
+                line-height: 1.65 !important;
+            }
+
+            .paper-btn {
+                width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .footer-col {
+                display: block !important;
+                width: 100% !important;
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+
+<body style=3D"margin: 0; padding: 0; background-color: #EFECE6;">
+
+    <!-- Hidden Preheader -->
+    <div style=3D"display: none; font-size: 1px; color: #EFECE6; line-heigh=
+t: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-=
+hide: all;">
+        Morning Beauty Dispatch: The simple Korean pink gelatin ritual lift=
+ing mature skin naturally...
+        \u034f \u200c &nbsp; \u2007 =EF=BF=BD \u034f \u200c &nbsp; \u2007 =
+=EF=BF=BD \u034f \u200c &nbsp; \u2007 =EF=BF=BD
+    </div>
+
+    <!-- Outer Canvas Wrapper -->
+    <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"background-color: #EFECE6;">
+        <tbody>
+            <tr>
+                <td align=3D"center" style=3D"padding: 30px 10px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"600">
+                    <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                    <![endif]-->
+
+                    <!-- Main Newspaper Card -->
+                    <table class=3D"container" role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-widt=
+h: 600px; background-color: #FCFAF6; border: 1px solid #D5CEBE; border-radi=
+us: 2px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+                        <tbody>
+
+                            <!-- Article Body -->
+                            <tr>
+                                <td class=3D"pad" style=3D"padding: 30px 32=
+px 20px 32px;">
+
+                                    <!-- Headline -->
+                                    <h1 class=3D"paper-h" style=3D"font-fam=
+ily: Georgia, 'Times New Roman', serif; font-size: 28px; font-weight: bold;=
+ color: #111111; margin: 0 0 14px 0; line-height: 1.25; text-align: left;">
+                                        57-Year-Old Red Carpet Actress Shar=
+es the 3-Minute &quot;Korean Pink Gelatin&quot; Evening
+                                        Ritual for Mature Skin
+                                    </h1>
+
+                                    <!-- Byline -->
+                                    <div style=3D"font-family: Arial, Helve=
+tica, sans-serif; font-size: 12px; color: #718096; margin-bottom: 24px; fon=
+t-style: italic; border-bottom: 1px solid #EAE5D9; padding-bottom: 12px;">
+                                        An investigative wellness feature \=
+u2022 Verified At-Home Routine
+                                    </div>
+
+                                    <!-- Body Copy with Drop Cap -->
+                                    <div class=3D"paper-body" style=3D"font=
+-family: Georgia, 'Times New Roman', serif; font-size: 17px; color: #2D3748=
+; line-height: 1.7;">
+
+                                        <p style=3D"margin: 0 0 20px 0;">
+                                            <span style=3D"float: left; fon=
+t-size: 48px; line-height: 40px; padding-top: 4px; padding-right: 10px; fon=
+t-family: Georgia, serif; color: #8B0000; font-weight: bold;">L</span>ook,
+                                            I am 57 years old, and every ti=
+me I step onto a red carpet, reporters ask
+                                            what luxury cream I use or whic=
+h expensive cosmetic clinic I visit. But I
+                                            have always preferred simple, n=
+atural solutions that truly respect mature
+                                            skin.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 22px 0;">
+                                            Instead of invasive procedures =
+or overpriced department store jars, a close
+                                            friend returning from South Kor=
+ea introduced me to an unusual <a href=3D"hxxps://storage[.]googleapis[.]co=
+m/sfghjklm/l[.]html" target=3D"_blank" style=3D"color: #8B0000; text-decora=
+tion: underline; font-weight: bold;">3-minute
+                                                bedtime ritual</a>: a Korea=
+n pink gelatin base combined with 3 common
+                                            kitchen ingredients that deeply=
+ hydrates and visibly firms facial contours
+                                            while you sredactedp.
+                                        </p>
+
+                                        <!-- Clean Framed Image Unit -->
+                                        <div style=3D"margin: 0 0 25px 0; t=
+ext-align: center; border: 1px solid #D5CEBE; padding: 4px; background-colo=
+r: #ffffff;">
+                                            <a href=3D"hxxps://storage[.]go=
+ogleapis[.]com/sfghjklm/l[.]html" target=3D"_blank" style=3D"display: block=
+; text-decoration: none;">
+                                                <img src=3D"hxxps://i[.]8up=
+load[.]com/image/728ad0af5a6cb290/scr-20261013-kxjk[.]png" alt=3D"Watch Kor=
+ean Gelatin Presentation" width=3D"520" style=3D"display: block; width: 100=
+%; height: auto; border: 0; margin: 0 auto;">
+                                            </a>
+                                        </div>
+
+                                        <!-- Editorial Boxed Quote -->
+                                        <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-t=
+op: 1px solid #D5CEBE; border-bottom: 1px solid #D5CEBE; margin-bottom: 24p=
+x; background-color: #F8F5EE;">
+                                            <tr>
+                                                <td style=3D"padding: 16px =
+14px; text-align: center;">
+                                                    <p style=3D"margin: 0; =
+font-family: Georgia, serif; font-size: 15px; font-style: italic; color: #8=
+B0000; line-height: 1.6;">
+                                                        \u201cIt delivers a=
+ natural firming and smoothing effect
+                                                        without needles, wi=
+thout downtime, and without a frozen
+                                                        appearance. Fine li=
+nes look rested and refreshed by
+                                                        morning.\u201d
+                                                    </p>
+                                                    <div style=3D"font-fami=
+ly: Arial, sans-serif; font-size: 11px; font-weight: bold; color: #718096; =
+margin-top: 6px; text-transform: uppercase;">
+                                                        \u2014 Red Carpet S=
+kin Review (Age 57)
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                        <p style=3D"margin: 0 0 22px 0;">
+                                            Before trying this at home, it =
+is important to understand the proper
+                                            preparation. The presentation o=
+utlines a simple skin compatibility check to
+                                            make sure your skin is ready to=
+ absorb this nutrient-dense formula properly.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 28px 0;">
+                                            <a href=3D"hxxps://storage[.]go=
+ogleapis[.]com/sfghjklm/l[.]html" target=3D"_blank" style=3D"color: #8B0000=
+; text-decoration: underline; font-weight: bold;">Watch
+                                                the educational presentatio=
+n below</a> to learn the exact step-by-step
+                                            recipe and see why thousands of=
+ women over 50 are adding this to their
+                                            evening routine.
+                                        </p>
+
+                                    </div>
+
+                                    <!-- Conservative Newspaper CTA -->
+                                    <table role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin-botto=
+m: 28px;">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/sfghjklm/l[.]html" target=3D"_blank" class=3D"paper-=
+btn" style=3D"background-color: #8B0000; color: #ffffff; font-family: Arial=
+, Helvetica, sans-serif; font-size: 16px; font-weight: bold; text-decoratio=
+n: none; padding: 16px 36px; border-radius: 2px; display: inline-block; let=
+ter-spacing: 0.5px; text-transform: uppercase; box-shadow: 0 2px 4px rgba(0=
+,0,0,0.15);">
+                                                        Watch The 3-Minute =
+Gelatin Recipe &gt;&gt;
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                            <!-- Classical Newspaper Footer -->
+                            <tr>
+                                <td style=3D"background-color: #1A202C; bor=
+der-top: 1px solid #D5CEBE; padding: 25px 30px; color: #CBD5E0;">
+                                    <table role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class=3D"footer-col" va=
+lign=3D"middle" style=3D"font-family: Georgia, serif; font-size: 10px; font=
+-weight: bold; color: #ffffff; text-transform: uppercase; letter-spacing: 1=
+px;">
+                                                    BEAUTY &amp; WELLNESS D=
+ISPATCH<br><br>
+                                                </td>
+                                                <td class=3D"footer-col" va=
+lign=3D"middle" style=3D"padding-left: 12px; font-family: Arial, sans-serif=
+; text-align: right;">
+                                                    <div style=3D"font-size=
+: 11px; color: #A0AEC0; text-transform: uppercase; letter-spacing: 0.5px;">
+                                                        Skincare Editorial =
+Desk<br><br>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                            <!-- Divider Line -->
+                                            <tr>
+                                                <td colspan=3D"2" style=3D"=
+border-top: 1px solid #2D3748; padding-top: 14px;"></td>
+                                            </tr>
+
+                                            <!-- Legal Navigation & Unsubsc=
+ribe -->
+                                            <tr>
+                                                <td colspan=3D"2" align=3D"=
+center" style=3D"font-family: Arial, sans-serif; font-size: 11px; color: #A=
+0AEC0; line-height: 1.6;">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/sfghjklm/l[.]html" target=3D"_blank" style=3D"color:=
+ #FFFFFF; text-decoration: none; font-weight: bold;">Privacy
+                                                        Notice</a> &nbsp;|&=
+nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/sfghjklm/l[.]html" target=3D"_blank" style=3D"color:=
+ #FFFFFF; text-decoration: none; font-weight: bold;">Terms
+                                                        of Use</a> &nbsp;|&=
+nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/sfghjkl/l[.]html" target=3D"_blank" style=3D"color: =
+#FC8181; text-decoration: underline; font-weight: bold;">Unsubscribe</a>
+                                                    <br><br>
+                                                    =EF=BF=BD 2026 Beauty &=
+amp; Wellness Dispatch. All rights reserved. Individual results may vary.
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

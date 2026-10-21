@@ -1,0 +1,198 @@
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 198.13.47.10) smtp.mailfrom=mithinkbox.com; dkim=pass (signature was
+ verified) header.d=mithinkbox.com;dmarc=pass action=none
+ header.from=mithinkbox.com;compauth=pass reason=100
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:364F66DBCCF7E8CE5F0E1967C5914314EE224F78136A83364AFDE20D559E512F;UpperCasedChecksum:ECC70D6A388F56173805F9B863E05907EB67D37C99EEB3EE96AFDF2FEB4C74D6;SizeAsReceived:864;Count:11
+DKIM-Filter: OpenDKIM Filter v2.11.0 mail.mithinkbox.com CFC85BAB8
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mithinkbox.com;
+	s=default; t=1792578904;
+	bh=HYJtoC2QoLBQFfPOk1ktcxCGOSPgNijRrhYpZF/AoQo=;
+	h=From:Reply-To:To:Subject:Date:From;
+	b=wbYuzXM7BJKkKRp4JIH1V3BQNZ1OiS0094nlG4fCmacr+r6vKZLNjvDYIoCerZeu/
+	 vzQfHZYRMTL0B0aaxcCKJRiDQae2ENRKM1UI1iHDSKbKVV5G3q9/VX8PEF7OTbASe3
+	 szUdyoJR9+fucyA5XfRtplrc6Spa4tJO4sh9lRlU=
+From: "Phyllis" <phyllis@mithinkbox.com>
+Reply-To: phyllis@mithinkbox.com
+To: redacted@redacted.com
+Subject: Agentic AI with Claude: Designing,
+ Building & Governing AI Agents for the Workplace 
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_5EC5_16E478C4.3E9E4C14"
+Date: Wed, 21 Oct 2026 18:35:10 +0800
+Message-ID: <19980264629608251764232@corp-smtp-srv>
+X-IncomingHeaderCount: 11
+X-MS-Exchange-Organization-ExpirationStartTime: 21 Oct 2026 10:35:06.1745
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 59a3d28a-35ef-4731-8a50-08df2f5ef90d
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ MI3PEPF00008483:EE_|SA1P220MB1926:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ MI3PEPF00008483.eurprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/21/2026 7:52:16 AM
+X-MS-Office365-Filtering-Correlation-Id: 59a3d28a-35ef-4731-8a50-08df2f5ef90d
+X-Sender-IP: 198.13.47.10
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:5;ARA:1444111002|1290799033|32020799003|260826003000599003|41120799003|260928210016899003|29090799004|3069299007|7099299003|46080799009|23130799006|5090599003|30041999003|3412199025|1360799030|440099028|1380799030|1370799030;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 21 Oct 2026 10:35:05.7039
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 59a3d28a-35ef-4731-8a50-08df2f5ef90d
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ MI3PEPF00008483.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA1P220MB1926
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.1438053
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;auth:1;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(91040095)(9050020)(9095020)(9100341)(944500132)(2008001181)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+------=_NextPart_001_5EC5_16E478C4.3E9E4C14
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Agentic AI with Claude: Designing, Building & Governing AI Agents for the W=
+orkplace=20
+[=C2=B7] 23=E2=80=9324 November 2026  |  9:00 AM =E2=80=93 5:00 PM (GMT +8)
+[=C2=B7] Concorde Hotel, Kuala Lumpur / Available Live via Zoom
+Artificial Intelligence is becoming an integral part of modern business ope=
+rations, helping organisations improve productivity, streamline processes a=
+nd support better decision-making. This intensive training provides a pract=
+ical introduction to designing, building, evaluating and governing AI agent=
+s using Claude, without requiring programming knowledge.
+
+Participants will master the technical loop of structuring instructions, co=
+nnecting model context protocols to live databases, and building automated =
+multi-agent pipelines designed to handle complex deliverables with minimal =
+manual intervention.
+
+Syllabus Architecture
+[=E2=80=BA] Session 1: Chatbot to Agent =E2=80=93 Loop Mechanics & ROI Limi=
+ts
+[=E2=80=BA] Session 2: Instructing Claude =E2=80=93 System Prompts & Format=
+ Discipline
+[=E2=80=BA] Session 3: Grounding Assistants in Organisational Data Knowledg=
+e Bases
+[=E2=80=BA] Session 4: Process Decomposition & Human-in-the-Loop Approval G=
+ates
+[=E2=80=BA] Session 5: Model Context Protocol & Extending Claude with Tools
+[=E2=80=BA] Session 6: Multi-Agent Workflow Pipelines & Deliberable Generat=
+ion
+[=E2=80=BA] Session 7: GRC Frameworks, Rubric Evaluations & Token Cost Cont=
+rols
+[=E2=80=BA] Session 8: Capstone Project =E2=80=93 Build, Test & Present an =
+Enterprise Agent
+Investment Structure
+[=E2=80=BA] Individual Delegate: MYR 1,895 net
+[=E2=80=BA] Corporate Group Rate (2+): MYR 1,795 per pax net
+To request registration layouts or the complete curriculum brochure, reply =
+directly with this tracking code in your subject field: PDF-ClaudeAgents
+Concorde Hotel, 2 Jln Sultan Ismail, 50250 Kuala Lumpur, Malaysia.
+To discontinue updates, reply with the exact subject line "remove-me".
+
+------=_NextPart_001_5EC5_16E478C4.3E9E4C14
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>Program Update</title>
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<meta name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001"></head>
+<body style=3D"FONT-FAMILY: 'Georgia', Times, serif; COLOR: #222222; PADDIN=
+G-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGH=
+T: 1.5; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #ffffff; -webkit-font-smoothi=
+ng: antialiased">
+<table style=3D"BACKGROUND-COLOR: #ffffff" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" border=3D"0">
+<tr>
+<td style=3D"PADDING-BOTTOM: 40px; PADDING-TOP: 40px; PADDING-LEFT: 15px; P=
+ADDING-RIGHT: 15px" align=3D"center"><!-- Text-Led Left-Bar Accent Containe=
+r (Bypasses HBL & Block Filters) -->
+<table style=3D"MAX-WIDTH: 500px; TEXT-ALIGN: left" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" border=3D"0">
+<tr><!-- Left Solid Geometric Accent Line -->
+<td style=3D"WIDTH: 3px; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #111111" bg=
+color=3D"#111111" width=3D"3"></td><!-- Content Cell -->
+<td style=3D"VERTICAL-ALIGN: top; PADDING-LEFT: 20px"><!-- Header Block -->
+<h1 style=3D"FONT-SIZE: 22px; FONT-WEIGHT: normal; COLOR: #000000; MARGIN: =
+0px 0px 10px; LETTER-SPACING: 0px; LINE-HEIGHT: 1.25">Agentic AI with Claud=
+e: Designing, Building &amp; Governing AI Agents for the Workplace </h1>
+<div style=3D"FONT-SIZE: 13px; MARGIN-BOTTOM: 25px; FONT-FAMILY: Arial, san=
+s-serif; COLOR: #555555; LINE-HEIGHT: 1.4">[=C2=B7] 23=E2=80=9324 November =
+2026 &nbsp;|&nbsp; 9:00 AM =E2=80=93 5:00 PM (GMT +8)<br>[=C2=B7] Concorde =
+Hotel, Kuala Lumpur / Available Live via Zoom </div><!-- Executive Narrativ=
+e -->
+<p style=3D"FONT-SIZE: 14px; TEXT-ALIGN: justify; MARGIN: 0px 0px 12px">Art=
+ificial Intelligence is becoming an integral part of modern business operat=
+ions, helping organisations improve productivity, streamline processes and =
+support better decision-making. This intensive training provides a practica=
+l introduction to designing, building, evaluating and governing AI agents u=
+sing Claude, without requiring programming knowledge. </p>
+<p style=3D"FONT-SIZE: 14px; TEXT-ALIGN: justify; MARGIN: 0px 0px 25px">Par=
+ticipants will master the technical loop of structuring instructions, conne=
+cting model context protocols to live databases, and building automated mul=
+ti-agent pipelines designed to handle complex deliverables with minimal man=
+ual intervention. </p><!-- Framework Focus -->
+<div style=3D"FONT-SIZE: 12px; MARGIN-BOTTOM: 8px; FONT-FAMILY: Arial, sans=
+-serif; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold; COLOR: #000000; LETTE=
+R-SPACING: 1px">Syllabus Architecture </div>
+<div style=3D"FONT-SIZE: 13px; MARGIN-BOTTOM: 25px; FONT-FAMILY: Arial, san=
+s-serif; COLOR: #333333; LINE-HEIGHT: 1.7">[=E2=80=BA] <strong>Session 1:</=
+strong> Chatbot to Agent =E2=80=93 Loop Mechanics &amp; ROI Limits<br>[=E2=
+=80=BA] <strong>Session 2:</strong> Instructing Claude =E2=80=93 System Pro=
+mpts &amp; Format Discipline<br>[=E2=80=BA] <strong>Session 3:</strong> Gro=
+unding Assistants in Organisational Data Knowledge Bases<br>[=E2=80=BA] <st=
+rong>Session 4:</strong> Process Decomposition &amp; Human-in-the-Loop Appr=
+oval Gates<br>[=E2=80=BA] <strong>Session 5:</strong> Model Context Protoco=
+l &amp; Extending Claude with Tools<br>[=E2=80=BA] <strong>Session 6:</stro=
+ng> Multi-Agent Workflow Pipelines &amp; Deliberable Generation<br>[=E2=80=
+=BA] <strong>Session 7:</strong> GRC Frameworks, Rubric Evaluations &amp; T=
+oken Cost Controls<br>[=E2=80=BA] <strong>Session 8:</strong> Capstone Proj=
+ect =E2=80=93 Build, Test &amp; Present an Enterprise Agent </div><!-- Inve=
+stment Specifications -->
+<div style=3D"FONT-SIZE: 12px; MARGIN-BOTTOM: 8px; FONT-FAMILY: Arial, sans=
+-serif; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold; COLOR: #000000; LETTE=
+R-SPACING: 1px">Investment Structure </div>
+<div style=3D"FONT-SIZE: 13px; MARGIN-BOTTOM: 30px; FONT-FAMILY: Arial, san=
+s-serif; COLOR: #333333; LINE-HEIGHT: 1.6">[=E2=80=BA] <strong>Individual D=
+elegate:</strong> MYR 1,895 net<br>[=E2=80=BA] <strong>Corporate Group Rate=
+ (2+):</strong> MYR 1,795 per pax net </div><!-- Call to Action -->
+<div style=3D"FONT-SIZE: 13px; MARGIN-BOTTOM: 25px; BORDER-TOP: #222222 1px=
+ dashed; FONT-FAMILY: Arial, sans-serif; BORDER-BOTTOM: #222222 1px dashed;=
+ PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT:=
+ 0px">To request registration layouts or the complete curriculum brochure, =
+reply directly with this tracking code in your subject field: <strong style=
+=3D"FONT-SIZE: 14px; BORDER-TOP: #cbd5e1 1px solid; FONT-FAMILY: monospace;=
+ BORDER-RIGHT: #cbd5e1 1px solid; BORDER-BOTTOM: #cbd5e1 1px solid; COLOR: =
+#000000; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 4px; BORDER-L=
+EFT: #cbd5e1 1px solid; PADDING-RIGHT: 4px; BACKGROUND-COLOR: #f7f7f7">PDF-=
+ClaudeAgents</strong> </div><!-- Standard Compliance Footer -->
+<div style=3D"FONT-SIZE: 11px; FONT-FAMILY: Arial, sans-serif; COLOR: #8888=
+88; LINE-HEIGHT: 1.4">Concorde Hotel, 2 Jln Sultan Ismail, 50250 Kuala Lump=
+ur, Malaysia.<br>To discontinue updates, reply with the exact subject line =
+&quot;remove-me&quot;. </div></td></tr></table></td></tr></table></body></h=
+tml>
+------=_NextPart_001_5EC5_16E478C4.3E9E4C14--
