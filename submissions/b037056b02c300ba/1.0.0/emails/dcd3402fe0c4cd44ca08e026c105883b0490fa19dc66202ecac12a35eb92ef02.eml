@@ -1,0 +1,341 @@
+Authentication-Results: mx.microsoft.com 1; spf=softfail (sender IP is
+ 35.221.211.110) smtp.mailfrom=elbraco.rs; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=elbraco.rs;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:F41D063BEECF318394CD7D667AC11DDFB0999EE26A4A1EB42F8A63CB75571E98;UpperCasedChecksum:EE0789442280109EE2B341B4D68EC4E758FFE06D8E20EA60D6C3A88DEC26E800;SizeAsReceived:290;Count:7
+From: Aaron | Health Guide <support@elbraco.rs>
+To: <redacted@redacted.com>
+Subject: Beyond diet: Modern blood pressure support
+Message-ID: <c40f7eccfd074c2ca6e5c3bc76c15b20@elbraco.rs>
+Date: Fri, 23 Oct 2026 20:55:58 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Oct 2026 20:56:00.2723
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ d029cf59-8537-4825-3f26-08df31480b0d
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ MI3PEPF00008481:EE_|DSVP220MB110523:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ MI3PEPF00008481.eurprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/23/2026 5:47:57 PM
+X-MS-Office365-Filtering-Correlation-Id: d029cf59-8537-4825-3f26-08df31480b0d
+X-Sender-IP: 35.221.211.110
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|260826003000599003|60050799012|6100799021|9000799056|1680799066|2700799033|32080799009|32020799003|46080799009|8301999021|11001999021|34130799006|5301999021|6401999021|260928210016899003|5139299004|11119299006|10300799038|9400799043|1290799033|970799063|1360799030|1370799030|1380799030|440099028|3412199025|4302099013|56899033|30041999003|8011999015|18021999003|6022199012|1602099012|2406899039;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Oct 2026 20:55:59.6451
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ d029cf59-8537-4825-3f26-08df31480b0d
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ MI3PEPF00008481.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DSVP220MB110523
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.7718398
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns=3D"hxxp://www[.]w3[.]org/1999/xhtml" lang=3D"en"=
+><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <title>Cardiovascular Health Insight</title>
+    <style type=3D"text/css">
+        /* Client Resets */
+        body, table, td, a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+
+        /* Mobile Styles */
+        @media only screen and (max-width: 620px) {
+            .email-wrapper {
+                width: 100% !important;
+            }
+            .mobile-pad {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
+            .headline {
+                font-size: 22px !important;
+                line-height: 1.35 !important;
+            }
+            .body-copy {
+                font-size: 16px !important;
+                line-height: 1.65 !important;
+            }
+            .main-cta-btn {
+                width: 100% !important;
+                padding: 18px 12px !important;
+                font-size: 16px !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+                display: block !important;
+            }
+        }
+    </style>
+</head>
+
+<body style=3D"margin: 0; padding: 0; background-color: #F8FAFC; -webkit-fo=
+nt-smoothing: antialiased;">
+
+    <!-- Hidden Preheader -->
+    <div style=3D"display: none; font-size: 1px; color: #F8FAFC; line-heigh=
+t: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-=
+hide: all;">
+        How 19,000 Americans are supporting 120/80 BP naturally with a simp=
+le home routine...
+        \u034f \u200c &nbsp; \u2007 =EF=BF=BD \u034f \u200c &nbsp; \u2007 =
+=EF=BF=BD \u034f \u200c &nbsp; \u2007 =EF=BF=BD
+    </div>
+
+    <!-- Outer Container -->
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+style=3D"background-color: #F8FAFC;">
+        <tbody>
+            <tr>
+                <td align=3D"center" style=3D"padding: 40px 10px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"600">
+                    <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                    <![endif]-->
+
+                    <!-- Main Email Container -->
+                    <table class=3D"email-wrapper" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-width: 600px; backgrou=
+nd-color: #FFFFFF; border-radius: 12px; overflow: hidden; box-shadow: 0 8px=
+ 20px rgba(15, 23, 42, 0.05); border: 1px solid #E2E8F0;">
+                        <tbody>
+
+                            <!-- Header Bar -->
+                            <tr>
+                                <td class=3D"mobile-pad" style=3D"padding: =
+22px 36px 18px 36px; background-color: #FFFFFF; border-bottom: 1px solid #F=
+1F5F9;">
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"left" valign=
+=3D"middle">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/bloodpril-arterioflush-offers/lis" target=3D"_blank"=
+ style=3D"text-decoration: none;">
+                                                        <span style=3D"font=
+-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, =
+Arial, sans-serif; font-size: 17px; font-weight: 800; color: #0F172A; lette=
+r-spacing: -0.3px;">
+                                                            CARDIO <span st=
+yle=3D"color: #2563EB;">HEALTH DIGEST</span>
+                                                        </span>
+                                                    </a>
+                                                </td>
+                                                <td align=3D"right" valign=
+=3D"middle">
+                                                    <span style=3D"font-fam=
+ily: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Aria=
+l, sans-serif; font-size: 10px; font-weight: 700; color: #1E40AF; backgroun=
+d-color: #EFF6FF; padding: 5px 10px; border-radius: 4px; text-transform: up=
+percase; letter-spacing: 0.8px;">
+                                                        HEALTH INSIGHT
+                                                    </span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- Main Content -->
+                            <tr>
+                                <td class=3D"mobile-pad" style=3D"padding: =
+36px 36px 28px 36px;">
+
+                                    <!-- Headline -->
+                                    <h1 class=3D"headline" style=3D"font-fa=
+mily: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Ari=
+al, sans-serif; font-size: 24px; font-weight: 800; color: #0F172A; margin: =
+0 0 20px 0; line-height: 1.35; letter-spacing: -0.4px;">
+                                        How Over 19,000 Americans Have Rest=
+ored 120/80 BP With a Simple Natural Routine
+                                    </h1>
+
+                                    <!-- Body Content -->
+                                    <div class=3D"body-copy" style=3D"font-=
+family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, A=
+rial, sans-serif; font-size: 16px; color: #334155; line-height: 1.7;">
+
+                                        <p style=3D"margin: 0 0 16px 0;">
+                                            If you're wondering why your bl=
+ood pressure readings never seem to normalize, <em>you are not alone.</em>
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 18px 0;">
+                                            You've likely done all the righ=
+t things and made every recommended change:
+                                        </p>
+
+                                        <!-- Feature List Box -->
+                                        <div style=3D"background-color: #F8=
+FAFC; border-left: 4px solid #3B82F6; border-radius: 0 8px 8px 0; padding: =
+16px 20px; margin: 0 0 22px 0;">
+                                            <ul style=3D"margin: 0; padding=
+-left: 18px; color: #1E293B; font-size: 15px; line-height: 1.7;">
+                                                <li style=3D"margin-bottom:=
+ 6px;">Reduced or eliminated sodium from your diet</li>
+                                                <li style=3D"margin-bottom:=
+ 6px;">Taken daily prescriptions right on schedule</li>
+                                                <li style=3D"margin-bottom:=
+ 0;">Followed every doctor recommendation to the letter</li>
+                                            </ul>
+                                        </div>
+
+                                        <p style=3D"margin: 0 0 20px 0;">
+                                            Yet despite your best efforts, =
+the numbers refuse to budge. It can feel completely overwhelming.
+                                        </p>
+
+                                        <!-- Media/Warning Image Section --=
+>
+                                        <div style=3D"margin: 0 0 24px 0; t=
+ext-align: center;">
+                                            <a href=3D"hxxps://storage[.]go=
+ogleapis[.]com/bloodpril-arterioflush-offers/lis" target=3D"_blank" style=
+=3D"text-decoration: none; display: inline-block;">
+                                                <img src=3D"hxxps://www[.]n=
+i03hfph[.]com/686/offers/21591/c/62670/assets/warning[.]png" alt=3D"Health =
+Notice" style=3D"display: block; max-width: 100%; height: auto; border: 0; =
+border-radius: 6px; margin: 0 auto;">
+                                            </a>
+                                        </div>
+
+                                        <p style=3D"margin: 0 0 24px 0;">
+                                            Recent cardiovascular research =
+highlights an underlying factor that standard methods often overlook. Suppo=
+rting balanced blood pressure naturally from home is possible when you targ=
+et the arterial system directly.
+                                        </p>
+
+                                    </div>
+
+                                    <!-- CTA Button -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" style=3D"margin-bottom: 28px;">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"margin: 0 auto; width: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td align=
+=3D"center" style=3D"background: linear-gradient(135deg, #2563EB 0%, #1D4ED=
+8 100%); border-radius: 8px; box-shadow: 0 6px 15px rgba(37, 99, 235, 0.3);=
+">
+                                                                    <a href=
+=3D"hxxps://storage[.]googleapis[.]com/bloodpril-arterioflush-offers/lis" t=
+arget=3D"_blank" class=3D"main-cta-btn" style=3D"font-family: -apple-system=
+, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fon=
+t-size: 16px; font-weight: 800; color: #FFFFFF; text-decoration: none; padd=
+ing: 18px 28px; display: inline-block; letter-spacing: 0.5px; text-transfor=
+m: uppercase;">
+                                                                        SEE=
+ THE ARTERIAL FLUSH PROTOCOL \u2192
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                    <!-- P.S. Block -->
+                                    <div style=3D"border-top: 1px dashed #C=
+BD5E1; padding-top: 18px; font-family: -apple-system, BlinkMacSystemFont, '=
+Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #4=
+75569; line-height: 1.6;">
+                                        <strong>Note:</strong> Learn how th=
+is simple routine can be done entirely at home without complicated lifestyl=
+e overhauls. <a href=3D"hxxps://storage[.]googleapis[.]com/bloodpril-arteri=
+oflush-offers/lis" target=3D"_blank" style=3D"color: #2563EB; text-decorati=
+on: none; font-weight: 700;">Watch the educational overview &gt;&gt;</a>
+                                    </div>
+
+                                </td>
+                            </tr>
+
+                            <!-- Clean Footer -->
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 22px=
+ 36px; background-color: #F8FAFC; border-top: 1px solid #F1F5F9; font-famil=
+y: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial,=
+ sans-serif; font-size: 11px; color: #94A3B8; line-height: 1.6;">
+                                    You received this message because you s=
+ubscribed to health and wellness updates.<br><br>
+                                    <a href=3D"hxxps://storage[.]googleapis=
+[.]com/jttjkrtukffdhdfhdrhrtjkrt/lis" style=3D"color: #64748B; text-decorat=
+ion: underline;">Unsubscribe</a> |
+                                    <a href=3D"hxxps://storage[.]googleapis=
+[.]com/bloodpril-arterioflush-offers/lis" style=3D"color: #64748B; text-dec=
+oration: underline;">Privacy Policy</a><br><br>
+                                    =EF=BF=BD Cardio Health Research 2026. =
+All rights reserved.
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

@@ -1,0 +1,1135 @@
+ARC-Seal: i=1; a=rsa-sha256; t=1792647995; cv=none;
+        d=google.com; s=arc-20260327;
+        b=YKLzjkMlrO7Ea2yMaf93wjoT50FAUuRIfi+ix62x6I68FLePHKgWVMFWGyIOItfGy2
+         AMxKbchrUP20LmX658IcK6yiiSIV5C3lCIPRr+1i7bLnR+XYlMGQpXT0Kf4J//A9+z+Q
+         i5KPYcGNyI93qeKmal1L5ySHTmOotgQ35k05iQ3aw7VZHJbTwHGC3+fryOkYh5UvD6Cz
+         8NihPCySY3VSvx/wbD4HggWB5PPRZ1ig7rOc8mZSGFel8iqif7Yk05hJgMsNcbkbVu1+
+         SsNddM3JNWjk3fieSI5s9M/oVeCQCHeeu5I/Mg3+rtfHhZMj4pi+WTxSNJlTuwypPGpi
+         R9kQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=sender:date:list-unsubscribe:message-id:envelope-to:precedence
+         :mime-version:to:from:subject:delivered-to:domainkey-signature
+         :dkim-signature;
+        bh=8VYiJi87GLxMrIuv07SYtaq1ZTShQCqbndnix3TWj0Q=;
+        fh=5mDISkEnApbHbeyplF34/W/bGeiyjRLMmd/AgjlFR1Y=;
+        b=Hzxgb0kBnmnXpDM1/Kex5NfMxoCsohZmLVnd0lmf5Hv4ZkKLJuVHL3tBnW/R5bqHsq
+         Y73i+8VnpShs6yYEf1lQF8f8WNIQ+0N9PCnjx+gnd91bDpQGbCruyRvMaRYIaZkJFfSR
+         xa/w0DTVeLcsyqQkeCyMw/72aDUf5eSpSehh+nq9zSHh9EXgV9JU4zAHlwaDDxcP0x/Y
+         OZTjk3Zrsz7hM1amIdAuxGTcy4wvyvz083PbOzNmtpPBkJ4ksqBYpPSMF6XKFY6aCZP8
+         fxjVRdWpeezHMLk5wpFzzfthfj+MD/34qYDciFUyS6tmQT0xo1vRGkD+1OF1LBYeChGI
+         eD4Q==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@uwxkuxsj.ronaldo.novaris.biz.id header.s=smtp
+ header.b=wu+vJGiP;
+       spf=pass (google.com: domain of huexhzxjbqlju@ronaldo.novaris.biz.id
+ designates 107.173.15.8 as permitted sender)
+ smtp.mailfrom=huexhzxjbqlju@ronaldo.novaris.biz.id
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@uwxkuxsj.ronaldo.novaris.biz.id header.s=smtp
+ header.b=wu+vJGiP;
+       spf=pass (google.com: domain of huexhzxjbqlju@ronaldo.novaris.biz.id
+ designates 107.173.15.8 as permitted sender)
+ smtp.mailfrom=huexhzxjbqlju@ronaldo.novaris.biz.id
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp;
+ d=uwxkuxsj.ronaldo.novaris.biz.id;
+ h=Subject:From:To:MIME-Version:Message-Id:List-Unsubscribe:Content-Type:Date:Sender;
+ i=cekijdmibyvhbmoamhcpu@uwxkuxsj.ronaldo.novaris.biz.id;
+ bh=Axryz7jRkxv+i2AwOkag9CZPYWc=;
+ b=wu+vJGiPAj0t72nQ65knZBbPB7mXV98hjYUVC890SwIhVB/TASTXAqaWrg6xYwFHfH/hLJwJ/IcN
+   0V4/TeRAMke5mU6w4T+Bd7ZZhdGkud8l2fIG2T6VhOqPiGD4vbhqEzcYIXVmv+GpgM7jmw2QFdE+
+   Soh53wnnFC9kcka/tHSbO0jQhxYrbBk1rutZP3wKXfM8XpgPVbg5Odxg5NsU60S22mnt0DOhQE2M
+   feb/HOFRZ8r7p0OFEY59ledRQl2RfRPFYjSUruAVBai/VZDbV39Ii+d68DHun5nYaBrgXve+axSR
+   K0M/LSPng0bBvvE1TfcfBjhrFbClEdU45i1lAA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=smtp;
+ d=uwxkuxsj.ronaldo.novaris.biz.id;
+ b=m0XDRNuIIGObyilN1XhNE5rMdRI35bqCsutYTXm+oJUQ1JUpqXfXMfIfwa9pQ1yLWIZCMnEtMt2B
+   Badqvq98sKYF0XuxSA4wd7StT473munKl4YKjD+SjAM3jEQA19dGDHTeanvxlvnsmMYVom3kiUAt
+   dizXrs2Tlg5Jh7gt53jPM7Hv5qNCLVc7xg1siRW907AjL2iiQI4pd1P/MJysL660GkwjKaJ3tvZZ
+   aRm/0dSQb5SSr5zjcNaA9kYVYbf/AUyU042fFWaAABI0/PhddVz4g1R+Mu7VgIMg5RkDQEWAZj2y
+   6rxHs76Gw1luAR0QeqX/AvsgCWcaWVoOOYYC+Q==;
+Subject: 
+ =?utf-8?q?Start_Your_GLP-1_Prescription_Today_=EF=BF=BD=EF=BF=BD=EF=BF=BD_No?=
+ =?utf-8?q?_Office_Visit_Needed!=2E=2E=2E=2E?=
+From: 
+ Direct-Meds-Weight-Loss<mnoltrw.32.195982@uwxkuxsj.ronaldo.novaris.biz.id>
+To: redacted@redacted.com
+MIME-Version: 1.0
+Precedence: bulk
+X-Originating-IP: 107.173.15.8
+X-Google-Original-Message-ID: <-@vevida.net>
+Message-Id: <wrkrdkidyqqkjiqmjohbyzbiamqsct@wtj4f7d1r3i5p862q5>
+List-Unsubscribe: <http://cloudnetworsk.my.id/LEAVE=To>
+Content-Type: multipart/digest; boundary="----=_Part_1_46436766"
+Date: Thu, 22 Oct 2026 05:43:42 +0000
+Sender: cekijdmibyvhbmoamhcpu@uwxkuxsj.ronaldo.novaris.biz.id
+
+------=_Part_1_46436766
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+------=_Part_1_46436766
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+</br></br></br><center>
+<a href=3D"hxxps://storage[.]googleapis[.]com/stayhere/forwared[.]html#CVNR=
+kgqetvvGCRfFGQANRJgDIZgqqk&4AUjCStlOxY&303273/667/tateruyqxr[.]home[.]php?s=
+q=3D32-195982&lk=3D46021-9&page=3D158" style=3D"text-decoration:none; color=
+:black">
+
+<!DOCTYPE html>
+<html lang=3D"en"><head>
+<meta charset=3D"UTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<title>DirectMeds - Weight Management Solutions</title>
+
+<style type=3D"text/css">
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #04092b;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+img {
+  display: block;
+  border: 0;
+  max-width: 100%;
+}
+
+.email-wrapper-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+  background-color: #04092b;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #08103e;
+}
+
+.btn-blue {
+  display: inline-block;
+  background-color: #0080ff;
+  color: #ffffff !important;
+  text-decoration: none;
+  padding: 16px 40px;
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: bold;
+  border-radius: 30px;
+  box-shadow: 0 4px 15px rgba(0, 128, 255, 0.4);
+}
+
+.check-icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-color: #55acee;
+  color: #08103e;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 24px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 620px) {
+  .email-wrapper-link {
+    padding: 0 !important;
+  }
+
+  .container {
+    width: 100% !important;
+  }
+
+  .content-padding {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .headline {
+    font-size: 24px !important;
+    line-height: 30px !important;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<table class=3D"wrapper" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" bgcolor=3D"#04092b">
+<tbody><tr>
+<td align=3D"center" style=3D"padding:20px 10px;" class=3D"outer-padding">
+
+<table class=3D"container" width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" bgcolor=3D"#08103e">
+
+  <!-- ADVERTISEMENT DISCLOSURE -->
+  <tbody><tr>
+    <td align=3D"center" style=3D"padding:20px 25px 8px 25px;font-size:11px=
+;color:#9da6cc;text-transform:uppercase;letter-spacing:1px;">
+      Advertisement
+    </td>
+  </tr>
+
+  <!-- HEADER SUBTITLE -->
+  <tr>
+    <td align=3D"center" style=3D"padding:10px 25px 10px 25px;font-size:16p=
+x;color:#d0d5f0;">
+      Explore medical weight management options
+    </td>
+  </tr>
+
+  <!-- MAIN HEADLINE -->
+  <tr>
+    <td align=3D"center" class=3D"content-padding" style=3D"padding:0 30px =
+30px 30px;">
+
+      <div class=3D"headline" style=3D"font-size:30px;line-height:38px;font=
+-weight:bold;color:#ffffff;text-align:center;">
+        Prescription
+        <span style=3D"text-decoration:underline;color:#ff66cc;">Semaglutid=
+e</span>
+        or
+        <span style=3D"text-decoration:underline;color:#ff66cc;">Tirzepatid=
+e</span>
+        may be available to eligible adults
+      </div>
+
+    </td>
+  </tr>
+
+  <!-- BODY CONTENT -->
+  <tr>
+    <td class=3D"content-padding" style=3D"padding:0 30px 20px 30px;">
+
+      <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+        <tbody><tr>
+
+          <!-- LEFT COLUMN -->
+          <td valign=3D"top" style=3D"padding-right:15px;">
+
+            <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0">
+
+              <tbody><tr>
+                <td style=3D"padding-bottom:18px;font-size:15px;line-height=
+:20px;color:#ffffff;">
+                  <span class=3D"check-icon">=E2=9C=93</span>
+                  Personalized medical weight management support
+                </td>
+              </tr>
+
+              <tr>
+                <td style=3D"padding-bottom:18px;font-size:15px;line-height=
+:20px;color:#ffffff;">
+                  <span class=3D"check-icon">=E2=9C=93</span>
+                  Complete a brief medical questionnaire to see if you may =
+qualify
+                </td>
+              </tr>
+
+              <tr>
+                <td style=3D"padding-bottom:18px;font-size:15px;line-height=
+:20px;color:#ffffff;">
+                  <span class=3D"check-icon">=E2=9C=93</span>
+                  No insurance required for eligible programs
+                </td>
+              </tr>
+
+              <tr>
+                <td style=3D"padding-bottom:25px;font-size:15px;line-height=
+:20px;color:#ffffff;">
+                  <span class=3D"check-icon">=E2=9C=93</span>
+                  Prescription medication may be included when medically ap=
+propriate
+                </td>
+              </tr>
+
+              <!-- PRICE -->
+              <tr>
+                <td style=3D"padding-bottom:25px;">
+                  <div style=3D"font-size:32px;font-weight:bold;color:#ffff=
+ff;">
+                    Starting at
+                    <span style=3D"font-size:38px;">$147</span>
+                    <span style=3D"font-size:24px;">/mo</span>
+                  </div>
+                </td>
+              </tr>
+
+            </tbody></table>
+          </td>
+
+          <!-- RIGHT COLUMN -->
+          <td width=3D"200" valign=3D"top" align=3D"center" style=3D"paddin=
+g-top:10px;">
+
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+              <tbody><tr>
+
+                <!-- SEMAGLUTIDE VIAL -->
+                <td valign=3D"bottom" align=3D"center" style=3D"padding-rig=
+ht:6px;">
+
+                  <div style=3D"width:85px;background-color:#ffffff;border-=
+radius:6px;padding:4px;box-shadow:0 4px 10px rgba(0,0,0,0.5);text-align:cen=
+ter;">
+
+                    <div style=3D"height:12px;background:#e0e0e0;border-rad=
+ius:4px 4px 0 0;margin-bottom:2px;"></div>
+
+                    <div style=3D"border-top:3px solid #0080ff;border-botto=
+m:3px solid #0080ff;padding:12px 2px;background:#ffffff;">
+
+                      <div style=3D"font-size:8px;color:#0080ff;font-weight=
+:bold;">
+                        DirectMeds=E2=84=A2
+                      </div>
+
+                      <div style=3D"font-size:10px;font-weight:bold;color:#=
+333333;margin:8px 0 4px 0;">
+                        Semaglutide
+                      </div>
+
+                      <div style=3D"background-color:#0080ff;height:10px;ma=
+rgin-bottom:6px;"></div>
+
+                      <div style=3D"font-size:5px;color:#666666;line-height=
+:7px;">
+                        Medical Weight Management<br>
+                        Compounded Medication
+                      </div>
+
+                    </div>
+
+                    <div style=3D"font-size:6px;color:#999999;margin-top:8p=
+x;font-weight:bold;text-align:left;padding-left:2px;">
+                      RX ONLY
+                    </div>
+
+                  </div>
+                </td>
+
+                <!-- TIRZEPATIDE VIAL -->
+                <td valign=3D"bottom" align=3D"center">
+
+                  <div style=3D"width:85px;background-color:#ffffff;border-=
+radius:6px;padding:4px;box-shadow:0 4px 10px rgba(0,0,0,0.5);text-align:cen=
+ter;">
+
+                    <div style=3D"height:12px;background:#e0e0e0;border-rad=
+ius:4px 4px 0 0;margin-bottom:2px;"></div>
+
+                    <div style=3D"border-top:3px solid #ff66cc;border-botto=
+m:3px solid #ff66cc;padding:12px 2px;background:#ffffff;">
+
+                      <div style=3D"font-size:8px;color:#0080ff;font-weight=
+:bold;">
+                        DirectMeds=E2=84=A2
+                      </div>
+
+                      <div style=3D"font-size:10px;font-weight:bold;color:#=
+333333;margin:8px 0 4px 0;">
+                        Tirzepatide
+                      </div>
+
+                      <div style=3D"background-color:#ff66cc;height:10px;ma=
+rgin-bottom:6px;"></div>
+
+                      <div style=3D"font-size:5px;color:#666666;line-height=
+:7px;">
+                        Medical Weight Management<br>
+                        Compounded Medication
+                      </div>
+
+                    </div>
+
+                    <div style=3D"font-size:6px;color:#999999;margin-top:8p=
+x;font-weight:bold;text-align:left;padding-left:2px;">
+                      RX ONLY
+                    </div>
+
+                  </div>
+                </td>
+
+              </tr>
+            </tbody></table>
+
+          </td>
+        </tr>
+      </tbody></table>
+
+    </td>
+  </tr>
+
+  <!-- CTA -->
+  <tr>
+    <td align=3D"center" style=3D"padding:10px 20px 25px 20px;">
+
+      <a href=3D"hxxps://storage[.]googleapis[.]com/stayhere/forwared[.]htm=
+l#cPyEfwtakTWDYOmsPdYJTtTYNMuQnF&4hNfuBsibXc&303273/667/nxqvgkeufo[.]home[.=
+]php?sq=3D32-195982&lk=3D46021-9&page=3D444" target=3D"_blank" class=3D"btn=
+-blue">
+        See If You May Qualify
+      </a>
+
+    </td>
+  </tr>
+
+  <!-- DISCLAIMER -->
+  <tr>
+    <td align=3D"center" class=3D"content-padding" style=3D"padding:0 30px =
+30px 30px;font-size:11px;line-height:17px;color:#aeb6d6;">
+
+      Eligibility, treatment options, pricing and results vary by individua=
+l.
+      Prescription treatment is available only when determined medically
+      appropriate by a licensed healthcare provider.
+
+    </td>
+  </tr>
+
+  <!-- FOOTER LOGO -->
+  <tr>
+    <td align=3D"center" style=3D"padding:0 20px 25px 20px;">
+
+      <img src=3D"" alt=3D"DirectMeds" width=3D"180" style=3D"display:block=
+; width:180px; max-width:100%; height:auto; margin:0 auto; border:0;">
+
+    </td>
+  </tr>
+
+</tbody></table>
+
+<!-- FOOTER -->
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+<tbody><tr>
+<td align=3D"center" style=3D"padding:18px 15px;font-size:11px;line-height:=
+18px;color:#777777;">
+
+  Advertisement<br>
+
+  If you no longer wish to receive these emails,
+  <a href=3D"hxxps://storage[.]googleapis[.]com/stayhere/forwared[.]html#Zz=
+DxwgaTZbKWCyvdAVgtvkEdcbLbhV&4iuwkyJeaED&303273/667/analfyzybv[.]home[.]php=
+?sq=3D32-195982&lk=3D46021-9&page=3D129" style=3D"color:#777777;text-decora=
+tion:underline;">
+    unsubscribe here
+  </a>.
+
+  <br>
+
+  2701 N Thanksgiving Way #100, Lehi, UT 84043
+
+</td>
+</tr>
+
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
+</table>
+</body>
+</html>
+<br><br>
+<center>=20
+<br><br><center>
+</a><br>
+<center>
+<table width=3D"600" style=3D"text-align:center">
+<tr width=3D"600" style=3D"text-align:center">
+<td style=3D"font-family:Trebuchet MS, Geneva, sans-serif; font-size:10px; =
+text-align:center; color:#aaaaaa;" width=3D"600" style=3D"text-align:center=
+">
+<p>
+  If you no longer wish to receive these emails,<br> you may unsubscribe by=
+=20
+<a href=3D"hxxps://storage[.]googleapis[.]com/stayhere/forwared[.]html#IvXP=
+PsEaTNFoMJEYFFYCUYeosHtgFK&5dHFeHgWOvm&303273/667/imdeyfzrri[.]home[.]php?s=
+q=3D32-195982&lk=3D46021-9&page=3D883">clicking here.</a><br>
+ </center></p></td></tr></table>
+    </a>
+</a><br>
+<html>
+<body>
+<center>             =20
+<center>
+<table width=3D"600" style=3D"text-align:center">
+<tr width=3D"600" style=3D"text-align:center">
+<td style=3D"font-family:Trebuchet MS, Geneva, sans-serif; font-size:10px; =
+text-align:center; color:#aaaaaa;" width=3D"600" style=3D"text-align:center=
+">
+<p>
+  To Unsubscribe Click=20
+<a href=3D"hxxps://storage[.]googleapis[.]com/stayhere/forwared[.]html#kSgT=
+ruEPxIGGcpLgUEdanqvoTOzCqJ&6UpETwJuWJV&303273/667/sxwkidikum[.]home[.]php?s=
+q=3D32-195982&lk=3D46021-9&page=3D408">Here</a><br>
+ </center></p></td></tr></table>
+ </a></a>
+<html>
+</center>        =20
+</center> =20
+</center>
+</body>
+</html>
+ =20
+ =20
+ =20
+<table style=3D"display:none;"><HEaD/>
+
+<div style=3D"display:none;"><HEaD/>
+=09
+<object HTFRGBOJWMMSDCLFKCBBUPNSFNWVZUCRKKLOAGSZSSJWARLZOLMLEHBTOUUZ>
+
+Dear VSGQCRPGCWDCQMNXFWNKXV pkkttfahwziandncaqkbcr,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is ogomsrlqzbwrntxezcrcrnl=
+wscku.
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+<title>
+
+emd=20
+added
+to
+newsletterGet
+and
+ask
+childrenShare
+this
+ExperimentSegregation
+Americaxs
+report
+United
+May
+ETPerhaps
+going
+wants
+In
+federal
+that
+says
+plan
+boasted
+unemployment
+lowest
+everSo
+rightWhile
+down
+remained
+last
+this
+does
+communities
+to
+land
+opportunityOne
+Americans
+suffer
+opposed
+white
+inequality
+in
+while
+step
+inequality
+will
+that
+looks
+housing
+disparities
+on
+For
+more
+of
+on
+resources
+their
+childrens
+care
+going
+on
+cities
+on
+nation
+Shortly
+still
+have
+evidence
+doesnt
+decades
+expanding
+emerged
+of
+failed
+laws
+about
+and
+people
+housewives
+at
+Franz
+in
+New
+Orleans
+poverty
+public
+which
+to
+of
+we
+has
+failed
+chronicled
+deregulation
+Who
+children
+has
+work
+direct
+former
+have
+has
+of
+And
+as
+Professor
+documented
+more
+than
+problem
+Commission
+commission
+there
+with
+this
+was
+urban
+ideology
+without
+policy
+resulted
+be
+has
+hard
+students
+provides
+model
+graders
+salute
+flag
+of
+school
+atrisk
+will
+to
+of
+creates
+race
+to
+Brookings
+or
+integrate
+government
+to
+for
+potential
+enforcement
+The
+privatesector
+effect
+intentional
+with
+racial
+and
+make
+housing
+will
+access
+housing
+access
+Act
+making
+and
+integration
+poor
+developers
+lowincome
+lower
+half
+and
+by
+University
+college
+than
+children
+had
+and
+We
+need
+that
+but
+living
+Robert
+observed
+Bernard
+Why
+never
+ask
+and
+America
+Eisenhower
+Foundation
+Kerner
+Commission
+Violence
+senator
+at
+Healing
+America
+Years
+After
+
+<title/>
+
+Hi lkapkjvcfacudixcuq,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:=20
+
+If not, just let me know and we'll find something else.
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi gutilosjgvmiluxpwdaavybq,
+
+Thanks for signing up, and congratulations
+on your new mis fgybgmsiqvuqdhrcid account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=3D=3D=3D Account Information =3D=3D=3D
+ Username: grefsytzvgusxflatjgadhfxdy
+ Site ID: anueafofjgpwpfiycvepoktkv
+
+=3D=3D=3D Your Account Console =3D=3D=3D
+
+Thanks again!
+Team EEGEFOMJMUDBJBDTMBYVWV
+
+Powered by UOMAJCKLQXPVGCMEVKNNWP=20
+
+</title>
+
+Dear GGZMIUJWKIYBDGANGNSSARQUK hvrksqjoddygovfvqsrdpepqiq,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is igxousugrewoikpjctieiko=
+ks.
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+=3D=3D You need a budget, and your email needs confirmation. =3D=3D
+
+ Hello! Quick note to let you know that your email needs to be confirmed
+before all sorts of great things happen. Like your being able to use YNAB
+all along your road to budgeting glory. Please confirm by clicking the link
+below:
+
+ Confirm your email
+
+ Thank you!
+
+ And we're serious about budgeting glory. It's a real thing, and you will
+bask in it.
+
+ Regards,
+
+ The YNAB Team
+
+
+Dear Dalewoowood UENLBVYPIHBPBAIIBNRTSE,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is __Random_com[17,17,u].
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+OWAPIKZESBFKKTKCXZKQBVXMVGEDEWYYPGVIEQBUVKZOZFBVTJYGYYAWGUHLYQPNQACBXCFKEWB=
+PJVVYLAOBJAUKYIFZUQSVYNBXEFSRDVUKYEREASKBCWKMQZRHYTRRGMRMLWQOCGQAATKCTAOJUO=
+JQNHQJFQYEPICAQERHKKQIIKWUMPYCPBMRRDJFRSMRSHOPLMZL
+
+ Hi MUKTGXNGVXUNNSICTTWYKB,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:
+
+If not, just let me know and we'll find something else.
+
+cmikygohitxiemydzyzkkkrtzjlzgsqovqcbhdhfkhaloirklkqeofsuzvbyaqszmxluikbkwgw=
+tkudhqcelqfvyhmfiuxcyvsmxgzqhycnexnjslzjgigdhvqsvcpmjpapqrehdvsrtyywbjbkffd=
+tiadlbskwemoppggecjqunoisxyejvewttllvwypqgtbqtvenq
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi XP40W3XJ60AD77RABPED15ZDT,
+
+Thanks for signing up, and congratulations
+on your new misiuumqymehkehfaptsv account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=3D=3D=3D Account Information =3D=3D=3D
+ Username: ktrt
+ Site ID: bmfn
+
+=3D=3D=3D Your Account Console =3D=3D=3D
+
+Thanks again!
+
+Team PZMZMRHGYREHPJWHUUYQHG
+Powered by WGRHSJMMPYWADGLQICLGDK
+
+Login Name: ZKZZTAIUDLHKDBESSLMXWD
+Password: ASHVQCXGPEMSWYRDTVHNXD
+
+How do I become a tester for the XT 808 flashlight?
+
+Login Name: LQC
+Password: HRSOUGLUXFJXHHRNPGMQTW
+
+	V6HPU4M70POWRYKN22 4B20GAXE40GHWJR IBM8GTV0BASXZ KTG2EJBDSLKLL9KOYU CZTL2V=
+7QH8O3IVR 2UCU7MXDVVX8R 1RZF84O41MQGB5R86L=20
+	5E5TIPQAYO03UAPXV5 HG86MWYOPDOO8AW 2S9LLQ81WBP34 7QGSNPEO93T480SY4Y B9RHV7=
+P7ONKSR6G JBRO0JYGDMIDS D3XUUPDGBF252L7TZY=20
+	6QYFBB402B2V3TJ GEOFCYRDH3F1H YN8O1YR6YAGLLXM07M F50MOS5CK30C27F XCN85GCYK=
+2XFY UOP1DKVSMSUZY6C8AP H2NZVEZCOMLDZMP
+	I3TY3MILCWJ6T XU1VKESUOMCXM15NSA DTT0SN9EIVPY53X DK1TR4RWTCOSF 9DT2V4Q9VUX=
+7K5STG9 3RXG8I2H3OZJW4J SVOFCKUZWZF3W=20
+	8QOBRYVF3D0L7RM4ZR 5YP6NQLG12SMETT 81GSXTSC88N0M MNDT6YXFRUGNQ59Y7B 72I3XI=
+8EPS12086 SO6D9I7GGIADN ME9L885RFI90POSKFP=20
+	X99U2SYF52H87FM HMXTEA3GZUJ32 CNF2ANJIW9WPQD0MN3 VFISEE3JSHH3X3C 8GH0JIR7E=
+QDRX 2LLIGTTUNP5N2D5Z0B 0AQSIUDYL7DO24N=20
+	7J5JZFJEHC44F CO44RIR6D0JEH3ZGX0 MAFR60I5D6AWX06 OFULOH2LXKKB8 8PFTG77VM39=
+7079HV1 0IRDX8D79CS9O3E RMSBWORW8TOP7=20
+	9Z72QC86WWCSC0J49E OSJ60S6RSG0HBL0 9HXZ7MN3WLCY5 0Q09S0PCAAGW3IOMK9 Z39CLR=
+JRMGYNKTP D0E8AHUWYDSOH O9RJ2T2SY9X4XIO81Y=20
+	JHIYPAT2L9C9N8C K04RCLHC2JIXH GXF4IPP2LR1YI97N76 DE0DL6DRDU5HQ6H DTUFLHGE3=
+PWP9 E69C6VXZJSLBZFWXDP HWJQY36HG6OL3QQ=20
+	CU9CMCKBBK7XT LAX2XN8JOVR1EHQQA3 P9UIY9GYGN5R9SI H2OAST9O9ITCH WP1RKUKJ0CT=
+9WJCO5I 59HGD162W5DENF1 NZ1DSA2HKW6FO=20
+	292PUCSBKFWSR2TCPW NY3D2MANWZMFG1R J5M2TTHVJ3TSQ MY38XSOUM896EL1BVW ODAP64=
+PTAM5HVUW OR3G1F19IPLK8 AF8PDKIAFPGKJ6GABL=20
+	5Y5KN3DMM6RPCLX KXVRYNHH6OUS1 ATUTFC8AK0DO2N8A8Y W6Y1IKRBCJ3AZN0 FZUQOKL3T=
+BDYM V3803C3CF67P1EANNY WDP792JI7OXNPLJ=20
+	KD51QVBWCZEHE ULXE4WHADNQI53J5C1 T25J0I0SGMGIJSU BXTW43MLYWRWC CF72VWGLS0X=
+XZ7DFI1 ACUL7SGYYJSSKL1 XTWL8YEZW1ZPT=20
+	6R7NOL30PU6S9UQFYS 37UHHEPHJMR9A81 0NQU3MC0KOZFG NV2Q258YOQD2ISTD56 QEWNHH=
+V90YHZP8U ZWURJZC1XUPFE KZFJ9OS1IA86AO0583=20
+	4QNPD0QYUL84B0J R5F1JNW08H2GC BQOZ5DEII8R0X7II6F 5BNUALXF8Z24292 EP30BFL4F=
+S513 4QEK1T7Q8OD1UJ9W5P YCWVE5TNJGAGSOX=20
+	64ZHY55EP1C7J G0W5UFX3HVY1T73BVN A7EVJ3Z99JB0XBX E01PBNNZ5ABHX UG1GGGN5LGW=
+KAD6C87 MCTE4X1YYVOIAYI BCG5YW1HP5OKL=20
+	AKGOZD9YR98DYD2U08 832RYRD1AC17D37 I46UIPLKABR3M 14YVZ7DDLALYEXD6NC LZ31E8=
+IRI2UYNPP HZ629NOL8KMWS Z3X7WURPG9C5O2PU2J=20
+	PIQ11LO2Y3NGJQV TRRWGQ37EGHCT QD0BWJR3SP2ZI9C4BT Z5L1Q6MKA0COP83 EIFD0AY2O=
+24NZ 9214P5BNMJR87GB3JP GI8X3856QR1GNM0=20
+
+More than a quarter of Europeans surveyed believe Jews have too much influe=
+nce in business and finance. One in five say they have too much influence i=
+n media and politics. In individual
+1. Download Parsec for your device
+
+2. Set up Parsec on your PC to invite friends to game with you or to play f=
+rom anywhere
+
+3. Connect with your friends on Parsec
+
+4. If you don't have a gaming PC to co-op with friends, build one on Parsec
+
+5. Join our Discord for support, updates, and finding friends to game with
+
+       Less than 10% of EU aid money reaches the countries where it is most=
+ needed, according to a study that found levels of assistance had dropped f=
+or the second year running.
+
+The EU and its member states remain the biggest development donor group in =
+the world ? investing ?71.9bn ($61bn) in 2018, more than half of global aid=
+ ? but its contribution was 5.8% lower than in 2017, the European NGO netwo=
+rk, Concord, found in its AidWatch report.
+
+Progress on meeting the UN target of spending 0.7% of gross national income=
+ on aid, laid down in 1970, has gone into reverse, said the group. Their re=
+search showed that aid decreased to 0.47% of the EU?s combined GNI last yea=
+r, compared with 0.49% in 2017 and 0.51% in 2016.
+
+Advertisement
+
+Only Sweden, Luxembourg, Denmark and the UK met the 0.7% commitment.
+
+The UK?s three main political parties have committed to retaining the aid t=
+arget.
+
+Aid from five countries ? Italy, Greece, Finland, Austria and Lithuania ? d=
+ecreased by 10%.
+
+?We are moving further away from the 2030 Agenda [for sustainable developme=
+nt],? said Luca De Fraia of ActionAid Italy. ?Not only are we missing the t=
+arget in terms of quantity, but also the quality of aid is lagging behind.?
+
+Despite a marginal rise in aid going to the least developed countries (from=
+ 0.11% in 2017 to 0.12% in 2018), 16 countries, among the poorest in the wo=
+rld, currently receive only 8% of EU funding, AidWatch found.
+
+Guardian Today: the headlines, the analysis, the debate - sent direct to yo=
+u
+ Read more
+?sa Thomasson, from Concord Sweden, called on EU leaders to provide more ai=
+d and ensure it is used effectively to ?make the biggest difference to peop=
+le who are most marginalised, excluded or discriminated against and the poo=
+rest and most financially challenged countries?.
+
+The report noted progress on what can legitimately be recorded as aid. Some=
+ countries had included domestic spending on students, refugees or security=
+ in official figures. But such costs ? like debt relief, interest repayment=
+s on loans, or assistance ?tied? to the donor country ? are categorised as =
+?inflated aid?, since they do not necessarily contribute to development and=
+ are often funds that never leave the EU.
+
+This year?s report shows a 25% reduction in inflated aid, while refugee cos=
+ts decreased by approximately 35% and the use of aid for debt relief droppe=
+d by 66%.
+
+Jan van de Poel, policy and advocacy manager at the European Network on Deb=
+t and Development, said he was concerned that the commission is overestimat=
+ing the potential for ?blended finance? (linking aid with loans from public=
+ly-owned institutions or commercial lenders) to help achieve the sustainabl=
+e development goals.
+
+He pointed out that, as recently as 2016, more than half of all reported co=
+ntracts were still awarded to firms in the donor country. ?Donors not only =
+need to untie all aid, but also make sure that their procurement practices =
+are tailored towards the private sector in developing countries,? he said.
+
+Claire Godfrey, interim director of policy, advocacy and research at Bond, =
+the UK development network, praised the Department for International Develo=
+pment (DfID) for maintaining the 0.7% pledge and ensuring that the majority=
+ of its aid reached the people who need it the most. She added that other E=
+U countries needed to ?step up to the plate?.
+WLMPYCBZLTRYTZQUWJWYKTOVSUVGIAYNDAIFHVEBAURBIZCPBISHMHGIUCEBEHZLYCTNUZZYMIB=
+FTUEEFOOJWMBWRCCJZEXQYSVJIJZZVGITGUACLTCTKDKFUJMROQLFRXDGYSYWDJCEIBFBLSWBVN=
+YOISCISCIRIAUIVHCXWHCAGGGZQCQUYEWCEELRBZWWMXBDLMAVX
+Godfrey said DfID would ideally have oversight of all UK aid, rather than m=
+ultiple departments, since this would ?ensure not a single penny is diverte=
+d away from the poorest, most vulnerable and most marginalised?.
+
+With a general election looming, Labour, the Conservatives and the Liberal =
+Democrats have all stated their commitment to retaining the 0.7% aid target=
+, equating to roughly ?14bn, while the Green party said they would raise it=
+ to 1% ? in line with Sweden.
+
+
+Two-thirds of British people see overseas aid as 'a major priority'
+ Read more
+At a joint hustings event on women?s rights and sustainable development hel=
+d by ActionAid UK and the Overseas Development Institute on Monday, Lord Ra=
+y Collins pledged that Labour would triple funding to NACSKMEOLJDUDUAOGBRJG=
+JFYSULIZZGQARHBSRLCJHAIHCTYYDHCGHBHAUUYBKOAGNKPQVNKNDCRFQWKJBVEBSZGDMZVZMCE=
+ZUJAQKTMZNDNGPHWQVGBRJJAGAGKQCFCPGCHEGNEEGDWUFXZOPHXVPCAKFCJECNOOIIWLSCAAQX=
+IJQAPHOEHDCMVCTEFUOENENKXKKAC roots women?s groups in the global south.
+
+Elizabeth Babade, candidate for the Brexit party in Warrington North, said =
+her party would cut the foreign aid budget but declined to say by how much.
+
+The Conservative party did not put forward a candidate for the event, but r=
+estated its commitment to the 0.7% target in the House of Commons earlier t=
+his month. It stopped short, however, of committing to the retention of DfI=
+D as a separate department CSEOVNPNSJHPSJKILLKDERAJPWUAGFUZICAMFWWRLQRCFYPJ=
+JVWPPWTUHCDNYNOAOFQQTGIZPZHZILVNHBVYUDNDNWTZKGFCMVHLSWPBHKEQLOPULUKLHFBHQEZ=
+TPKDWZOTSMDFCLHABIPAVEJSASWERJZOMSKZBNGJDLYJZHSAZFEKFRKEPIPSCOGIHSTABKMDZLW=
+KZE to the Foreign and Commonwealth Office.
+
+The UN Conference on Trade and Development?s Least developed countries repo=
+rt, also published this week, called on the world?s poorest nations to ensu=
+re external finance from all sources is ?directed to nation UEBLADTPBEFTKSA=
+DPKZALLJGLDRCHNDPOODGWPXOFNLDZFMSGYDFVMZONPCCRDLBLXGJWNTOVWESATMWYPUDCEBRMG=
+ORNNEJDCGLZPDSXYODIYWDLQBWQADRJCDKHRSZWEWZAMITUOJCNBLUNLNAIRHIERMFXBJYSUHWR=
+LRSXUSSARGSIQWOBTFEFSUZKIMSJIZUFCRYA development priorities? as the best wa=
+y to ?manage their aid dependency and eventually escape it?.
+
+Since you?re here?
+? we have a small favour to ask. More people, like you, are reading and sup=
+porting the Guardian?s independent, investigative journalism than ever befo=
+re. And unlike many news organisations, we made the choice to keep our repo=
+rting open for all, regardless of where they live or what they can afford t=
+o pay.
+
+The Guardian will KPSHKJAZAKWSHIYRZWOFUSIASBDKDJCUPZLKUXNWKCFSYFZDTVUWJKWQE=
+XFEKVGQQWGDTUQVNZNNHXUZIPNGQCMEVVBZDSFSFYMYGNGTRZOILIHLPKRRKTJEWYNDTOTLMXSQ=
+CUJJFVGLNJBLGUTQHZMFERGVSUIHAJJVGNVKWUVEJPPHVIDLBNRZNFRLVMVYAVSIESOKVGYXQGC=
+RIXAHHZVYUQOQNAGCOLLQKSZEAUXUBVLWTNUPFVQWQSMZCSVKMYDUWPTQBLMXKRURXACXNZPKZL=
+WLOBLURXKYBYPYZWMWDPHHKIDKCEKAXLNBKXQPVMNCAUGFRUZRBVWSQFMUDRDIEQBYKCLADATUG=
+PEJYXNAVCVQDXLZOYYDIJSEBHVVPRMHPPQOYNEHLGQW  ?=20
+from the escalating climate catastrophe to widespread inequality to the inf=
+luence of big tech on our lives. At a time when factual information is a ne=
+cessity, we believe that each of us, around the world, deserves access to a=
+ccurate reporting with integrity at its heart.
+
+Our editorial independence means we set our own agenda and voice our own op=
+inions. Guardian journalism is free from commercial and political bias and =
+not influenced by billionaire owners or shareholders. This means we can giv=
+e a voice to those less heard, explore where others turn away, and rigorous=
+ly challenge those in power.
+
+We hope you will consider supporting us today. We need your support BNXYKAS=
+CFAPAWIPMZITBPFUGPNONALXHAGAUTXZVCRFKHVACSNONQCEYGUPUCARISWLSGALENWOYYSQXOW=
+GUCCAGWEIWLPCNPEXJUFJJCGXMDIQNVBRUZKEBAHDACJZOKPPYGTQXKAEBTVMLZLIVVOSAQVUZI=
+OGYNZGBVXMNYLOXUMLMQUHDFQDSHPIXFACEQUVTGBNZ  to keep delivering quality jou=
+rnalism that?s open and independent. Every reader contribution, however big=
+ or small, is so valuable. Support The Guardian from as little as $1 ? and =
+it only takes a minute. Thank you.      =20
+
+Parsec Cloud, Inc.=20
+115 Broadway, Fifth Floor, New York, NY 10006, USA
+
+</object>
+
+------=_Part_1_46436766
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<object style=3D"display:none;">
+This message was sent from a trusted sender
+<div style=3D"font-size:1px;color:#333333;line-height:1px;max-height:0px;ma=
+x-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0</div>
+She tried to explain that love wasn't like pie. There wasn't a set number o=
+f slices to be given out. There wasn't less to be given to one person if yo=
+u wanted to give more to another. That after a set amount was given out it =
+would all disappear. She tried to explain this, but it fell on deaf ears.
+I've rented a car in Las Vegas and have reserved a hotel in Twentynine Palm=
+s which is just north of Joshua Tree. We'll drive from Las Vegas through Mo=
+jave National Preserve and possibly do a short hike on our way down. Then s=
+pend all day on Monday at Joshua Tree. We can decide the next morning if we=
+ want to do more in Joshua Tree or Mojave before we head back.
+Symptoms of acute mountain sickness, or AMS as it=E2=80=99s known, include =
+trouble sredactedping, nausea, loss of appetite, and fatigue. If you keep g=
+oing higher and ignore signals from your body, you could develop HAPE, high=
+ altitude pulmonary edema, or HACE, high altitude cerebral edema, both of w=
+hich are very serious.
+They had no proof. He knew that they knew he had done it but they didn't ha=
+ve any proof. It was a huge distinction and it was the difference between h=
+im keeping his freedom or being locked away for decades. They continued to =
+question him, probing him for information that they could use against him o=
+r find the proof they needed to put him away. He smiled and continued to bl=
+ock their every inquiry by feigning his innocence for a crime they all knew=
+ he committed.
+</div><object><div style=3D"font-size:1px;color:#333333;line-height:1px;max=
+-height:0px;max-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0</div> </body></html>
+
+------=_Part_1_46436766
+
+
+
+------=_Part_1_46436766--

@@ -1,0 +1,332 @@
+Authentication-Results: mx.microsoft.com 1; spf=fail (sender IP is
+ 34.148.50.11) smtp.mailfrom=zwemwater.nl; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=zwemwater.nl;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:E3F6E38BBC375A073C776349FDEA984AA4D9E054D025AD231F9C0747B66DC405;UpperCasedChecksum:1B10835A6593904FFEAF61E51B80300B4A4E80FDA74C326447367FBA8A9CD67E;SizeAsReceived:290;Count:7
+From: Brain <support@zwemwater.nl>
+To: <redacted@redacted.com>
+Subject: Watch Before It Is Banned: The Brain Cleansing Ritual
+Message-ID: <ab240c9c9b1f4dafa58c463aa2c173dc@zwemwater.nl>
+Date: Sat, 24 Oct 2026 13:51:41 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 24 Oct 2026 13:51:41.8195
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 898ed4f4-f4f4-4fe4-646c-08df31d5ef0b
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ CH01EPF000BE948:EE_|SJ2P220MB1618:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ CH01EPF000BE948.namprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/24/2026 12:16:42 PM
+X-MS-Office365-Filtering-Correlation-Id: 898ed4f4-f4f4-4fe4-646c-08df31d5ef0b
+X-Sender-IP: 34.148.50.11
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|6100799021|1680799066|9000799056|260928210016899003|260826003000599003|60050799012|9400799043|11119299006|5149299006|10300799038|3069299007|46080799009|5139299004|32020799003|970799063|3025599003|34130799006|46110799015|1290799033|2700799033|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 24 Oct 2026 13:51:41.7214
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 898ed4f4-f4f4-4fe4-646c-08df31d5ef0b
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ CH01EPF000BE948.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ2P220MB1618
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3918055
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(10005027)(9610028)(9540006)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns=3D"hxxp://www[.]w3[.]org/1999/xhtml" lang=3D"en"=
+><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <title>Special Report: Roscept</title>
+    <style type=3D"text/css">
+        /* Mobile Optimization */
+        @media only screen and (max-width: 620px) {
+            .main-table {
+                width: 100% !important;
+            }
+
+            .mobile-headline {
+                font-size: 24px !important;
+                line-height: 1.3 !important;
+            }
+
+            .mobile-body {
+                font-size: 16px !important;
+                line-height: 1.6 !important;
+            }
+
+            .btn-cta {
+                width: 100% !important;
+                padding: 16px 15px !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .responsive-img {
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            .product-jar-img {
+                width: 220px !important;
+                max-width: 100% !important;
+                height: auto !important;
+            }
+        }
+    </style>
+</head>
+
+<body style=3D"margin: 0; padding: 0; background-color: #FFFFFF; -webkit-fo=
+nt-smoothing: antialiased;">
+
+    <!-- Outer Table -->
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+style=3D"background-color: #FFFFFF;">
+        <tbody>
+            <tr>
+                <td align=3D"center" style=3D"padding: 40px 15px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"600">
+                    <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                    <![endif]-->
+
+                    <!-- Main Container Table -->
+                    <table class=3D"main-table" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" style=3D"max-width: 600px; background-=
+color: #FFFFFF;">
+                        <tbody>
+
+                            <!-- Top Header (CBS News Logo & Byline) -->
+                            <tr>
+                                <td style=3D"padding-bottom: 15px;">
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"left">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/fadbosmem/li" target=3D"_blank" style=3D"text-decora=
+tion: none;">
+                                                        <span style=3D"font=
+-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: 900; c=
+olor: #111111; letter-spacing: -0.5px;">
+                                                            CBS <span style=
+=3D"color: #CC0000;">NEWS</span>
+                                                        </span>
+                                                    </a>
+                                                </td>
+                                                <td align=3D"right">
+                                                    <span style=3D"font-fam=
+ily: Arial, sans-serif; font-size: 11px; font-weight: bold; color: #777777;=
+ text-transform: uppercase;">
+                                                        By Jonathan LaPook
+                                                    </span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- Headline -->
+                            <tr>
+                                <td style=3D"padding-bottom: 25px;">
+                                    <h1 class=3D"mobile-headline" style=3D"=
+font-family: Georgia, 'Times New Roman', serif; font-size: 30px; font-weigh=
+t: normal; color: #111111; margin: 0; line-height: 1.3;">
+                                        Better Than Lecanemab? This 2-Minut=
+e Brain Cleansing Ritual Is Helping Thousands
+                                        of Americans Over 55 Reverse Cognit=
+ive Decline Without Drugs
+                                    </h1>
+                                </td>
+                            </tr>
+
+                            <!-- Body Content -->
+                            <tr>
+                                <td class=3D"mobile-body" style=3D"font-fam=
+ily: Georgia, 'Times New Roman', serif; font-size: 17px; color: #333333; li=
+ne-height: 1.7;">
+
+                                    <p style=3D"margin: 0 0 20px 0;">
+                                        Today, over 7 million Americans are=
+ living with Alzheimer's and cognitive
+                                        decline \u2014 now the sixth leadin=
+g cause of death in the United States. For
+                                        decades, patients have been told th=
+e exact same thing: manage the symptoms, slow
+                                        the decline, and accept what's comi=
+ng.
+                                    </p>
+
+                                    <p style=3D"margin: 0 0 25px 0;">
+                                        However, after 30 years studying ne=
+uro-degenerative diseases at UCLA,
+                                        world-renowned neurologist Dr. Dale=
+ Bredesen made a discovery that is rewriting
+                                        modern medicine: a simple <strong>2=
+-minute brain cleansing ritual</strong> that
+                                        flushes neural plaque and reactivat=
+es dormant cognitive pathways.
+                                    </p>
+
+                                    <!-- HERO IMAGE (Main Hook / Video Prev=
+iew) -->
+                                    <div style=3D"margin-bottom: 25px; text=
+-align: center; position: relative;">
+                                        <a href=3D"hxxps://storage[.]google=
+apis[.]com/fadbosmem/li" target=3D"_blank" style=3D"text-decoration: none; =
+display: block;">
+                                            <img src=3D"hxxps://i[.]8upload=
+[.]com/image/f48009150aaa9a1d/scr-20260911-lvle[.]png" alt=3D"Watch Dr. Bre=
+desen Presentation" width=3D"100%" class=3D"responsive-img" style=3D"displa=
+y: block; max-width: 100%; border: 0px solid #e0e0e0;">
+
+                                            <!-- Play Button Overlay -->
+                                            <div style=3D"position: absolut=
+e; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 70px; heig=
+ht: 70px; background-color: rgba(255, 80, 60, 0.85); border-radius: 50%; bo=
+rder: 3px solid #ffffff; box-shadow: 0 2px 10px rgba(0,0,0,0.5);">
+                                                <div style=3D"width: 0; hei=
+ght: 0; border-left: 20px solid #ffffff; border-top: 12px solid transparent=
+; border-bottom: 12px solid transparent; margin: 23px 0 0 28px;">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+
+                                    <p style=3D"margin: 0 0 20px 0;">
+                                        &quot;Two months in and I can easil=
+y find the right words when talking to my daughter
+                                        again,&quot; shared Emily, a viewer=
+. &quot;The brain fog has completely lifted. My husband
+                                        stopped finishing my sentences, and=
+ I haven't needed a sticky note in weeks.&quot;
+                                    </p>
+
+                                    <p style=3D"margin: 0 0 25px 0;">
+                                        Families across the country are see=
+ing miraculous turnarounds: parents
+                                        remembering all their grandkids' na=
+mes, recalling past holidays, and regaining
+                                        the sharp conversational clarity th=
+ey thought was lost forever.
+                                    </p>
+
+                                    <p style=3D"margin: 0 0 20px 0;">
+                                        Best of all? It requires zero risky=
+ pharmaceutical infusions like Lecanemab and
+                                        zero side effects. You simply pair =
+this daily ritual with
+                                        <strong>Roscept</strong> to nourish=
+ neural synapses and restore mental
+                                        sharpness naturally.
+                                    </p>
+
+                                    <p style=3D"margin: 0 0 30px 0;">
+                                        Watch the unedited presentation bel=
+ow before the pharmaceutical industry removes
+                                        it from the internet. This short vi=
+deo reveals the exact step-by-step protocol.
+                                    </p>
+
+                                </td>
+                            </tr>
+
+
+
+                            <!-- BOTTOM CTA Button -->
+                            <tr>
+                                <td align=3D"center" style=3D"padding-botto=
+m: 45px;">
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center" style=
+=3D"background-color: #FF503C; border-radius: 3px;">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/fadbosmem/li" target=3D"_blank" class=3D"btn-cta" st=
+yle=3D"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-si=
+ze: 15px; font-weight: bold; color: #ffffff; text-decoration: none; padding=
+: 18px 35px; display: inline-block; letter-spacing: 1px; text-transform: up=
+percase;">
+                                                        WATCH THE VIDEO
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- Footer Divider -->
+                            <tr>
+                                <td style=3D"border-top: 1px solid #eeeeee;=
+ padding-bottom: 20px;"></td>
+                            </tr>
+
+                            <!-- Footer -->
+                            <tr>
+                                <td align=3D"center" style=3D"font-family: =
+'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11px; color: #99=
+9999; line-height: 1.6;">
+                                    You are receiving this email because yo=
+u opted in to receive medical and neurology
+                                    reports.<br>
+                                    <a href=3D"hxxps://storage[.]googleapis=
+[.]com/fadbosmemunsb/li" style=3D"color: #999999; text-decoration: underlin=
+e;">Unsubscribe from future
+                                        emails</a><br><br>
+                                =EF=BF=BD Roscept Research 2026. All Rights=
+ Reserved.
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

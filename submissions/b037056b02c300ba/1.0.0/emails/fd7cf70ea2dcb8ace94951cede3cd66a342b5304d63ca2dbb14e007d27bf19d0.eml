@@ -1,0 +1,402 @@
+Authentication-Results: mx.microsoft.com 1; spf=softfail (sender IP is
+ 136.108.110.204) smtp.mailfrom=vistoenpantalla.com; dkim=none (message not
+ signed) header.d=none;dmarc=fail action=none
+ header.from=vistoenpantalla.com;compauth=fail reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:5F601AA69A3939399A0B6F51F099D83070F09D0E15FBFA152EFAEAD1DCECB6A4;UpperCasedChecksum:60F496CBFF67E015062322FC9F0983ACDC0C498206F9B45A27E78B190F593441;SizeAsReceived:298;Count:7
+From: Grace | Editorial Team <support@vistoenpantalla.com>
+To: <redacted@redacted.com>
+Subject: What 15,000 people experienced
+Message-ID: <9a8fa795c4aa49858b02b36d55d023a1@vistoenpantalla.com>
+Date: Wed, 21 Oct 2026 22:34:47 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 21 Oct 2026 22:34:47.6701
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 9e0d7423-fa8e-4ad1-e0bf-08df2fc3833a
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ BN2PEPF0000A98D:EE_|SJ2P220MB1512:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ BN2PEPF0000A98D.namprd04.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/21/2026 3:06:49 PM
+X-MS-Office365-Filtering-Correlation-Id: 9e0d7423-fa8e-4ad1-e0bf-08df2fc3833a
+X-Sender-IP: 136.108.110.204
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|11119299006|32020799003|5301999021|6401999021|2700799033|3069299007|970799063|6100799021|60050799012|34130799006|9400799043|10300799038|260928210016899003|32080799009|1290799033|9000799056|260826003000599003|8301999021|5139299004|1680799066|46080799009|11001999021|6022199012|18021999003|1380799030|1360799030|3412199025|4302099013|1370799030|440099028|56899033|1602099012|30041999003|2406899039;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 21 Oct 2026 22:34:47.5772
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 9e0d7423-fa8e-4ad1-e0bf-08df2fc3833a
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ BN2PEPF0000A98D.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ2P220MB1512
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.6287800
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns=3D"hxxp://www[.]w3[.]org/1999/xhtml" lang=3D"en"=
+><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <title>CBS News HealthWatch Special</title>
+    <style type=3D"text/css">
+        /* Client-Specific Resets */
+        body,
+        table,
+        td,
+        a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+            display: block;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0a0a0a;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Mobile Optimization */
+        @media only screen and (max-width: 620px) {
+            .main-container {
+                width: 100% !important;
+                border-radius: 0 !important;
+            }
+
+            .content-pad {
+                padding-left: 22px !important;
+                padding-right: 22px !important;
+            }
+
+            .headline {
+                font-size: 26px !important;
+                line-height: 1.25 !important;
+                letter-spacing: -0.3px !important;
+            }
+
+            .body-text {
+                font-size: 16px !important;
+                line-height: 1.65 !important;
+            }
+
+            .btn-cta {
+                width: 100% !important;
+                padding: 20px 12px !important;
+                font-size: 17px !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+                display: block !important;
+            }
+
+            .footer-col {
+                display: block !important;
+                width: 100% !important;
+                text-align: center !important;
+                padding-bottom: 8px !important;
+            }
+
+            .footer-col img {
+                margin: 0 auto !important;
+            }
+
+            .footer-meta {
+                text-align: center !important;
+                padding-left: 0 !important;
+            }
+
+            .hero-img {
+                width: 100% !important;
+                max-width: 100% !important;
+                border-radius: 0 !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Hidden Preheader -->
+    <div style=3D"display: none; font-size: 1px; color: #0a0a0a; line-heigh=
+t: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-=
+hide: all;">
+        Warren Buffett and Dr. Phil reveal the 5G memory healing recipe rev=
+ersing cognitive decline...
+        \u034f \u200c &nbsp; \u2007 =EF=BF=BD \u034f \u200c &nbsp; \u2007 =
+=EF=BF=BD \u034f \u200c &nbsp; \u2007 =EF=BF=BD
+    </div>
+
+    <!-- Outer Canvas Wrapper -->
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+style=3D"background-color: #0a0a0a;">
+        <tbody>
+            <tr>
+                <td align=3D"center" style=3D"padding: 40px 15px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"600">
+                    <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                    <![endif]-->
+
+                    <!-- Main Content Card -->
+                    <table class=3D"main-container" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-width: 600px; backgro=
+und-color: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 20=
+px 60px rgba(0,0,0,0.5);">
+                        <tbody>
+
+                            <!-- Top Accent Bar -->
+                            <tr>
+                                <td style=3D"background: linear-gradient(90=
+deg, #c41e1e 0%, #ff2222 50%, #c41e1e 100%); height: 4px; font-size: 0; lin=
+e-height: 0;">&nbsp;</td>
+                            </tr>
+
+                            <!-- CBS News Centered Header -->
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 30px=
+ 20px 15px 20px;">
+                                    <a href=3D"hxxps://storage[.]googleapis=
+[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=3D"text-decorati=
+on: none; display: inline-block;">
+                                        <img src=3D"hxxps://images[.]seeklo=
+go[.]com/logo-png/20/2/cbs-news-logo-png_seeklogo-206703[.]png" alt=3D"CBS =
+News" width=3D"60" style=3D"display: block; width: 60px; max-width: 100%; h=
+eight: auto; border: 0; margin: 0 auto; opacity: 0.85;">
+                                    </a>
+                                </td>
+                            </tr>
+
+                            <!-- Main Body Section -->
+                            <tr>
+                                <td class=3D"content-pad" style=3D"padding:=
+ 10px 38px 30px 38px; text-align: center;">
+
+                                    <!-- Bold Centered Headline -->
+                                    <h1 class=3D"headline" style=3D"font-fa=
+mily: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 30px; font=
+-weight: 800; color: #111111; margin: 0 0 28px 0; line-height: 1.18; letter=
+-spacing: -0.8px; text-align: center;">
+                                        Warren Buffett &amp; Dr. Phil Revea=
+l the <span style=3D"color: #cc0000;">$1 Recipe</span> That Removes 5G Poll=
+ution &amp; Reverses Memory Loss
+                                    </h1>
+
+                                    <!-- Hero Image Placeholder -->
+                                    <div style=3D"margin: 0 auto 28px auto;=
+ text-align: center;">
+                                        <a href=3D"hxxps://storage[.]google=
+apis[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=3D"text-deco=
+ration: none; display: block;">
+                                            <img class=3D"hero-img" src=3D"=
+hxxps://i[.]8upload[.]com/image/295327130349af50/scr-20260923-mpbs[.]png" a=
+lt=3D"Watch Memory Healing Video" width=3D"530" style=3D"display: block; wi=
+dth: 100%; max-width: 530px; height: auto; border: 0; margin: 0 auto; borde=
+r-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
+                                        </a>
+                                    </div>
+
+                                    <!-- Editorial Text Block -->
+                                    <div class=3D"body-text" style=3D"font-=
+family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; co=
+lor: #222222; line-height: 1.65; text-align: left;">
+
+                                        <p style=3D"margin: 0 0 20px 0;">
+                                            Memory loss is not an inevitabl=
+e part of getting older. In a broadcast that
+                                            Big Pharma tried to suppress, 9=
+5-year-old Warren Buffett revealed that
+                                            cognitive decline is caused by =
+silent technological poisoning from 5G,
+                                            Wi-Fi, and microplastics.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 20px 0;">
+                                            Dr. Phil shared an ancient
+                                            <strong><a href=3D"hxxps://stor=
+age[.]googleapis[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=
+=3D"color: #cc0000; text-decoration: underline; text-decoration-thickness: =
+2px; text-underline-offset: 3px;">memory healing recipe</a></strong>
+                                            that filters these harmful neur=
+otoxins from the brain while naturally
+                                            rebuilding Acetylcholine levels=
+.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 20px 0;">
+                                            Over <strong>15,000 Americans</=
+strong> have used this simple home protocol to clear brain
+                                            fog, recall names instantly, an=
+d regain mental independence in just two
+                                            weeks.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 32px 0; fon=
+t-weight: 600; color: #111;">
+                                            No expensive prescriptions, no =
+dangerous side effects, and zero doctor visits.
+                                        </p>
+
+                                    </div>
+
+                                    <!-- Prominent CTA Button -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" style=3D"margin-bottom: 10px;">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/synaptril-memory-losss/lis" target=3D"_blank" class=
+=3D"btn-cta" style=3D"background: linear-gradient(135deg, #ff2222 0%, #cc00=
+00 100%); color: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, =
+sans-serif; font-size: 18px; font-weight: 700; text-decoration: none; paddi=
+ng: 20px 40px; border-radius: 6px; display: inline-block; letter-spacing: 0=
+.3px; box-shadow: 0 6px 20px rgba(204,0,0,0.4); text-transform: uppercase; =
+border: 1px solid #b30000;">
+                                                        \u25b6 Watch Dr. Ph=
+il's Memory Healing Protocol
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                    <!-- Trust Indicator -->
+                                   =20
+
+                                </td>
+                            </tr>
+
+                            <!-- INVERTED DARK FOOTER WITH WHITE CBS LOGO -=
+->
+                            <tr>
+                                <td style=3D"background-color: #111111; pad=
+ding: 28px 34px 20px 34px; color: #ffffff;">
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">
+                                        <tbody>
+                                            <tr>
+                                                <!-- Inverted White Logo --=
+>
+                                                <td class=3D"footer-col" va=
+lign=3D"middle" style=3D"width: 120px; padding-bottom: 12px;">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=
+=3D"text-decoration: none; display: inline-block;">
+                                                        <img src=3D"hxxps:/=
+/images[.]seeklogo[.]com/logo-png/20/2/cbs-news-logo-png_seeklogo-206703[.]=
+png" alt=3D"CBS News" width=3D"100" style=3D"display: block; max-height: 45=
+px; width: auto; filter: brightness(0) invert(1); -webkit-filter: brightnes=
+s(0) invert(1); opacity: 0.9;">
+                                                    </a>
+                                                </td>
+
+                                                <!-- Meta Text -->
+                                                <td class=3D"footer-col foo=
+ter-meta" valign=3D"middle" style=3D"padding-left: 12px; font-family: 'Helv=
+etica Neue', Helvetica, Arial, sans-serif; text-align: right;">
+                                                    <div style=3D"font-size=
+: 10px; color: #999999; text-transform: uppercase; letter-spacing: 1px; fon=
+t-weight: 500;">
+                                                        CBS HealthWatch \u2=
+014 Independent Reporting
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                            <!-- Divider Line -->
+                                            <tr>
+                                                <td colspan=3D"2" style=3D"=
+border-top: 1px solid #2a2a2a; padding-top: 18px;"></td>
+                                            </tr>
+
+                                            <!-- Legal Navigation & Unsubsc=
+ribe -->
+                                            <tr>
+                                                <td colspan=3D"2" align=3D"=
+center" style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, sans-seri=
+f; font-size: 11px; color: #777777; line-height: 2;">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=
+=3D"color: #cccccc; text-decoration: none; font-weight: 500;">Privacy Polic=
+y</a> &nbsp;=EF=BF=BD&nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=
+=3D"color: #cccccc; text-decoration: none; font-weight: 500;">Terms of Use<=
+/a> &nbsp;=EF=BF=BD&nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/synaptril-memory-losss/lis" target=3D"_blank" style=
+=3D"color: #cccccc; text-decoration: none; font-weight: 500;">List of Cooki=
+es</a> &nbsp;=EF=BF=BD&nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/sdfhsdgjhdghfgdsfgsdsdddd/lis" target=3D"_blank" sty=
+le=3D"color: #ff4444; text-decoration: underline; font-weight: 600;">Unsubs=
+cribe</a>
+                                                    <br>
+
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

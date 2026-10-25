@@ -1,0 +1,119 @@
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 173.248.224.36) smtp.mailfrom=gyzq.com.hk; dkim=pass (signature was verified)
+ header.d=gyzq.com.hk;dmarc=pass action=none
+ header.from=gyzq.com.hk;compauth=pass reason=100
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:BCB332B77ACBFE7E4BAA0A0467BB978ED192B63EF013D8BF30EC9059B8B1F048;UpperCasedChecksum:0343758D4BFF18F7FB840CE468DD6ADB28FB151325DCA933A3A8A44DA20ADE0F;SizeAsReceived:1516;Count:18
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=gyzq.com.hk; s=20211118; h=Received:Reply-To:From:Subject:Date:
+	MIME-Version:Content-Type:Content-Transfer-Encoding:Message-Id;
+	bh=o52AyHCrF2+OdTe+ME2OGaPOFm1e1HqtbXzNzQeDRqY=; b=verzHbvLWMiSz
+	EWmzpqPGGT0+yx1lZmIr+mGLXpj8nWoQOIEJ0ZIq+lMCI+8NF5LOSO6ow1yuD9Ui
+	qyrRCDe+ze87s5hz6JcHh9HfW1/yY4N0IofFDmpR/1D4OIsNMLCWR25qpSA3x7Fw
+	7Rvu/3CpoaCma4h/xYNBM3r8VZUGcM=
+Reply-To: <fdvgovzin@gmail.com>
+From: "Oceanic First Credit"<notification@gyzq.com.hk>
+Subject: Re: Notification Delivery 
+Date: Fri, 23 Oct 2026 04:27:39 -0700
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-CM-TRANSID: AQAAfwCnr6ygRNtq0ngeAA--.28545S3
+Message-Id: <6ADB44AC.15FF98.32514@gyzq.com.hk>
+Authentication-Results-Original: mail-server; spf=neutral
+ smtp.mail=notificatio	n@gyzq.com.hk;
+X-Coremail-Antispam: 1UD129KBjvdXoW7Xw1kKF4DXF1UXF47uFyrCrg_yoWxZFb_ua
+	n2v3s7tFZrCry8Cr4DtrWY9rWrA39agF15uw4kJ3yUXryxJ39Ika4jyrykW345JFsFyrs8
+	WF1aga4Yy3yS9jkaLaAFLSUrUU0ojb8apTn2vfkv8UJUUUU8Yxn0WfASr-VFAUDa7-sFnT
+	9fnUUIcSsGvfJ3UbIYCTnIWIevJa73UjIFyTuYvj4RJUUUUUUUU
+X-CM-SenderInfo: pqrwxwxlfd3x1rq6w512tou0npoky/
+X-IncomingHeaderCount: 18
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Oct 2026 12:32:33.0774
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 2bb183a8-fb5a-4d4e-16a6-08df3101b629
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ ZR1PEPF0000E6BA:EE_|LV8P220MB1389:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ ZR1PEPF0000E6BA.eurprd07.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/23/2026 8:57:26 AM
+X-MS-Office365-Filtering-Correlation-Id: 2bb183a8-fb5a-4d4e-16a6-08df3101b629
+X-Sender-IP: 173.248.224.36
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|34130799006|30140799009|33080799006|260826003000599003|119000799009|260928210016899003|3600799018|260925184616899003|100100799003|6089299003|84100799006|970799063|21090799003|29090799004|22090799003|26104999009|1380799030|1370799030|1360799030|440099028|3412199025|5090599003|30041999003|22062799003;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Oct 2026 12:32:32.2553
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 2bb183a8-fb5a-4d4e-16a6-08df3101b629
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ ZR1PEPF0000E6BA.eurprd07.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: LV8P220MB1389
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.5673761
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0522.007
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;auth:1;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><title></title>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="5" topmargin="5" rightmargin="5" bottommargin="5">
+<font size="2" color="#000000" face="Arial">
+<div>
+<font size="4" face="Bahnschrift SemiLight">Dear Valued Customer,</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">&nbsp;</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">The management of Oceanic Heritage Trust Bank wishes to inform you that arrangements are underway to release your outstanding funds sum of $4,000,000 via ATM card delivery.</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">&nbsp;</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">The delivery charge is $450. Please verify the fee and payment procedure through our official customer service channels before making payment. Tracking details will be provided once delivery is confirmed.</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">&nbsp;</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Kindly provide the following details through a secure, verified channel:</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">&nbsp;</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Full name for the ATM card</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Residential delivery address</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Contact telephone number</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Thank you for your cooperation.</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">&nbsp;</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Yours faithfully,</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Paul Johnson Phil</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Management</font></div>
+<div>
+<font size="4" face="Bahnschrift SemiLight">Oceanic Heritage Trust Bank</font></div>
+</font>
+</body></html>
+
