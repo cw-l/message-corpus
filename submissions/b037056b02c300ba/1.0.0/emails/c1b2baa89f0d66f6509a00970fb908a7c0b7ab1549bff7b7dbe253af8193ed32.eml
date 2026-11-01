@@ -1,0 +1,422 @@
+Authentication-Results: mx.microsoft.com 1; spf=fail (sender IP is
+ 35.255.7.120) smtp.mailfrom=peugeotsport-store.com; dkim=none (message not
+ signed) header.d=none;dmarc=fail action=none
+ header.from=peugeotsport-store.com;compauth=fail reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:729A7E295169BEE1412E34B5D7D40543AA77ADCF5466AFA823A4350A386F0840;UpperCasedChecksum:ECAB087011CB71A26123189312ED3188A583786D7C6468A81C37DF5BD518FFE8;SizeAsReceived:318;Count:7
+From: Rosemary Remedy <support@peugeotsport-store.com>
+To: <redacted@redacted.com>
+Subject: Could this common herb support your memory routine?
+Message-ID: <8fc98d296bd64466807e8c7fedd15ea5@peugeotsport-store.com>
+Date: Sun, 25 Oct 2026 17:37:57 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 25 Oct 2026 17:37:58.1711
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 441ede77-cfa7-46e2-fdb2-08df32beb597
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ CO1PEPF00012E5F:EE_|SA1P220MB1562:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ CO1PEPF00012E5F.namprd05.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/25/2026 12:38:23 PM
+X-MS-Office365-Filtering-Correlation-Id: 441ede77-cfa7-46e2-fdb2-08df32beb597
+X-Sender-IP: 35.255.7.120
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|970799063|32080799009|2700799033|46080799009|34130799006|32020799003|5139299004|1290799033|260928210016899003|6100799021|11119299006|3069299007|5149299006|9400799043|10300799038|9000799056|260826003000599003|1680799066|60050799012|8011999015|56899033|18021999003|6022199012|3412199025|440099028|7310799015|1380799030|1360799030|1370799030|7112599012|30041999003|2406899039;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Oct 2026 17:37:57.9766
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 441ede77-cfa7-46e2-fdb2-08df32beb597
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ CO1PEPF00012E5F.namprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA1P220MB1562
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.7220842
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0546.016
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The SuperAger Secret</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #EEF1F4;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.65;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 24px;
+            -webkit-font-smoothing: antialiased;
+            color: #2A2D34;
+        }
+
+        .email-container {
+            max-width: 580px;
+            width: 100%;
+            background: #FFFFFF;
+            border-radius: 18px;
+            border: 1px solid #E2E6EA;
+            box-shadow: 0 6px 30px rgba(0, 0, 0, 0.07);
+            overflow: hidden;
+        }
+
+        /* Top accent bar */
+        .accent-bar {
+            height: 5px;
+            background: linear-gradient(90deg, #0E7C66, #2AB596, #0E7C66);
+        }
+
+        .inner-pad {
+            padding: 40px 40px 32px;
+        }
+
+        /* ---------- TOPIC TAG ---------- */
+        .tag-row {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 22px;
+        }
+
+        .topic-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 7px 18px;
+            border-radius: 100px;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            background: #E8F7F2;
+            color: #0E7C66;
+            border: 1px solid #C9EDE2;
+        }
+
+        .topic-tag span {
+            font-size: 14px;
+            line-height: 1;
+        }
+
+        /* ---------- HEADLINE ---------- */
+        .headline {
+            font-size: 26px;
+            font-weight: 800;
+            line-height: 1.3;
+            letter-spacing: -0.015em;
+            color: #1A1D21;
+            margin-bottom: 26px;
+            text-align: left;
+        }
+
+        .headline .highlight {
+            color: #0E7C66;
+        }
+
+        /* ---------- HERO IMAGE ---------- */
+        .hero-wrap {
+            text-align: center;
+            margin-bottom: 26px;
+        }
+
+        .hero-wrap a {
+            display: inline-block;
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .hero-wrap a:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.16);
+        }
+
+        .hero-wrap img {
+            display: block;
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            border: 0;
+        }
+
+        /* ---------- BODY COPY ---------- */
+        .body-copy p {
+            font-size: 16px;
+            color: #3C4045;
+            margin-bottom: 18px;
+            line-height: 1.7;
+        }
+
+        .body-copy p.lead {
+            font-size: 17px;
+            color: #2A2D34;
+            font-weight: 500;
+        }
+
+        .body-copy .emphasis {
+            font-size: 20px;
+            font-weight: 800;
+            color: #0E7C66;
+            text-align: center;
+            padding: 6px 0 2px;
+            letter-spacing: -0.01em;
+        }
+
+        .body-copy strong {
+            color: #1A1D21;
+            font-weight: 700;
+        }
+
+        /* ---------- STATS BOX ---------- */
+        .stats-box {
+            background: #F5FBF9;
+            border: 1px solid #D6EFE7;
+            border-left: 4px solid #0E7C66;
+            border-radius: 12px;
+            padding: 20px 24px;
+            margin: 24px 0;
+        }
+
+        .stats-box .stats-title {
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.6px;
+            color: #0E7C66;
+            margin-bottom: 14px;
+        }
+
+        .stats-box ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .stats-box li {
+            font-size: 15.5px;
+            color: #2A2D34;
+            padding: 7px 0 7px 30px;
+            position: relative;
+            line-height: 1.5;
+        }
+
+        .stats-box li::before {
+            content: "\u2713";
+            position: absolute;
+            left: 0;
+            top: 6px;
+            width: 20px;
+            height: 20px;
+            background: #0E7C66;
+            color: #FFFFFF;
+            border-radius: 50%;
+            font-size: 12px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .stats-box li .stat-num {
+            font-weight: 800;
+            color: #0E7C66;
+        }
+
+        /* ---------- CTA ---------- */
+        .cta-wrap {
+            text-align: center;
+            margin: 30px 0 8px;
+        }
+
+        .btn-cta {
+            display: inline-block;
+            background: linear-gradient(135deg, #0E7C66, #14A085);
+            color: #FFFFFF;
+            font-size: 18px;
+            font-weight: 700;
+            text-align: center;
+            padding: 18px 40px;
+            border-radius: 100px;
+            text-decoration: none;
+            letter-spacing: 0.2px;
+            box-shadow: 
+                0 8px 22px rgba(14, 124, 102, 0.35),
+                0 1px 0 rgba(255, 255, 255, 0.2) inset;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+        }
+
+        .btn-cta:hover {
+            transform: translateY(-1px);
+            box-shadow: 
+                0 12px 28px rgba(14, 124, 102, 0.45),
+                0 1px 0 rgba(255, 255, 255, 0.2) inset;
+        }
+
+        .cta-sub {
+            font-size: 13px;
+            color: #7A8088;
+            margin-top: 14px;
+            font-weight: 500;
+        }
+
+        /* ---------- FOOTER ---------- */
+        .footer {
+            border-top: 1px solid #E9ECEF;
+            margin-top: 32px;
+            padding-top: 22px;
+            text-align: center;
+        }
+
+        .footer p {
+            font-size: 12px;
+            color: #9AA0A8;
+            line-height: 1.7;
+            margin-bottom: 8px;
+        }
+
+        .footer a {
+            color: #7A8088;
+            text-decoration: underline;
+            font-size: 12px;
+        }
+
+        .footer a:hover {
+            color: #0E7C66;
+        }
+
+        /* ---------- MOBILE ---------- */
+        @media (max-width: 520px) {
+            .inner-pad {
+                padding: 28px 22px 24px;
+            }
+            .headline {
+                font-size: 22px;
+            }
+            .body-copy p {
+                font-size: 15px;
+            }
+            .body-copy .emphasis {
+                font-size: 18px;
+            }
+            .btn-cta {
+                font-size: 16px;
+                padding: 16px 28px;
+                width: 100%;
+            }
+            .stats-box {
+                padding: 16px 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="email-container">
+        <div class="accent-bar"></div>
+        <div class="inner-pad">
+
+            <!-- Topic tag -->
+            <div class="tag-row">
+                <div class="topic-tag">
+                    <span>\U0001f9e0</span> Cognitive Health Research
+                </div>
+            </div>
+
+            <!-- Headline -->
+            <h1 class="headline">
+                With Over <span class="highlight">7 Million Americans</span> Dealing with Cognitive Decline, Science Has Just Discovered Why Some 90-Year-Olds Never Experience It.
+            </h1>
+
+            <!-- Hero image -->
+            <div class="hero-wrap">
+                <a href="hxxps://storage[.]googleapis[.]com/jimdeclieste/li">
+                    <img src="hxxps://www[.]ni03hfph[.]com/686/offers/21737/c/62926/assets/bandb[.]png" width="500" alt="SuperAgers brain health discovery">
+                </a>
+            </div>
+
+            <!-- Body copy -->
+            <div class="body-copy">
+                <p class="lead">
+                    How is it that icons like Warren Buffett or Carol Burnett reach their 90s with minds as razor-sharp as ever, while millions of others experience brain fog and memory slips as early as 65?
+                </p>
+
+                <p>
+                    For decades, we were told cognitive decline was a one-way street. Modern medicine advised us to &quot;manage symptoms&quot; to slow down the inevitable, and just accept what was coming.
+                </p>
+
+                <p class="emphasis">They were wrong.</p>
+
+                <p>
+                    Scientists studying &quot;SuperAgers&quot; discovered something that shocked the medical world: these individuals aren't just lucky\u2014their brains have <strong>4x more active levels</strong> of a natural defense system that actively flushes out decades of toxic buildup.
+                </p>
+
+                <p>
+                    Using a simple, homemade mixture that costs less than $2 to make\u2014studies showed staggering real-world results:
+                </p>
+            </div>
+
+            <!-- Stats box -->
+            <div class="stats-box">
+                <div class="stats-title">Real-World Study Results</div>
+                <ul>
+                    <li><span class="stat-num">89%</span> reported brain fog lifting within the first week</li>
+                    <li><span class="stat-num">84%</span> regained daily independence in under three weeks</li>
+                    <li><span class="stat-num">92%</span> reported restoring full cognitive function after just four weeks</li>
+                </ul>
+            </div>
+
+            <div class="body-copy">
+                <p>
+                    You don't have to accept losing yourself piece by piece. There is real, proven hope.
+                </p>
+            </div>
+
+            <!-- CTA -->
+            <div class="cta-wrap">
+                <a href="hxxps://storage[.]googleapis[.]com/jimdeclieste/li" class="btn-cta">Watch the Free Video Now</a>
+                <div class="cta-sub">Before it gets taken down \u2014 limited availability</div>
+            </div>
+
+            <!-- Footer -->
+            <div class="footer">
+                <p>You are receiving this email because you opted in to receive health-related updates.</p>
+                <p>
+                    <a href="hxxps://storage[.]googleapis[.]com/jimdecliesteunsb/li">Unsubscribe</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

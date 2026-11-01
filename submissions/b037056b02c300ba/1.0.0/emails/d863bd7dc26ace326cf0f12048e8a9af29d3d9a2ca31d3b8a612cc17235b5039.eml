@@ -1,0 +1,213 @@
+Authentication-Results: mx.microsoft.com 1; spf=fail (sender IP is
+ 35.237.140.219) smtp.mailfrom=polisinsesi.com; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none
+ header.from=polisinsesi.com;compauth=fail reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:AD229A78E12EC0302C73C5CEB545B355A6FAF1B471E37E703ED28E6C7451DCBB;UpperCasedChecksum:972BA7C3EC6C66C8BEDF942CECF0DF241265903C87B675405B34A77552A7AB5D;SizeAsReceived:276;Count:7
+From: System Admin <support@polisinsesi.com>
+To: <redacted@redacted.com>
+Subject: Service Termination Notice
+Message-ID: <062be8972e2e4c40862f50a12cc7d68a@polisinsesi.com>
+Date: Sat, 31 Oct 2026 16:22:13 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 31 Oct 2026 16:22:13.6603
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ b6ec45fb-9061-4607-2cf5-08df376b1f55
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ BL6PEPF0002256E:EE_|BY1P220MB1920:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ BL6PEPF0002256E.namprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/31/2026 2:07:18 PM
+X-MS-Office365-Filtering-Correlation-Id: b6ec45fb-9061-4607-2cf5-08df376b1f55
+X-Sender-IP: 35.237.140.219
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|32020799003|260826003000599003|260928210016899003|3069299007|5019299006|46080799009|34130799006|970799063|9400799043|3025599003|2700799033|1290799033|60050799012|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 31 Oct 2026 16:22:13.5664
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ b6ec45fb-9061-4607-2cf5-08df376b1f55
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ BL6PEPF0002256E.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY1P220MB1920
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.9219777
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0569.002
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9710001)(9610028)(9520007)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Cloud Disabled</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #fef2f2;
+            font-family: -apple-system, BlinkMacSystemFont, Arial, sans-ser=
+if;
+        }
+
+        .container {
+            max-width: 550px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(220, 38, 38, 0.15);
+            border: 1px solid #fecaca;
+        }
+
+        .hero {
+            background: #b91c1c;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+        }
+
+        .status-bar {
+            background: #7f1d1d;
+            color: #fecaca;
+            padding: 8px;
+            font-size: 12px;
+            font-weight: bold;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .body-p {
+            padding: 30px;
+        }
+
+        .warning-list {
+            background: #fff5f5;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
+            border: 1px solid #fed7d7;
+        }
+
+        .list-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            color: #9b2c2c;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .list-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .x-mark {
+            color: #e53e3e;
+            font-weight: bold;
+            margin-right: 10px;
+            font-size: 18px;
+        }
+
+        .btn {
+            display: block;
+            width: 100%;
+            background: #e53e3e;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding: 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 18px;
+            box-shadow: 0 2px 5px rgba(229, 62, 62, 0.4);
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 11px;
+            color: #a0aec0;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class=3D"container">
+        <div class=3D"status-bar">System Alert \u2022 <span id=3D"sys_date"=
+></span></div>
+        <div class=3D"hero">
+            <h1 class=3D"h1">Cloud Services Disabled</h1>
+            <p style=3D"margin-top: 8px; opacity: 0.9;">Your storage limit =
+has been reached.</p>
+        </div>
+
+        <div class=3D"body-p">
+            <p style=3D"margin-top: 0; font-size: 16px; color: #2d3748; lin=
+e-height: 1.5; text-align: center;">
+                We have paused all upload and sync activities for your acco=
+unt. New data is not being saved.
+            </p>
+
+            <div class=3D"warning-list">
+                <div class=3D"list-item"><span class=3D"x-mark">=EF=BF=BD</=
+span> Photo Backup Paused</div>
+                <div class=3D"list-item"><span class=3D"x-mark">=EF=BF=BD</=
+span> Drive Uploads Blocked</div>
+                <div class=3D"list-item"><span class=3D"x-mark">=EF=BF=BD</=
+span> Email Attachments Disabled</div>
+            </div>
+
+            <a href=3D"hxxps://storage[.]googleapis[.]com/tyshdfghdfgqssdgh=
+d/lis" class=3D"btn">Reactivate Storage Now</a>
+
+            <p style=3D"text-align: center; font-size: 13px; color: #718096=
+; margin-top: 20px;">
+                To restore full service functionality, you must upgrade you=
+r storage plan or free up space immediately.
+            </p>
+        </div>
+
+        <div class=3D"footer">
+            <a href=3D"hxxps://www[.]coredatafye[.]com/o-vskv-d21-7d6e613b7=
+4db98758b70649967210196" style=3D"color: #a0aec0;">Unsubscribe from alerts<=
+/a>
+        </div>
+    </div>
+    <script>
+        const d3 =3D new Date();
+    document.getElementById('sys_date').textContent =3D d3.toLocaleDateStri=
+ng('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    </script>
+</body>
+
+</html>

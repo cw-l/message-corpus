@@ -1,0 +1,203 @@
+ARC-Seal: i=2; a=rsa-sha256; t=1793129442; cv=pass;
+        d=google.com; s=arc-20260327;
+        b=SdyxoA58242DIrDs4I2/AeAkZJEpr5AuZ76+ghQptHJBFTBMZhjJ7duv4EXAZJzJOv
+         fsaeLTD5HsUSa6kqOAr9xeowiYNalt7Yth2p/ivqTH9GFy+1X7IGvvTALrovgv3YnKHY
+         +I4M5xtMVOhYWWZBDsvi82zWWjGnjsGtnusUgdewk/XDFZFKjKYGgucaPZpDY83p6QsF
+         B1FZ+ohy+6QPOM/a/T0Fv1fDObRrSCyN4b/WqcZtVtM84fZcEhK2f/bFX4kglcz+0OYD
+         ZMMoUkEXnNgpe0D9jA56W1iXJkBhwI7mekgLzooKwy1drMdq2dFmfj71PayVLTS0upFT
+         ZK+Q==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=to:subject:message-id:date:from:sender:mime-version:dkim-signature;
+        bh=UewZZ37RrZeYafvtb4MBr3ujknfy2bw7BB8DJwEt0Dg=;
+        fh=OyBJhkY9A7uaa9ZVKsFcCuYG0wwm1lKEl9tvwYVDNt8=;
+        b=dhWZnvqKjyyOIlbMhuLcSZngR4tS6obHSttz8Niq2pOthoNJmpBUaDeEg1oTZuXHzs
+         5rStgZSuOV9e/KIjAQm7XKewPD2JY93aZk3pwCZk/PLQsiSgao6qfL0On0KpGPwerh6F
+         4Foh721o4sSZqrSvw/nZA8168dxh405EahwEvR0elTc6s2VB0twJo/M6MmIbWzgDF1HB
+         uAZl+iTFkw3WcRqaf7Fwv96g4/P7i+yqjnc6mb+brEm0tKXBLvQzB99A3hjvuZBsDUfd
+         VAexaMENTDgkes4YXZuZnU6pM1/9ty/oJs2JJZhdbymfM+u2qy6ihP08MHS0am2Ody+O
+         W/Qw==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@moe-dl.edu.my header.s=google header.b="ZAW/RqcO";
+       arc=pass (i=1);
+       spf=pass (google.com: domain of m-15601892@moe-dl.edu.my designates
+ 209.85.220.65 as permitted sender) smtp.mailfrom=m-15601892@moe-dl.edu.my;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE)
+ header.from=moe-dl.edu.my;
+       dara=pass header.i=@gmail.com
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@moe-dl.edu.my header.s=google header.b="ZAW/RqcO";
+       arc=pass (i=1);
+       spf=pass (google.com: domain of m-15601892@moe-dl.edu.my designates
+ 209.85.220.65 as permitted sender) smtp.mailfrom=m-15601892@moe-dl.edu.my;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE)
+ header.from=moe-dl.edu.my;
+       dara=pass header.i=@gmail.com
+ARC-Seal: i=1; a=rsa-sha256; t=1793129442; cv=none;
+        d=google.com; s=arc-20260327;
+        b=cAlyAzFwgxvza6YUUoOI5D3wcx9wnoLEvUt0vmPs1cX3sKskKzUkTneXOYKi0DVCx4
+         7F3Gmxoc6afLhfrpfZo1xknF5yKs83JE7r3kdi7yM7YGtvNQfEj3Vo1QtJO+eMsOPp9f
+         E7kovSZNPg/fJQJO8FdjYthcRauLWepsC5q6PJWP02fk6um2dvD20nF9Md0BF0sDvkcs
+         K/k+QL18cBv2fvsiEPnl6sMjwl4ys/GFrErQ4c1KOeX/oFrlIy5FsUUHWrYrcXT2bS10
+         SKOPmxsDJi1YUQa88aH2BCZKftWlmX8XIcqrITnmrhBMRmwyIV9iZ/e6bLW5W423I2VT
+         kSrQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=to:subject:message-id:date:from:sender:mime-version:dkim-signature;
+        bh=UewZZ37RrZeYafvtb4MBr3ujknfy2bw7BB8DJwEt0Dg=;
+        fh=OyBJhkY9A7uaa9ZVKsFcCuYG0wwm1lKEl9tvwYVDNt8=;
+        b=W7UTz8x9ggceNQU+GN+H79rXIXe3omuBDIc1TYz7ZUCCFQ3C8Z7xpMYoJ7uPk3LyqH
+         jnO422tJ24Kgetubp0D60J6+ZaafsMjHR+cuCTMxhErfUOmOH4xB1ZKR4XJFFqiZbmHu
+         Eim5lk/jdxFaJ5qwydaGXpVEiFRrvH4VEmxGUbnT+HsOrII36DHSQlzRVpKgTWDwzfNv
+         R9gCui1UlNh4ddhHQb8d9eY49wLh3ae3hvUkdYnj7eUCf3oir0TENdC0MRM0wNmHY94L
+         oTuREvXS0XpGDlKl6snDuKlS8WGz8VDK74WHyI2Ewlfn1RR8cZNMhOHeaICgo8icbQKA
+         1Jdg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=moe-dl.edu.my; s=google; t=1793129442; x=1793734242;
+ dara=google.com;
+        h=content-type:to:subject:message-id:date:from:sender:mime-version
+         :from:to:cc:subject:date:message-id:reply-to:content-type;
+        bh=UewZZ37RrZeYafvtb4MBr3ujknfy2bw7BB8DJwEt0Dg=;
+        b=ZAW/RqcOkR+afjpqADbm1/IUArrDBl8wNvsD/sii1GAWzA2qol7CxoH9TGDGHPkPsC
+         xZoWsilSGRo7/o6CltfkAfGICV8NTjlrAskNqllLqMDxCsWKQBXG9xzqKcAm33z0cwng
+         Ueg1SKUnPsq+Zd7tibz7dDN/Q/rZlmgr+lR9M=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20260707; t=1793129442; x=1793734242;
+        h=content-type:to:subject:message-id:date:from:sender:mime-version
+         :x-gm-gg:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to:content-type;
+        bh=UewZZ37RrZeYafvtb4MBr3ujknfy2bw7BB8DJwEt0Dg=;
+        b=dyXW5oiqAQr+5jGJTEx4ubT9A/ipknngeu7u0meKIkfXS5nA1xZFJsCyg9nk6aWP+i
+         OMWAtO+FBWTMQ9Dj3XpTKWoMPvPr023nV2NvVn84EKINQLKTQnck19S/9Qz51h7aEWEx
+         9hYnJztyGLvI99Uip3AZEYCv1UVVwnBB2pjcxG8e6X4L52ceNdPfNfaAAnopO+4MpkSu
+         BFcczvNfMcRGSFbX3ZT20REPC/Ci82qch75CPNk6Td1E8MToj2zmjG5q29Zcpw/BCX2U
+         MEki66CXPU97D0DrSmtvb+kRF550TgzmkCtu0z0dnCv1IN6cjI7etbkvlzc9RxSJ5h9F
+         SZMQ==
+X-Gm-Message-State: AFq9FYLuDGRhmj5zxFpQuX0KSh25o9K2Q8W6fQByRw1np+EqKpZdiBf0
+	PLH80VvU9QfNF8w+wzzSC+eCwmkt2XDg907bn/izlhCGxNMkQ1n1zuV+/aX0bxrC4jxVEeJMuOm
+	gl6bdgdPzrxjC933QfxCdgTYimefBqc62C8tJbCFCtNbxUscT/uBwHFo=
+X-Gm-Gg: AYBFou2fyHVyLs9wlEr6ydxuGU8vlCZC3wefjQM9zO6kxfK0aQXTJ8y6yB5jDh7oeLU
+	xHg6yGX3+ObqNoumcCeC0WCoRtexserYiwirqsP0lWPJKuUmPnTkhIMTID6bw2hwx6S3SK0MyQk
+	LiRc/ztocNGX/UNEV1sFPVmHTPRyN4Er4alkD0mp/4wA+DCJguFNbgE7Kg7laWdL9JA/3nd4/7W
+	gmVeauMhQ1KDFp6bdNSBo5qUB6eek5drqE1ZrrEyNp9fbYDp49dnaX4nMhPV3UVV442z5RrG+5Z
+	aL5S66H8hNAnQ8vzbH4JHJ136yBlMcEVkEKOdcBJyFvot3uYOoddWPGYDM7KFrC4qrzVNYPZjV1
+	fMmICIREkrJ2tzlpyPtpIE3+J1FVy8WnZPBvDex9g82S0DJt4lt2RCFEmVdfcCQ==
+MIME-Version: 1.0
+Sender: Angelina Brown <m-15601892@moe-dl.edu.my>
+From: Angelina Brown <m-15601892@moe-dl.edu.my>
+Date: Tue, 27 Oct 2026 15:30:41 -0400
+X-Google-Sender-Auth: FefSSDm7BYpgYqjM1VtYuuP3bCs
+X-Gm-Features: AclHuK_4FeW2Vx2TI2su5BWWOe-C-st-EI_RsYzbf48xtNKw3OjFVucVnuD-zfk
+Message-ID: 
+ <CADuRmx9S-AeOFqvDaObG5uQSET--t8vfoiroe=2UUFqHTDn09A@mail.gmail.com>
+Subject: Special Invitation
+To: redactedredactedredacted@gmail.com
+Content-Type: multipart/alternative; boundary="0000000000006ca4a3065ed77ba1"
+
+--0000000000006ca4a3065ed77ba1
+Content-Type: text/plain; charset="UTF-8"
+
+*I'm your local escort* (Address
+<hxxps://its[.]ok-secured[.]com/click?o=271&a=333&sub_id1=Top>)
+
+Discover genuine relaxation and friendly company near you!
+
+Visit my profile to check my location, photos, and availability. Get the
+details you need before deciding whether it's right for you.
+
+*A SPECIAL INTRODUCTORY OFFER*
+Join free today and enjoy your first hour FREE, if eligible and subject to
+the offer's terms and availability.
+
+Join free <hxxps://its[.]ok-secured[.]com/click?o=271&a=333&sub_id1=Top> and check
+your first-hour offer
+<hxxps://its[.]ok-secured[.]com/click?o=271&a=333&sub_id1=Top>[.]
+
+Please check the full terms, availability, and any applicable charges
+before making a decision.
+
+Get Connected Here
+<hxxps://its[.]ok-secured[.]com/click?o=271&a=333&sub_id1=Top>
+
+Please review the offer terms and eligibility requirements before signing
+up.
+
+--0000000000006ca4a3065ed77ba1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+<html lang=3D"en">
+<head>
+<meta charset=3D"UTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+</head>
+<body style=3D"margin:0;padding:12px;background:#ffffff;font-family:Arial,H=
+elvetica,sans-serif;color:#222222;font-size:16px;line-height:1.55">
+
+<div style=3D"max-width:560px;margin:0 auto">
+
+<p style=3D"margin:0 0 10px">
+<strong>I&#39;m your local escort</strong>
+(<a href=3D"hxxps://its[.]ok-secured[.]com/click?o=3D271&amp;a=3D333&amp;su=
+b_id1=3DTop" style=3D"color:#174ea6;text-decoration:underline">Address</a>)
+</p>
+
+<p style=3D"margin:0 0 10px">
+Discover genuine relaxation and friendly company near you!
+</p>
+
+<p style=3D"margin:0 0 10px">
+Visit my profile to check my location, photos, and availability.
+Get the details you need before deciding whether it&#39;s right for you.
+</p>
+
+<p style=3D"margin:14px 0;padding:10px 13px;background:#f7f4fb;border-left:=
+3px solid #7650a8">
+<strong style=3D"color:#59338a">A SPECIAL INTRODUCTORY OFFER</strong>
+<br>
+Join free today and enjoy your first hour FREE, if eligible and
+subject to the offer&#39;s terms and availability.
+</p>
+
+<p style=3D"margin:0 0 10px">
+<a href=3D"hxxps://its[.]ok-secured[.]com/click?o=3D271&amp;a=3D333&amp;sub=
+_id1=3DTop" style=3D"color:#174ea6;text-decoration:underline;font-weight:bo=
+ld">Join free</a>
+and
+<a href=3D"hxxps://its[.]ok-secured[.]com/click?o=3D271&amp;a=3D333&amp;sub=
+_id1=3DTop" style=3D"color:#174ea6;text-decoration:underline;font-weight:bo=
+ld">check your first-hour offer</a>.
+</p>
+
+<p style=3D"margin:0 0 10px">
+Please check the full terms, availability, and any applicable charges
+before making a decision.
+</p>
+
+<p style=3D"text-align:center;margin:16px 0">
+<a href=3D"hxxps://its[.]ok-secured[.]com/click?o=3D271&amp;a=3D333&amp;sub=
+_id1=3DTop" style=3D"display:inline-block;background-color:#7650a8;color:#f=
+fffff;text-decoration:none;padding:11px 25px;border-radius:6px;font-family:=
+Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;text-align:cente=
+r">
+Get Connected Here
+</a>
+</p>
+
+<p style=3D"font-size:13px;color:#666666;border-top:1px solid #eeeeee;paddi=
+ng-top:10px;margin-top:16px">
+Please review the offer terms and eligibility requirements before signing u=
+p.
+</p>
+
+</div>
+</body>
+</html>
+
+--0000000000006ca4a3065ed77ba1--

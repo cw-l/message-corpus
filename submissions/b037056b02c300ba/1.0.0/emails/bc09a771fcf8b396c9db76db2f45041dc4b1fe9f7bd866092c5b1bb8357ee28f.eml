@@ -1,0 +1,284 @@
+Authentication-Results: mx.microsoft.com 1; spf=fail (sender IP is
+ 34.185.98.241) smtp.mailfrom=timvandevall.com; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none
+ header.from=timvandevall.com;compauth=fail reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:AB9723C74BDE85023B5BBB688800724E5794B9BE734BCDE4C90C99B3BCA23C59;UpperCasedChecksum:81A37EC49AABC4A3B8490CD62E5B5BE550C3F0889A514AF30547886A5B20EC6D;SizeAsReceived:318;Count:7
+From: Your Exclusive Dash Cam Offer <support@timvandevall.com>
+To: <redacted@redacted.com>
+Subject: 
+ =?utf-8?q?State_Farm_Gift_=EF=BF=BD=EF=BF=BD=EF=BF=BD_Your_Next_Adventure_St?=
+ =?utf-8?q?arts_Here?=
+Message-ID: <2f38fc014ac34327abaff92d7a749657@timvandevall.com>
+Date: Thu, 29 Oct 2026 00:03:34 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 29 Oct 2026 00:03:35.7016
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 46988bb1-c37e-47fc-364a-08df355013e0
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ CPH1EPF0000052B:EE_|DM8P220MB0520:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ CPH1EPF0000052B.eurprd05.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/28/2026 11:14:02 PM
+X-MS-Office365-Filtering-Correlation-Id: 46988bb1-c37e-47fc-364a-08df355013e0
+X-Sender-IP: 34.185.98.241
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|60050799012|970799063|34130799006|3025599003|32020799003|93100799006|9000799056|10300799038|260826003000599003|1290799033|1680799066|9400799043|5099299006|6100799021|5139299004|12119299003|260928210016899003|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 29 Oct 2026 00:03:35.2764
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 46988bb1-c37e-47fc-364a-08df355013e0
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ CPH1EPF0000052B.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM8P220MB0520
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3375529
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0546.016
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(10005027)(9610028)(9540006)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 6PMdUGVZg2QlI4xd3ZhD6Ow4srnw++Q7jN3eofd6+5GytmrYjFM6IA3NL0vKVFBKY4Ujdpg8jADwye/V2mpqygfMC9JgOaZObb/zq5y3akBEIgMP+VmuTPwo+0WDp4eCCQSbWO/WzsSwgAJVQ0frG4lC8O67yNqaERj4V5A3phxGiHM0KaTFKNHdP/bPG4ldrN0+q2nRcDAj0XcEpvr+a+xbXMt8awjz2tWY5jVU8333BRukQqd4INnWTUzaN0RZiq7IsJKu50vistbEdrCEcTqAQVZHKogd/4GIUCuC7uaCqcyo1iBzrpI+zxF+UQOwg8fblhskky0EpIVWLr3RcO0RId5PVLrKdB0xnaNRL2mqWxLb76vATeaOrdLmNlW+mpMPehsAOKNUG8YhL2FEuPrb7lU91hM33JNAuUKfU9ghtrIfOFL7gkQBoZcXzNhXvvKIsT0oQa+3r/iC9EX5PeV0Q5eBrukfI/BvFfYARc+Xf1x9wXd1eb5z5EjzCXMHaOFGRVyHy2wmOemhB3GZGjfaDkcWgzBeRr4KG17a2GoP4vweL3FibHBonoEHU8UG6EaIktD0SaUo+qQScn/6HFBKJag1fgvDUxaXT/RnVWUd7m7o/+lLrCuY4QcH0eobPkKiEsJx6VEmN13dQ1fVXq/Edw7vDeXErLRHc4fTPaZX5MyvnvBhe1BW8KB+QFMOmxOP7ctfUR1LMmq1mGY/TB3YOFpeUsEolLi8h5x8VwyGH681QDr4VwPwByirU+NO5zdWKz2xKq9A6eUvGPdm/clMntWShqQS/wD1d1FzGosIrXBMoA04g48LqeP7wWRY7At0VWTXSn8prEkUuBQO/EhJQAkCYQ4T00PiW2KS3AARTLSqGLCXoHMHdLlCEjysmS/7ocVAxtkukdKdXABvZfHGnqGYLB+8X8itwAhlM1/W9xWDupdNP9ZpBtCXbnZZc39ydWpSI7jnKx1WTcops6+EqeoyMGT6zhANzUafDGEMui2qxG/KE0qEq7yXqDVwjNcpJWhIYru2frHkW1snFiRIYQnA4A58PYgiYIYJ7fBls0wcn3fvCrbnouXmp1lVoLmpkvu10hLdllwYSxThLErVXQ9VD1IIT7rd5Rad1wfsK8/bB4lOK1UkmP6GUDH54C5M96d/yfi62Q8jkN0axHYGx/J/nUu4XJHhTSQgYOauqlR+3hN7DZ6t0Wt52XPFUGxIC9rTF2l/Jm479ceYY/wiZzxeEdNG2Vj+OSmZ+HxdOM8Y1YafrL/2zJs1XfMc7iAA5JSXtZZZEmIWPnIWpowsOUXc8EWpOLtce/+QaNammxKcGyYbgelZrOlCX2SPUa2jPmZ5IAV5Q8MRAawVSEYXzMEO/XkFucdiCBvwJyuLQbTBbEhV2qGbjyQ3NHe/4zuIUh1u37RV3RDFWPlvB8Y5CHgJatFyEVnhZb0YU+nlOIGYg0t1szSc8MsQzmxiMOT3VQAQEg5/KTXTfXUgUwCoS6r4HBzuE2RZ86Iz3tzUZMF2ZXTzkGIRz0yDLnsDRZVt5S87XLJyuyUhPj/uTCnttXdRIHgTna9hvHKQxF7UbeL8HhiurBv50dbTaC6q412wTLSS2ikWB6C0F7jDsEONmdkJ543GgR2RfO0ExrCotxC0JIBtRNMhNeySA4/9+L/k6eMSPdF4oPHZfl39VH8MERy23xySKVP5m574HaDSqTJ64D9d68MrviZ59HzzYMnWIiKYtzCIUFPxBKmtBMS5yTD9nP5LMm31FjlzLgobzOLn2QQvVXxRwDZnBQzakoXt5kn19IDsH0SDEq8SQOVp3ZXHxj1BphXrNkl2ZTojY8rOcvGAvpxZmvkgEYSD6jO2hnTyKKpeKIheNWbVcd67qUWxb1WRYIPLux4yw6WbLOa9JmR7ACxa+E5Us91Y01PYUUIbg2h/FV6lOojU9D9+wVkfzr8oOXOgrPxMna6s0eDhcC9YxxxMRvsDX40PM2aE2/MjLlVBdfNOhKgKtUaBhD9YN5mgfNBDDoE7v81cRsnQqCKfyrqFG+KBvpWJCpEdlbIgsUG7tdW+HiyvZDl6NaUA1nkbIysuzSNwyl8X+s0symfoDWdnKTqOeB6eyIjTcnEhJg1Lf66NxVptd24yFaZwpXifN7os17448mhTzevIWQ3zfT81mBOQI+FeEY5v+eRm1vBv+amxKHXhU9M40vS4DUSfYzbrAH0p4l5ztlH9MlqW5JwTut1hcADbIdSo+BHuCff422JHZXccn8aiY41NbZ0MkUyfZ85CDtQBGNbGA8qVd2tdcehUFnxugwPQDg2fjyDndmLBnxsGGrwdM7Vu904OQoUJ73nLEjEDksFfY0gytX+eb9tbKMqPaPrCXSX6oJtPfTCyoHLTgCL6R0uW8FqZn06AkQWk0/1Aenu6zokEp0J2KcWT/wEV8pKLrtk1h1Jrrp73pMkbxBdnZVofLrDjNlSUUSWZ1NNqgp8o/QGyn/B/PRTJ8pRGd+e9ThHIi/TvtVmuB+Q2K0hSaNHdPN3lsSBSBqejaMnec4+4oFU/X9wAfwqfMyx8LVJXMOMhKTU3+Sl3ZaIq2N/nxxwTx/92h/L7vCvilMEBE9LupAJpika+A6XB4+JEfIWDGmOlKH8Q0D7MZA37m/EPeyMhZv383BsXEDgPJBIvYVU6LFkigiKlXzq/l/t0zM1OIhHVC1GGzceN8MUizVlNzEMEJHzD15BUCZzoKspCfuWUC7FAMRJ/ydyh9g196pyW1gTE6vOliWYLYFi83xwHgpzOCibIETqFbfL7oNJSlRo3dmf5s5ff8IzQ4xBf
+MIME-Version: 1.0
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>State Farm Email</title>
+<style>
+  :root {
+    /* ========================================== */
+    /* COLOR THEME CONFIGURATION                 */
+    /* Easily edit theme colors here!            */
+    /* ========================================== */
+    --body-bg: #fff3f2;
+    --container-bg: #ffffff;
+    --brand-red: #e31837;
+    --text-dark: #2b2b2b;
+    --text-medium: #444;
+    --border-light: #f2f2f2;
+    --btn-text: #ffffff;
+    --btn-hover: #c31229;
+    --footer-text: #777;
+    --exclusive-gradient: linear-gradient(90deg, #e31837 0%, #c31229 50%, #e31837 100%);
+  }
+
+  body {
+    margin:0;
+    font-family:'Helvetica Neue', Arial, sans-serif;
+    background:var(--body-bg);
+    color:var(--text-dark);
+  }
+  .email-container {
+    max-width:760px;
+    margin:0 auto;
+    background:var(--container-bg);
+    border-radius:18px;
+    overflow:hidden;
+    box-shadow:0 12px 30px rgba(0,0,0,0.08);
+  }
+  .header {
+    padding:28px 35px;
+    border-bottom:1px solid var(--border-light);
+  }
+  .header img {
+    width:150px;
+    display:block;
+  }
+  .main {
+    display:flex;
+    align-items:flex-start;
+    padding:30px 35px 20px;
+    gap:40px;
+  }
+  .left-content {
+    width:55%;
+  }
+  .exclusive {
+    font-family:'Brush Script MT','Segoe Script','Lucida Handwriting','Comic Sans MS',cursive;
+    font-size:38px;
+    font-weight:700;
+    margin-bottom:14px;
+    line-height:1.1;
+    background:var(--exclusive-gradient);
+    -webkit-background-clip:text;
+    background-clip:text;
+    -webkit-text-fill-color:transparent;
+    color:transparent;
+  }
+  .left-content p {
+    font-size:16px;
+    line-height:1.55;
+    font-weight:bold;
+    color:var(--text-medium);
+    margin:0 0 16px 0;
+  }
+  .highlight {
+    font-size:15px;
+    font-weight:bold;
+    color:var(--text-dark);
+  }
+  .brand-red {
+    color:var(--brand-red);
+    font-weight:800;
+  }
+  .highlight-red {
+    color:var(--brand-red);
+    font-weight:800;
+  }
+  .right-card {
+    width:45%;
+    padding-top:5px;
+    text-align:center;
+  }
+  .right-card img {
+    width:100%;
+    max-width:350px;
+    display:block;
+    margin:20px auto 12px;
+  }
+  .right-card h3 {
+    color:var(--brand-red);
+    font-size:22px;
+    margin-bottom:8px;
+  }
+  .cta-row {
+    width:100%;
+    text-align:center;
+    padding:10px 0 30px;
+  }
+  .cta-button {
+    display:inline-block;
+    background:var(--brand-red);
+    color:var(--btn-text);
+    text-decoration:none;
+    padding:14px 40px;
+    border-radius:10px;
+    font-weight:bold;
+    text-transform:uppercase;
+    transition:0.3s;
+  }
+  .cta-button:hover {
+    background:var(--btn-hover);
+  }
+  .note {
+    margin-top:14px;
+    font-size:14px;
+    font-weight:bold;
+    color:var(--brand-red);
+    text-align:center;
+  }
+  .email-footer {
+    padding:22px 25px;
+    font-size:12px;
+    text-align:center;
+    color:var(--footer-text);
+    border-top:1px solid var(--border-light);
+  }
+  .email-footer a {
+    color:var(--footer-text);
+    text-decoration:underline;
+  }
+  @media(max-width:650px){
+    .main {
+      flex-direction:column;
+      padding:28px 25px 15px;
+    }
+    .left-content,
+    .right-card {
+      width:100%;
+    }
+    .header {
+      text-align:center;
+    }
+    .exclusive {
+      font-size:32px;
+      text-align:center;
+    }
+    .left-content p,
+    .highlight {
+      text-align:center;
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="email-container">
+    <!-- Header -->
+    <div class="header">
+      <img src="hxxps://1000logos[.]net/wp-content/uploads/2018/04/State-Farm-Logo[.]png" alt="State Farm Logo">
+    </div>
+    <!-- Main -->
+    <div class="main">
+      <!-- Left -->
+      <div class="left-content">
+        <!-- ============================================= -->
+        <!-- [EDITABLE] HERO HEADLINE                        -->
+        <!-- ============================================= -->
+        <div class="exclusive">Exclusive Partnership</div>
+        
+        <!-- ============================================= -->
+        <!-- [EDITABLE] WELCOME TEXTS & BRANDS              -->
+        <!-- ============================================= -->
+        <p>
+          <span class="brand-red">State Farm</span> has partnered with 
+          <span class="brand-red">Garmin</span> to celebrate everyday cooking with quality you can trust.
+        </p>
+        
+        <!-- ============================================= -->
+        <!-- [EDITABLE] PROMOTIONAL DETAILS                  -->
+        <!-- ============================================= -->
+        <p class="highlight">
+          You've been selected to complete a short survey for a chance to receive a 
+          <span class="highlight-red">Garmin Dash Cam</span>.
+        </p>
+        <p class="highlight">
+          Only a small number of customers have been invited!
+        </p>
+      </div>
+      <!-- Right -->
+      <div class="right-card">
+        <img src="hxxps://snaparia[.]com/file_8dca2fb8-534c-4d81-b25f-3aee6bf5e993[.]png" alt="Garmin Dash Cam">
+        
+        <!-- ============================================= -->
+        <!-- [EDITABLE] PRODUCT NAME DESCRIPTION             -->
+        <!-- ============================================= -->
+        <h3>Garmin Dash Cam</h3>
+      </div>
+    </div>
+    <!-- CTA -->
+    <div class="cta-row">
+      <!-- ============================================= -->
+      <!-- [EDITABLE] CALL TO ACTION & FOOTNOTE            -->
+      <!-- ============================================= -->
+      <a href="hxxps://storage[.]googleapis[.]com/himari11/2[.]html" class="cta-button">START SURVEY</a>
+      <div class="note">Act quickly before they're gone!</div>
+    </div>
+    <!-- Footer -->
+    <!-- ============================================= -->
+    <!-- [EDITABLE] UNSUBSCRIBE FOOTER                   -->
+    <!-- ============================================= -->
+    <div class="email-footer">
+      This message was sent as part of a limited State Farm customer invitation.<br>
+      If you no longer wish to receive these emails, <a href="hxxps://storage[.]googleapis[.]com/himari11un/2[.]html">unsubscribe</a> here.
+    </div>
+  </div>
+</body>
+</html>

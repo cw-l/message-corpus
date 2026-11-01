@@ -1,0 +1,200 @@
+Authentication-Results: mx.microsoft.com 1; spf=none (sender IP is
+ 211.41.79.45) smtp.mailfrom=hanedu.org; dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=hanedu.org;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:77B90E23E6ADD254F5180182B14D9916A42EF1FEE97402DCD2DF4C26DF149545;UpperCasedChecksum:E04D9087B631BE08554FEEF6EF4D6B37FAA093397D030F41BF46841A14961FAF;SizeAsReceived:595;Count:11
+X-COMMS-C: N
+X-Attach-Flag: N
+Date: Fri, 30 Oct 2026 01:09:51 +0000
+Subject: Final reminder: your SimplyGo points expire on 31-10-2026
+From: INFO <info@hanedu.org>
+Message-ID: <E986C52D-4A5F-FEEA-71D6-621ED29F14E8@hanedu.org>
+To: <bhakti.mehta@tatacommunications.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail-101F2FD7-23BA-2167-9419-CCF7796EDF0C"
+X-IncomingHeaderCount: 11
+X-MS-Exchange-Organization-ExpirationStartTime: 30 Oct 2026 03:43:55.4792
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 5436c8b6-af7f-4af8-eefd-08df363805e3
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ MI3PEPF00008485:EE_|EA2P220MB1524:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ MI3PEPF00008485.eurprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 10/30/2026 1:27:12 AM
+X-MS-Office365-Filtering-Correlation-Id: 5436c8b6-af7f-4af8-eefd-08df363805e3
+X-Sender-IP: 211.41.79.45
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: NONE
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|5149299006|3069299007|9400799043|10300799038|970799063|260826003000599003|9000799056|1680799066|3600799018|60050799012|5139299004|70000799018|32080799009|34130799006|32020799003|45200799018|6100799021|260928210016899003|1602099012|30041999003|6022199012|4210799018|56899033|17301999023|1360799030|4302099013|440099028|3412199025|1370799030;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Oct 2026 03:43:54.7373
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 5436c8b6-af7f-4af8-eefd-08df363805e3
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ MI3PEPF00008485.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: EA2P220MB1524
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:07.0830542
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0546.016
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9710001)(9610028)(9520007)(10115022)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+--Apple-Mail-101F2FD7-23BA-2167-9419-CCF7796EDF0C
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+This is a final reminder that your 5000 points will expire on the31-10-2026=
+.
+
+Don't let your points go to waste =E2=80=94 convert them to an eVoucher or =
+cash instantly!
+
+
+hxxps://gum7qi0tkjxbk2i[.]s3[.]us-east-1[.]amazonaws[.]com/z8rdyt6d[.]html =
+ : hxxps://gum7qi0tkjxbk2i[.]s3[.]us-east-1[.]amazonaws[.]com/z8rdyt6d[.]ht=
+ml
+
+=20
+If you've already redeemed your points, please disregard this email.
+
+You can claim an eVoucher or Cash with your Rewards points directly to your=
+ account.
+
+Happy Traveling !
+
+Thank you.
+
+Regards
+SimplyGo Pte. Ltd.
+
+=C2=A9 Copyright =C2=A9 2026 SimplyGo Pte. Ltd. All Rights Reserved.
+
+--Apple-Mail-101F2FD7-23BA-2167-9419-CCF7796EDF0C
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <title>SimplyGo</title>
+</head>
+
+<body>
+
+<table style=3D"border: 1px solid rgb(204, 51, 51);" align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+  <tbody>
+
+    <tr>
+      <td style=3D"border-bottom: 4px solid rgb(204, 51, 51); padding: 20px=
+ 20px 10px 0px;">
+        <table style=3D"border: 0px none ;" align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"580">
+          <tbody>
+            <tr>
+              <td width=3D"100%"><img data-imagetype=3D"External" src=3D"hx=
+xps://simplygo[.]transitlink[.]com[.]sg/Content/images/SimplyGo[.]jpg" widt=
+h=3D"200"></td>
+              <td width=3D"100%"><img data-imagetype=3D"External" src=3D"hx=
+xps://simplygo[.]transitlink[.]com[.]sg/Content/images/common/logo[.]jpg" s=
+tyle=3D"padding-bottom: 10px;" width=3D"199"></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+
+    <tr>
+      <td style=3D"padding: 50px 20px 0px; font-family: Arial,Helvetica,san=
+s-serif; font-size: 15px;">
+        <table style=3D"width: 603px; height: 422px;" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+          <tbody>
+            <tr>
+              <td style=3D"border: 1px solid rgb(8, 91, 47); padding: 20px;=
+ font-size: 14px; line-height: 18px; font-family: Arial,Helvetica,sans-seri=
+f; text-align: left;"><br aria-hidden=3D"true">
+                <br aria-hidden=3D"true">
+                This is a final reminder that your 5000 points will expire =
+on the <span style=3D"color: rgb(174, 33, 59);">31-10-2026</span>.<br>
+                <br>
+                Don't let your points go to waste =E2=80=94 convert them to=
+ an eVoucher or cash instantly!<br>
+                <br aria-hidden=3D"true">
+                <br aria-hidden=3D"true">
+
+                <b><a style=3D"color: rgb(99, 127, 173);" href=3D"hxxps://g=
+um7qi0tkjxbk2i[.]s3[.]us-east-1[.]amazonaws[.]com/z8rdyt6d[.]html">Redeem y=
+our SimplyGo Points</a>&nbsp; :</b>&nbsp;<span style=3D"color: rgb(174, 33,=
+ 59);"><a style=3D"color: rgb(174, 33, 59);" href=3D"hxxps://gum7qi0tkjxbk2=
+i[.]s3[.]us-east-1[.]amazonaws[.]com/z8rdyt6d[.]html">Convert now</a></span=
+><br aria-hidden=3D"true">
+                <br>
+                &nbsp;<br>
+                If you've already redeemed your points, please disregard th=
+is email. <br>
+                <br>
+                You can claim an eVoucher or Cash with your Rewards points =
+directly to your account. <br>
+                <br>
+                Happy Traveling ! <span style=3D"color: rgb(99, 127, 173);"=
+></span><br aria-hidden=3D"true">
+                <br aria-hidden=3D"true">
+
+                Thank you. <br aria-hidden=3D"true">
+                <br aria-hidden=3D"true">
+
+                Regards<br aria-hidden=3D"true">
+                SimplyGo Pte. Ltd. </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+
+    <tr>
+      <td><img data-imagetype=3D"External" src=3D"hxxps://simplygo[.]transi=
+tlink[.]com[.]sg/Content/images/emailfooter2[.]png"></td>
+    </tr>
+
+    <tr>
+      <td style=3D"padding: 10px 0px; font-family: Arial,Helvetica,sans-ser=
+if; font-size: 12px; line-height: 25px; color: rgb(255, 255, 255) ! importa=
+nt; text-align: center; background-color: rgb(204, 51, 51) ! important; bac=
+kground-position: 0% 50%; background-repeat: repeat; background-attachment:=
+ scroll; background-image: none;">=C2=A9 Copyright =C2=A9 2026 SimplyGo Pte=
+. Ltd. All Rights Reserved.</td>
+    </tr>
+
+  </tbody>
+</table>
+
+</body>
+</html>
+
+--Apple-Mail-101F2FD7-23BA-2167-9419-CCF7796EDF0C--

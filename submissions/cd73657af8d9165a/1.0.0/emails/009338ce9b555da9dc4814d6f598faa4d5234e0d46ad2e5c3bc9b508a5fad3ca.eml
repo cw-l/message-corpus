@@ -1,0 +1,1059 @@
+ARC-Seal: i=1; a=rsa-sha256; t=1792995225; cv=none;
+        d=google.com; s=arc-20260327;
+        b=AvOXL3Ss5On3sjNYqIuH03xij/F3BWM68Q4vn2cx5aUiR9yQTRORUm3SlzC2LfsIvY
+         vvi1Trf2wjPxRh6/lSaUS4S+od85cOjHgnVLJ+4oc5S8nEb62pb08RAMG50qzPXqretd
+         yPAtwhAy8AbGtlD3LV4wwwCueNf605aL9G1iyi45dCYIegPMnvNgP0VU4aisbxEfJNH4
+         zFJZ/cymcokXWjPRkZIBaiy5FuoK6O+71RJqU67Btd4dzF9L5lUpNHvMvo3MmHANIqE7
+         SwqQYkYO3SmAvt2nYn8Xia4zuqfdhBVQwdJVYNLYy2beTmzx9ef4RZtONNaF1M8BZgCD
+         N+Iw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=sender:date:list-unsubscribe:message-id:envelope-to:precedence
+         :mime-version:to:from:subject:delivered-to:domainkey-signature
+         :dkim-signature;
+        bh=a7Pi2xCmE8zF9yA2E7meWfRgpYUgNE42uCWM4AlVUzY=;
+        fh=5mDISkEnApbHbeyplF34/W/bGeiyjRLMmd/AgjlFR1Y=;
+        b=LPYtt9G+1IJHR8PyG5U2haY95Q7T7KgsNiCW25OkDEmTo5orySjXsecP7/ecVAG3qt
+         rbTnsOk06UkETKEUnFIlcsESJ4Lq/3lstrn+XcBwwEu3ZZJt2JI0cJt7+1T6urrB/fFb
+         EjOaQrfM4Y7OK+2GOUN5Fak/Yid3hLx/XHMpJpg6lhjhgp41JwUyqQvZbPYHQYbahKt4
+         P1p4FnkyfoTVWAMd1gvo26dQCYBI5zUMvCUcADUJMagGt+4fLeeuXMFovXYb6Y8qXf7e
+         z4ecbNNvqr/FBJxMuGPPibgDxmk+No3jSFY+1OrPP6hquogWMUAT4xyflg+De3DFeocq
+         3qAw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@yrkucswt.teleso.dexvani.my.id header.s=smtp
+ header.b=gQQGPxlq;
+       spf=pass (google.com: domain of pymditluwjoqb@teleso.dexvani.my.id
+ designates 192.210.243.31 as permitted sender)
+ smtp.mailfrom=pymditluwjoqb@teleso.dexvani.my.id
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@yrkucswt.teleso.dexvani.my.id header.s=smtp
+ header.b=gQQGPxlq;
+       spf=pass (google.com: domain of pymditluwjoqb@teleso.dexvani.my.id
+ designates 192.210.243.31 as permitted sender)
+ smtp.mailfrom=pymditluwjoqb@teleso.dexvani.my.id
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp;
+ d=yrkucswt.teleso.dexvani.my.id;
+ h=Subject:From:To:MIME-Version:Message-Id:List-Unsubscribe:Content-Type:Date:Sender;
+ i=smzbmotygkhigukghnsqh@yrkucswt.teleso.dexvani.my.id;
+ bh=b+fmE8HMXCJNc0wxLjnN1Y00fcU=;
+ b=gQQGPxlq6qA/nXnvmsmuokoSkpdG5mtmpZa4nVFaBfEHVJwOsdoMh4JKK3gjtZGw7Gpb1JpCf6L0
+   uyw9Qv6qF1819AhlM8IDwH8xkfrTclcfVN8C/gCG3s37Vm0+rTX+/QzrQ3FWrUVNmnmPbtN/xpvb
+   VeQU2oTG4tFJvoRXwBvvsgXTMe7i+YB/ZzUHgfogIxwIBwTeL3o7tr+rVzWIqs6Z6wy1L27FM3vG
+   rTFSAF+nAPbkbX/c4X/3OBF5mGfxBTjA9LPlPx1vDmqQlYAl7ZHYK0SqGZZRFPWsT/1UfRFfgaVE
+   7TOODQq2k1UKuirumEU/gTqycs73lA1gXgg2wA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=smtp;
+ d=yrkucswt.teleso.dexvani.my.id;
+ b=hhVwVmVGosQk1asrAc8SnZIW2PK9Jc8tItaUVMuRbyo49QqvCNaT920ml3DagKZB37irdJZOgxZp
+   bwKJP1pfF3hHQy2/E3eGNV/0vchYf85uW8TJ84UOjnr2UntsiQw1R7gVALgaoQzidb2Pq2/uz/F7
+   /Y5J0MfHWAHSGbG0j9c3uZebZzR/KPYvfrPLZietuXdvcARJ6Ps+hi7HPM6LRUwny/fFa6jYg/C2
+   oktPmFXwS/JqwFgahBuHI1Ptig6VWuzDbm+LYDArWoYXwd3Ve5eA/8GBVLIS3BljrKHp1bVwBDEQ
+   kljsEchCdwIuV0Z1VmjfvGhdDSglo8aWbUaG6w==;
+Subject: 
+ =?utf-8?b?77+977+977+977+977+977+977+9IO+/ve+/ve+/ve+/vSBUaGUgMTUtc2Vjb25k?=
+ =?utf-8?b?IEphcGFuZXNlIGJlcnJ5IHJpdHVhbCBzdXBwb3J0aW5nIGNsZWFyLCBzaGFycCB2?=
+ =?utf-8?b?aXNpb24g?=
+From: Vision_Health_Dispatch<cpuotmn.32-195982@yrkucswt.teleso.dexvani.my.id>
+To: redacted@redacted.com
+MIME-Version: 1.0
+Precedence: bulk
+X-Originating-IP: 192.210.243.31
+X-Google-Original-Message-ID: <-@vevida.net>
+Message-Id: <sdrpgfqsjmltghprkruluyusnkfuay@9n5u4nshg5azqmqvjq>
+List-Unsubscribe: <http://healthnetwork.web.id/LEAVE=To>
+Content-Type: multipart/digest; boundary="----=_Part_1_28364165"
+Date: Mon, 26 Oct 2026 06:09:40 +0000
+Sender: smzbmotygkhigukghnsqh@yrkucswt.teleso.dexvani.my.id
+
+------=_Part_1_28364165
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+------=_Part_1_28364165
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+</br></br></br><center>
+<a href=3D"hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#bMlw=
+hPiKqvkTyVCLGgEKEYCfQzwLOn&4pVEBFXtXRM&307847/1805/hkputpyzvp[.]home[.]php?=
+sq=3D32-195982&lk=3D46029-9&page=3D507" style=3D"text-decoration:none; colo=
+r:black">
+
+<center>
+
+<!DOCTYPE html>
+<html xmlns=3D"hxxp://www[.]w3[.]org/1999/xhtml" lang=3D"en"><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <title>Vision Health Executive Report</title>
+    <style type=3D"text/css">
+        body,
+        table,
+        td,
+        a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #EFECE6;
+            font-family: Georgia, 'Times New Roman', serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        @media only screen and (max-width: 620px) {
+            .container {
+                width: 100% !important;
+            }
+
+            .pad {
+                padding-left: 18px !important;
+                padding-right: 18px !important;
+            }
+
+            .paper-h {
+                font-size: 24px !important;
+                line-height: 1.25 !important;
+            }
+
+            .paper-body {
+                font-size: 16px !important;
+                line-height: 1.65 !important;
+            }
+
+            .paper-btn {
+                width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .footer-col {
+                display: block !important;
+                width: 100% !important;
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+
+<body style=3D"margin: 0; padding: 0; background-color: #EFECE6;">
+
+    <div style=3D"display: none; font-size: 1px; color: #EFECE6; line-heigh=
+t: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-=
+hide: all;">
+        Vision Health Dispatch: The simple 15-second Japanese berry routine=
+ supporting clear eyesight...
+        =CD=8F =E2=80=8C &nbsp; =E2=80=87 =C2=AD =CD=8F =E2=80=8C &nbsp; =
+=E2=80=87 =C2=AD =CD=8F =E2=80=8C &nbsp; =E2=80=87 =C2=AD
+    </div>
+
+    <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"background-color: #EFECE6;">
+        <tbody>
+            <tr>
+                <td align=3D"center" style=3D"padding: 30px 10px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"600">
+                    <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                    <![endif]-->
+
+                    <table class=3D"container" role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-widt=
+h: 600px; background-color: #FCFAF6; border: 1px solid #D5CEBE; border-radi=
+us: 2px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+                        <tbody>
+
+                            <tr>
+                                <td class=3D"pad" style=3D"padding: 30px 32=
+px 20px 32px;">
+
+                                    <h1 class=3D"paper-h" style=3D"font-fam=
+ily: Georgia, 'Times New Roman', serif; font-size: 26px; font-weight: bold;=
+ color: #111111; margin: 0 0 14px 0; line-height: 1.25; text-align: left;">
+                                        Researchers Highlight The "Japanese=
+ Berry Routine" Supporting Natural Visual
+                                        Clarity and Macular Health After 55
+                                    </h1>
+
+                                    <div style=3D"font-family: Arial, Helve=
+tica, sans-serif; font-size: 12px; color: #718096; margin-bottom: 24px; fon=
+t-style: italic; border-bottom: 1px solid #EAE5D9; padding-bottom: 12px;">
+                                        An investigative wellness review =
+=E2=80=A2 Daily Vision Care Routine
+                                    </div>
+
+                                    <div class=3D"paper-body" style=3D"font=
+-family: Georgia, 'Times New Roman', serif; font-size: 17px; color: #2D3748=
+; line-height: 1.7;">
+
+                                        <p style=3D"margin: 0 0 20px 0;">
+                                            <span style=3D"float: left; fon=
+t-size: 48px; line-height: 40px; padding-top: 4px; padding-right: 10px; fon=
+t-family: Georgia, serif; color: #8B0000; font-weight: bold;">W</span>hen
+                                            it comes to maintaining sharp, =
+comfortable vision as the years pass,
+                                            millions of adults accept blurr=
+y lines, annoying floaters, and fading
+                                            contrast as an unavoidable part=
+ of aging. Yet optical researchers point out
+                                            that metabolic buildup and oxid=
+ative strain on delicate retinal cells play a
+                                            far greater role in fading sigh=
+t than most people realize.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 22px 0;">
+                                            A simple nutritional approach i=
+s now gaining widespread attention: an easy
+                                            <a href=3D"hxxps://storage[.]go=
+ogleapis[.]com/smalbus/salaminka[.]html#ZTtZMXhOKpgNKRayFrprevrhPzsipI&4XAP=
+syRWkvO&307847/1805/bzygotvbhq[.]home[.]php?sq=3D32-195982&lk=3D46029-9&pag=
+e=3D576" target=3D"_blank" style=3D"color: #8B0000; text-decoration: underl=
+ine; font-weight: bold;">morning
+                                                Japanese berry ritual</a> p=
+owered by the concentrated botanical
+                                            extracts in <strong>LasiBerry</=
+strong>, designed to nourish the macula,
+                                            support cellular renewal in eye=
+ tissues, and clear away the haze for
+                                            sharper,
+                                            more vibrant vision.
+                                        </p>
+
+                                        <div style=3D"margin: 0 0 25px 0; t=
+ext-align: center; border: 1px solid #D5CEBE; padding: 4px; background-colo=
+r: #ffffff;">
+                                            <a href=3D"hxxps://storage[.]go=
+ogleapis[.]com/smalbus/salaminka[.]html#wJjfHaFcqXEperEOFSnEhcuFHsDgym&4ybR=
+XzohOJg&307847/1805/omzwjyqfih[.]home[.]php?sq=3D32-195982&lk=3D46029-9&pag=
+e=3D238" target=3D"_blank" style=3D"display: block; text-decoration: none;"=
+>
+                                                <img src=3D"hxxps://i[.]img=
+ur[.]com/wSXZWHm[.]jpeg" alt=3D"Watch The Vision Routine Presentation" widt=
+h=3D"520" style=3D"display: block; width: 100%; height: auto; border: 0; ma=
+rgin: 0 auto;">
+                                            </a>
+                                        </div>
+
+                                        <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-t=
+op: 1px solid #D5CEBE; border-bottom: 1px solid #D5CEBE; margin-bottom: 24p=
+x; background-color: #F8F5EE;">
+                                            <tbody><tr>
+                                                <td style=3D"padding: 16px =
+14px; text-align: center;">
+                                                    <p style=3D"margin: 0; =
+font-family: Georgia, serif; font-size: 15px; font-style: italic; color: #8=
+B0000; line-height: 1.6;">
+                                                        =E2=80=9CNourishing=
+ the macula with key carotenoids and
+                                                        antioxidant
+                                                        plant compounds hel=
+ps support natural visual contrast, ease eye
+                                                        strain, and protect=
+ sensitive retinal tissue over time.=E2=80=9D
+                                                    </p>
+                                                    <div style=3D"font-fami=
+ly: Arial, sans-serif; font-size: 11px; font-weight: bold; color: #718096; =
+margin-top: 6px; text-transform: uppercase;">
+                                                        =E2=80=94 Vision Sc=
+ience &amp; Nutrition Review
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+
+                                        <p style=3D"margin: 0 0 22px 0;">
+                                            Unlike invasive eye procedures =
+or constantly upgrading lens prescriptions
+                                            that only mask the problem, thi=
+s 15-second habit works directly with your
+                                            body. It delivers targeted caro=
+tenoids including lutein, zeaxanthin, and
+                                            wild berry anthocyanins that he=
+lp protect optical cells from blue light,
+                                            soothe eye fatigue, and support=
+ lasting visual comfort.
+                                        </p>
+
+                                        <p style=3D"margin: 0 0 28px 0;">
+                                            <a href=3D"hxxps://storage[.]go=
+ogleapis[.]com/smalbus/salaminka[.]html#FcnSwTaWIRDXOisapQhVwJRIBwjdbx&4aAY=
+PagfPCj&307847/1805/zsowsmaupc[.]home[.]php?sq=3D32-195982&lk=3D46029-9&pag=
+e=3D648" target=3D"_blank" style=3D"color: #8B0000; text-decoration: underl=
+ine; font-weight: bold;">Watch
+                                                the detailed presentation b=
+elow</a> to learn how this simple recipe is
+                                            prepared at home and discover w=
+hy thousands are making it an essential part
+                                            of their morning routine.
+                                        </p>
+
+                                    </div>
+
+                                    <table role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin-botto=
+m: 28px;">
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/smalbus/salaminka[.]html#YGpbGHgzuLDPvYHkiTeWmSivdaA=
+JTO&4nhyBVrmtvu&307847/1805/ewthtbcjpu[.]home[.]php?sq=3D32-195982&lk=3D460=
+29-9&page=3D371" target=3D"_blank" class=3D"paper-btn" style=3D"background-=
+color: #8B0000; color: #ffffff; font-family: Arial, Helvetica, sans-serif; =
+font-size: 16px; font-weight: bold; text-decoration: none; padding: 16px 36=
+px; border-radius: 2px; display: inline-block; letter-spacing: 0.5px; text-=
+transform: uppercase; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
+                                                        Watch The Vision Ro=
+utine Presentation &gt;&gt;
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style=3D"background-color: #1A202C; bor=
+der-top: 1px solid #D5CEBE; padding: 25px 30px; color: #CBD5E0;">
+                                    <table role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                        <tbody>
+                                            <tr>
+                                                <td colspan=3D"2" align=3D"=
+center" style=3D"font-family: Arial, sans-serif; font-size: 11px; color: #A=
+0AEC0; line-height: 1.6;">
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/smalbus/salaminka[.]html#mQCsLVrGjoONXKnVhPSyMhqknuq=
+lVM&4SkRJqvdXez&307847/1805/wxtpuwjpyw[.]home[.]php?sq=3D32-195982&lk=3D460=
+29-9&page=3D261" target=3D"_blank" style=3D"color: #FFFFFF; text-decoration=
+: none; font-weight: bold;">Privacy
+                                                        Policy</a> &nbsp;|&=
+nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/smalbus/salaminka[.]html#kwJMihdiOgqVjCrJfYuazQvXCEe=
+wbx&4wmPCTQqiVn&307847/1805/oecmquuxtc[.]home[.]php?sq=3D32-195982&lk=3D460=
+29-9&page=3D840" target=3D"_blank" style=3D"color: #FFFFFF; text-decoration=
+: none; font-weight: bold;">Terms
+                                                        of Use</a> &nbsp;|&=
+nbsp;
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/smalbus/salaminka[.]html#KxZiCRichPdrOEOzaPyodumyfhu=
+AdK&5CgcjXtksKc&307847/1805/ynvsqiqink[.]home[.]php?sq=3D32-195982&lk=3D460=
+29-9&page=3D691" target=3D"_blank" style=3D"color: #FC8181; text-decoration=
+: underline; font-weight: bold;">Unsubscribe</a>
+                                                    <br>
+                                                    =C2=A9 2026 Vision Heal=
+th Dispatch. All rights reserved.<br>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+</body></html>
+</table>
+</body>
+</html>
+<br><br>
+<center>=20
+<br><br><center>
+</a><br>
+<center>
+
+<html>
+<body>
+<center>             =20
+<center>
+<table width=3D"600" style=3D"text-align:center">
+<tr width=3D"600" style=3D"text-align:center">
+<td style=3D"font-family:Trebuchet MS, Geneva, sans-serif; font-size:10px; =
+text-align:center; color:#aaaaaa;" width=3D"600" style=3D"text-align:center=
+">
+<p>
+  To Unsubscribe Click=20
+<a href=3D"hxxps://storage[.]googleapis[.]com/smalbus/salaminka[.]html#ohUj=
+suIkbwxNlYqyphjMpNmtEqxMVW&6XzcmaTnCqW&307847/1805/joroiadkbr[.]home[.]php?=
+sq=3D32-195982&lk=3D46029-9&page=3D395">Here</a><br>
+ </center></p></td></tr></table>
+ </a></a>
+<html>
+</center>        =20
+</center> =20
+</center>
+</body>
+</html>
+ =20
+ =20
+
+<table style=3D"display:none;"><HEaD/>
+
+<div style=3D"display:none;"><HEaD/>
+=09
+<object ZQSLNMACJLFOXNXJFEBDEZMOYWBZYZUZBILQZIONBGSRZLAALNJFYYBKETNJ>
+
+Dear MJIHXXWQXTMAJUTIUGMZUJ awoamsdcbyrdwojjxvbtsq,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is rwirjqyeiqkerrhsmojwlld=
+cjfzi.
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+<title>
+
+emd=20
+added
+to
+newsletterGet
+and
+ask
+childrenShare
+this
+ExperimentSegregation
+Americaxs
+report
+United
+May
+ETPerhaps
+going
+wants
+In
+federal
+that
+says
+plan
+boasted
+unemployment
+lowest
+everSo
+rightWhile
+down
+remained
+last
+this
+does
+communities
+to
+land
+opportunityOne
+Americans
+suffer
+opposed
+white
+inequality
+in
+while
+step
+inequality
+will
+that
+looks
+housing
+disparities
+on
+For
+more
+of
+on
+resources
+their
+childrens
+care
+going
+on
+cities
+on
+nation
+Shortly
+still
+have
+evidence
+doesnt
+decades
+expanding
+emerged
+of
+failed
+laws
+about
+and
+people
+housewives
+at
+Franz
+in
+New
+Orleans
+poverty
+public
+which
+to
+of
+we
+has
+failed
+chronicled
+deregulation
+Who
+children
+has
+work
+direct
+former
+have
+has
+of
+And
+as
+Professor
+documented
+more
+than
+problem
+Commission
+commission
+there
+with
+this
+was
+urban
+ideology
+without
+policy
+resulted
+be
+has
+hard
+students
+provides
+model
+graders
+salute
+flag
+of
+school
+atrisk
+will
+to
+of
+creates
+race
+to
+Brookings
+or
+integrate
+government
+to
+for
+potential
+enforcement
+The
+privatesector
+effect
+intentional
+with
+racial
+and
+make
+housing
+will
+access
+housing
+access
+Act
+making
+and
+integration
+poor
+developers
+lowincome
+lower
+half
+and
+by
+University
+college
+than
+children
+had
+and
+We
+need
+that
+but
+living
+Robert
+observed
+Bernard
+Why
+never
+ask
+and
+America
+Eisenhower
+Foundation
+Kerner
+Commission
+Violence
+senator
+at
+Healing
+America
+Years
+After
+
+<title/>
+
+Hi xcrdhqhcbzohzhxxuj,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:=20
+
+If not, just let me know and we'll find something else.
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi fjyghhbklarywqhaepaskaaw,
+
+Thanks for signing up, and congratulations
+on your new mis fgybgmsiqvuqdhrcid account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=3D=3D=3D Account Information =3D=3D=3D
+ Username: oasshnrnbxdegviffyykpbtrwm
+ Site ID: wupgwkrqllxkisparmggumgnv
+
+=3D=3D=3D Your Account Console =3D=3D=3D
+
+Thanks again!
+Team IOXLXKUHYFEKPZMJYVEWKI
+
+Powered by VSMLHDMFAPMRJYONJKBYKV=20
+
+</title>
+
+Dear MZRLNGIMXCTWQXXYZDIPITLHA jcqvndvghozxdbxzziumfgcisn,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is mmyhwhshrnskgfzcgsdllnu=
+tz.
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+=3D=3D You need a budget, and your email needs confirmation. =3D=3D
+
+ Hello! Quick note to let you know that your email needs to be confirmed
+before all sorts of great things happen. Like your being able to use YNAB
+all along your road to budgeting glory. Please confirm by clicking the link
+below:
+
+ Confirm your email
+
+ Thank you!
+
+ And we're serious about budgeting glory. It's a real thing, and you will
+bask in it.
+
+ Regards,
+
+ The YNAB Team
+
+
+Dear Dalewoowood FMKDOBMSVXQJQEMJIMRCSN,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is __Random_com[17,17,u].
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+XOHCMMPARTVAWRLJUROPNCJHJNFUBWQZRGQCOOPJWAMGVOIATKGDOWSCPSJVNVNADPCIHBEBINT=
+UYRWKISBYMPQDZGXYYZOTFVTWZZYTIFRFFXBGTMDNVHCJHFTODWINXNWJYXPOYPOHYRYZRAZSGE=
+JYCNSDFDJTHRPMQBPDINAOEJDLCNUEBKKFBPNYOQKLNECHASZQ
+
+ Hi VFFZOPHUQRQEZYKRSDAVRS,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:
+
+If not, just let me know and we'll find something else.
+
+cpyadsofnyeboxfhjvoxbwjzvjxdkvxpnirdukvkkfnhuogbpzmckilybysghwyallxpnufiptj=
+wwxeuktfvmkwhzbaibtbbbdgknltchztworzgpaueiwzzuuitrlkblggzeevacsxdkxegjafyww=
+vfltgelrorzjvtkbgopxrtilhdjueczkbyaedmftrjeubmcmpz
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi X204NP56SXRLUGKSZ450JR81W,
+
+Thanks for signing up, and congratulations
+on your new misiuumqymehkehfaptsv account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=3D=3D=3D Account Information =3D=3D=3D
+ Username: ktrt
+ Site ID: bmfn
+
+=3D=3D=3D Your Account Console =3D=3D=3D
+
+Thanks again!
+
+Team LGAIRIFOURYJNCFDIREIKQ
+Powered by GNNUUPIWORXAZSGPXGNJPE
+
+Login Name: WDMSMXVAVDERVSLZDLXWWA
+Password: CRBOMZQSPEDONAKIZBPXKK
+
+How do I become a tester for the XT 808 flashlight?
+
+Login Name: WIF
+Password: RSDYLQPRRBGIGTRUOZSNWR
+
+	2I9BPZU5Z5M2RJVM6F 97LDVG1NEAB1SWB ECGIDPJNBP162 G0QTTGVUXGQ9CYY6S1 F9GVHA=
+G9IAFYPSZ EAAJ8KXKN4H1F RRCU6LXVOF83WEQ5MW=20
+	IW9W6RBOON4ZHCGV0N EZ1ZO2UYD34NUK7 I6KJVO8L8H488 FGLM52IUFO1PFP1SCV HM7ER6=
+3HOK7TU6U UBMA8CAGMY5EL C5WT56RKTT2NOPQR17=20
+	4M3PA4ODI7QHIUO 7S44A31VT83I4 327VPCDOGPLWAL9SJO HRFKROWSLFWD6OM VCSKLFRX9=
+SUX5 DP1AFWDXNG24LTLR5S 3LU1ONJHBW9GFXK
+	MLYAPXPYS1YNY G1AOEAR2HH7GMCRV8Q 0N0X74307IBZEBS 2ZV1G9HV5H1JT BT9ZUAIBPDW=
+INKHICR 6GWO6Z91QGSEIQV WFY2U0NYECBH3=20
+	H2THWML3TLWEHXG92E V8SKKIFR19SCC18 ZTEOQ2P3TDJBS WGVBIRJR9RDFTOHWWC DQO86E=
+V0ZEX0SB1 7I4CRTJMNS5T6 RR0HA17UNWJDTI9GJE=20
+	5CZBB6QSHYN2GN8 3HD5WA8ZBQMYP 0V4M16Q6FS8XDT1BKN HY0MVSHJ431L6KJ SJLLX3I3A=
+WWO3 56D0WREXMJJGJL4T3X PLKDX20ZJOWF9AZ=20
+	5AFWCNY11X6ON Q937ZYA4KDRTBNOV1X FDOLJZ26OHQZZIA 6RKWYMAWFJFQE ST6DUS301XZ=
+6PEB20A HHLCFSI307YIRZE ILNGRVS3KWZAA=20
+	N0PY91EPQQLS2I1J3C NEYH2QY9T1YOWA9 L1RW8G6HRN1EI M8YEWVEKQ0SI22WJCB 7YHPM3=
+N9Y1NMCTH OGX8NWNR1GFO0 YHGS2O0PH0MSU0XL13=20
+	O8QAPVAAGRAB12W PTMMF5PP0IP7X H4F6VFNZ8EEZXM2394 GR96ZPI49TEF3QV J3EJI2BSF=
+FBV4 SECR8D0BWJ259CUFMA WFZ4RNWXH7GDDDS=20
+	DJRYYYR2EHY89 CMPQQB58IOU92OL7OJ VM023ZFIH1X0ST2 0IC3IW5KYUDVC KCGA22NUMNO=
+8Q7N106 A8NVJBTC092O0KK RQN797U9MXXI7=20
+	444SAFIWWZDU1HKM15 JWOYJFBRX1UNSXA SLPEFH3ZGR0IL X5CTNSAFAWR78761BG 5SQMIW=
+YXMZ1INWS IAMU81OA7LWRH SSIFIQLK05NW3XCRR6=20
+	FG3GXPHVTB8EL06 NZP53X87WEMNY JSDX3NZ60KDE8NIKJ8 IJWZTC9OB78RZXU VFK7BH943=
+NVUQ MX0J0LWERPP4YWB64K ZJ0PORR1452DHQY=20
+	8AERJHG3PIMB2 UFMYXNCXF3BU223VKW YI696T7POQQ2RDW QUCOLQSZNQSAX X0N1VY65D04=
+BPPL27K F5RYSPE874WOBOG HNNA1LP41LTTY=20
+	92NXUV5JN66LG4YLFH OAS8QKFSGCCKAVA 7BOCDSNAA5XAB 69VXDKX0UB5HA5S3O3 4PX4X8=
+4A1HL263M PY3T89J9XCGDP V5487XQSOCK4TV1R1S=20
+	TQF7L69CABCIXX4 8P5WKCHQHLRQ7 Z1QMXAL1XSJYP6RJ4X 9C2J2KPLZMRWBBC UD8930X8Y=
+VYAH IGQYFSVI0GPZXHYIHY 1GQ985QGRIOO0RX=20
+	7K2YFQRLMQSC0 AWBLBN097IAFA6XQGO J2ONI70SVSC0O3Y XH3WXFJCD6MUV U5ONJTP6R64=
+0QPVYH0 O0KOTRM66O8LRCW G307L3NWNPZS2=20
+	CFPRX5MEDVY63L49VX B1AADNP2WSGQ486 LAR3CFP5KT8SM 7L54L59A6Z0X1UVY3Z LTJOLK=
+HOW5BDX3V 65O99313LY3IS FF40B2P6RXOBLMVRXU=20
+	JGOX3DRN3PD6Z9X EULTKJEH7EEY6 FMOBE894I1NSAUSCYA F1OWCN11F1BSFOR HTNI21LPR=
+RYDE B23RHLEQK3EUZOL8T0 8YJGOYQ2JQLSI4L=20
+
+More than a quarter of Europeans surveyed believe Jews have too much influe=
+nce in business and finance. One in five say they have too much influence i=
+n media and politics. In individual
+1. Download Parsec for your device
+
+2. Set up Parsec on your PC to invite friends to game with you or to play f=
+rom anywhere
+
+3. Connect with your friends on Parsec
+
+4. If you don't have a gaming PC to co-op with friends, build one on Parsec
+
+5. Join our Discord for support, updates, and finding friends to game with
+
+       Less than 10% of EU aid money reaches the countries where it is most=
+ needed, according to a study that found levels of assistance had dropped f=
+or the second year running.
+
+The EU and its member states remain the biggest development donor group in =
+the world ? investing ?71.9bn ($61bn) in 2018, more than half of global aid=
+ ? but its contribution was 5.8% lower than in 2017, the European NGO netwo=
+rk, Concord, found in its AidWatch report.
+
+Progress on meeting the UN target of spending 0.7% of gross national income=
+ on aid, laid down in 1970, has gone into reverse, said the group. Their re=
+search showed that aid decreased to 0.47% of the EU?s combined GNI last yea=
+r, compared with 0.49% in 2017 and 0.51% in 2016.
+
+Advertisement
+
+Only Sweden, Luxembourg, Denmark and the UK met the 0.7% commitment.
+
+The UK?s three main political parties have committed to retaining the aid t=
+arget.
+
+Aid from five countries ? Italy, Greece, Finland, Austria and Lithuania ? d=
+ecreased by 10%.
+
+?We are moving further away from the 2030 Agenda [for sustainable developme=
+nt],? said Luca De Fraia of ActionAid Italy. ?Not only are we missing the t=
+arget in terms of quantity, but also the quality of aid is lagging behind.?
+
+Despite a marginal rise in aid going to the least developed countries (from=
+ 0.11% in 2017 to 0.12% in 2018), 16 countries, among the poorest in the wo=
+rld, currently receive only 8% of EU funding, AidWatch found.
+
+Guardian Today: the headlines, the analysis, the debate - sent direct to yo=
+u
+ Read more
+?sa Thomasson, from Concord Sweden, called on EU leaders to provide more ai=
+d and ensure it is used effectively to ?make the biggest difference to peop=
+le who are most marginalised, excluded or discriminated against and the poo=
+rest and most financially challenged countries?.
+
+The report noted progress on what can legitimately be recorded as aid. Some=
+ countries had included domestic spending on students, refugees or security=
+ in official figures. But such costs ? like debt relief, interest repayment=
+s on loans, or assistance ?tied? to the donor country ? are categorised as =
+?inflated aid?, since they do not necessarily contribute to development and=
+ are often funds that never leave the EU.
+
+This year?s report shows a 25% reduction in inflated aid, while refugee cos=
+ts decreased by approximately 35% and the use of aid for debt relief droppe=
+d by 66%.
+
+Jan van de Poel, policy and advocacy manager at the European Network on Deb=
+t and Development, said he was concerned that the commission is overestimat=
+ing the potential for ?blended finance? (linking aid with loans from public=
+ly-owned institutions or commercial lenders) to help achieve the sustainabl=
+e development goals.
+
+He pointed out that, as recently as 2016, more than half of all reported co=
+ntracts were still awarded to firms in the donor country. ?Donors not only =
+need to untie all aid, but also make sure that their procurement practices =
+are tailored towards the private sector in developing countries,? he said.
+
+Claire Godfrey, interim director of policy, advocacy and research at Bond, =
+the UK development network, praised the Department for International Develo=
+pment (DfID) for maintaining the 0.7% pledge and ensuring that the majority=
+ of its aid reached the people who need it the most. She added that other E=
+U countries needed to ?step up to the plate?.
+MBVHUCPTRAEDDKUXUMHMPBITAEHNTMXCIYYXOQLYCQKYMHQYMHIUGSWQEPNLEGIZLYBXXWJGXTZ=
+ADBMHLWXUANTTFIZMANUYLVKUQRYIGOLHBOHFNFWUHEMPRDQFZTQTULTFZZNIDTPBISGJJVNZMU=
+TFEDIUCBDHIYJPMSHRLBSXEYRBAVQZTNKWRBQKWMZZSVMGGOLCK
+Godfrey said DfID would ideally have oversight of all UK aid, rather than m=
+ultiple departments, since this would ?ensure not a single penny is diverte=
+d away from the poorest, most vulnerable and most marginalised?.
+
+With a general election looming, Labour, the Conservatives and the Liberal =
+Democrats have all stated their commitment to retaining the 0.7% aid target=
+, equating to roughly ?14bn, while the Green party said they would raise it=
+ to 1% ? in line with Sweden.
+
+
+Two-thirds of British people see overseas aid as 'a major priority'
+ Read more
+At a joint hustings event on women?s rights and sustainable development hel=
+d by ActionAid UK and the Overseas Development Institute on Monday, Lord Ra=
+y Collins pledged that Labour would triple funding to RMOFOMMCQMAMQNIHAGOPP=
+IEIDVQJZIILUYWHHGDLRYTBLMLQRWVRMFZUCMEMJAHWCZJPESCXRRRXLUZCBPKVAXETEJAVLXQA=
+CCXFIBTJBPXWDIXYTWRMSPTTGVIPDYXKXYADETJCEMVLSSZBJFRIAJMSQKXUVHHZBDXVETQESXO=
+JVJBUIMXUCDNQEHMPUEIPPCXJFFVS roots women?s groups in the global south.
+
+Elizabeth Babade, candidate for the Brexit party in Warrington North, said =
+her party would cut the foreign aid budget but declined to say by how much.
+
+The Conservative party did not put forward a candidate for the event, but r=
+estated its commitment to the 0.7% target in the House of Commons earlier t=
+his month. It stopped short, however, of committing to the retention of DfI=
+D as a separate department AMHUTBNHGNDYQZMMGMVBESPQZRAASRNCQJSAPGVZHJKYXPZV=
+FRFUIFTISSBUZIEHHVEKDSLBNABIAFRHAFWDYSJKXGWOMYTWDDXSUONRDLNCMATXOQNRSOUUCMY=
+EAWHTZXZFEZTICZJVGRTWWSNJYHFEOZFCTREQAGOAVRQKFBOMUKBNOKQOJTAIEVFNTAQWDYOKVS=
+USL to the Foreign and Commonwealth Office.
+
+The UN Conference on Trade and Development?s Least developed countries repo=
+rt, also published this week, called on the world?s poorest nations to ensu=
+re external finance from all sources is ?directed to nation QKXIDAFKFLEKDKD=
+TPRQTQIJWVTDFUTEUEDDXNCGCMWGMSFDMXHEABEIMJMVZFOLLYFANVLCWLKYOVEBLVMFHIOUNEL=
+QKGHZRNQRVMEJDEAQAUYATIOGDWVDLEWYALIWLKRBBTXAYENIXJNUDWMYBCKYAKUWRIZFPIRMMO=
+BDVKYXXDAGHMBEEQHXTOQUQDUMDJCKOZEFFC development priorities? as the best wa=
+y to ?manage their aid dependency and eventually escape it?.
+
+Since you?re here?
+? we have a small favour to ask. More people, like you, are reading and sup=
+porting the Guardian?s independent, investigative journalism than ever befo=
+re. And unlike many news organisations, we made the choice to keep our repo=
+rting open for all, regardless of where they live or what they can afford t=
+o pay.
+
+The Guardian will EVMXUCNDSDJKJKUKOUWZDUXHQYDELGXSMTGBATCNFGOGLUFUTCGBTVZCC=
+CYXXBFICGSCEHJUWHGLADIGDFEJJGIAQHBKOGIHXBLVMXADFUMICVIDRXTAMIMREQMMCWKJSAIK=
+XXSQXWJNZFSWXUWGZIRDGJCSBNGIBUGOZSRPFJXMUQEBXREULRBJIZZRJFMTFUSCMSWXSDABQQU=
+XLCKUUIHREQFWMLUZRYPMAKGMLUQHJYOGBGXRCGTGCTXOZEGSMQIVRFJUZLJQSDCPFKHNCUVFBJ=
+PTIGLNRHTJIVOGRRKJRQRXTCYAJVVMRZHBNCYVAFWUPWYFQIJWDETGGCTEGZJLMKARLRDHRINGA=
+DOWCCJHPNTVOEMYOVTMXJMOREYGEINHGMZTNWSSOMVT  ?=20
+from the escalating climate catastrophe to widespread inequality to the inf=
+luence of big tech on our lives. At a time when factual information is a ne=
+cessity, we believe that each of us, around the world, deserves access to a=
+ccurate reporting with integrity at its heart.
+
+Our editorial independence means we set our own agenda and voice our own op=
+inions. Guardian journalism is free from commercial and political bias and =
+not influenced by billionaire owners or shareholders. This means we can giv=
+e a voice to those less heard, explore where others turn away, and rigorous=
+ly challenge those in power.
+
+We hope you will consider supporting us today. We need your support NQGYOZN=
+PMTXIDGSFOLOCDJYOSOHFHRZXRDEFLWDLZDHGWTILZVADZQTJDTKTJVMLSBCEEVZZDQOJEWUDIA=
+FBOYDNCJLQMGZWXYUQAWUHDYYWOUVKVPJIWSMDZYUAZPSEKYYCTIXIWOYDFFYNERRDVGQFOZEQD=
+DJOHZUUFKJRAFSKKFZDUDHQNAROVISKUSFWFKWSTWFG  to keep delivering quality jou=
+rnalism that?s open and independent. Every reader contribution, however big=
+ or small, is so valuable. Support The Guardian from as little as $1 ? and =
+it only takes a minute. Thank you.      =20
+
+Parsec Cloud, Inc.=20
+115 Broadway, Fifth Floor, New York, NY 10006, USA
+
+</object>
+
+------=_Part_1_28364165
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<object style=3D"display:none;">
+This message was sent from a trusted sender
+<div style=3D"font-size:1px;color:#333333;line-height:1px;max-height:0px;ma=
+x-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0</div>
+She tried to explain that love wasn't like pie. There wasn't a set number o=
+f slices to be given out. There wasn't less to be given to one person if yo=
+u wanted to give more to another. That after a set amount was given out it =
+would all disappear. She tried to explain this, but it fell on deaf ears.
+I've rented a car in Las Vegas and have reserved a hotel in Twentynine Palm=
+s which is just north of Joshua Tree. We'll drive from Las Vegas through Mo=
+jave National Preserve and possibly do a short hike on our way down. Then s=
+pend all day on Monday at Joshua Tree. We can decide the next morning if we=
+ want to do more in Joshua Tree or Mojave before we head back.
+Symptoms of acute mountain sickness, or AMS as it=E2=80=99s known, include =
+trouble sredactedping, nausea, loss of appetite, and fatigue. If you keep g=
+oing higher and ignore signals from your body, you could develop HAPE, high=
+ altitude pulmonary edema, or HACE, high altitude cerebral edema, both of w=
+hich are very serious.
+They had no proof. He knew that they knew he had done it but they didn't ha=
+ve any proof. It was a huge distinction and it was the difference between h=
+im keeping his freedom or being locked away for decades. They continued to =
+question him, probing him for information that they could use against him o=
+r find the proof they needed to put him away. He smiled and continued to bl=
+ock their every inquiry by feigning his innocence for a crime they all knew=
+ he committed.
+</div><object><div style=3D"font-size:1px;color:#333333;line-height:1px;max=
+-height:0px;max-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0</div> </body></html>
+
+------=_Part_1_28364165
+
+
+
+------=_Part_1_28364165--
