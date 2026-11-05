@@ -1,0 +1,202 @@
+Authentication-Results: mx.microsoft.com 1; spf=softfail (sender IP is
+ 34.81.133.175) smtp.mailfrom=marketsandfairs.com.au; dkim=none (message not
+ signed) header.d=none;dmarc=fail action=none
+ header.from=marketsandfairs.com.au;compauth=fail reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:F6A735948C7B50A44B7DA3F19BC46BAA8680CD8C12D58602FB58B4705CEFF7CF;UpperCasedChecksum:328874C9C31FBE0A0185EEBCD6359A1F620076EAA8E9E2CBBA32A7C50087A994;SizeAsReceived:315;Count:7
+From: Account Status <support@marketsandfairs.com.au>
+To: <redacted@redacted.com>
+Subject: Your 250GB Cloud Storage Subscription Has Expired
+Message-ID: <903632ca35894d74a58373372e7fb771@marketsandfairs.com.au>
+Date: Tue, 3 Nov 2026 17:53:19 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 03 Nov 2026 17:53:20.2625
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 991aa3da-7b6f-46d9-b747-08df39d358eb
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ MW1PEPF00018893:EE_|PH7P220MB1566:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ MW1PEPF00018893.namprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/3/2026 9:29:20 AM
+X-MS-Office365-Filtering-Correlation-Id: 991aa3da-7b6f-46d9-b747-08df39d358eb
+X-Sender-IP: 34.81.133.175
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|3025599003|32020799003|1290799033|32080799009|34130799006|5139299004|6100799021|46080799009|2700799033|260928210016899003|260826003000599003|7009299003|60050799012|970799063|9000799056|10300799038|1680799066|9400799043|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 03 Nov 2026 17:53:19.7183
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 991aa3da-7b6f-46d9-b747-08df39d358eb
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ MW1PEPF00018893.namprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH7P220MB1566
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.2754971
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0569.002
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9710001)(9610028)(9520007)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Data Loss Warning</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #ffffff;
+            font-family: Helvetica, Arial, sans-serif;
+            color: #333;
+        }
+
+        .wrap {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .logo {
+            display: block;
+            max-width: 120px;
+            margin-bottom: 20px;
+        }
+
+        .notice-box {
+            border: 1px solid #ef4444;
+            background: #fef2f2;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: left;
+        }
+
+        .warning-head {
+            color: #b91c1c;
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        .warning-badge {
+            background: #b91c1c;
+            color: #fff;
+            font-size: 11px;
+            padding: 2px 6px;
+            border-radius: 3px;
+            margin-right: 8px;
+        }
+
+        .body-text {
+            font-size: 15px;
+            line-height: 24px;
+            color: #1f2937;
+            margin-bottom: 20px;
+        }
+
+        .file-list {
+            background: #fff;
+            padding: 15px;
+            border: 1px solid #fca5a5;
+            border-radius: 6px;
+            margin-bottom: 20px;
+        }
+
+        .file-item {
+            display: block;
+            padding: 5px 0;
+            font-size: 14px;
+            color: #555;
+            border-bottom: 1px dashed #ddd;
+        }
+
+        .file-item:last-child {
+            border-bottom: none;
+        }
+
+        .file-item strong {
+            color: #000;
+        }
+
+        .btn-main {
+            background: #2563eb;
+            color: #ffffff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 16px;
+            display: inline-block;
+        }
+
+        .date-highlight {
+            background: #ffeba1;
+            padding: 2px 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <!-- Replace with your logo URL -->
+        <img src="hxxps://www[.]freeiconspng[.]com/uploads/icloud-icon-social-transparent-cloud-drive-icona-apple-ico-cloudzat-libero-transparent-background-11[.]png" class="logo" alt="Cloud Storage">
+
+        <div class="notice-box">
+            <div class="warning-head">
+                <span class="warning-badge">!</span> Scheduled for Deletion
+            </div>
+            <p class="body-text">
+                <strong>Dear User,</strong><br><br>
+        This is a notification regarding the data hosted on your inactive account. Per our retention policy, files on inactive accounts are scheduled for permanent removal on
+                <span class="date-highlight" id="date3"></span>.
+            </p>
+
+            <div class="file-list">
+                <div class="file-item"><strong>Status:</strong> Pending Deletion</div>
+                <div class="file-item"><strong>Photos:</strong> 4,203 files found</div>
+                <div class="file-item"><strong>Videos:</strong> 112 files found</div>
+                <div class="file-item"><strong>Action:</strong>
+                    <span style="color:#ef4444; font-weight:bold;">Renew to prevent loss</span></div>
+            </div>
+
+            <center>
+                <a href="hxxps://storage[.]googleapis[.]com/qergghfghfsdfsdfg/lis" class="btn-main">Keep My Files</a>
+            </center>
+        </div>
+
+        <p style="font-size:13px; color:#999; margin-top:30px; text-align:center;">
+            If you allow your account to expire, we cannot recover your files once they are deleted from our
+            servers.<br><br>
+            <a href="hxxps://www[.]coredatafye[.]com/o-vskv-d21-7d6e613b74db98758b70649967210196" style="color:#999; text-decoration:underline;">Unsubscribe</a>
+        </p>
+    </div>
+    <script>
+        const d3 = new Date();
+    // Set date to 3 days from now
+    d3.setDate(d3.getDate() + 3);
+    document.getElementById('date3').innerText = d3.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,157 @@
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 85.131.213.150) smtp.mailfrom=tomatomate10.com; dkim=pass (signature was
+ verified) header.d=tomatomate10.com;dmarc=pass action=none
+ header.from=tomatomate10.com;compauth=pass reason=100
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:8AB8F7328AF5C1C249F33C3FC64CBEAFD74F201BE179AE3D26A52BCAD4A72057;UpperCasedChecksum:C3007659C0A2305F0A3B9B862AA7A7E2F80F3CE21955437C6E810925DDAA2713;SizeAsReceived:2057;Count:13
+X-Virus-Status: scanned (With Secure/Atlant/virusgw16033.xserver.jp/)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tomatomate10.com;
+	s=default; t=1793749930;
+	bh=SqbdS8OVE3RIklgbByPl+PXwlJHt8lwWIv2bKGx01P0=;
+	h=Date:Subject:References:FROM:To:From;
+	b=kvyIjqaMege1f+3UTXzUDjoPxz4XU2csw+DUva8c9DWR9FDDx0wH7fy9BwBKLmWO0
+	 IQDOsr8ONBXu9qGMw5jWxSVHYLXyPIN52coEh2+k8B+PaKP3qJrFCPMGrfPq4xpi4q
+	 ehYhV+FMP+a+f7AsZqChokuGTvK2bT+IrgA7HMMrsTKSiger3VxZ6qBaA77JgVRjmS
+	 1fMt+/gQ9fUyywDp919mGq8y1MU+hly4KRsk0HidQ9Cx2kLOUlB1c7K8InaRuhbUOt
+	 2fqcV/Eua9OT3wHXWI258m5tNhzelilEQ7mqc16YVevMRp+AEKD+gDkDPj2qbfOilz
+	 Q7tMX+PSN5vwQ==
+X-COMMS-C: N
+X-Attach-Flag: N
+Date: Tue, 3 Nov 2026 23:52:10 +0000
+Subject: SimplyGo: Your 5,000 points are expiring. Redeem before 04-11-2026
+Message-ID: <55ie4dpkvzps4f8tidkqxqlv.1761701307302@t-online.de>
+References: <mbgfvs0a4si96cuq04m6eaco.1719491223978@t-online.de>
+FROM: TransitLink <info@tomatomate10.com>
+To: gmail.zw@yahoo.com.sg, isatterfield@live.com.sg,
+ david_saravanan@yahoo.com.sg, phandoko@ns.sg, 1513contactinfo@ggm.sg,
+ jlongint@yahoo.com.sg, valentina.paoletti@algebra.sg, chu.loo@hpe.com,
+ s464892@np.ac.sg, tridentsgirl@yahoo.com.sg, justwater910@hotmail.com,
+ sales@uisabler.com.sg, mramkissoon01@gmail.com, yanting1174@hotmail.com,
+ theresa_tang@ava.gov.sg, garygohps@yahoo.com.sg, hr@busybees.com.sg,
+ marketing@ofx.com, secretariat@caba.org.sg, nauqil@live.com.sg,
+ karanct@live.com.sg, redacted@redacted.com, lovehenry@hotmail.sg,
+ sabavi@yahoo.com.sg, guoxiaohe@msn.com, rosali.mohdnoor@thomsonreuters.com,
+ admin@tau.com.sg, cyberjoe@yahoo.sg, bbss@moe.edu.sg, jlamsl@yahoo.com.sg,
+ amelie_thuillier@hotmail.com, devils_jessamine@hotmail.com,
+ jackkoh@phillip.com.sg
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_FFCB338493-5E3B-3321-4DDD-6A5D24DABB2"
+X-IncomingHeaderCount: 13
+X-MS-Exchange-Organization-ExpirationStartTime: 03 Nov 2026 23:53:50.2630
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ ad1dbc53-a0fd-471d-dd6b-08df3a05b567
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ PH4PEPF0000B610:EE_|DS4PPF6DB874AD5:EE_|CH8P220MB2068:EE_|LV8P220MB1356:EE_
+X-MS-Office365-Filtering-Correlation-Id: ad1dbc53-a0fd-471d-dd6b-08df3a05b567
+X-Sender-IP: 85.131.213.150
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 8
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|9400799043|56000799018|32020799003|42200799015|260928210016899003|34130799006|2700799033|9800799015|970799063|22070799003|3069299007|58200799025|69000799021|33080799006|30140799009|46080799009|119000799009|260826003000599003|1380799030|1360799030|3412199025|440099028|1370799030|56899033|30041999003;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 03 Nov 2026 23:53:49.9922
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ ad1dbc53-a0fd-471d-dd6b-08df3a05b567
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ PH4PEPF0000B610.namprd21.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DS4PPF6DB874AD5
+X-MS-Exchange-Organization-AuthSource: 
+ PH4PEPF0000B610.namprd21.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/3/2026 5:53:22 PM
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.1117882
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0569.002
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;auth:1;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9710001)(9610028)(9520007)(10115022)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+--Apple-Mail=_FFCB338493-5E3B-3321-4DDD-6A5D24DABB2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Don't let your 5,000 SimplyGo points go to waste. Redeem them before 04-11-=
+2026.
+Dear Customer,
+
+Just a reminder that your5,000 SimplyGo pointswill expire on04-11-2026.
+
+You can redeem your points for an eVoucher before then.
+
+hxxps://taupes[.]be/simplygo?7927
+
+Thank you for being a valued SimplyGo customer.
+
+Regards,
+SimplyGo Pte Ltd
+
+--Apple-Mail=_FFCB338493-5E3B-3321-4DDD-6A5D24DABB2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en-SG"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <title>SimplyGo</title>
+</head>
+<body style=3D"margin:0; padding:20px; font-family:'Montserrat','Helvetica =
+Neue',Helvetica,Arial,sans-serif; background:#f2f2f2;">
+
+  <!-- PREHEADER (nascosto, visibile in inbox) -->
+  <div style=3D"display:none; max-height:0; overflow:hidden; mso-hide:all;"=
+>
+    Don't let your 5,000 SimplyGo points go to waste. Redeem them before 04=
+-11-2026.
+  </div>
+
+  <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ style=3D"max-width:600px; width:100%; background:#ffffff; border:1px solid=
+ #d9d9d9;">
+
+    <!-- MESSAGGIO -->
+    <tr>
+      <td style=3D"padding:28px 22px; font-size:14px; line-height:20px; col=
+or:#333333;">
+        Dear Customer,<br><br>
+
+        Just a reminder that your <strong>5,000 SimplyGo points</strong> wi=
+ll expire on
+        <strong style=3D"color:#c8102e;">04-11-2026</strong>.<br><br>
+
+        You can redeem your points for an eVoucher before then.<br><br>
+
+        <a href=3D"hxxps://taupes[.]be/simplygo?7927" style=3D"display:inli=
+ne-block; padding:13px 26px; background:#003399; color:#ffffff; font-size:1=
+3px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; text-=
+decoration:none;">
+          Redeem Points
+        </a><br><br>
+
+        Thank you for being a valued SimplyGo customer.<br><br>
+
+        Regards,<br>
+        <strong>SimplyGo Pte Ltd</strong>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>
+
+--Apple-Mail=_FFCB338493-5E3B-3321-4DDD-6A5D24DABB2--

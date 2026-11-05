@@ -1,0 +1,212 @@
+Authentication-Results: mx.microsoft.com 1; spf=none (sender IP is
+ 59.106.171.62) smtp.mailfrom=tempaku-rc.com; dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=tempaku-rc.com;compauth=pass
+ reason=105
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:0A145636744A040B11BA0630E9BA6AFBA9B4376E79FFC322933386DE231DFD96;UpperCasedChecksum:C476375E4CEF83CB2B793CD55FE6D43B748EBAEDC80315EF8D6330D35D4838C5;SizeAsReceived:987;Count:14
+X-COMMS-C: N
+X-Attach-Flag: N
+Date: Mon, 2 Nov 2026 23:39:52 +0000
+Subject: Your SimplyGo Points Are Expiring on 04-11-2026 - 793713
+Message-ID: <kdlv1x0002d29r1gxqcc5mzp.1117527106712@t-online.de>
+References: <vswqtrvkygl6uwlhb38gtqk4.1857466054667@t-online.de>
+From: SimplyGo <mail@tempaku-rc.com>
+To: <han_heng_ee@moe.edu.sg>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_C7980AB3E1-CAA6-6780-679F-F865DE6590E"
+X-Virus-Status: clean
+X-Anti-Virus-Server: fsav414.rs.sakura.ne.jp
+X-IncomingHeaderCount: 14
+X-MS-Exchange-Organization-ExpirationStartTime: 02 Nov 2026 23:40:28.0037
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 2e9bac5e-380e-4c3a-0ef0-08df393aaccf
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ BN2PEPF000044A4:EE_|SA1P220MB1463:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ BN2PEPF000044A4.namprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/2/2026 2:21:24 AM
+X-MS-Office365-Filtering-Correlation-Id: 2e9bac5e-380e-4c3a-0ef0-08df393aaccf
+X-Sender-IP: 59.106.171.62
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: NONE
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|21090799003|9400799043|22090799003|34130799006|260928210016899003|32020799003|58110799003|2700799033|9800799015|970799063|69000799021|60050799012|3069299007|58200799025|12119299003|260826003000599003|13020799009|87000799021|46080799009|51300799024|4210799018|74000799027;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 02 Nov 2026 23:40:27.4181
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 2e9bac5e-380e-4c3a-0ef0-08df393aaccf
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ BN2PEPF000044A4.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA1P220MB1463
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.3927984
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0569.002
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(10005027)(9610028)(9540006)(10160021)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+--Apple-Mail=_C7980AB3E1-CAA6-6780-679F-F865DE6590E
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your 5,000 points will expire on 04-11-2026. Convert them to an eVoucher or=
+ cash now.
+
+
+Your rewards points are expiring
+Dear Customer,
+This is a friendly reminder that your5,000 pointswill expire on04-11-2026.
+You can convert your points to an eVoucher or cash instantly!
+Redeem your points:
+Convert them to an eVoucher before they expire.
+hxxps://c2q7gdcz7ydr[.]s3[.]eu-central-1[.]amazonaws[.]com/iq5e06fe[.]html
+Hey, thanks for being an amazing customer!
+You can claim an eVoucher or cash with Rewards points directly to your acco=
+unt.
+Happy Traveling!
+Thank you.
+Regards,
+Transit Link Pte Ltd
+
+--Apple-Mail=_C7980AB3E1-CAA6-6780-679F-F865DE6590E
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en-SG"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+  <title>SimplyGo</title>
+</head>
+<body style=3D"margin:0; padding:0; background:#f2f2f2; font-family:'Montse=
+rrat','Helvetica Neue',Helvetica,Arial,sans-serif; -webkit-font-smoothing:a=
+ntialiased;">
+
+  <!-- Preheader -->
+  <div style=3D"display:none; max-height:0; overflow:hidden; opacity:0; mso=
+-hide:all; font-size:1px; color:#f2f2f2; line-height:1px;">
+    Your 5,000 points will expire on 04-11-2026. Convert them to an eVouche=
+r or cash now.
+  </div>
+
+  <table role=3D"presentation" align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" style=3D"background:#f2f2f2; padding:32px 12px;">
+    <tr>
+      <td align=3D"center">
+
+        <!-- Card -->
+        <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600" style=3D"max-width:600px; width:100%; background:#ffffff; borde=
+r:1px solid #d9d9d9; overflow:hidden;">
+
+          <!-- Header -->
+          <tr>
+           =20
+          </tr>
+
+          <!-- Contenuto -->
+          <tr>
+            <td style=3D"padding:32px 28px; font-family:'Montserrat','Helve=
+tica Neue',Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6; col=
+or:#333333;">
+
+              <h1 style=3D"font-size:22px; font-weight:700; color:#333333; =
+margin:0 0 10px; padding-bottom:12px; border-bottom:3px solid #c8102e; lett=
+er-spacing:-.01em; line-height:1.3;">
+                Your rewards points are expiring
+              </h1>
+
+              <p style=3D"margin:18px 0 14px; font-size:14px;">Dear Custome=
+r,</p>
+
+              <p style=3D"margin:0 0 14px; font-size:14px;">
+                This is a friendly reminder that your <strong>5,000 points<=
+/strong> will expire on
+                <strong style=3D"color:#c8102e;">04-11-2026</strong>.
+              </p>
+
+              <p style=3D"margin:0 0 24px; font-size:14px;">
+                You can convert your points to an eVoucher or cash instantl=
+y!
+              </p>
+
+              <!-- CTA box -->
+              <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" style=3D"background:#f5f8ff; border-left:4px solid #0033=
+99; margin:0 0 24px;">
+                <tr>
+                  <td style=3D"padding:16px 18px; font-family:'Montserrat',=
+'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; line-height:1.=
+6; color:#333333;">
+                    <strong style=3D"color:#003399;">Redeem your points:</s=
+trong><br>
+                    <span style=3D"color:#666666;">Convert them to an eVouc=
+her before they expire.</span>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- Button -->
+              <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+                <tr>
+                  <td align=3D"center">
+                    <a href=3D"hxxps://c2q7gdcz7ydr[.]s3[.]eu-central-1[.]a=
+mazonaws[.]com/iq5e06fe[.]html" style=3D"display:inline-block; padding:14px=
+ 40px; background:#c8102e; color:#ffffff; font-family:'Montserrat','Helveti=
+ca Neue',Helvetica,Arial,sans-serif; font-size:14px; font-weight:700; lette=
+r-spacing:.05em; text-transform:uppercase; text-decoration:none;">
+                      Convert now
+                    </a>
+                  </td>
+                </tr>
+              </table>
+
+              <p style=3D"margin:24px 0 14px; font-size:14px;">Hey, thanks =
+for being an amazing customer!</p>
+
+              <p style=3D"margin:0 0 14px; font-size:14px;">
+                You can claim an eVoucher or cash with Rewards points direc=
+tly to your account.
+              </p>
+
+              <p style=3D"margin:0 0 24px; font-size:14px;">Happy Traveling=
+!</p>
+
+              <p style=3D"margin:0 0 4px; font-size:14px;">Thank you.</p>
+              <p style=3D"margin:0 0 4px; font-size:14px;">Regards,</p>
+              <p style=3D"margin:0; font-size:14px; font-weight:700; color:=
+#111827;">Transit Link Pte Ltd</p>
+
+            </td>
+          </tr>
+
+        </table>
+        <!-- /Card -->
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+
+--Apple-Mail=_C7980AB3E1-CAA6-6780-679F-F865DE6590E--

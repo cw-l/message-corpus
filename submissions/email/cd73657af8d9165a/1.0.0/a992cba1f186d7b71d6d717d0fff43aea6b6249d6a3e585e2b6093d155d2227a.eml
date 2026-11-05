@@ -1,0 +1,2067 @@
+ARC-Seal: i=1; a=rsa-sha256; t=1793725347; cv=none;
+        d=google.com; s=arc-20260327;
+        b=lpZREXCY6UeE4jxbM3/mpzaWp7MLEbaOY5Y879srERJdyu1mg9Yatzq81jhbNnypKP
+         VJ4ROXms7oHgRSd+Tt3Zko280GLXwaBTmGQuTOQ4AEzT6QOl85Odl05p+o08AgtsECdb
+         dEmEp9kLyCHIxiT88EAv5/7tHVJAHl3CDDmYuQ9uzmSqFUQxHbwKQ8PdPS/xr1tt1wI4
+         vXoL4lzL8CWJ5hNBr2WYIVyQqMfr9v3RsKBX+O8mrtPD8lz6L+yDTfA9LZQ2fonfdKLd
+         dUTaD777ud1nRetyhI1Nl93+vV3WbPcSJvidx/gWgNCJW45BEz6AoXB6bcNp9XLB8xf8
+         YycA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=sender:mime-version:message-id:list-unsubscribe:to:delivered-to
+         :subject:from:date;
+        bh=A/fNj2/8OqGAUmyaCPTuyrKJFOXzeRYryOBK5afmQGQ=;
+        fh=5mDISkEnApbHbeyplF34/W/bGeiyjRLMmd/AgjlFR1Y=;
+        b=JiB2gqGwaJN3bH4dNBAlbYxY55FeJxlTrw1nb00X8rkQ5VXifg/EZcFM790qeG2jnW
+         QmeIyvvW1nCNPNWAKh2ArwouNyCfZU+n4yat36gG3iRP2T1HXSkgiz1+bUEPBPv3hW1v
+         OApmaoruBpipIHDnNp1h32q+v8asETo81tKcVXxKOHSvtw615s8SVxjFqZ7bw4+5zoXD
+         4Fh4vOwaw6VseezVWAJOMPHYgLzZhxpCwN51nhVBWQ7QRTTTT9Dybni6jLiU2Z7pVORB
+         E/72DcQ8R5L/v3yZNho9NnSYoUtLJuOW4+3PKdxkuSYMVm4gR4hUA8HXtwt7VyksgG5w
+         AxGw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of
+ aitcksshzvuae@google-apple-amazon.chelsea.com.seluco.ch designates
+ 89.252.128.143 as permitted sender)
+ smtp.mailfrom=aitcksshzvuae@google-apple-amazon.chelsea.com.seluco.ch
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of
+ aitcksshzvuae@google-apple-amazon.chelsea.com.seluco.ch designates
+ 89.252.128.143 as permitted sender)
+ smtp.mailfrom=aitcksshzvuae@google-apple-amazon.chelsea.com.seluco.ch
+Date: 11-03-2026
+From: ABC_News_Alert <rqlihzx.32.195982@kro.feefecstlixqy.us>
+Subject: Celebs are using this instead of injections
+To: redacted@redacted.com
+List-Unsubscribe: <http://norton.com/LEAVE=To>
+Message-ID: <37781235.38422092.ko4z9.bad1smtpin_added_broken@mx.google.com>
+MIME-Version: 1.0
+Content-Type: multipart/digest; boundary="----=_Part_1_57191239"
+Sender: zjwomrbkxhlbjeialxciekhyacuubl
+
+------=_Part_1_57191239
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+------=_Part_1_57191239
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+</br></br></br>
+<a href=3D"hxxps://storage[.]googleapis[.]com/worklinks/proforward[.]html#K=
+WFbDkbBWdkjOHVHIoFdxuAFpglWtt&4FjrHaapqQW&317497/1157/djjtdxjerw[.]home[.]p=
+hp?sq=3D32-195982&lk=3D38628-5&page=3D409" style=3D"text-decoration:none; c=
+olor:black">
+
+
+<center>
+<a href=3D"hxxps://storage[.]googleapis[.]com/worklinks/proforward[.]html#w=
+PzbHiBPAcBnzeABvNrDwORDhRbObi&4DnAwiSGamu&317497/1157/uklsexzfat[.]home[.]p=
+hp?sq=3D32-195982&lk=3D38628-5&page=3D802" style=3D"text-decoration: none;"=
+>
+     =20
+<span style=3D"font-weight:400"> <font face=3D"Impact" style=3D"font-size:2=
+3pt;border-radius:3px; border-width:3px; border-style:solid;border-left-sty=
+le:none;border-top-style:none; border-right-style:none;border-color:red;fon=
+t-weight:400" color=3D"#000000000">  =20
+ABC Alert: The "Gelatin Loophole"  </span></b></p> <p><b>
+<center>
+<h2 style=3D"font-family:Georgia; margin-top:2px;text-align:center; display=
+:inline-block; padding:4px 8px;font-size:1.5vw;border-radius:6px;color:#fff=
+;background:red">
+Celebs are using this instead of injections=20
+</h2>
+ </font>=20
+  </center>
+  <br> <br> =20
+	 =20
+	 =20
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "hxxp://www[.]w3[.]org/=
+TR/xhtml1/DTD/xhtml1-transitional[.]dtd">
+<html xmlns=3D"hxxp://www[.]w3[.]org/1999/xhtml">
+
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+    <title>ABC News Health Alert</title>
+    <style type=3D"text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #f7f7f7;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+        }
+
+        .btn {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 4px;
+            display: inline-block;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .btn:hover {
+            background-color: #333333;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000000;
+        }
+
+        .video-wrapper {
+            position: relative;
+            background: #000;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        .play-btn {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 70px;
+            height: 70px;
+            background: rgba(255, 0, 0, 0.9);
+            border-radius: 50%;
+            border: 3px solid #fff;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        }
+
+        .play-triangle {
+            width: 0;
+            height: 0;
+            border-left: 20px solid white;
+            border-top: 12px solid transparent;
+            border-bottom: 12px solid transparent;
+            margin: 23px 0 0 28px;
+        }
+    </style>
+</head>
+
+<body style=3D"margin: 0; padding: 0; background-color: #f7f7f7;">
+
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+        <tr>
+            <td align=3D"center" style=3D"padding: 20px 0;">
+
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"600" class=3D"container"
+                    style=3D"background-color: #ffffff; width: 600px; max-w=
+idth: 600px;">
+
+                    <!-- ABC NEWS HEADER -->
+                    <tr>
+                        <td style=3D"padding: 15px 25px; border-bottom: 2px=
+ solid #000000;">
+                            <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%">
+                                <tr>
+                                    <td align=3D"left">
+                                        <!-- ABC Logo Placeholder -->
+                                        <img src=3D"hxxps://i[.]imgur[.]com=
+/7zHTk6i[.]png" alt=3D"" width=3D"80" style=3D"display: block;">
+                                    </td>
+                                    <td align=3D"right"
+                                        style=3D"font-family: Arial, sans-s=
+erif; font-size: 12px; font-weight: bold; color: #cc0000; text-transform: u=
+ppercase;">
+                                        &#9679; LIVE REPORT
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- CONTENT -->
+                    <tr>
+                        <td style=3D"padding: 25px;">
+
+                            <!-- HEADLINE -->
+                            <h1
+                                style=3D"font-family: 'Helvetica Neue', Ari=
+al, sans-serif; font-size: 30px; font-weight: 800; color: #000000; margin: =
+0 0 15px 0; line-height: 1.1;">
+                                Better Than Ozempic? <span style=3D"color:#=
+cc0000;">"Gelatin Trick"</span> Drops 15 Lbs In
+                                7 Days
+                            </h1>
+
+                            <div style=3D"font-size: 13px; color: #666; mar=
+gin-bottom: 20px;">
+                                By <strong>Dr. Jennifer Ashton</strong>, Ch=
+ief Medical Correspondent
+                            </div>
+
+                            <!-- VIDEO PLAYER HERO -->
+                            <div class=3D"video-wrapper">
+                                <a href=3D"hxxps://storage[.]googleapis[.]c=
+om/worklinks/proforward[.]html#PdTDQwcajTvyaXtKSFFwVuBuxqcAIs&4MgJdOqtYwi&3=
+17497/1157/kboqvyyqql[.]home[.]php?sq=3D32-195982&lk=3D38628-5&page=3D565" =
+style=3D"display: block;">
+                                    <!-- INSERT IMAGE 1 HERE -->
+                                   <table role=3D"presentation" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"163" height=3D"108" style=3D=
+"border-collapse:collapse;border-spacing:0;width:163px;height:108px;margin:=
+0 auto;">
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c8c0c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0=
+c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c8,#c0c0c=
+0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c0c0,#d0c8c8,#c8c0c8,#c8c8c8,#d0c8c8,#d0c8c8,#=
+d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0d0d0,#d0c8c8,#d0d0d0,#d0c8c8,#d0c=
+8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0d0d0,#d0c8c8,#d0c8d0,#d0d0d0,#d0d0d0,#d0d0d0=
+,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#c=
+8c8c8,#d0d0d0,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8c8,#b8b8=
+b8,#c0c0c0,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#b8b8b8,#c8c8c8,#c0c0c0,#c0c0c0,=
+#d0d0d0,#c8c8c8,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#d0c8c8,#c8c8c8,#d0=
+d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d=
+0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#=
+d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d=
+0d0,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0d0d0=
+,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0d0d0,#d0d0d0,#c=
+8c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8=
+c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#b8b8b8,#c0c0c0,#c8c8c8,#c8c8c8,#c8c8c8,=
+#c0c0c0,#c8c8c8,#c0c0c0,#c8c8c8,#c8c8c8,#c0c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#d0=
+c8c8,#c8c0c0,#c8c8c8,#c8c8c8,#c0c0c0,#c8c8c8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c8c0c8,#c8c0c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0=
+c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c8,#d0c8c8,#d0c8c8,#c8c0c8,#c8c0c=
+8,#d0c8c8,#c8c0c8,#d0c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#=
+d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c=
+8d0,#d0c8c8,#d0c8c8,#d0d0d0,#d0c8d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0c8c8=
+,#d0c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d=
+0c8d0,#d0c8c8,#d0d0d0,#c8c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#b8b8b8,#d0d0d0,#d0d0=
+d0,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#b8b8b8,#d0d0d0,#c8c8c8,#d0d0d0,#c0c0c0,=
+#c8c8c8,#c0c0c0,#c8c0c0,#c8c0c8,#c0c0c0,#c0c0c0,#d0d0d0,#d0d0d0,#d0d0d0,#d0=
+d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d=
+0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#=
+d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#d0d=
+0d0,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#d0c8c8,#d0c8c8,#c8c8c8,#d0d0d0,#c8c8c8=
+,#c8c8c8,#c8c8c8,#d0c8c8,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8c8,#c=
+8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8=
+c8,#c8c8c8,#c8c8c8,#c8c8c8,#c0c0c0,#c0c0c0,#c8c8c8,#c8c0c0,#c0c0c0,#c0c0c0,=
+#c8c8c8,#c0c0c0,#d0d0d0,#c8c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8=
+c8c8,#b0b0b0,#c8c8c8,#c0c0c0,#d0d0d0,#c8c8c8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#d0c8d0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#d0c8d0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0=
+c8c8,#d0c8c8,#d0c8c8,#c8c0c8,#c8c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#c0c0c0,#d0c8c=
+8,#c8c0c8,#d0c8c8,#d0c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#=
+d0c8c8,#d0c8c8,#d0c8c8,#d0c8d0,#d0d0d0,#d0d0d0,#d0c8c8,#d0c8c8,#d0c8d0,#d0d=
+0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0c8c8,#d0c8d0,#d0c8c8,#d0c8c8,#d0c8c8=
+,#d0d0d0,#d0c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d=
+0d0d0,#d0d0d0,#c8c8d0,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8d0,#d0c8d0,#c0c0=
+c8,#c8c8d0,#b8b8c0,#c0c0c0,#c8c8c8,#d0c8d0,#d0d0d0,#d0d0d0,#c8c8d0,#c8c8c8,=
+#c8c8c8,#c8c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#d0=
+d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#c8d0d=
+0,#c8d0d0,#c8d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#=
+c8c8d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0c8d0,#d0c8d0,#d0c8d0,#c8c=
+8c8,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8c8,#d0d0d0,#d0c8c8,#d0d0d0,#c8c8c8,#c8c8c8=
+,#d0c8c8,#c8c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c=
+8c8c8,#c8c8c8,#d0d0d0,#d0c8c8,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8=
+c8,#c8c8c8,#c8c0c0,#c8c8c8,#c8c0c8,#c8c8c8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,=
+#c8c0c0,#c8c0c8,#c0c0c0,#c8c0c8,#d0c8c8,#c8c8c8,#d0c8d0,#d0c8c8,#d0c8c8,#c8=
+c8c8,#c0c0c0,#c0c0c0,#c0c0c0,#c8c8c8,#c8c0c8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c8c8c8,#c8c0c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8=
+c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c0c8,#c8c0c8,#c8c8c8,#c8c8c8,#c8c8c=
+8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#=
+d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0d0d0,#d0c8c8,#d0c8c8,#d0c8d0,#d0d0d0,#c8d=
+0c8,#d0d0c8,#c8c0c8,#a0a8b0,#9090a0,#808898,#788090,#708090,#788090,#788098=
+,#788898,#709098,#7088a0,#708098,#708898,#708898,#708898,#708898,#708098,#7=
+08090,#708090,#708090,#688090,#687888,#687890,#687890,#687890,#687890,#6878=
+90,#687890,#687090,#687890,#687890,#607088,#687088,#687088,#687088,#687088,=
+#607088,#687090,#607890,#607890,#687890,#687890,#607890,#607890,#607890,#60=
+7890,#687890,#688090,#688098,#687890,#687890,#708898,#7888a0,#7880a0,#68809=
+8,#7088a0,#7088a0,#7888a0,#7888a0,#788898,#788898,#788898,#788898,#788898,#=
+788898,#788898,#788898,#808898,#7888a0,#7888a0,#7888a0,#7890a0,#7890a0,#808=
+8a0,#8090a0,#8098a8,#8098a8,#8090a8,#8090a8,#8090a8,#8090a0,#788898,#808898=
+,#788890,#788090,#788090,#788898,#788898,#788090,#9090a0,#b0b0b8,#d0d0d0,#c=
+8c8c8,#d0d0c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8d0,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8=
+c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c0c8,#c8c8c8,#d0c8c8,#c8c0c8,#c0c0c0,#c8c0c8,=
+#c8c0c0,#c8c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#c8=
+c0c8,#c8c8c8,#c0b8c0,#c8c0c0,#c8c0c0,#d0d0d0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c8c0c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0=
+c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#c8c0c0,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c=
+8,#d0c8c8,#c8c8c8,#c8c0c8,#c8c0c0,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#=
+d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c8c0,#c8c0c8,#505868,#182840,#404050,#585=
+860,#706878,#888888,#909090,#989898,#888888,#808080,#686058,#585048,#605858=
+,#706068,#807878,#888080,#888088,#989098,#a8a0a8,#b8b0b0,#c0b0b8,#c0b8b8,#c=
+8b8c0,#c8b8c0,#b8b8b8,#b8b8b8,#b8a8b0,#b8b0b0,#b8a8b0,#b8a8b0,#b8a8b0,#b8b0=
+b0,#b8a8b0,#c0b0b0,#b8b0b0,#c0b0b8,#b8a8b0,#b8a8b0,#b8a8b0,#b0a8a8,#b0a8a8,=
+#b8a8b0,#b8a8b0,#b8a8b0,#b8a8b0,#b0b0b0,#b8b0b8,#b8b0b0,#b8b0b0,#b0b0b0,#b0=
+a8a8,#b0b0b0,#b0b0b0,#b0b0b0,#b0a8a8,#b0b0b0,#b0b0b0,#b0b0b0,#b8b8b8,#b8b8b=
+8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b0b8b8,#b0b0b0,#b0b0b0,#=
+b0b0b0,#b8b8b8,#b8b8b8,#b8b8b8,#b0b0b0,#b0b0b0,#b0b0b0,#b0b0b0,#b0b0b0,#b0a=
+8a8,#a8a0a0,#a09898,#a09898,#989090,#888080,#908080,#888088,#808080,#807878=
+,#808080,#787078,#808080,#888888,#888888,#989898,#989090,#807880,#686068,#4=
+84048,#484058,#303848,#605878,#c0c0c8,#c8c8c8,#c8c0c0,#c8c0c8,#c8c8c8,#d0c8=
+c8,#c0b8c0,#d0c8d0,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#c8c0c0,#c8c0c0,=
+#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#c8c0c8,#c8c8c8,#c8=
+c8c8,#c8c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#c8=
+c8c8,#d0c8c8,#d0c8d0,#d0c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#c0c0c0,#c0b8b8,#d0c8c=
+8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#=
+d0c8c8,#c8c8c8,#a8a8b0,#505860,#303848,#786878,#807878,#484848,#b8b8b8,#c0c=
+0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0=
+,#b8b8b8,#b8b8b8,#c0c0c0,#c0c0c0,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c=
+0c0c0,#c0c0c0,#b8b8b8,#c0b8c0,#c0b8b8,#b8b8b8,#c0b8b8,#b0b0b0,#c0b8b8,#c0b8=
+b8,#c0b8c0,#c0b8b8,#c0b8c0,#c0b8b8,#b8b8b8,#c0b8b8,#c8b8c0,#c0b0b0,#c0b0b8,=
+#c0b8b8,#c0b8c0,#c0b8c0,#c0b8b8,#c0b8c0,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8c0,#c0=
+c0c0,#c0b8b8,#c0b8b8,#c0b8b8,#c8c0c0,#c0c0c0,#b8b8b8,#c0c0c0,#c0c0c0,#c0c0c=
+0,#b8b8b8,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#b8b8b8,#c0c0c0,#b8b8b8,#=
+b8b8b8,#c0c0c0,#b8b8b8,#b8b8b8,#c0c0c0,#c0c0c0,#b8b8b8,#b8b8b8,#c0c0c0,#c0b=
+8b8,#c0b8b8,#c0b8b8,#c0b8c0,#b8b0b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8=
+,#b8b8b8,#b8b8b8,#b8b8b8,#c0c0c0,#c0c0c0,#c8c8c8,#c0c0c0,#c8c0c8,#c8c0c8,#c=
+8c0c8,#b0a0a8,#685860,#908888,#686068,#202828,#707070,#c0c0c0,#c8c8c8,#d0c8=
+c8,#d0c8c8,#d0c8d0,#c8c8c8,#d0c8c8,#d0c8d0,#d0c8d0,#c8c8c8,#c8c8c8,#c8c0c0,=
+#c0c0c0,#b8b8b8,#c8c0c0,#c8c8c8,#c8c0c8,#d0c8c8,#c8c0c8,#c8c0c8,#d0c8c8,#c8=
+c0c8,#d0c8c8,#c8c0c8,#c8c8c8,#d0c8c8,#c8c8c8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c8c8,#c8c0c8,#c8c8c8,#c8c8c8,#c8c0c8,#c8=
+c8c8,#c0b8c0,#b0b0b0,#c0b8c0,#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c8,#c8c8c8,#c8c0c=
+0,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#=
+585858,#505050,#686060,#888080,#c8c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c=
+0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0=
+,#c0c0c0,#c0c0c0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c=
+8c0c0,#c0c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c0c0c0,#c8c0c0,#c8c0c8,#c8c0c8,#c8c8=
+c8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c0b8b8,#c8c0c0,#c0b8b8,#c8b0b8,#c8b8b8,=
+#908080,#c8c0c0,#c0b8c0,#c0b8b8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c0=
+c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c8c0c0,#c8c0c0,#c0c0c0,#c0c0c0,#c8c8c8,#c0c0c=
+0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c0c0c0,#c0c0c0,#c0c0c0,#=
+c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c8c8c8,#c8c=
+0c8,#c8c0c0,#c8c0c0,#c0c0c0,#c0c0c0,#c8c0c8,#c8c0c8,#c8c0c0,#c0c0c0,#c0c0c0=
+,#c0c0c0,#c0c0c0,#c0b8c0,#c0c0c0,#c0b8b8,#c0c0c0,#c8c0c0,#c0c0c0,#c8c0c0,#c=
+0c0c0,#c8c0c0,#c0b8c0,#c8c0c0,#c8c0c0,#c8c0c0,#a09098,#686060,#687068,#9890=
+98,#c8c0c8,#d0d0d0,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c0,#d0c8c8,=
+#c8c0c8,#c8c8c8,#c8c0c0,#d0c8d0,#d0c8c8,#c8c0c0,#c8c8c8,#d0c8c8,#c8c8c8,#c8=
+c0c8,#c8c8c8,#c8c0c8,#c8c0c0,#c0b8c0,#c8c8c8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c8c8,#c8c8c8,#c8c0c0,#c8c0c8,#c8c0c0,#d0=
+c8c8,#c8c0c0,#c8c0c0,#b8b8b8,#c0b8b8,#c8c0c0,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8c=
+8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#908888,#806060,#=
+683020,#b8b8b8,#c0c0c0,#c0b8c0,#c0b8b8,#c0b8c0,#c0b8b8,#c0c0c0,#c0c0c0,#c0c=
+0c0,#c8c8c8,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8=
+,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#c=
+8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8=
+c8,#d0c8c8,#c8c0c8,#c8c8c8,#d0a898,#c03020,#c81020,#d02028,#d01020,#d82030,=
+#d01020,#c84058,#c81020,#c02028,#b02020,#c8a080,#d0c8d0,#d0d0d0,#988070,#c0=
+2820,#c85040,#c84038,#c85848,#b89898,#b8c0b0,#889888,#a0a098,#d0d0c8,#d0d0d=
+0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8c8,#d0d0d0,#c0b8b0,#=
+807850,#485828,#587030,#508030,#509028,#789058,#807068,#c8c8c8,#c8c8c8,#c8c=
+8c8,#c8c8c8,#c8c8c8,#c8c0c0,#c8c0c8,#c8c0c0,#c8c0c8,#c8c0c0,#c8c0c8,#c8c0c0=
+,#c8c0c0,#c8c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c0c8,#c0c0c0,#c8c0c0,#c8c0c0,#c=
+0c0c0,#c8c0c0,#c8c0c0,#c0b8b8,#c0b8c0,#c0c0c0,#c0b8c0,#c0c0c0,#c8c0c0,#6858=
+50,#585858,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,=
+#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c8c8,#d0d0d0,#c8c8c8,#d0c8c8,#c8=
+c0c0,#c8c8c8,#c8c0c0,#c8c0c0,#c8c0c8,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c8,#c8c0c0,#c8c0c8,#c0c0c0,#c0b8b8,#c8=
+c0c0,#c8c8c8,#c8c8c8,#b8b8b8,#d0c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#d0c8c=
+8,#c8c8c8,#d0c8c8,#d0c8d0,#d0c8c8,#d0c8c8,#c0c0c0,#783838,#a88088,#c8c0c8,#=
+c0c0c8,#c0c0c0,#c0c0c0,#c0c0c0,#c0b8c0,#c8c0c0,#c0c0c0,#c0b8b8,#c0c0c0,#c0c=
+0c0,#c8c8c8,#c8c8c8,#c8c8c8,#98a098,#80a880,#88a080,#88a080,#88a080,#90a090=
+,#90a898,#98a898,#98a098,#a0a8a0,#b0b8b0,#c8c8c8,#d0d0d0,#d0d0d0,#d0d0d0,#d=
+0c8d0,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8d0,#d0c8c8,#c86040,#d82800,#d01000,#c820=
+08,#d0d0d0,#c8c0c8,#c8c0c0,#b82030,#d80008,#d00010,#d80008,#c80008,#c00000,=
+#a81818,#d02040,#b81828,#d00828,#c80820,#c00810,#c04040,#d00818,#c81818,#c8=
+1010,#c80808,#c81010,#c07070,#c81810,#103008,#80c078,#70c870,#60c060,#38c04=
+8,#18b830,#48a048,#c0c0c0,#d0d0d0,#d0d0d0,#c8c8c8,#809040,#70a040,#50a028,#=
+38a020,#189810,#089008,#088810,#008008,#488040,#70a860,#80b068,#b0a898,#d0c=
+8c8,#c8c0c0,#c8c0c0,#d0c8d0,#d0c8d0,#d0c8c8,#d0c8d0,#d0c8c8,#d0c8d0,#d0d0d0=
+,#d0d0d0,#c8c8c8,#d0d0d0,#d0d0d0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d=
+0c8c8,#c8c0c8,#c0c0c0,#c0c0c0,#c8c0c0,#c0b8c0,#c0b8c0,#c0c0c0,#c0b8c0,#c0c0=
+c0,#c8c0c8,#a86858,#805860,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,=
+#c8c8c8,#d0c8d0,#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c0,#c0b8c0,#c8c0c0,#c8c0c0,#c0=
+c0c0,#c8c0c0,#c8c0c8,#c8c0c0,#c0c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#d0c8c8,#c8c8c8,#c8c0c0,#c8c0c0,#c0c0c0,#c8=
+c0c0,#c8c8c8,#c8c8c8,#c8c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c=
+8,#d0c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#888080,#a8a8a8,#c0b8c0,#c8c0c0,#c0c0c0,#=
+c0c0c0,#c8c0c8,#c0b8b8,#c8c0c0,#c0c0c0,#c8c0c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c=
+8c8,#c8c8c8,#c8c8c8,#b8c0b0,#90c090,#50c058,#10c840,#08c040,#10c040,#18c048=
+,#28c040,#18c048,#20c040,#08b830,#10b830,#a8c0a8,#c0b8c0,#c8c0a8,#c09878,#b=
+06818,#d07000,#d88000,#d07000,#d88800,#d06800,#980008,#d00010,#d00008,#d000=
+08,#c00008,#d00008,#c80808,#b00008,#981010,#a00000,#a00000,#a80818,#a00808,=
+#981018,#b00830,#b01020,#a80018,#900008,#980808,#980000,#980000,#980000,#a8=
+0808,#a00008,#980008,#b80810,#301808,#207020,#088800,#008000,#007800,#00680=
+0,#18a030,#48d058,#60c860,#68d068,#40a048,#587830,#307818,#088808,#088008,#=
+189838,#70b860,#20a830,#50d058,#20c838,#80d080,#38b028,#107008,#308020,#a09=
+870,#804830,#c88088,#b07070,#b87070,#904848,#984048,#985050,#985858,#c0a890=
+,#c8c8c8,#c0c8d0,#c8c8c0,#c8c8c0,#c8c8c8,#c8c8c8,#d0c8c8,#d0d0d0,#c8c8c8,#d=
+0c8c8,#d0c8c8,#c8c8c8,#d0c8c8,#c8c0c8,#c8c0c0,#c0c0c0,#c0b8b8,#c0b8b8,#b8b8=
+b8,#c0b8c0,#b8b8c0,#885040,#c0b0b0,#786068,#c8c0c0,#c8c0c0,#d0c8c8,#d0c8c8,=
+#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c8,#d0c8c8,#c8c8c8,#c0c0c0,#c0b8b8,#c8c8c8,#c8=
+c0c0,#c0c0c0,#c0c0c0,#c0b8c0,#c0c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8=
+c0c0,#c8c8c8,#c8c0c0,#c8c0c0,#c8c0c8,#c8c0c8,#c8c0c8,#c8c8c8,#c8c8c8,#d0c8c=
+8,#c8c8c8,#d0c8c8,#c0b8b8,#c8c8c8,#c0c0b8,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#=
+c0b8c0,#c8c0c0,#c0c0c0,#c8c0c0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c=
+8c8,#c8c8c8,#c0c0c0,#a0a098,#709078,#088810,#009808,#008800,#008000,#008000=
+,#008000,#008000,#008800,#008000,#584808,#984000,#b84808,#b84808,#b04000,#b=
+84808,#b84000,#c04000,#d04000,#d04008,#b81000,#780810,#980008,#a80808,#a800=
+08,#880000,#900008,#780000,#700008,#a82020,#c00010,#c80010,#c80010,#d80020,=
+#d80020,#d80018,#d00820,#a00008,#b80818,#980008,#a82830,#d00010,#d80010,#c0=
+0810,#d80008,#b00808,#404030,#a0a090,#10b018,#10b010,#00b810,#08c008,#00980=
+0,#089000,#008800,#007808,#087800,#088810,#684818,#a87840,#388018,#088818,#=
+08a810,#18b828,#08c010,#08a810,#00c010,#00a808,#00b810,#08b818,#00c808,#803=
+810,#782820,#984048,#c88888,#c08888,#d06060,#d86868,#c82830,#a02030,#b8a090=
+,#98a898,#90a890,#90a898,#207018,#909078,#b8b8b8,#c0b8c0,#c8c0c0,#c8c8c8,#c=
+8c8c8,#d0d0d0,#d0c8d0,#c8c8c8,#c8c8c8,#c8c0c0,#c0c0c0,#c8c0c0,#c0c0c0,#c0c0=
+c0,#c0c0c0,#c0b8b8,#c0c0c8,#903030,#c8c0c8,#c0c8c0,#a8a0a8,#d0c8c8,#d0c8c8,=
+#c8c8c8,#d0c8c8,#d0c8c8,#d0c8c8,#c8c0c8,#c8c0c0,#c8c0c0,#c8c0c8,#b8b8b8,#c0=
+b8c0,#b0a8b0,#c8c0c0,#c8c0c0,#c0c0c0,#c0b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c8c8,#c8c0c8,#c8=
+c8c8,#c8c8c8,#c8c8c8,#c8c0c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#d0c8c=
+8,#c0b8c0,#c8c0c0,#c8c8c8,#c8c8c0,#603840,#c0c0c0,#c8c0c0,#c0b8b8,#c0b8b8,#=
+c0b8c0,#c0c0c0,#c8c0c0,#c8c0c0,#c0c0c0,#c8c0c8,#c8c8c8,#c8c0c8,#707860,#709=
+860,#809880,#a8a898,#80c088,#78c088,#007800,#009808,#08a808,#00b800,#00b808=
+,#00b000,#00a800,#08b008,#00a800,#386808,#903008,#904018,#b85820,#c04810,#c=
+85008,#d05800,#d85808,#d85800,#d85000,#d84000,#c03010,#980000,#a00000,#b800=
+08,#c00008,#c00008,#b80008,#a80008,#a80810,#800000,#900000,#a00008,#b00808,=
+#a80000,#a80800,#a80008,#980000,#900000,#a80808,#700008,#701818,#903028,#90=
+4840,#803028,#601810,#780810,#784838,#20b838,#08d030,#20c840,#00a800,#00c00=
+8,#08d038,#08d020,#18a018,#a09860,#885030,#a86038,#c87038,#c8a878,#a05018,#=
+08b810,#08c008,#08c808,#10d028,#08c820,#00d020,#109808,#30a038,#803810,#680=
+800,#900000,#980010,#a00010,#a00818,#900010,#880810,#900008,#800008,#104800=
+,#088008,#007000,#088008,#107808,#384028,#586838,#a8a0a0,#b0b0b0,#c0b8b8,#c=
+0b8b8,#c8c0c0,#d0c8c8,#c8c8c8,#c8c0c0,#c8c0c0,#c8c0c0,#c0b8c0,#c0c0c0,#b8b0=
+b0,#c0b8c0,#c0c0c0,#c0b8b8,#c0b8b0,#784030,#c8c0c0,#c8c0c8,#c8c8c8,#c0c0c0,=
+#d0c8c8,#c8c8c8,#c8c0c8,#c8c0c8,#d0c8c8,#d0c8c8,#c8c0c0,#c8c0c0,#c8c0c0,#c8=
+c0c0,#c0b8b8,#b8b8b8,#c8c0c0,#c8c0c0,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c8,#c8c0c0,#c8c0c0,#c8c8c8,#c8c0c8,#c8=
+c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#d0c8c8,#c8c8c8,#c0b8c0,#c8c0c=
+0,#c8c0c8,#c8c0c0,#c8c0c8,#a89898,#989088,#c0c0c0,#c0b8c0,#b8b8b8,#c0b8b8,#=
+c0b8b8,#c0b8b8,#c0c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c0c0c0,#707860,#508058,#087=
+808,#006000,#287028,#086808,#286020,#106810,#08b808,#00c810,#00c828,#00c828=
+,#00d040,#00d040,#00d040,#00d018,#10c808,#d06808,#d87000,#c88818,#d87808,#d=
+88008,#d88000,#d88000,#d87800,#d87000,#d86800,#d05808,#b00008,#c01010,#d000=
+08,#d80018,#d80018,#d80018,#d80018,#d00010,#d80010,#c81010,#d01828,#c81020,=
+#701010,#401810,#601818,#581018,#480808,#480008,#600000,#801808,#280000,#20=
+0000,#581018,#a05050,#b04050,#a01020,#809868,#087000,#08c010,#08d028,#50d85=
+0,#50d860,#686008,#804808,#903800,#984008,#b04000,#c05008,#c05800,#c06000,#=
+a86800,#28d040,#20d040,#48d860,#18a818,#086808,#08a810,#107808,#082808,#202=
+810,#681810,#881010,#d04038,#d04848,#c83038,#b85848,#c82028,#304000,#089800=
+,#009800,#08b808,#00b000,#089808,#385008,#c89068,#b87860,#b07858,#b07860,#b=
+08878,#c09878,#d0c0b0,#c8c0c8,#c8c0c0,#c8c0c0,#c0c0c0,#c0b8b8,#c8c0c0,#c8c0=
+c0,#c0c0c0,#c0b8b8,#c0b8c0,#c0c0c0,#904840,#c0b0b8,#c8c0c0,#c8c8c8,#c8c0c0,=
+#c8c0c0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c0c8,#c8c0c0,#c8c0c0,#c0b8b8,#c8c0c8,#c8=
+c0c0,#c0b8b8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c8c0c8,#c8c0c0,#c8c0c0,#c8c0c8,#c8c0c0,#c8=
+c8c8,#c8c8c8,#c8c8c8,#c8c8c8,#c8c0c8,#c8c8c8,#c0b8c0,#c8c0c8,#c8c0c0,#c8c0c=
+0,#c8c0c0,#c8c0c0,#c8c0c0,#605048,#b8b8b8,#c0c0c0,#c0b8b8,#c0b8c0,#c0b8b8,#=
+c0b8b8,#c0c0c0,#c0b8b8,#b8b8b8,#c0c0c8,#b8b8b8,#487038,#388838,#188820,#007=
+000,#007000,#007008,#006800,#007800,#105808,#984050,#780000,#700000,#780000=
+,#880000,#780800,#880008,#a80808,#b04040,#c84818,#981008,#c80008,#d02018,#d=
+89020,#d08008,#c06000,#c06008,#d07818,#681800,#885820,#b03808,#b80008,#d800=
+20,#d81028,#d00010,#d80810,#d00808,#c81818,#c06868,#c8b8a8,#d07870,#c01008,=
+#805000,#903808,#706008,#607008,#686808,#100008,#200000,#582830,#602028,#80=
+4040,#981018,#681010,#300008,#600810,#701828,#202808,#58c030,#988040,#80481=
+0,#a05800,#b85800,#d05800,#d06808,#d86000,#d87810,#d87000,#d87000,#d86808,#=
+785808,#60a808,#48b028,#30b010,#089000,#00a800,#009800,#089000,#086800,#304=
+808,#302800,#283008,#501808,#881018,#501020,#500818,#304008,#089000,#08a008=
+,#18b820,#08c008,#08c000,#389820,#a05808,#d88050,#c87840,#c06830,#c87040,#b=
+85820,#a84810,#a04808,#c0c0b8,#c8c0c0,#c0c0c0,#c8c0c0,#c8c0c0,#c0b8b8,#c0c0=
+c0,#c0b8b8,#c0c0c0,#c0b8b8,#c8c0c8,#b89898,#785050,#c0c0c0,#d0c8c8,#c8c0c0,=
+#c8c0c0,#c8c0c8,#c8c0c0,#c8c0c0,#b8b0b0,#c8c0c0,#c8c0c8,#c8c0c0,#c0c0c0,#c8=
+c0c8,#c0c0c0,#c8c0c8,#c0c0c0,#c8c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c8,#c8c8c8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8=
+c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c0b8c0,#c8c0c0,#c8c0c0,#c8c0c8,#c8c0c8,#c8c0c=
+0,#d0c8c8,#c8c0c0,#b8b0b8,#504830,#c0b8c0,#c0b8c0,#b8b8b8,#b8b8b8,#b8b8b8,#=
+b0b0b0,#b8b0b8,#c0b8c0,#b8b8b8,#b8b8b8,#709060,#40b050,#009008,#008800,#007=
+800,#089000,#00a800,#00a800,#009800,#282000,#a80008,#a00008,#a00000,#b00000=
+,#a00000,#980800,#c80010,#a80808,#780810,#481008,#a80008,#b80008,#900808,#8=
+80810,#780000,#580000,#985008,#904808,#583000,#382008,#584000,#503808,#b028=
+18,#801818,#d09088,#c80000,#c01008,#b04038,#d08078,#d0a088,#d02008,#c88070,=
+#600000,#300000,#300000,#280000,#280000,#704848,#a00010,#b00808,#580810,#40=
+1818,#380008,#280808,#200000,#380808,#600810,#600808,#580000,#b82828,#98000=
+0,#b01810,#d86008,#d88008,#d87800,#d08800,#d89000,#d89000,#d89000,#b87008,#=
+387808,#007000,#006800,#008800,#30a038,#00a000,#00a800,#00a808,#00a000,#009=
+800,#009808,#087000,#304000,#383008,#302808,#481008,#580008,#480000,#280800=
+,#480800,#980820,#880000,#a80800,#a85800,#b03800,#c05018,#d89040,#d08030,#c=
+86010,#c05008,#b05008,#a04828,#b0b0b0,#b8b8b8,#c0c0c0,#c0b8b8,#c0c0c0,#c0b8=
+b8,#b8b0b8,#b8b0b0,#b8b8b8,#c0b8c0,#c0b0b0,#704030,#c0b8c0,#c8c8c8,#c8c8c8,=
+#c8c0c8,#c8c8c8,#c8c0c0,#c0c0c0,#c0c0c0,#c8c8c8,#c8c8c8,#c8c8c8,#c8c0c0,#c8=
+c0c0,#c8c0c8,#b8b8b8,#c0c0c0,#c0c0c0,#c0b8b8,#f0e8f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c8c8,#c8c0c8,#c8c0c0,#c8c0c8,#c8c0c0,#c8=
+c0c8,#c8c8c8,#c8c0c8,#c0c0c0,#c8c0c8,#c8c0c8,#c8c0c0,#c8c0c0,#c8c0c8,#c8c0c=
+0,#c8c0c0,#c0b8c0,#a0a0a0,#504030,#c8b8c0,#c0b8b8,#b8b0b8,#b8b0b0,#b8b0b0,#=
+b8b0b8,#b8b0b8,#b8b0b0,#b8b8b8,#b8b0b8,#088808,#009808,#00c000,#00a000,#08a=
+008,#20c828,#487808,#704808,#884008,#801810,#b81008,#d00010,#d00000,#d80010=
+,#d00010,#b81820,#980008,#480000,#681820,#a00000,#a00008,#900810,#780810,#5=
+80808,#501010,#380808,#702030,#602028,#386000,#484008,#703820,#a07880,#a880=
+90,#903840,#b06060,#d0b098,#d8b090,#d8a888,#d8a888,#d8a080,#d04810,#b02818,=
+#780008,#580808,#500000,#600008,#781020,#601818,#280008,#400808,#581820,#60=
+1820,#480808,#580808,#580800,#601018,#601008,#780008,#700808,#c00000,#d8000=
+8,#d80010,#d80820,#d01018,#d89818,#d8a000,#d8a000,#d09000,#a87008,#584800,#=
+504000,#483810,#288010,#089800,#08c000,#08c820,#007008,#886008,#783800,#608=
+808,#00a800,#00a000,#087800,#185000,#401808,#980000,#980000,#a00000,#880008=
+,#980808,#883838,#a86058,#a80808,#d85000,#d05000,#d05810,#c84800,#c04000,#b=
+83800,#a83810,#982800,#b87048,#b8b0b8,#c0b8b8,#b8b8b8,#b8b0b0,#b8b8b8,#b8b8=
+b8,#b8b0b0,#b8b0b0,#b8b0b8,#b8b8b8,#b8b8b0,#784038,#b0a8a8,#c0c0c0,#c0b8c0,=
+#c0c0c0,#c0b8c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0b8c0,#c8c0c8,#c8c0c8,#c8=
+c8c8,#c8c0c0,#c0b8b8,#c0b8b8,#c0b8c0,#c0c0c0,#f0e8f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c8,#c8c0c0,#d0c8c8,#c8c0c8,#c8c0c8,#c8=
+c0c8,#c0c0c0,#c8c0c0,#807880,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c=
+0,#c0c0c0,#b8b8b8,#989088,#786848,#c0b8b8,#b0b0b0,#b8b0b0,#b0a8b0,#b8b0b0,#=
+b0a8a8,#b0b0b0,#b8b0b0,#b0b0b0,#a0a098,#389038,#209020,#089820,#08a010,#58a=
+830,#785808,#a86810,#a85000,#b06028,#b07058,#a82818,#c83818,#b00808,#d8a0a8=
+,#c85860,#a00008,#980000,#c00810,#d00818,#980810,#a00808,#900008,#900818,#a=
+01820,#780810,#781020,#580818,#603820,#b898a0,#b09898,#c0a8a8,#b09090,#c8a8=
+a8,#c89898,#c88890,#d07848,#c07068,#d8b090,#d8b8a8,#d8b898,#d08038,#c80008,=
+#780000,#900008,#c00008,#b80818,#a86058,#800000,#600000,#680000,#800810,#a0=
+0818,#b00808,#c01018,#d00810,#c00808,#b85048,#980000,#b00000,#d00008,#d8001=
+8,#d01830,#d01830,#c82030,#c80818,#b82020,#a01808,#a05048,#a05850,#905048,#=
+601008,#580000,#400008,#08c010,#08c828,#00c000,#b08008,#b85808,#c86800,#c06=
+800,#c06000,#a85008,#803808,#802008,#a00808,#b80000,#d00008,#d80010,#c80008=
+,#c01010,#d00008,#b00008,#c82808,#d87810,#d85800,#d86000,#d85008,#d04800,#d=
+04008,#b03800,#982808,#a898a0,#b8a8a8,#c0b8b8,#b8b8b8,#c0b8c0,#c0b8b8,#b8b0=
+b0,#b8b0b0,#b8a8b0,#b8b0b8,#b8b0b0,#b8b0b0,#804830,#a8a0a0,#c0c0b8,#c0b8b8,=
+#b8b8b8,#c0c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c0c0c0,#a8a8a8,#c0b8b8,#c8c0c0,#c0=
+c0c0,#c0c0c0,#c0b8c0,#c0b8c0,#c8c8c8,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c8c8,#c8c8c8,#c0c0c0,#c0b8b8,#c8c0c8,#c8=
+c8c8,#b8b8b8,#c8b8c0,#c0c0c0,#c0c0c0,#c8c0c0,#c8c0c8,#c0c0c0,#c0c0c0,#c0c0c=
+0,#c0b8c0,#b8b0b0,#a08888,#785048,#b8b0b0,#b8b0b0,#c0b0b8,#b0a8a8,#b8b0b0,#=
+b0a8b0,#b0a8b0,#b0b0b0,#b0b0b0,#a8a0a0,#888878,#688058,#80a058,#a84800,#b06=
+000,#b05800,#c87828,#d04808,#c87030,#c84010,#c88860,#b83830,#c02020,#c88880=
+,#a82020,#d00818,#c80018,#a00008,#a00008,#b80010,#900808,#680808,#580810,#7=
+01820,#580810,#700808,#700000,#b08890,#b89898,#b89898,#b88890,#b07078,#c088=
+90,#d0a0a8,#c89898,#b02028,#c05028,#d09070,#c08870,#c86040,#c05838,#a00808,=
+#980808,#880010,#900810,#900008,#700800,#700800,#a80808,#b82020,#c01820,#d0=
+1818,#a80810,#d04030,#c82818,#d81010,#b81008,#c03038,#c80008,#d80018,#d8002=
+8,#800810,#d02038,#901018,#a00818,#b80820,#780808,#500808,#581018,#a00810,#=
+a80008,#400008,#300008,#402000,#08c008,#b89000,#c06800,#d86800,#d87800,#d87=
+800,#d87800,#d87000,#d86000,#d83800,#d00800,#d80000,#d80800,#d80010,#b00808=
+,#b80808,#b80810,#c06028,#d81828,#c84818,#d0a818,#c8c810,#d8b008,#d8b018,#d=
+87808,#c04000,#c08060,#a89888,#b0a0a0,#b8b0a8,#b0a8a8,#c0b0b0,#c0b8b0,#c0b0=
+b8,#c0b0b8,#b8b0b0,#b8a8b0,#b8b0b0,#b8b8b8,#984838,#a0a098,#b8b8b8,#c0b8b8,=
+#c0b8c0,#c8c0c0,#c0c0c0,#c8c0c8,#c0c0c0,#c8c8c0,#a8a0a0,#c0c0c0,#b0a8b0,#c0=
+c0c0,#c0c0c0,#c0b8c0,#c8c0c0,#c0c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c8c0c0,#c8c0c8,#c8c8c8,#c8c0c8,#c8c0c8,#c8=
+c8c8,#c0c0c0,#a8a0a0,#c8c0c0,#c0c0c0,#c8c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c=
+0,#c0b8b8,#a8a8a8,#907870,#785048,#b8b0b0,#b8a8a8,#b0a0a8,#b8a8b0,#b8b0b0,#=
+b8a8b0,#b8b0b8,#b0b0b0,#b0a8b0,#a8a0a8,#908880,#787868,#788068,#c05000,#c05=
+810,#d06000,#d87800,#d08820,#d86800,#d89040,#d85008,#c85010,#d03810,#c01808=
+,#900008,#980008,#980008,#a80010,#b80010,#a80008,#980808,#980008,#a00810,#b=
+80808,#a01010,#b07068,#b89890,#c898a0,#d0a8a8,#c8a8a8,#d8b0b0,#c8a0a8,#d0a8=
+a0,#d09898,#d0a0a8,#c89090,#a00008,#d03800,#c81820,#d80810,#d00008,#c00810,=
+#c01020,#c80010,#880008,#582020,#704040,#583830,#583028,#200808,#985858,#a8=
+3038,#d02010,#d82810,#d03808,#d03000,#d83000,#d03008,#d03018,#d02828,#d0082=
+8,#d00820,#b80018,#a00008,#b00818,#a80010,#700008,#400000,#500008,#580810,#=
+c00008,#600000,#380000,#380000,#803820,#c07008,#d05808,#d86000,#d87808,#d88=
+000,#d88808,#d88800,#d87800,#d86000,#d85000,#d83008,#d00800,#c88878,#c80008=
+,#c80808,#d80010,#d80018,#d80010,#d80010,#b80800,#c87818,#d86828,#c83810,#b=
+86008,#c88808,#b07048,#a89898,#b0a0a0,#b8b0b0,#b8b0b0,#b8b0b0,#b8a8b0,#b8a8=
+b0,#b8b0b0,#b8a8b0,#a8a0a0,#b0a0a0,#b8b8b8,#884840,#a89898,#b0b0b0,#b8b8b8,=
+#b8b8b8,#c0b8b8,#b8b8b8,#c0c0c0,#c0c0c0,#c0b8c0,#b8b8b8,#b8b8b8,#b0a8b0,#c8=
+c0c8,#c8c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8=
+c0c0,#c0c0c0,#988890,#c0c0c0,#c0c0c0,#c8c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c=
+0,#c0b8b8,#a8b0b0,#886060,#907068,#b8a8b0,#b0a0a0,#c0b8b8,#c0b8b0,#c0b0b0,#=
+b8a8a8,#b8b0b0,#b8a8b0,#b8a8b0,#a8a8a0,#a89898,#d05010,#b04818,#c85008,#d05=
+800,#d87808,#d08808,#d8b040,#d09010,#d8a838,#d08808,#d08018,#d05808,#c80800=
+,#b00008,#a00000,#900000,#981018,#b88088,#d07088,#b06860,#d098a0,#c89898,#d=
+0a0a0,#d0a098,#d0a098,#d09898,#d8a098,#d8a0a0,#d8a0a0,#c89898,#c08888,#d098=
+a0,#b85860,#700808,#b8a0a8,#683818,#a01828,#d80008,#d80010,#d00010,#a80008,=
+#a00008,#980000,#980808,#580008,#602830,#280808,#382828,#201010,#403020,#58=
+3820,#601010,#d05808,#d06808,#d86808,#d86808,#d06018,#d86020,#d84828,#c8382=
+0,#d02028,#981010,#780000,#980008,#900000,#900810,#680000,#580800,#700820,#=
+c80010,#c80010,#900000,#700000,#800808,#c80008,#c80808,#c84808,#d07810,#d89=
+810,#d89810,#d89810,#d89008,#d88008,#d07800,#d05800,#c80800,#d80010,#b80000=
+,#b80008,#900000,#800000,#880008,#880000,#b83830,#a01808,#c06038,#c04008,#b=
+83800,#982008,#c85818,#c06010,#d87000,#b8a8a8,#b8b0b0,#b8a8a8,#b8a8a8,#b0a8=
+a0,#b8b0b0,#b0a8a8,#b09898,#a89898,#b8b0b8,#885048,#a89088,#b8b0a8,#b8b0b0,=
+#c0b8c0,#c0b8c0,#c0b8b8,#c0b8b8,#c0c0c0,#c0b8b8,#c0c0c0,#b8b0b0,#b8b0b8,#c8=
+c0c0,#c8c8c8,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c8c8,#c8c8c8,#c8c0c0,#c8c0c0,#c8c8c8,#c0=
+c0c0,#c0c0c0,#888080,#c0c0c0,#c0c0c0,#c8c0c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8c=
+0,#c0b8b8,#b0a8a8,#703830,#a08078,#b8a8a8,#b8a8a8,#c0b8b8,#c0b0b0,#c0b0b0,#=
+c0b0b0,#c0b0b0,#b8b0b0,#b8a8b0,#b8a8b0,#c84808,#a84010,#c04808,#c05008,#d86=
+008,#d86800,#d87808,#d89008,#d08008,#d07010,#d87808,#d88000,#c05810,#c00008=
+,#b81818,#b02028,#980810,#900800,#a00008,#d00008,#a80008,#c80000,#a82820,#d=
+88888,#d89888,#d8a090,#d8a090,#d89888,#d89080,#d89088,#b00010,#a80008,#5808=
+00,#b89090,#a89898,#283008,#382808,#a87878,#b80000,#d80018,#d80018,#c00808,=
+#b00808,#b01008,#581008,#300800,#202000,#182008,#384028,#304018,#101808,#38=
+3028,#682810,#b06010,#c87008,#c87818,#d08018,#d07820,#d06828,#d01828,#d8304=
+0,#d00020,#c00810,#980000,#a00000,#c00008,#d00828,#c80018,#b00010,#800000,#=
+780800,#d00018,#880808,#a05860,#700008,#700810,#600808,#c01018,#b84048,#b84=
+038,#c83018,#c87828,#d08810,#d89818,#d89010,#d88028,#d00008,#d00000,#d00008=
+,#c00000,#c00000,#c00008,#c82010,#d85808,#d86810,#d86810,#d06020,#c02818,#c=
+80800,#d03808,#600800,#c87858,#b0a098,#b8b0b0,#b8a8a8,#b0a8a8,#b0a8a8,#b0a8=
+a8,#a8a0a0,#b0a0a0,#a8a098,#988888,#b0b0b0,#884848,#a08078,#b0a8a8,#b0b0b0,=
+#c0b8c0,#c0b8c0,#c0b8b8,#c0c0c0,#c8c0c0,#c0c0c0,#c8c0c0,#b0a0a8,#b8b8b8,#c8=
+c8c8,#c8c0c8,#c0b8b8,#b8b8b8,#b8b8b8,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c8c0c8,#c8c0c8,#c8c0c0,#c8c8c8,#c8c0c0,#c0=
+c0c0,#c0b8c0,#787070,#c0c0c0,#c0c0c0,#c0b8c0,#c0c0c0,#c0b8b8,#c0b8c0,#c0b8b=
+8,#b8b8b8,#b8a8b0,#702820,#b09890,#b0a0a0,#c0b0b0,#c0b0b0,#c0b8b0,#c0b0b0,#=
+b8b0b0,#c0b0b8,#c0b0b0,#c8b0a0,#b04000,#b05008,#c86008,#d05808,#d86808,#d86=
+808,#d07000,#d87000,#d88800,#d88808,#d88808,#d08010,#d87010,#b00008,#c00000=
+,#c80808,#a82020,#b03038,#a82828,#901010,#a00008,#b02020,#980000,#d81818,#d=
+80800,#c80808,#d07830,#d8a078,#d8a070,#c01808,#d01008,#701008,#583018,#8898=
+70,#a0a890,#485820,#506018,#385808,#482008,#502808,#d80018,#d00010,#c80010,=
+#c80008,#a00000,#604028,#201800,#083800,#285820,#88a888,#e0e8e0,#f8f8f8,#ff=
+fff8,#e0e0d8,#d8b890,#b88028,#a85818,#986010,#b06048,#a04838,#c02028,#c8102=
+0,#c80810,#c00008,#c00008,#c00008,#c80010,#d80018,#d00010,#380000,#100000,#=
+200000,#382010,#300808,#402810,#402010,#481008,#580000,#c80820,#880800,#c00=
+808,#d00810,#d00010,#c80818,#c01018,#c81020,#d00010,#b84040,#b07878,#b06068=
+,#a04040,#880008,#d02810,#a81008,#980000,#a80008,#a80000,#c00000,#b01000,#c=
+03008,#b83000,#a83000,#983010,#a8a0a0,#b0a0a8,#b0a0a8,#b0a8a8,#a8a0a0,#b0a0=
+a8,#a8a0a0,#a8a0a0,#a8a0a0,#886060,#b8a8b0,#884848,#987878,#b0a0a8,#b0b0b0,=
+#b8b8b8,#c0c0c0,#b8b0b8,#c8c0c0,#c0c0c0,#c8c0c0,#c8c0c0,#a0a0a0,#c0b8c0,#c8=
+c0c0,#c8c0c0,#c0b8c0,#c0c0c0,#c8c0c0,#c8c0c8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0c0c0,#c8c0c8,#c8c0c0,#c8c0c0,#c8c8c8,#c0=
+b8b8,#c0b8c0,#706868,#c0b8b8,#c0c0c0,#c0c0c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8b=
+8,#b8b8b8,#b8a8b0,#681818,#b0a098,#b09890,#b8b0a8,#b8b0b0,#b8b0a8,#c0b0b0,#=
+b8b0b0,#b8b0b0,#b8b0b0,#c0b0b0,#b8a8a8,#c85808,#c85008,#d86800,#d88000,#d88=
+000,#d87800,#d87000,#d87800,#d87800,#d87008,#d07808,#b80000,#b00000,#c00000=
+,#c00008,#c00808,#c00808,#a81010,#c03840,#980000,#980000,#800000,#900000,#b=
+81008,#d80810,#d01810,#d86038,#d05018,#d86010,#803008,#300000,#400000,#5050=
+08,#486810,#503000,#802800,#b05030,#903008,#882800,#b03828,#c80018,#b82030,=
+#a03848,#881818,#f0f0e8,#ffe0e0,#e81000,#e80800,#e80800,#e80800,#e80800,#f0=
+0000,#f00800,#f80800,#f80800,#f80800,#ffc8c8,#f8f0f0,#983818,#902810,#b0282=
+0,#c80010,#c80828,#d00828,#d80028,#d00020,#d00820,#d00810,#501818,#481818,#=
+401818,#503028,#503028,#482820,#280800,#180800,#280800,#c80818,#700808,#a83=
+830,#b80810,#c01828,#d00010,#c00810,#b00000,#800000,#a01010,#900808,#980000=
+,#b00000,#b00000,#d83808,#d06018,#b80008,#c81800,#d03000,#d05808,#d85808,#d=
+86010,#b84008,#c08010,#b03008,#b09890,#b0a8a8,#b8a8a8,#b0a0a8,#b0a8a8,#b0a0=
+a0,#b0a8a8,#a8a0a0,#b0a0a0,#785050,#b8a8a8,#905858,#907870,#a8a0a0,#b8b0b0,=
+#b8b0b8,#c0b8b8,#b8b0b8,#b8b8b8,#c0c0c0,#c8c0c0,#c8c0c0,#989898,#c0b8b8,#c8=
+c8c8,#c8c0c8,#c8c0c8,#c8c0c0,#c0b8c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c8c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c8c8,#c0c0c0,#c8c0c0,#c8c8c8,#c8c8c8,#c8c0c0,#b8=
+b0b8,#c0b8b8,#706870,#c0b8b8,#c0b8c0,#c0b8c0,#b8b8b8,#b8b0b0,#b0a8b0,#c0b8b=
+8,#b8b8b8,#a8a8a8,#601810,#b0a8a0,#a88088,#b8a8a8,#b8b0b0,#b8b0b0,#b8a8b0,#=
+c0b0b8,#b8b0b0,#b8a8b0,#b0a8a8,#a8a098,#982828,#b80008,#b81008,#d07008,#d88=
+008,#d88008,#d88000,#d88000,#d86800,#d88008,#903018,#b00800,#c80008,#d00810=
+,#d00810,#b82830,#d02838,#d00018,#d81828,#c82838,#d80010,#c80000,#c00808,#c=
+80008,#d80010,#d80020,#d80020,#d80820,#b04850,#805828,#789050,#406808,#4848=
+08,#602800,#903000,#c02800,#d80008,#c83020,#d08050,#c06058,#981820,#902028,=
+#f8e8e8,#f03838,#f00800,#e81000,#e81000,#e81000,#e81000,#f01008,#f01010,#f8=
+1010,#f00808,#f80800,#f81000,#f80800,#f80800,#f80800,#f82820,#ffffff,#80180=
+0,#681010,#b03040,#c00828,#c80018,#c81830,#c81830,#c01020,#200808,#201000,#=
+302010,#201000,#201008,#201008,#201000,#200000,#300000,#b00808,#980008,#a80=
+808,#c00008,#d00010,#b80810,#c00008,#a80000,#c00008,#a80008,#c80808,#d80010=
+,#d80018,#c80810,#d07820,#d86818,#d88820,#d09818,#d89010,#d89808,#c06008,#c=
+04810,#c07018,#d05010,#b05030,#a8a8a0,#b8a8b0,#b8a8b0,#b8a8b0,#b8a8b0,#a8a0=
+a0,#b0a8a8,#b8a8b0,#b0a0a8,#786060,#b8a0a8,#905860,#886060,#b0a0a0,#b8b0b0,=
+#b8b8b8,#c0b8c0,#c0b8b8,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#989090,#c0b8c0,#c8=
+c0c8,#c0c0c0,#c0b8c0,#c0b8b8,#c0c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c0,#c8c0c8,#c8c0c8,#c8c0c0,#c8c0c8,#b8=
+b8b8,#c0b8b8,#787878,#c0b8b8,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8b8,#c0c0c0,#c0b8b=
+8,#b8b0b0,#a8a0a0,#501820,#b8a8b0,#906870,#b0a8a8,#b0a8a8,#b8b0b0,#c0b0b0,#=
+b8b0b0,#b8b0b0,#b0a8a8,#b8a0a0,#981830,#a03040,#981820,#a80810,#b80008,#a02=
+830,#c03838,#d84008,#d88000,#d09000,#903010,#601800,#684818,#482800,#502808=
+,#501800,#704030,#904808,#d80028,#c80008,#c00008,#d05850,#d01010,#c80808,#c=
+00000,#c80008,#d80018,#d80018,#d80010,#c00008,#d01820,#d02020,#684000,#b048=
+10,#d04800,#d84800,#b80808,#c80000,#a82808,#783000,#882800,#900800,#ffffff,=
+#f80000,#f00000,#e80000,#f00808,#e81000,#e81000,#e81000,#f01010,#f81810,#e8=
+1000,#f00800,#f80800,#f80800,#f80800,#f80800,#f80800,#f80800,#f80800,#fffff=
+f,#702020,#a87078,#c89098,#c8a8a0,#c88888,#b07070,#700010,#200800,#201008,#=
+201800,#201008,#180800,#301810,#180800,#301000,#300800,#a80808,#a80008,#c80=
+810,#c80018,#c03040,#b82028,#c01020,#a82038,#d098a0,#c00008,#d80020,#d80020=
+,#d00820,#d80820,#d01010,#b82818,#c01810,#b84858,#a02028,#b04040,#a84038,#8=
+81010,#780808,#901010,#a08880,#a89898,#b8b0b0,#b0a8b0,#b0a8a8,#b0a8a8,#a8a8=
+a8,#a8a0a8,#b0a8a8,#b0a8a8,#785858,#b8a8a8,#885860,#886060,#b0a0a8,#b8b8b8,=
+#c0b8b8,#c0b8b8,#c0b8b8,#c0b8c0,#c0c0c0,#c0c0c0,#c0b8c0,#909090,#c0b8b8,#c8=
+c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c8c8,#b0a8a8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8b8,#c8c8c8,#c8c0c8,#c0c0c0,#c8c0c0,#c0c0c0,#b0=
+b0b0,#c0b8b8,#706870,#c0b8b8,#c0c0c0,#c0c0c0,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b=
+8,#b8b8b8,#a8a0a8,#501820,#b8a8b0,#885860,#a8a8a0,#b8a8b0,#b8a8b0,#a898a0,#=
+b8b0b0,#b8a8b0,#806068,#804850,#b07078,#a86068,#c87078,#980808,#b00008,#b80=
+000,#c00008,#c00008,#b00808,#380800,#381000,#505000,#108000,#008800,#486008=
+,#482808,#484008,#702810,#d04800,#c80000,#d80808,#d02018,#d01800,#d82010,#d=
+01810,#d00810,#d02028,#d80018,#c80008,#d80010,#b00010,#903020,#a01800,#d868=
+00,#d06018,#c00000,#b00800,#b04000,#b04000,#802000,#980808,#f8f0f0,#f80808,=
+#f00000,#f00000,#f00000,#f00000,#f00000,#f00000,#f00800,#fff8f8,#e82018,#f0=
+0800,#f81008,#f81000,#f81008,#f81008,#f81008,#f80800,#f80800,#f80800,#f8080=
+0,#ffffff,#802028,#900810,#a03038,#a82028,#a83038,#a02020,#580800,#502000,#=
+703818,#804018,#884020,#803828,#802810,#601808,#600800,#c81010,#d81008,#900=
+800,#d81000,#780000,#480000,#380000,#480008,#904040,#780808,#d82828,#d01818=
+,#d02020,#d01020,#d00810,#a80000,#b00800,#b00000,#b00000,#b00000,#b80008,#9=
+80000,#a00000,#880800,#a05048,#a89898,#b0a8b0,#b0b0b0,#b0a8a8,#b0a8b0,#a8a8=
+a8,#b0a8a8,#b0a8a8,#a8a0a0,#705860,#b8a0a0,#885860,#886068,#b8a0a8,#b8b8b8,=
+#b8b8b8,#c0b8c0,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#908890,#c0b8b8,#c0=
+c0c0,#c0b8b8,#c8c0c0,#c0b8b8,#c0c0c0,#c0c0c0,#e8e8e8);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#b8=
+b0b0,#c0b8b8,#707070,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b=
+8,#c0b8b8,#b0a8a8,#501018,#b8a8b0,#885860,#b0a8a8,#b8a8b0,#b8a8b0,#b8a8b0,#=
+b8a8b0,#b8a8b0,#b0a0a8,#701820,#b02840,#b87070,#c07880,#c05050,#b00000,#c00=
+800,#c80818,#a81020,#300808,#302008,#106808,#08a808,#00c010,#08c010,#70c070=
+,#506810,#903810,#783008,#902808,#a82800,#d02000,#d04008,#d84800,#d84808,#d=
+84810,#d03818,#c82820,#c00000,#d00010,#a00808,#902028,#700000,#c00008,#c820=
+08,#d02810,#d04018,#d05000,#c04800,#c85008,#c01810,#900000,#ffffff,#f00000,=
+#f00000,#f00000,#f00000,#f00000,#f00000,#f80800,#f80800,#ffffff,#ffffff,#ff=
+ffff,#ffffff,#f85858,#f81010,#f00000,#f00000,#f80800,#f80808,#f80808,#f8000=
+8,#ffc8c8,#906868,#b07078,#a07070,#b89090,#c09898,#b8a0a0,#b0a0a0,#c8a0a8,#=
+c8b0b0,#d06808,#d06008,#c85000,#b84000,#c83000,#d03800,#d84000,#d85000,#b01=
+800,#801000,#902000,#382808,#302008,#282010,#301000,#481800,#481000,#480800=
+,#885010,#602808,#700008,#b00000,#a00008,#b80000,#c00008,#c80008,#c00000,#b=
+80008,#900008,#880810,#700000,#a08890,#b0a8a8,#b0a8b0,#b0b0b0,#b0a8b0,#b0a8=
+a8,#b0a8a8,#b0a0a8,#b0a0a8,#705860,#b8a8a8,#805860,#886060,#b0a8a8,#b8b8b8,=
+#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#c0b8b8,#908888,#c0b8b8,#c8=
+c0c0,#c0c0c0,#c0c0c0,#c0b8b8,#c0b8c0,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c8,#c0b8b8,#c8c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#b8=
+b0b8,#c0b8b8,#707070,#c0b8b8,#c0c0c0,#c0c0c0,#c0b8b8,#b8b8b8,#c0b8c0,#b8b8b=
+8,#b8b8b8,#a89898,#481820,#b0a0a8,#805858,#b0a8a0,#b8a8b0,#b8a8b0,#b8a8b0,#=
+b8a8b0,#b0a8a8,#b0a0a0,#a898a8,#983028,#b00010,#d01838,#b80800,#c80008,#c80=
+018,#900808,#a80000,#782800,#109810,#18a010,#28a838,#08b010,#00b000,#40c040=
+,#90c088,#804010,#904808,#a83800,#d04008,#d85008,#d85800,#d86000,#d86008,#d=
+86010,#d85818,#d85030,#d85810,#b81808,#a00008,#800000,#680010,#700808,#b000=
+08,#b80008,#900000,#b80008,#c80000,#b02810,#b80010,#900008,#ffffff,#f00000,=
+#f80000,#f80000,#f80000,#f80000,#f80000,#f80800,#f80800,#ffffff,#ffffff,#ff=
+ffff,#fff8f8,#f81810,#e80000,#f00000,#f00808,#e80000,#e80000,#f00000,#f0080=
+8,#ffd0d0,#682020,#681818,#b88080,#c09898,#b89898,#b89098,#c098a0,#c0a8b0,#=
+c0a0b0,#c04808,#c84808,#a83008,#b83800,#c84818,#c84810,#d05810,#d07020,#b07=
+040,#a06038,#a84808,#189808,#405818,#505808,#586010,#888840,#888040,#503808=
+,#482808,#683020,#882820,#700808,#b80008,#c00008,#d00008,#d00010,#b00008,#c=
+00000,#980000,#b00008,#a80008,#a08088,#b0a8b0,#b0b0b0,#b0a8a8,#b0a8a8,#b0a8=
+a8,#b0a0a8,#b0a0a8,#a8a0a8,#785860,#b8a8b0,#805860,#806060,#b0a8b0,#b8b0b8,=
+#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#989090,#c0b8b8,#c0=
+c0c0,#c0c0c0,#c0c0c0,#c8c0c0,#c0c0c0,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c8c0c0,#c8c0c0,#c8c0c0,#b8b0b0,#c0c0c0,#b8=
+b8b8,#c0b8b8,#706870,#b8b8b8,#c0b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b=
+8,#b8b8b8,#a098a0,#402820,#b0a0a8,#806068,#b0a0a0,#b8b0b0,#b8b0b0,#b0a8b0,#=
+b0a8b0,#b0a8a8,#a8a0a0,#b0a8a8,#988888,#a07070,#c04848,#b81810,#980800,#900=
+000,#803828,#302008,#485820,#389028,#189020,#68a868,#b8c8b0,#b0c0b0,#b8c0c0=
+,#60b058,#403010,#c89888,#d86000,#d86800,#d87000,#d87800,#d87800,#d86808,#d=
+87000,#d86808,#d85810,#d85818,#800008,#700800,#680000,#700000,#800000,#8800=
+00,#a00008,#b81810,#a80810,#a00008,#980808,#982828,#880808,#f8e8e8,#f80000,=
+#f80000,#f80000,#f80000,#f80800,#f80800,#f80800,#f80800,#ffe8e8,#f80800,#f8=
+0800,#f80800,#f00800,#e80000,#f00000,#e80000,#f00808,#f00008,#f00808,#f0080=
+8,#ffffff,#784048,#803030,#884048,#a07080,#c090a0,#d0b0b8,#c0b8b0,#b8a8a8,#=
+c0a8a8,#b06868,#c84008,#d85008,#d05800,#b04830,#c8a090,#b07068,#c8a090,#d0a=
+090,#b08878,#a87870,#308000,#504000,#302008,#704010,#903808,#984000,#a85008=
+,#a04000,#701800,#700800,#b80000,#b00800,#c00008,#d80018,#d80018,#c80010,#9=
+80000,#a00008,#b83038,#a08080,#b098a0,#b0b0a8,#b0a8a8,#b0a8a8,#b8a8b0,#b0a8=
+a8,#b0a8a8,#b0a8a8,#b0a0a8,#785860,#c0a8b0,#785858,#886870,#b0b0b0,#b8b0b0,=
+#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#989098,#b8b0b8,#c0=
+c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0b8b8,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b0b0b0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b0b0b0,#c8c0c0,#c0b8c0,#c8c0c0,#c8c0c0,#c0c0c0,#c0=
+b8b8,#b8b8b8,#707070,#b8b0b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b0b0,#c0b8b8,#b8b8b=
+8,#b8b0b8,#a098a0,#483028,#a0a0a8,#807878,#a8a0a0,#b0a8a8,#b0b0b0,#b0a8a8,#=
+b0a8a8,#a8a8a8,#a8a0a0,#a8a0a8,#989898,#587038,#58a058,#308828,#283000,#303=
+800,#283000,#184000,#006800,#188018,#009808,#106808,#a0a8a0,#a8a0a0,#a89898=
+,#b0a0a0,#886868,#602820,#a07068,#c06808,#d87808,#d87800,#d87808,#d88018,#d=
+88010,#d08840,#d08030,#d04000,#c04020,#901818,#980008,#980008,#980000,#9800=
+08,#a00008,#980008,#a80010,#c00018,#b80018,#b80018,#a80010,#a00010,#ffffff,=
+#f80008,#e80000,#f00000,#f80808,#f80808,#f81008,#f81008,#f81008,#f81008,#f8=
+1000,#f80800,#f00000,#f00000,#f00008,#f00008,#f00000,#e80000,#f00000,#fffff=
+f,#280808,#780810,#900010,#880808,#c08088,#c8a0a8,#b898a0,#b09898,#b098a0,#=
+a89098,#b09898,#804010,#703000,#901810,#500810,#b00000,#a00000,#800000,#700=
+008,#580808,#481010,#582030,#504010,#503000,#582800,#703000,#781808,#983008=
+,#884808,#804008,#804000,#602808,#480000,#b80810,#b00010,#c80010,#b80010,#a=
+80008,#a80008,#a00008,#880000,#b00008,#a8a8a8,#b0a8a8,#b0a8a8,#b0b0b0,#b0a0=
+a8,#b0a0a8,#b0a0a8,#b0a0a0,#785868,#b8b0b0,#705058,#887070,#b0a8a8,#b8b0b8,=
+#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b8b8,#a0a0a0,#b8b0b8,#c0=
+b8b8,#c0c0c0,#c0c0c0,#c0c0c0,#c0b8b8,#c0b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#c0b8c0,#c0c0c0,#b8b0b0,#c0c0c0,#c0c0c0,#b8=
+b0b8,#b8b0b8,#787070,#b8b0b0,#b8b0b0,#b8b0b0,#c0b8b8,#b8b8b8,#c0b8b8,#c0b8b=
+8,#b0b0b0,#908890,#503838,#989890,#888088,#a8a0a0,#a0a0a0,#a8a8a8,#b0a8a8,#=
+b0a8a8,#a8a0a0,#989898,#a09898,#989090,#687858,#005800,#005008,#005800,#007=
+008,#007800,#088808,#008000,#007800,#103000,#301808,#786060,#908080,#b0a0a0=
+,#a09090,#987070,#784840,#b898a0,#c88888,#d07810,#d07010,#d88008,#d88808,#d=
+08008,#d87800,#d87008,#d85800,#d04800,#c82008,#b01008,#c00010,#b80008,#a800=
+08,#a00008,#880000,#800000,#880000,#880000,#980008,#900008,#980008,#900008,=
+#e0d8d8,#f89090,#f00800,#f00800,#f00800,#f81010,#f81010,#f81008,#f00808,#f8=
+0808,#f80808,#f00808,#f00000,#f00000,#f00000,#f00000,#f85860,#f8f8f8,#40101=
+8,#600818,#701018,#600808,#b08080,#a05858,#883838,#984840,#982028,#600808,#=
+600008,#780010,#584018,#381000,#380800,#780808,#b80008,#a00000,#880008,#700=
+000,#580008,#500008,#500000,#481000,#784008,#884000,#903808,#881800,#783808=
+,#803800,#904800,#783008,#981808,#680800,#a80008,#900808,#a80008,#900008,#7=
+00000,#800000,#800000,#800000,#801010,#a8a0a8,#a8a0a0,#a8a8a8,#a8a8a8,#a8a0=
+a0,#b0a0a8,#b0a0a8,#b0a0a8,#705860,#b8a8b0,#684850,#908080,#b0a0a8,#b8b0b8,=
+#b8b8b8,#b8b8b8,#b8b0b8,#b8b8b8,#b8b0b0,#b8b8b8,#b8b8b8,#a8a8a8,#b8b0b0,#c0=
+b8b8,#c0b8c0,#c0c0c0,#c8c0c0,#c0c0c0,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0c0c0,#c0b8b8,#c0c0c0,#c0b8b8,#c0c0c0,#c0=
+b8b8,#b8b8b8,#808080,#b8b0b8,#c0b8c0,#b8b0b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b8b=
+8,#b8b8b8,#a8a8b0,#585050,#888888,#a8a0a0,#a0a0a0,#b0b0b0,#b0b0b0,#b0b0b0,#=
+b0b0b0,#b0a8a8,#a8a8a8,#a8a8a8,#a0a0a0,#888888,#107818,#00a000,#08b808,#10b=
+800,#00b800,#00a000,#285000,#401808,#601008,#500800,#682818,#582830,#a08888=
+,#503030,#401010,#582020,#581010,#b82808,#d08018,#d06000,#d88808,#d88008,#d=
+88808,#d88808,#d88000,#d87000,#d86008,#d84800,#d81808,#703808,#301800,#4030=
+20,#504020,#280000,#700800,#880008,#900000,#a00008,#a80008,#a00008,#901820,=
+#a09098,#988888,#b8b0a0,#ffffff,#f83030,#f81010,#f00808,#f81010,#f00808,#f0=
+0800,#f00800,#f00000,#f00000,#f01818,#fff8f8,#d0c0c0,#381018,#380810,#50182=
+8,#980828,#980008,#880008,#a80810,#b00008,#a80008,#480000,#200808,#100000,#=
+380000,#380808,#887870,#503010,#300808,#c07878,#b00008,#a81010,#a00008,#980=
+008,#800000,#780000,#780000,#d85000,#d06000,#d06810,#b02808,#d04000,#b04808=
+,#b04808,#c05800,#d05008,#b83010,#a80808,#b00000,#a80000,#b00008,#b00008,#b=
+80008,#c80010,#c00008,#b00008,#a04840,#a8a0a0,#a8a0a0,#a8a8a8,#b0a8a8,#b0a8=
+a8,#b0a8a8,#a8a0a0,#a898a8,#806068,#b8b8b8,#704858,#988888,#a8a0a8,#b8b0b8,=
+#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b0a8a8,#b0b0b0,#b8=
+b8b8,#c0c0c0,#c0b8c0,#b8b8b8,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0c0c0,#c8c0c0,#c8c0c0,#c0c0c0,#c0c0c0,#c8=
+c0c0,#b8b0b8,#909090,#c0b8b8,#c0b8b8,#b8b0b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b8b=
+8,#b8b0b8,#a8a8a8,#706860,#806870,#a8b0b0,#a8a8a8,#a8a8a8,#b0b0b0,#b0a8a8,#=
+a8a0a0,#b0b0b0,#b0b0b0,#b0b0b0,#a8a0a8,#989098,#889080,#089000,#28a808,#587=
+000,#583800,#a04808,#b85800,#b85000,#b84000,#880800,#700800,#300008,#480000=
+,#580000,#680000,#880000,#c00008,#c81008,#d87008,#c84000,#d88810,#d88008,#d=
+88808,#d88808,#d89010,#d89010,#d07018,#907020,#303008,#282800,#202800,#2028=
+00,#202800,#383818,#808060,#282008,#680808,#a02028,#900810,#b00000,#a87860,=
+#b8a890,#806850,#807060,#786850,#706048,#706850,#384010,#a8b0a0,#e8f0e0,#f0=
+f0e8,#b8c8b0,#903020,#981000,#a80800,#b80000,#b81008,#a80000,#b83020,#a8202=
+0,#b80018,#d00018,#d80018,#d80018,#d00818,#300000,#401810,#281008,#201008,#=
+501008,#381000,#681008,#a00008,#b00000,#d80010,#d00010,#c80818,#d00818,#a81=
+810,#880000,#800008,#981000,#c05018,#d86808,#b83800,#d84808,#d05800,#d86008=
+,#d86800,#d06808,#d85800,#c85010,#a02020,#a80808,#b80010,#b80810,#c00810,#c=
+00010,#d00010,#c00008,#980800,#883030,#b0a8a8,#a8a8a8,#b0a8a8,#b0a8a8,#b0a0=
+a8,#b0a8a8,#a8a0a0,#a098a0,#887078,#b8b0b0,#684848,#a09890,#b0a8b0,#b8b0b8,=
+#b8b8b8,#b8b8b8,#b8b0b8,#b8b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8b0b0,#a0a0a0,#c0=
+b8b8,#c0b8c0,#c0b8c0,#c8c0c0,#c8c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0b8c0,#c0b8b8,#c0b8b8,#c0c0c0,#c0b8b8,#b0=
+b0b0,#b8b8b8,#a8a0a0,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b0b0,#c0b8b8,#b8b8b=
+8,#b8b0b0,#a8a8b0,#908080,#805860,#b0b0b0,#a8a8a8,#b8b0b0,#b8b0b8,#b0a8a8,#=
+b0a8a8,#b0b0b0,#a0a0a0,#a8a0a0,#a098a0,#a0a0a0,#986028,#d86810,#b06008,#b85=
+800,#d06010,#d06000,#d86808,#d86800,#d85808,#d04000,#c01808,#880008,#800000=
+,#780000,#980000,#a80000,#c00000,#c01010,#c81010,#d01008,#d07810,#d88008,#d=
+89018,#c83810,#c84820,#d84830,#d01818,#780000,#405808,#007800,#007008,#0068=
+08,#006000,#183808,#086008,#086800,#a898a0,#a08070,#583018,#c82010,#681808,=
+#683000,#784010,#704820,#604828,#504018,#605018,#707048,#888860,#405010,#08=
+7000,#708040,#b03000,#c03808,#c83008,#d02808,#d03008,#d82808,#c00000,#30000=
+0,#300008,#300800,#585018,#483000,#483008,#200008,#181000,#181000,#201000,#=
+300800,#481808,#701800,#a81808,#d81808,#d81810,#d83020,#d82818,#c01008,#c00=
+000,#d80008,#980800,#d83800,#d84808,#d06800,#d87000,#d87808,#d87800,#d87800=
+,#d86800,#d85808,#d84800,#c83008,#a82000,#303010,#289020,#08a008,#289818,#2=
+09020,#109008,#207010,#907078,#98a0a0,#b0a8a8,#a8a8a8,#b0a8a8,#b0a8a8,#b0a8=
+a8,#b0a8a8,#a8a0a0,#a0a0a0,#685858,#b0b0b0,#684840,#989098,#b8b0a8,#b8b0b0,=
+#b8b0b8,#b8b0b8,#b8b8b8,#b8b0b8,#c0b8b8,#b8b0b8,#b0b0b0,#b8b8b8,#a09898,#c0=
+b8b8,#c0b8c0,#c0b8c0,#c0b8c0,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#c0b8c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0b8b8,#c0=
+c0c0,#b8b0b0,#b8b0b0,#c0b8c0,#b8b8b8,#c0b8b8,#c0b8b8,#b8b0b8,#c0b8b8,#b8b8b=
+8,#b0b0b0,#b0a8b0,#a09088,#905040,#b8a8b0,#b0a0a8,#b8b0b0,#b8b0b0,#b8b0b0,#=
+b8a8b0,#b0a8b0,#b0a8a8,#b0a8a8,#a8a8a8,#a8a0a0,#a08048,#a85008,#a85808,#c85=
+800,#d86800,#d87000,#d87800,#d87800,#d87008,#d86000,#d05000,#d83008,#a80008=
+,#a81010,#b00008,#a80800,#800800,#880008,#900000,#980000,#b01010,#d01008,#d=
+01810,#d03028,#d82820,#d01018,#d00808,#c00000,#a80000,#780810,#106008,#00b0=
+00,#00a008,#009000,#006800,#104000,#108010,#482820,#a82000,#b83000,#c04800,=
+#b04800,#b86808,#b06800,#a87828,#a07828,#785810,#684008,#483808,#383008,#28=
+3808,#c05020,#d05808,#d05800,#d85808,#d85808,#d85818,#c82008,#882808,#38280=
+8,#301808,#382008,#481808,#402000,#382808,#484018,#205800,#184000,#281000,#=
+701000,#782008,#b02810,#c84810,#d86020,#d85818,#d85018,#d03010,#c01008,#d83=
+808,#c81810,#d84008,#d84800,#d04800,#d85800,#d85808,#d86000,#d86800,#d86800=
+,#d86800,#d05800,#d85008,#b03808,#484810,#285000,#205000,#305008,#205800,#1=
+05800,#086008,#707850,#888070,#a0a0a0,#b0a8a8,#b0a8a8,#a8a8a8,#b0a8a8,#a8a8=
+a8,#a8a0a0,#a0a0a0,#a8a0a8,#807878,#b8b0b0,#685048,#989890,#b8b0b0,#b8b0b0,=
+#b8b8b8,#b8b0b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#a8a0a0,#b8b8b8,#989898,#c0=
+b8b8,#c0b8c0,#c0b8b8,#c0c0c0,#c0b8b8,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0c0c0,#c0b8c0,#c0b8c0,#c0c0c0,#c0c0c0,#c0=
+c0c0,#b0b0b0,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b0b0,#b8b0b0,#b8b0b=
+0,#b8b0b8,#b0b0b0,#a09898,#a04020,#b8b0b0,#b0a0a8,#b8a8a8,#b8b0b0,#b8b0b0,#=
+b8b0b0,#b8b0b0,#b0a8a8,#b0a8b0,#b0a8a8,#a09898,#887888,#b07038,#d87800,#d88=
+008,#d88000,#d87800,#d88000,#d88008,#d88008,#d88000,#d06808,#c02808,#b80810=
+,#980000,#980008,#900000,#900008,#980808,#800000,#800008,#700808,#781008,#9=
+02010,#c81810,#d81018,#d00808,#d80008,#c00000,#b00000,#980000,#900000,#9008=
+08,#280800,#189808,#08a808,#104008,#501008,#b03000,#b03800,#d04808,#d05800,=
+#d07000,#d87000,#d07010,#d87000,#d06000,#a06018,#b8b090,#807868,#504828,#a8=
+0808,#a86840,#d09860,#c89068,#d07030,#d06008,#d86808,#d06010,#684808,#58301=
+8,#500000,#480808,#301818,#200808,#180000,#180000,#285008,#204000,#400008,#=
+280800,#901018,#c00808,#d82028,#d02818,#d03818,#c82008,#c81808,#d04010,#903=
+820,#784010,#301800,#904010,#c04008,#d85800,#d05800,#d86000,#d86800,#d87008=
+,#d07000,#d86800,#c85008,#604010,#088008,#00a800,#00a800,#089800,#008000,#0=
+06800,#007808,#087000,#489850,#a098a0,#b0b0b0,#b0a8a8,#a8a8a8,#b0b0b0,#a8a8=
+a8,#a0a0a0,#a0a0a0,#a8a0a0,#989090,#b8a0a0,#503830,#a09898,#b8b0b8,#b8b0b0,=
+#b8b0b8,#b8b0b8,#b8b0b8,#c0b8b8,#b8b8b8,#b8b8b8,#908888,#c0b8b8,#b0a8a8,#c0=
+c0c0,#c0c0c0,#c0b8c0,#c0c0c0,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c8c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c8c0c0,#c0c0c0,#c0b8b8,#c0c0c0,#c0b8b8,#c0b8c0,#c0=
+c0c0,#b8b8b8,#c0b8b8,#888080,#b8b8b8,#c0b8b8,#c0b8c0,#b8b0b8,#b8b8b8,#b8b8b=
+8,#b8b8b8,#b8b0b8,#a098a0,#983810,#b8b0b0,#b0a8b0,#c0b0b0,#c0b0b0,#c0b0b8,#=
+b8b0b0,#b8b0b0,#b8b0b0,#b8b0b0,#a8a8a8,#a09898,#989090,#907880,#a87830,#d87=
+800,#d88000,#d88000,#d07800,#d87008,#b01000,#a80800,#a80008,#a00000,#a80810=
+,#900008,#800000,#800000,#800008,#700000,#600000,#600000,#900000,#980008,#7=
+80008,#500800,#701000,#c00808,#d80008,#d80010,#d80808,#c80000,#b80000,#a000=
+00,#980008,#681008,#401010,#800810,#901818,#a80800,#c84008,#d88008,#d88008,=
+#d89000,#d89800,#d89800,#d88808,#904000,#b8b0a0,#b0b0a0,#b8b8a8,#808878,#60=
+6838,#605018,#603810,#603018,#780000,#981010,#b80010,#a80010,#300000,#28000=
+0,#200000,#200008,#180000,#180000,#180000,#180000,#300000,#501008,#380800,#=
+600800,#a00008,#c00008,#c80010,#c80818,#b00008,#a80008,#900000,#804848,#686=
+050,#505830,#303800,#484018,#302808,#686020,#404008,#483008,#783000,#a84008=
+,#c83800,#c04800,#884008,#288008,#00b000,#08b008,#00a800,#00b808,#00b018,#0=
+08000,#10b828,#00a010,#009000,#b0a8a8,#b0b0b0,#a8a8a8,#b0b0b0,#a8a8a8,#a8a8=
+a8,#a8a8a8,#a8a8a8,#a8a0a0,#a8a0a0,#908880,#483830,#a8a0a0,#b8b0b0,#b8b0b0,=
+#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b0b8,#787070,#b8b8b8,#c8c0c0,#c0=
+c0c0,#c0c0c0,#c0c0c0,#c0b8b8,#c0b8b8,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0b8b8,#c0c0c0,#c0b8c0,#c8c0c0,#c0c0c0,#c0=
+c0c0,#c0c0c0,#b0a8b0,#c0b8b8,#a8a0a8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b8b=
+8,#b8b8b8,#b8b0b8,#a8a0a8,#882818,#b8b8b8,#b8b0b8,#b8a8b0,#c0b0b8,#b8b0b0,#=
+b0a0a8,#b0b0b0,#b8b8b8,#b0b0b0,#b0b0b0,#b0a8b0,#a0a0a0,#a09898,#988890,#a87=
+830,#d04808,#d80808,#b00008,#b00000,#c00000,#a00000,#a00008,#900000,#900008=
+,#880000,#900000,#980000,#900000,#980000,#880000,#780000,#680008,#500810,#2=
+01008,#582008,#a01000,#581800,#602000,#a03010,#b80800,#b01008,#800008,#9020=
+28,#600000,#580008,#600008,#780008,#880810,#880000,#880808,#c00808,#d89040,=
+#c8a050,#d08808,#d89800,#885008,#888840,#98a890,#b8b8b0,#b8c0b8,#b8b8b0,#b0=
+b0a8,#989890,#989090,#a09090,#a80010,#980810,#c80010,#c00010,#a80000,#a0000=
+8,#900000,#880008,#700008,#280000,#100800,#180000,#180000,#400808,#800000,#=
+a00008,#a80008,#b00000,#b00000,#a00008,#980000,#800008,#c08888,#606848,#104=
+000,#104000,#305818,#185008,#284000,#204810,#a8b8a0,#204800,#486808,#385808=
+,#504000,#402800,#685018,#583808,#704010,#c08880,#b05818,#c08038,#c05800,#a=
+05008,#583008,#483800,#388810,#589048,#b0a8b0,#b0b0b0,#b0b0b0,#b0a8a8,#b0b0=
+b0,#b0a8a8,#a0a0a0,#a8a0a0,#a8a0a0,#606860,#605050,#b0b0b0,#b8b0b0,#b8b0b0,=
+#b8b0b0,#b8b0b0,#b8b0b8,#b8b0b8,#b8b0b0,#888888,#c0b8b8,#c0b8b8,#c0b8b8,#c0=
+c0c0,#c0b8c0,#c0c0c0,#c0c0c0,#c0c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0c0c0,#c0=
+c0c0,#c0b8b8,#c0b8b8,#c8c0c0,#c8c8c8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b=
+8,#b8b0b0,#b8b8b8,#a8a8a8,#682020,#b8b0b8,#b0b0b0,#b0a8a8,#b8b0b0,#b0b0b0,#=
+b8b0b0,#b8b8b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b0b0,#b0a8a8,#b0a8a8,#a8a0a0,#989=
+890,#888070,#c80818,#c80008,#b00008,#900000,#980000,#980000,#980000,#a00000=
+,#a80008,#a80000,#b00000,#b00008,#980008,#b00000,#b02828,#783838,#301800,#3=
+82800,#483808,#504808,#686010,#701000,#784018,#603008,#885840,#381808,#2000=
+00,#500800,#500000,#680008,#780000,#700808,#780008,#600808,#800800,#d05008,=
+#c88848,#d08808,#d06010,#886800,#486800,#306000,#486008,#305000,#688858,#80=
+9078,#888888,#a89898,#583008,#880800,#580000,#980008,#c80010,#c80008,#b0000=
+8,#a80008,#880000,#800000,#780008,#880000,#b00000,#a80808,#900808,#c06048,#=
+a81818,#a80000,#b00008,#b80008,#b80008,#a80000,#380008,#303818,#304020,#909=
+088,#b0a8a8,#a8a8a0,#689068,#085008,#085008,#085808,#104808,#106808,#106008=
+,#484008,#a84000,#c05010,#985810,#805018,#b07018,#d0b080,#c08038,#c87018,#a=
+04810,#c06008,#804008,#683800,#988860,#a0a890,#807870,#b0a8a8,#b0a8b0,#b0b0=
+b0,#a8a0a0,#b0a8a8,#a8a8a8,#b0a8a8,#604848,#787068,#b8b0b0,#b8b0b0,#b0b0b0,=
+#b8b0b0,#b8b0b8,#b8b0b8,#b8b8b8,#b8b0b8,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8c0,#c0=
+b8c0,#c0c0c0,#c0c0c0,#c8c0c8,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0c0c0,#c0b8c0,#c0=
+b8c0,#c0b8c0,#c0b8c0,#c0b8c0,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b=
+8,#b8b0b0,#b8b8b8,#b8b0b8,#702830,#b0a8a8,#b0a8a8,#b0b0b0,#b0b0b0,#b8b0b0,#=
+b8b0b8,#b8b0b0,#b8b0b8,#b8b0b8,#b0b0b0,#b8b0b0,#b0b0b0,#b0b0b0,#a8a8a8,#90a=
+090,#608850,#008808,#185008,#280800,#600010,#b00820,#b80818,#b00010,#b80010=
+,#c80018,#b80808,#a80000,#a80800,#d81808,#d82000,#d82808,#b83000,#c05808,#5=
+84808,#586008,#708020,#505008,#505808,#384000,#404008,#383000,#483800,#2008=
+08,#700000,#700000,#700000,#800008,#880008,#680008,#400000,#a02008,#c04008,=
+#a83000,#d05810,#d04800,#c85008,#c04000,#c87808,#686810,#489810,#486000,#48=
+2808,#681810,#684010,#900808,#700008,#880000,#700008,#b00818,#c00820,#b8081=
+8,#c00010,#b00808,#a00008,#a80808,#b82000,#c02008,#d01810,#d01000,#d00808,#=
+d01000,#d01000,#d82000,#d01808,#c02818,#b80810,#501020,#482020,#302010,#205=
+818,#006008,#086808,#607850,#b098a0,#708060,#508050,#204800,#585008,#886038=
+,#c04000,#c04800,#c85808,#984808,#683808,#683008,#904008,#b05000,#a84800,#a=
+85000,#b05008,#b84800,#783800,#905008,#a8a0a0,#b0a8b0,#b0b0b0,#b0b0b0,#b0a8=
+b0,#b0a8a8,#b0a8a8,#b0a8a8,#b0b0b0,#584830,#988880,#b8b0b0,#b0b0b0,#b8b0b0,=
+#b8b0b0,#b8b0b0,#b8b0b8,#b8b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0=
+b8c0,#c0b8c0,#c0c0c0,#c0c0c0,#c0c0c0,#c8c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8b8,#c0b8c0,#c0c0c0,#c0b8b8,#c0c0c0,#c0c0c0,#c0=
+c0c0,#c0b8c0,#c0c0c0,#c0b8c0,#c0b8b8,#b8b8b8,#c0b8b8,#b8b0b0,#c0b8b8,#b8b8b=
+8,#b8b8b8,#b8b8b8,#b8b0b8,#908878,#988888,#b8b8b8,#b0b0b0,#b8b0b0,#b0b0b0,#=
+b0b0b0,#b0b0b0,#a8a8a8,#b8b0b8,#b8b8b8,#b8b8b8,#b0b0b0,#b8b8b8,#709878,#105=
+818,#187810,#28a830,#088800,#309828,#109810,#186810,#481008,#901010,#880008=
+,#900008,#980808,#d01808,#d83800,#d84800,#d85008,#d85000,#d86008,#d85000,#d=
+85008,#c86810,#601800,#500800,#401000,#705828,#403800,#383810,#483808,#4848=
+10,#380808,#500000,#380000,#280000,#200000,#503818,#a05818,#982800,#b83800,=
+#c03800,#d05008,#d85000,#d04808,#d04808,#a02018,#a00800,#880000,#780810,#48=
+0000,#580800,#880008,#980008,#600808,#880000,#901820,#980000,#a80000,#b8000=
+0,#b80000,#a00000,#880808,#d03018,#c83008,#d83000,#d83808,#d03808,#d84800,#=
+d82808,#d83008,#d84008,#d82800,#c01000,#880000,#800810,#480808,#501010,#581=
+018,#402020,#280800,#381810,#303808,#286808,#482808,#781008,#c04808,#b84000=
+,#c84808,#c84800,#d04808,#d85800,#d06008,#d86000,#d86000,#d06008,#c86808,#a=
+85810,#906040,#887060,#a08888,#a0a098,#a8a0a0,#a8a0a0,#b0a8a8,#b0a8a8,#b0a8=
+a8,#a8a0a8,#a8a0a0,#a8a8a8,#b8a8a8,#784830,#a8a0a0,#b8b0b0,#b0a8b0,#b0b0b0,=
+#b8b0b0,#b8b0b0,#c0b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8c0,#c0c0c0,#c0b8c0,#c0=
+c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8b8,#c0b8b8,#c0=
+b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#b8b8b8,#b0b0b=
+0,#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b8,#502830,#b0b0b0,#b8b0b0,#b8b0b0,#b0b0b0,#=
+b8b0b0,#b0a8b0,#b0b0b0,#b8b0b0,#b0b0b0,#b0b0b0,#b0b0a8,#80b880,#087808,#007=
+000,#006800,#086000,#005800,#086008,#28c040,#18b040,#28a830,#108010,#188808=
+,#782008,#b83808,#d84800,#d85800,#d86800,#d86800,#d87000,#d87008,#d86800,#d=
+85800,#d04010,#c05860,#980008,#780808,#680810,#500008,#280800,#303008,#2030=
+08,#203000,#304010,#203800,#283808,#283808,#a06828,#502808,#d84800,#d85808,=
+#d06800,#d88000,#d88000,#d87000,#d06000,#c81010,#a80808,#881810,#680000,#70=
+0808,#700000,#a00808,#900808,#880808,#880000,#a80000,#a80800,#b00000,#b8402=
+0,#d01000,#d81000,#d80800,#c81800,#b03018,#c84820,#d04800,#d84800,#d83800,#=
+d84000,#d03800,#d82800,#d02000,#c82010,#780800,#a04840,#600808,#907870,#380=
+808,#581010,#682020,#580000,#680808,#601818,#800800,#c04000,#d04800,#d85800=
+,#d06000,#d86808,#d86800,#d07000,#d87000,#d86000,#d85800,#d04800,#c07038,#a=
+07058,#907060,#988880,#989088,#a09090,#a89898,#a8a0a0,#a8a0a0,#a8a8a0,#a8a8=
+a0,#a8a0a0,#a8a0a0,#b0a8a8,#604838,#583828,#b0b0b0,#b8b0b0,#b0a8b0,#b8b0b0,=
+#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0=
+b8c0,#c0b8c0,#c0b8c0,#c0b8b8,#c8c0c0,#c0c0c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0b8c0,#c0b8c0,#c0c0c0,#c0b8b8,#c0b8c0,#b8=
+b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b0b0,#c0b8b8,#c0b8b=
+8,#b8b8b8,#a8a0a8,#c0b8b8,#b8b8b8,#a8a8a8,#b0b0b0,#b8b0b0,#b0a8a8,#b0b0b0,#=
+b8b0b0,#b0b0b0,#b0b0b0,#b0b0b0,#b0b0b0,#b0b0b0,#382018,#488840,#009028,#009=
+818,#089808,#00a000,#008800,#007800,#007800,#007810,#088010,#288018,#603000=
+,#d05008,#d86808,#d88008,#d88008,#d88800,#d89008,#d88000,#d87800,#d07008,#c=
+83000,#c80808,#d82038,#b82830,#982028,#983030,#700008,#481810,#085008,#0050=
+00,#086808,#006000,#006008,#006808,#206008,#684010,#402800,#d85008,#d87008,=
+#d07800,#d89000,#d89800,#d88008,#c02020,#c80008,#c80000,#c00808,#c00000,#b0=
+0808,#b80820,#b82830,#880810,#880000,#980000,#b00008,#b00008,#c80000,#d8581=
+8,#d05008,#d86000,#d86800,#d86000,#d85808,#d86808,#d07000,#d87800,#d07008,#=
+d85010,#c83010,#c00800,#c82010,#b81820,#903038,#882028,#984040,#881820,#902=
+820,#980000,#880000,#880000,#900008,#b84820,#c88870,#c06838,#d07830,#d08020=
+,#d07808,#d88800,#d89818,#d89800,#d89008,#d89008,#c86000,#b89078,#a88878,#9=
+88080,#988888,#a09890,#a09890,#989890,#a8a0a0,#a8a0a0,#b0a8a8,#a8a8a8,#b0a0=
+a0,#a8a0a0,#b0a8a8,#908080,#604028,#a09898,#b8b0b0,#b0a8a8,#b0b0b0,#b8b0b8,=
+#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b0b8,#b8b8b8,#c0=
+b8b8,#c0b8c0,#b8b8b8,#c0b8c0,#c0c0c0,#c0b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0c0c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0c0c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8b8,#c0b8c0,#c0=
+b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8b8b=
+8,#b8b8b8,#b8b8b8,#b8b8b8,#908888,#b0a0a8,#a0a0a0,#b0b0b0,#b0b0b0,#b0a8b0,#=
+b0a8b0,#b0b0b0,#b0b0b0,#b0b0b0,#a8a8a8,#a8a8a8,#a0a098,#989890,#503828,#60b=
+050,#28c850,#10c038,#00b820,#00b810,#00c818,#10a820,#00a828,#20b028,#60b050=
+,#a89060,#c88818,#d88810,#d89808,#d8a008,#d8b020,#d8a018,#c85808,#c00808,#9=
+80008,#600800,#600808,#d00008,#a00000,#700000,#700808,#600000,#009008,#00a8=
+00,#089808,#08b008,#00a800,#08a808,#00a000,#505808,#586008,#708010,#c88010,=
+#d88000,#d89808,#d0a028,#c85010,#c00810,#a80010,#980008,#800810,#980810,#c0=
+0810,#b80810,#b80808,#c00808,#d80018,#d80018,#d00008,#c00000,#c83008,#d0700=
+8,#d08800,#d09000,#d88800,#d88000,#d08000,#d88808,#d89008,#d89000,#d88808,#=
+d03820,#c00800,#b00800,#b83838,#c82020,#d03028,#c87878,#d07888,#b04040,#b05=
+858,#d00008,#880808,#a00000,#b00800,#a01008,#d89038,#d06010,#d09030,#d0a850=
+,#d0a030,#d8a838,#d8a020,#d0a018,#d09008,#904008,#c09070,#a88888,#988880,#9=
+89090,#a89898,#a8a0a0,#b0a0a0,#a098a0,#a0a0a0,#a8a0a8,#a8a0a0,#a8a0a0,#a8a0=
+a8,#a8a0a8,#a8a0a0,#604830,#908078,#685858,#a8a8a0,#b8b0b8,#b8b8b8,#b8b0b8,=
+#b8b0b8,#b8b8b8,#b8b0b8,#b0b0b0,#b8b8b8,#b8b8b8,#b0b0b0,#b8b8b8,#b8b0b8,#c0=
+b8b8,#c0b8c0,#c0b8b8,#c0b8c0,#b8b8b8,#b8b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0b8b8,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0=
+b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b=
+8,#b8b8b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b8b8,#907078,#601820,#a08088,#b0a8b0,#=
+b0a8b0,#b0a8b0,#b0b0b0,#a0a0a0,#a0a0a0,#a0a0a0,#a0a098,#909090,#809078,#809=
+878,#80a080,#606040,#68c848,#40c848,#60b858,#78c078,#a8d0a0,#a0b898,#98a080=
+,#988870,#a08070,#b88068,#d08818,#d08008,#d06808,#d08810,#d04000,#d80800,#d=
+00000,#a80800,#900000,#d01020,#d00008,#b80000,#b80000,#b08050,#187010,#10b8=
+10,#08b010,#08b008,#00a000,#089800,#109008,#109008,#308000,#68a010,#a08040,=
+#d09878,#d08870,#d08068,#c81818,#d00018,#d01028,#d81830,#d01030,#d82838,#d0=
+2038,#d01020,#c00000,#b00008,#b00008,#c82830,#c00008,#d00000,#d85808,#d8580=
+8,#d85800,#d06000,#d87000,#d87000,#d86008,#d86008,#d86000,#d87008,#d87008,#=
+d87020,#b01818,#c00010,#b00808,#900010,#801028,#881018,#981010,#a80810,#d00=
+010,#c81010,#a87070,#a88080,#a07878,#a87870,#b87860,#d08858,#d89048,#d89840=
+,#d88020,#d08820,#d09038,#d07810,#b08070,#b88880,#a89088,#a09090,#a89890,#a=
+89898,#a8a0a0,#a09898,#b0a0a0,#b0a0a0,#b0a0a8,#a8a0a0,#b0a0a8,#a8a0a0,#a098=
+98,#887868,#784828,#704028,#989098,#b8b0b0,#b8b0b0,#b8b0b8,#b8b8b8,#b8b0b8,=
+#b8b0b8,#b8b8b8,#c0b8b8,#b8b0b0,#b8b0b0,#b8b8b8,#b8b0b0,#b0a8a8,#c0b8b8,#c0=
+b8c0,#c0b8b8,#c0b8c0,#b8b0b0,#b8b0b8,#c0b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0b8b8,#c0b8c0,#c0b8b8,#c0b8c0,#c0b8b8,#c0=
+b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8b0b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b8b=
+8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#383030,#685850,#=
+989098,#b0b0b0,#a0a0a0,#a8a0a8,#a8a8a8,#a0a0a0,#989898,#989890,#989890,#90a=
+088,#88a088,#809878,#70a078,#78a878,#88a880,#90a880,#90a088,#989888,#989078=
+,#a08878,#a88078,#b88078,#b87870,#b07868,#c07860,#d08060,#d08060,#d06850,#d=
+04830,#b00800,#c80000,#d00800,#c81818,#c87068,#b08078,#b09080,#887038,#5068=
+08,#50b010,#68b818,#60b018,#588010,#586020,#684828,#604838,#806868,#987870,=
+#b09080,#b89080,#b07068,#c86060,#c84848,#c82828,#c80810,#d00808,#d80818,#c0=
+2028,#d06868,#a00810,#b80008,#d80020,#d80018,#d00010,#a80800,#c07860,#d0685=
+8,#c86850,#c87850,#d08058,#d08850,#d89058,#d88040,#d06018,#d05810,#d85000,#=
+c08078,#b06868,#b06068,#a84040,#b05050,#b05850,#c05050,#d03840,#b82828,#a81=
+810,#982020,#a88088,#a08880,#a08080,#a89088,#a88078,#b88878,#c08060,#d08058=
+,#d88858,#d88848,#d88840,#c08870,#b08878,#a89088,#b09890,#b0a098,#b0a0a0,#a=
+8a0a0,#b0a0a0,#b0a8a0,#b0a0a0,#b0a0a0,#b0a0a0,#b0a0a0,#a8a0a0,#b0a8a8,#6040=
+38,#282820,#786868,#b0b0b0,#b0b0b0,#b0b0b0,#b8b0b8,#b8b8b8,#b8b0b8,#b8b8b8,=
+#b8b8b8,#b8b8b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b0b8,#c0b8b8,#b8b8b8,#c0=
+b8b8,#c0c0c0,#c0b8b8,#b8b0b8,#c0c0c0,#c0b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0c0c0,#b8b8b8,#b8b8b8,#c0b8c0,#c0b8c0,#c0=
+b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8c0,#c0b8c0,#c0b8b8,#c0b8b8,#b8b8b8,#b8b8b=
+8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b0b8,#b8b0b8,#=
+303028,#404020,#585048,#b0a8b0,#b0a8b0,#b0b0b0,#a0a0a0,#a0a098,#a0a8a0,#98a=
+898,#98a090,#90a088,#90a088,#90a090,#90a088,#a0b0a0,#98a090,#909890,#a8a090=
+,#c0a098,#c09890,#b08880,#a88880,#b89088,#c89088,#c08878,#c08068,#b86860,#a=
+86058,#b06060,#b06860,#a06058,#985858,#986868,#a08080,#a08888,#888070,#8870=
+70,#807860,#807860,#706850,#706858,#786858,#706858,#807068,#807068,#987870,=
+#c09088,#c09890,#b89080,#b87870,#c07068,#b86860,#b86868,#b86868,#b86868,#b0=
+6868,#b87070,#b85860,#b06058,#c05860,#c05860,#c06060,#b06068,#b86860,#b0686=
+0,#b06860,#b86860,#b06858,#b06850,#b06848,#b87058,#b87050,#b87058,#b87868,#=
+a87870,#b07878,#b07078,#b06870,#a86868,#b06068,#984850,#903840,#985050,#a86=
+868,#a87880,#a88888,#b09090,#a89898,#a89090,#a89080,#b09080,#b88878,#b08070=
+,#b88870,#b88870,#b88880,#b09078,#b89890,#b0a098,#b0a098,#b0a0a0,#b8a8a0,#b=
+0a8a0,#b0a0a0,#b0a0a0,#b0a8a0,#b0a8a8,#b0a0a8,#b0a8a8,#805030,#483028,#5048=
+50,#b0b0b0,#b8b0b0,#b8b0b0,#b0b0b0,#b8b0b0,#b8b0b0,#b8b0b8,#b8b8b8,#b8b0b0,=
+#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8c0,#a8a8a8,#c0b8b8,#c0b8b8,#c0b8b8,#c0=
+b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0c0c0,#c0b8b8,#f0e8e8);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8b8,#c0c0c0,#c0b8c0,#c0c0c0,#c0b8c0,#c0c0c0,#b8=
+b0b8,#c0b8b8,#b8b0b0,#b8b8b8,#b8b8b8,#c0b8b8,#b0b0b0,#b8b8b8,#b8b8b8,#c0b8b=
+8,#b8b0b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b0b8,#=
+b8b0b0,#b8b0b0,#483030,#502818,#c89090,#784038,#685048,#b0a8a8,#b8b0b8,#b0b=
+0b0,#b0b0b0,#b0b0b0,#a8a8a8,#a8b0a8,#b0b0a8,#b0b0b0,#b0b0b0,#b0b0a8,#b0a8a0=
+,#b8a0a0,#b8a0a0,#b09898,#b09898,#b89898,#b09898,#b08888,#b88888,#b89090,#a=
+88088,#a88088,#a08080,#a08088,#a08888,#a88890,#a09090,#a89898,#988890,#9088=
+88,#807878,#808078,#807878,#888078,#888080,#989088,#a09090,#a09090,#c0a098,=
+#c0a8a0,#c0a898,#b8a098,#b8a098,#b89898,#b09098,#b89098,#b08890,#b08890,#a8=
+8088,#a08080,#a07880,#a87080,#a07070,#a86870,#a87078,#a87078,#a87078,#a8707=
+8,#b07880,#b07880,#a87878,#a87878,#a88078,#a88080,#b08888,#b88888,#b89890,#=
+a88890,#b08890,#b08890,#a88888,#a88088,#a88088,#a07880,#987880,#987878,#988=
+080,#a89098,#a89090,#a89090,#b09898,#b09898,#b0a098,#b09890,#a89890,#a89890=
+,#b09890,#b0a098,#b0a0a0,#b0a098,#b8a0a0,#b8a8a0,#b0a8a0,#b8a8a0,#b8a8a8,#b=
+0b0b0,#b8b0b8,#a88878,#785040,#887078,#987058,#503028,#605860,#b0b0b0,#b8b0=
+b0,#b8b0b8,#b8b0b8,#b8b0b0,#b8b0b0,#b8b0b0,#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,=
+#b8b8b8,#c0b8b8,#c0c0c0,#c0b8b8,#c0b8b8,#c0b8c0,#c0c0c0,#c0b8c0,#c0b8b8,#c0=
+b8b8,#c0b8b8,#b8b8b8,#c0b8c0,#c0b8c0,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8b8,#c0b8b8,#c0b8b8,#b8b0b0,#282828,#282828,#28=
+2828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#28282=
+8,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282020,#=
+282828,#282828,#282828,#282828,#202020,#180808,#100808,#101018,#202020,#181=
+010,#101010,#181010,#181810,#181818,#201818,#201818,#202020,#202020,#202020=
+,#202020,#282020,#282020,#282020,#282020,#202020,#282020,#282020,#201818,#2=
+01820,#201820,#201820,#202020,#201818,#201820,#201820,#201818,#202020,#2020=
+20,#202020,#181818,#181818,#181818,#202020,#202020,#202020,#202020,#282020,=
+#282020,#282020,#282020,#282020,#c0a0a8,#a89090,#a88890,#a89098,#b09898,#a8=
+9098,#a08888,#a88890,#a88890,#b08890,#987078,#a07880,#a88888,#a08080,#b0909=
+0,#b09090,#b09090,#a88888,#a88888,#b09090,#b89898,#c09898,#b89890,#c09898,#=
+b09090,#b09090,#a89090,#a88890,#a89090,#a88890,#987880,#a08088,#987880,#a08=
+888,#a89090,#a89090,#a89898,#a09898,#b09898,#b09890,#b09890,#b09898,#b89898=
+,#b89888,#b89890,#b8a098,#c0a098,#b09888,#a88880,#987860,#986848,#986850,#a=
+07860,#a08888,#403838,#604848,#504848,#b0b0b0,#b8b0b0,#b8b0b0,#b8b0b8,#b8b0=
+b8,#b8b0b8,#b8b8b8,#b8b0b0,#b0b0b0,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b0,#b8b0b8,=
+#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8c0,#c0c0c0,#c0b8b8,#c0b8b8,#c0c0c0,#b8=
+b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#c0b8c0,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#c0b8c0" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#c0b8c0,#c0b8c0,#c0c0c0,#b8b8b8,#282828,#282828,#28=
+2828,#f0f8f0,#b8e0f8,#d09878,#f8ffe8,#78c0e8,#f0ffe8,#282828,#7088b8,#38302=
+8,#fff8e8,#282848,#e0a880,#f0f8e8,#282828,#f0e0c0,#e0f8f8,#282828,#5868b0,#=
+503868,#e8f0f8,#7890c8,#78a0c8,#282828,#a0d0e8,#282828,#c8b090,#e0b090,#202=
+020,#7890d0,#282020,#e8f8f8,#90b0d8,#1820a0,#682028,#b0d8e8,#182020,#182060=
+,#a84038,#202028,#182020,#f8f0c8,#886830,#202020,#f8f0e8,#205078,#282828,#f=
+fffff,#282078,#902030,#e0c8a8,#205080,#907850,#202028,#202028,#fff0d8,#2020=
+28,#c09028,#487088,#383830,#906028,#e0f8f8,#6090b8,#202028,#202028,#202028,=
+#202028,#202028,#202028,#202028,#b0a8b0,#a8a8b0,#b0a0b0,#a8a0b0,#a8a0a8,#a8=
+98a0,#a098a0,#a898a0,#a8a0a8,#b098a8,#b090a0,#b090a0,#b090a0,#b090a0,#b098a=
+8,#b898a8,#b8a0b0,#b098a8,#b098a8,#b0a0a8,#b098a0,#a898a0,#a09098,#a89098,#=
+a890a0,#a890a0,#b090a0,#b090a0,#b098a0,#b898a8,#b098a8,#a898a8,#a898a8,#a8a=
+0a8,#a8a0a8,#b0a8b0,#b0a8b0,#b0a8b0,#b0b0b8,#b0b0b8,#b0b0b0,#b0a8b0,#a0a8a8=
+,#9098a0,#889898,#8898a0,#9098a8,#9098a8,#8890a0,#8898b0,#788898,#707880,#8=
+08080,#b8b8c0,#b8b0b0,#b0b0b0,#b8b0b0,#b0b0b0,#b8b0b0,#b8b0b0,#b8b0b8,#b8b0=
+b8,#b8b0b8,#b8b0b0,#b8b0b0,#b8b0b0,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,=
+#b8b8b8,#b8b0b0,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8c0,#c0=
+b8c0,#c0b8c0,#b8b8b8,#b0b0b0,#b8b8b8,#b8b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#282828,#282828,#28=
+2828,#286098,#986028,#8098c8,#303070,#987028,#282828,#c8a068,#6880b0,#38302=
+8,#384850,#f0f0f0,#282828,#e8e8d8,#282828,#e8d8b0,#d0e8e8,#282828,#282828,#=
+f0f0d8,#282830,#e0c898,#6098b8,#282828,#98c8e0,#282828,#98c8e0,#282828,#282=
+828,#7888c0,#f0f0f0,#a07828,#88a8d0,#282898,#f0f0f0,#d0a858,#282828,#282858=
+,#f0f0f0,#f0f0f0,#c0d8e8,#282028,#80c0d8,#302028,#f0e8d8,#285070,#303028,#c=
+8a080,#5888a0,#902020,#7080c0,#f0f0f0,#282028,#282828,#282828,#f0e0d0,#2820=
+20,#b08820,#486880,#403828,#906020,#6888a0,#f0f0f0,#405868,#484030,#a88028,=
+#d8c080,#282828,#282020,#282020,#c0b0b0,#c0b8b8,#b8b0b0,#c0b0b0,#c0b0b0,#b8=
+b0b0,#b8b0b0,#a8a0a0,#b8a8a8,#b0a8a8,#b0a8a8,#a8a0a0,#a8a0a0,#a8a0a0,#b0a0a=
+0,#a09898,#989090,#a8a0a0,#a8a0a0,#a8a0a0,#b0a8a8,#b0a8a0,#b0a8a8,#b0a8a8,#=
+b8b0b0,#b0a8a8,#b0a8a0,#b0a8a8,#b0a8a8,#a09898,#b8b0b0,#c0b0b0,#b8b0b0,#c0b=
+8b0,#a09898,#c0b0b0,#c0b8b8,#c0b0b0,#b8b8b8,#b8b0b8,#c0b8c0,#b8b0b8,#b8b8b8=
+,#b0b0b0,#b8b0b0,#b8b8b8,#b8b0b8,#b8b8b8,#b8b0b0,#b0b0b0,#b8b0b0,#b8b0b0,#b=
+8b0b0,#b8b0b0,#b8b0b8,#c0b8b8,#b8b8b8,#b8b0b8,#b8b8b8,#b8b0b8,#b8b0b8,#b8b0=
+b8,#b8b0b0,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b0,#b8b8b8,#b0a8b0,=
+#b8b0b0,#a8a8a8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8c0,#c0b8c0,#c0b8c0,#c0b8c0,#c0=
+b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#b0b0b0,#c0b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#b8b8b8,#c0b8b8,#c0c0c0,#282828,#282828,#20=
+2020,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#28282=
+8,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#=
+282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282028,#282=
+020,#282028,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282828=
+,#282828,#282828,#282828,#282828,#282828,#282828,#282828,#282020,#282020,#2=
+82828,#282020,#202020,#282828,#282828,#282828,#282828,#282828,#282828,#2828=
+28,#282828,#282828,#282028,#282828,#282828,#282828,#282828,#282828,#282828,=
+#282828,#282828,#282828,#282828,#c0c0c0,#c0c0c0,#c0b8b8,#c0b8b8,#c0b8b8,#b8=
+b0b0,#b8b0b8,#b0b0b0,#b8b0b8,#b0a8b0,#b8b0b0,#b0b0b0,#b0b0b0,#b0a8a8,#b0b0b=
+0,#b8b0b0,#b8b0b0,#a8a8a8,#b0b0b0,#a8a8a8,#a8a0a0,#a8a0a0,#b0a8a8,#a8a0a8,#=
+b0a8b0,#b8b0b0,#a8a8a8,#b0a8a8,#b0a8a8,#a8a8a8,#b8b0b0,#b8b0b0,#b8b0b8,#b8b=
+8b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8c0,#b8b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8b8b8=
+,#b8b0b8,#c0b8b8,#b8b8b8,#b8b8b8,#b8b0b0,#b8b0b0,#b8b0b0,#b8b0b0,#b8b0b8,#b=
+8b0b0,#b8b8b8,#b8b8b8,#b0a8a8,#b8b0b8,#b8b8b8,#c0b8b8,#b8b0b8,#b0a8b0,#b0b0=
+b0,#b8b8b8,#b8b0b8,#b8b8b8,#b8b0b8,#b8b0b8,#b8b0b0,#b8b0b0,#a8a8a8,#b8b8b8,=
+#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#c0=
+b8b8,#c0b8b8,#b8b0b8,#c0c0c0,#b8b8b8,#b8b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#b8=
+b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b0,#c0b8b8,#b8b8b8,#b8b8b8,#b8b8b=
+8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#=
+c0b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#c0c0c0,#b8b8b8,#b8b8b8,#b8b8b8,#b0b0b0,#b8b=
+0b0,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8=
+,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b0a8b0,#a8a8a8,#a8a8a8,#b8b0b0,#b=
+8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b0=
+b0,#b8b0b8,#b8b0b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b0b0,#b0b0b0,#b8b0b8,#c0b8b8,=
+#c0b8b8,#b8b0b8,#b8b8b8,#b8b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#b8b0b0,#b8=
+b0b8,#b8b8b8,#b8b0b0,#b8b0b0,#b8b0b0,#b0a8b0,#b8b0b8,#b8b0b0,#b0b0b0,#b8b0b=
+0,#b8b0b8,#b0b0b0,#b8b0b0,#b0b0b0,#b8b0b0,#a8a8a8,#b0a8a8,#a8a8a8,#b8b8b8,#=
+b0a8a8,#a0a0a0,#b0a8a8,#b0a8a8,#b8b0b0,#b8b0b0,#c0b8b8,#b8b8b8,#c0b8b8,#c0b=
+8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#a8a8a8,#b8b0b0,#b0b0b0,#b0b0b0=
+,#b8b8b8,#c0b8b8,#c0b8b8,#b8b0b0,#b8b0b8,#b8b0b8,#b8b0b0,#b8b0b0,#b8b0b0,#b=
+8b0b0,#b8b0b0,#b0b0b0,#b8b0b8,#b8b0b8,#b8b0b8,#b8b0b8,#b8b8b8,#b0b0b0,#c0b8=
+b8,#b8b8b8,#b8b0b0,#b8b0b0,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b0,#b0a8a8,=
+#b0b0b0,#b8b8b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0=
+b8c0,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8b8b8,#f0f0f0);"></td></tr>
+    <tr><td width=3D"163" height=3D"2" bgcolor=3D"#b8b8b8" style=3D"width:1=
+63px;height:2px;padding:0;border:0;font-size:0;line-height:2px;background:l=
+inear-gradient(to right,#b8b8b8,#b8b8b8,#c0c0c0,#b8b8b8,#b8b8b8,#b8b8b8,#b8=
+b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b0,#b8b8b8,#b8b8b8,#b8b0b=
+0,#c0b8b8,#b8b0b8,#b8b0b0,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b8b0b0,#b8b8b8,#=
+b8b8b8,#c0b8b8,#b8b0b8,#b8b8b8,#c0b8b8,#b8b0b8,#b8b0b0,#b8b8b8,#b8b0b0,#b0b=
+0b0,#b8b8b8,#b8b0b8,#b8b0b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#c0b8b8=
+,#c0b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b0b0b0,#b8b8b8,#b8b8b8,#b8b8b8,#b=
+8b0b8,#b8b8b8,#b8b8b8,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#a8a8a8,#b8b0=
+b0,#b8b0b8,#b8b8b8,#c0c0c0,#c0b8b8,#c0b8b8,#c0b8b8,#b8b0b8,#c0b8b8,#c0b8b8,=
+#c0b8c0,#c0b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b0b0,#b8b0b8,#b8b8b8,#b8=
+b0b0,#b8b0b0,#b8b0b8,#b8b8b8,#b8b0b8,#b0b0b0,#b8b0b0,#b8b0b0,#b8b8b8,#b8b8b=
+8,#b0a8b0,#b8b0b0,#a8a8a8,#b8b0b0,#b8b8b8,#b0b0b0,#b0a8a8,#a0a0a0,#a8a0a0,#=
+b0b0b0,#b8b0b8,#b0b0b0,#b8b0b0,#a8a8a8,#b8b8b8,#b8b0b8,#c0b8b8,#c0b8b8,#b8b=
+8b8,#c0b8b8,#c0b8b8,#c0b8c0,#c0b8b8,#c0b8b8,#b8b8b8,#b8b0b8,#b8b0b8,#b0b0b0=
+,#b0a8a8,#b8b0b0,#b8b8b8,#b8b8b8,#b8b8b8,#b8b8b8,#b8b0b8,#b8b0b8,#b0b0b0,#b=
+0a8b0,#b8b0b0,#b8b0b8,#b8b0b8,#b8b0b0,#b8b0b8,#b8b8b8,#c0b8b8,#c0b8b8,#b8b8=
+b8,#b8b8b8,#c0b8b8,#b8b0b8,#b8b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b8b8,#b0a8b0,=
+#989898,#989898,#a8a0a0,#b8b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#c0b8b8,#b8b8b8,#b8=
+b8b8,#c0b8b8,#b8b8b8,#c0b8b8,#b8b0b8,#b8b8b8,#f0f0f0);"></td></tr>
+</table>
+
+                                    <!-- Play Overlay -->
+                                    <div class=3D"play-btn">
+                                        <div class=3D"play-triangle"></div>
+                                    </div>
+
+                                    <!-- Overlay Text from Image -->
+                                    <div
+                                        style=3D"position: absolute; bottom=
+: 15px; left: 15px; background: rgba(0,0,0,0.8); color: white; padding: 5px=
+ 10px; font-weight: bold; font-size: 14px; text-transform: uppercase;">
+                                        Watch: Why Did Eating This...
+                                    </div>
+                                </a>
+                            </div>
+
+                            <!-- URGENCY BANNER -->
+                            <div
+                                style=3D"background-color: #fff0f0; border-=
+left: 4px solid #cc0000; padding: 10px; margin-bottom: 20px; font-size: 12p=
+x; color: #cc0000; font-weight: bold; text-transform: uppercase;">
+                                Recording may be removed soon
+                            </div>
+
+                            <!-- BODY COPY -->
+                            <p style=3D"font-size: 18px; color: #333; line-=
+height: 1.6; margin-bottom: 20px;">
+                                <strong>(ABC News) =E2=80=94</strong> A new=
+ weight loss trend is sweeping Hollywood, and for
+                                once, it doesn't involve expensive injectio=
+ns.
+                            </p>
+                            <p style=3D"font-size: 18px; color: #333; line-=
+height: 1.6; margin-bottom: 20px;">
+                                It's being called the <strong>"Gelatin Tric=
+k."</strong>
+                            </p>
+                            <p style=3D"font-size: 18px; color: #333; line-=
+height: 1.6; margin-bottom: 25px;">
+                                Viewers like Chloe Garcia are reporting sho=
+cking results:
+                                <em>"After 3 weeks with the gelatin trick, =
+my belly is flat like a board. I've melted 26 pounds without dieting."</em>
+                            </p>
+
+                            <!-- CTA -->
+                            <div style=3D"text-align: center; margin-bottom=
+: 10px;">
+                                <a href=3D"hxxps://storage[.]googleapis[.]c=
+om/worklinks/proforward[.]html#wKUkDHVModPKpnflrCbrQfdxToiKut&4BtZxqAHUut&3=
+17497/1157/xpndubtqwy[.]home[.]php?sq=3D32-195982&lk=3D38628-5&page=3D797" =
+class=3D"btn">Watch The Video &raquo;</a>
+                            </div>
+
+                        </td>
+                    </tr>
+
+                    <!-- FOOTER -->
+                    <tr>
+                        <td bgcolor=3D"#000000" style=3D"padding: 20px; tex=
+t-align: center; color: #888; font-size: 11px;">
+                            Copyright 2026 ABC News Internet Ventures. All =
+rights reserved.<br><br>
+                            <a href=3D"hxxps://storage[.]googleapis[.]com/w=
+orklinks/proforward[.]html#EphTOXGZtdMKveJjnErcycKjObSFlz&5qOQUlvEdBA&31749=
+7/1157/wdnfxwazdo[.]home[.]php?sq=3D32-195982&lk=3D38628-5&page=3D564" styl=
+e=3D"color: #ffffff; text-decoration: underline;">Unsubscribe</a> |
+                            <a href=3D"hxxps://storage[.]googleapis[.]com/w=
+orklinks/proforward[.]html#vVCmRYtPllOeGMYXTaYmaFVEvcvMQx&4lyTBuVOAiH&31749=
+7/1157/fdcmqjifvn[.]home[.]php?sq=3D32-195982&lk=3D38628-5&page=3D427" styl=
+e=3D"color: #ffffff; text-decoration: underline;">Privacy
+                                Policy</a>
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
+
+    </a>
+</a><br>
+<html>
+<body>
+<center>						=09
+<center>
+<table width=3D"600" style=3D"text-align:center">
+<tr width=3D"600" style=3D"text-align:center">
+<td style=3D"font-family:Trebuchet MS, Geneva, sans-serif; font-size:10px; =
+text-align:center; color:#aaaaaa;" width=3D"600" style=3D"text-align:center=
+">
+<p>
+	To Unsubscribe Click=20
+<a href=3D"hxxps://storage[.]googleapis[.]com/worklinks/proforward[.]html#V=
+xsTkKvEPqYBVQmfedpkivNtCXkQnh&6beFcMyaOeU&317497/1157/zbaonrlyar[.]home[.]p=
+hp?sq=3D32-195982&lk=3D38628-5&page=3D730">Here</a><br>
+ </center></p></td></tr></table>
+ </a></a>
+<html>
+</center>        =20
+</center>=09
+</center>
+</body>
+</html>
+<center>=20
+<center>
+</span>
+</div>
+</center>=20
+</html>
+</center>
+</body>
+</html>
+</center>
+</center>
+</body>
+</html>
+ </tbody>
+ </table>
+ </div>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </div>
+ </div>
+ </body>
+</html>
+</body>
+</html>
+ =20
+<html>
+<table style=3D"display:none;"><HEaD/>
+
+<div style=3D"display:none;"><HEaD/>
+=09
+<object MQEFWACVCZQBUZOTHADGHCSCBHLQDNBUHRZDTOKMRIWKPJROJBREUPREKJVH>
+
+Dear AVMLSVZCDRPXNIYTZOEHIX optzzjksbdmvijyofeovqm,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is ciqtsgscibneekpdrptibcf=
+kzffd.
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+<title>
+
+emd=20
+added
+to
+newsletterGet
+and
+ask
+childrenShare
+this
+ExperimentSegregation
+Americaxs
+report
+United
+May
+ETPerhaps
+going
+wants
+In
+federal
+that
+says
+plan
+boasted
+unemployment
+lowest
+everSo
+rightWhile
+down
+remained
+last
+this
+does
+communities
+to
+land
+opportunityOne
+Americans
+suffer
+opposed
+white
+inequality
+in
+while
+step
+inequality
+will
+that
+looks
+housing
+disparities
+on
+For
+more
+of
+on
+resources
+their
+childrens
+care
+going
+on
+cities
+on
+nation
+Shortly
+still
+have
+evidence
+doesnt
+decades
+expanding
+emerged
+of
+failed
+laws
+about
+and
+people
+housewives
+at
+Franz
+in
+New
+Orleans
+poverty
+public
+which
+to
+of
+we
+has
+failed
+chronicled
+deregulation
+Who
+children
+has
+work
+direct
+former
+have
+has
+of
+And
+as
+Professor
+documented
+more
+than
+problem
+Commission
+commission
+there
+with
+this
+was
+urban
+ideology
+without
+policy
+resulted
+be
+has
+hard
+students
+provides
+model
+graders
+salute
+flag
+of
+school
+atrisk
+will
+to
+of
+creates
+race
+to
+Brookings
+or
+integrate
+government
+to
+for
+potential
+enforcement
+The
+privatesector
+effect
+intentional
+with
+racial
+and
+make
+housing
+will
+access
+housing
+access
+Act
+making
+and
+integration
+poor
+developers
+lowincome
+lower
+half
+and
+by
+University
+college
+than
+children
+had
+and
+We
+need
+that
+but
+living
+Robert
+observed
+Bernard
+Why
+never
+ask
+and
+America
+Eisenhower
+Foundation
+Kerner
+Commission
+Violence
+senator
+at
+Healing
+America
+Years
+After
+
+<title/>
+
+Hi utdxbwijksmtcyjztb,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:=20
+
+If not, just let me know and we'll find something else.
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi eiuezpnkwwopviyasdajcbcn,
+
+Thanks for signing up, and congratulations
+on your new mis fgybgmsiqvuqdhrcid account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=3D=3D=3D Account Information =3D=3D=3D
+ Username: bbulhvnwhpamteqhjbckypfxrv
+ Site ID: oklsaupbgfrzgcidfbnqhlatk
+
+=3D=3D=3D Your Account Console =3D=3D=3D
+
+Thanks again!
+Team GIOPFROEVBCPRIHDYWPYGO
+
+Powered by BCGQICERXJQHUOBJRCIRAH=20
+
+</title>
+
+Dear DRPHTZIRAHFHZJMCGSZIOENMB cvufalcfagbignqfzvcrurehua,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is lhfjnlxmfdyjxfokjitwntj=
+sp.
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+=3D=3D You need a budget, and your email needs confirmation. =3D=3D
+
+ Hello! Quick note to let you know that your email needs to be confirmed
+before all sorts of great things happen. Like your being able to use YNAB
+all along your road to budgeting glory. Please confirm by clicking the link
+below:
+
+ Confirm your email
+
+ Thank you!
+
+ And we're serious about budgeting glory. It's a real thing, and you will
+bask in it.
+
+ Regards,
+
+ The YNAB Team
+
+
+Dear Dalewoowood TFOGORHNXDGYQWJPANADVM,
+
+Welcome to the Enterprise Plus? membership experience.
+
+Your Enterprise Plus member number and user name is __Random_com[17,17,u].
+
+Your membership delivers faster reservations and rentals, a special members=
+-only line at major airport locations and exclusive discounts.
+
+In addition, you'll be able to start earning points you can redeem for Free=
+ Rental Days after you activate your rewards. Please allow 24 hours for sys=
+tem updates before activating.
+
+To get the most from your next rental, simply go to http:// and log in with=
+ your member number.
+
+Thank you for choosing Enterprise. We look forward to making your next rent=
+al experience more rewarding.
+
+HEFEMPKFFZPJMWWYTPZFSJECKZRBKTIBWQXLSDYYKWVSOVAPQGYQFOAKIQCKFJSMKUKIBLIKCPK=
+UTPIEXPTKFMZPXUJOBOQRIRCFOJPDLOEOXNVVAQRYXDFVBFFQRVUJQDOOESSUNAKQEJNUQGDAUZ=
+JIWWUQBZQQEVKERMYORPDBZQAHFUNDRMFLDZABXPDSYCHWURSI
+
+ Hi IDFWBBKKVGIHGANRCNHUWQ,
+
+My name's Dylan Basile and I work at Event Temple. Nice to meet you and
+thanks for requesting a demo.
+
+Joining me for a quick demo will be the fastest and most efficient way for
+you to see what the software is capable of.
+
+Did any of the times on our website work for you and if so, were you able
+to schedule a demo okay?
+Here they are again:
+
+If not, just let me know and we'll find something else.
+
+aizgvvcqlkeufkrndplyrvmgbzzkhqnpstxrqgrbrotusuzabiwvgqzamjtogsmjergbhzrhcto=
+cfdhvqokzxtqvztoitonfzqcoyhmfjflqoelifdmynwnijuggobjsiabpjrlbttlxqgapcslqcv=
+jfpmummxsuefaoedjoihhmvmhyqgzarwwbbmaugbyktnypkeyn
+--
+Dylan Basile
+
+*Book a demo with me here:*
+
+Hi J9R3UGXQHVYIF3Q9QS8G9HNB0,
+
+Thanks for signing up, and congratulations
+on your new misiuumqymehkehfaptsv account! You'll find
+everything you need to get started below, and
+if you need additional help there's a link to
+our support forum at the bottom.
+
+=3D=3D=3D Account Information =3D=3D=3D
+ Username: ktrt
+ Site ID: bmfn
+
+=3D=3D=3D Your Account Console =3D=3D=3D
+
+Thanks again!
+
+Team ADNTPDHRCYJJPWMLHKYJRM
+Powered by EOKBVQJSAGOJBBLMJPQOHP
+
+Login Name: BFPFGTYIVIDUBKJHKXEDXB
+Password: GJICODLFMQWCGDZQJUEKTH
+
+How do I become a tester for the XT 808 flashlight?
+
+Login Name: VYA
+Password: ZYXKAGAVHTHMJQLWZWFJQH
+
+	XT8O1GASHYPVK96C7F KGJMEYZH51PF39O 4OH8WLF7UCZDV Z1FYA8S2CWXGSJIF1O OMPOCJ=
+Y84G8AZHE WFWU0RDX56JJ7 VTQP29LZZKQ5KCM4NJ=20
+	7HA2MCV37PP7IMD9H7 FMEBKICA47PYV0L 3U1SHWWTZL0U4 QSFL31TJRUKEOZ1D2I KI6H5K=
+LHXU4QZT2 N94HXJRLP9O01 ZFODOKBUW0GX7OREDY=20
+	ZQY4HC9XPLFVN7R 5HG0I7FUFV1WV LH0Y0A8VM72RUY2Z2D S6O6NQJYKRS6DVV 7G5EZPQKU=
+N177 YG3IDAVWHB69CIGZ2Z 85378INP9LMZBZE
+	AI62OSH17JEZY EYDU91D0N6Q4B0I4UX UI9N12QC5VKDF2T 08OW2F67B4OYA BYK59UPXYGO=
+FMJBO87 PXW1JWLQ81W0XU8 O8BCK75EV0IK8=20
+	QHQVVEK2BB889PYJST G9BUXMJPPRJWNY5 WXBUVDDNX3IY9 V153CGVCTDEPAMAWKY Z2QAQX=
+DP16XJV05 EUJWWNW0VM9KD 0POITK99ZHQFVLXVHO=20
+	01NDFARFUD90T0U KM7QBZPOLTNQL IILARNOB8FMBTR6RWJ 2MYC0FQCGCCMSVX LEARZ5FWE=
+8181 XS0HN6F1ADWQ6WP7FF E98YS2KWQS2MDQF=20
+	384DMXD0IBMD9 VHO85SSKIOHSIWWUQG G4HOKV3NPZDNRDJ OBV8YEPZWGTSN TOZ6LQTIJOX=
+TOP8AE5 CHJ5UXBUIIHTG7H CAIEMVKGZMAFQ=20
+	TFVVZOQENW5KWKI2QQ W9TJNJP146ABMJH D533JFB621W4K 5VQ2ZKBOICUCMJFINV YA3KS0=
+FJG17JFAD NVUEYGEVVZ60S O1TE6WOG231AISJOEM=20
+	OQ481NJAP5PP9BJ 7UTJ5P1HFTMRM GC1FYB5HFV5MQVZH5W AHT8BJUMP6V3D3I JTEKD8QDB=
+ITLR QWIY0WG7VIJVVX23XL P5DQUBA2UQTXRHD=20
+	C9FMXFV4CQMK2 TCRTQO70MV7D5ILXQ7 J04P3ZVK13RC037 7CJ83OTM7PAQ1 3XHJL3RVPZX=
+RGZ9KJ4 WIJMK1HX9F8NR8T IUN5WLI5LV74D=20
+	L3PX7W6MQP7EUBPL27 LKU9K8TQHMDJWHZ YORTQ97SUGBOC 0U1UIC40I6DS9HX1PD 6QXKMB=
+ZMM600W7A OG40WPHI99PBF CL77HJ7C22SZ1IL8FN=20
+	75J9LMP09BEUEQN O5N73TKF0QR7D 9DJ1PIGDOCG9FKL8EE 3HU3T4IZTH8TGBN P7HEVBRCM=
+T9D8 L6SCN5WTF7LDUGFGAV BQV7K28B5BLDTPY=20
+	OOFMTBH312OLM 5A6E9DM30X2D0DQW7C RFB5G5X5P4J26Q1 DM5IGSWSD7OP6 H3XILF31JH8=
+DJLRAVC M453TPN3157W90P L3TD456MP02K5=20
+	YCK202DV32PXJJ20HU 6Q3CR4D1X2H82VP 7SWWQQQWXVGUX 15B6H54HUZ1HK7T08X 6HQ5PM=
+0DI4SVHBY 5DKSDURHUSAKR TRAL4F9YKA821FQZCO=20
+	QVKI4IRLUZGTYSL 9XHAI515VWJ1N MM7NNQS7YAZR9L8AUB JMB0X0LL4FWNJNG RI02YU37M=
+EUT9 N7L41G9T3CQF3YX33A DG5X79XTCCCZEXV=20
+	V9IGLPQFMEVB6 0A3UADVY26T6VUHTLP 824NK2T5RPFMAQP KV8T5CYWYWYJ8 NIZLJTPSQCS=
+CRD4B4M V2HOJP7DEWU91FS SDM8WECKI2QY8=20
+	TWMHWHHQ3U5DLV9ISK GH9EDQBNIXYVD9N V6SYQT12CE1JA OYKSOWVASU4OIAIPTE 09KX8J=
+Y901UTCIL LRKJ4UXK7SR05 5M3Z278XUFA7FH6AXV=20
+	NX84CO9J97ZKIH3 VVQQ6C6P2P4IG B1Q40NVDDZRE8U1YYK 0FSMTH452OSKNMJ 61GUQ2AU8=
+8GTV EZ2Z5PR3O4TYXNIEJC TRYT8RGEKMYJWVL=20
+
+More than a quarter of Europeans surveyed believe Jews have too much influe=
+nce in business and finance. One in five say they have too much influence i=
+n media and politics. In individual
+1. Download Parsec for your device
+
+2. Set up Parsec on your PC to invite friends to game with you or to play f=
+rom anywhere
+
+3. Connect with your friends on Parsec
+
+4. If you don't have a gaming PC to co-op with friends, build one on Parsec
+
+5. Join our Discord for support, updates, and finding friends to game with
+
+       Less than 10% of EU aid money reaches the countries where it is most=
+ needed, according to a study that found levels of assistance had dropped f=
+or the second year running.
+
+The EU and its member states remain the biggest development donor group in =
+the world ? investing ?71.9bn ($61bn) in 2018, more than half of global aid=
+ ? but its contribution was 5.8% lower than in 2017, the European NGO netwo=
+rk, Concord, found in its AidWatch report.
+
+Progress on meeting the UN target of spending 0.7% of gross national income=
+ on aid, laid down in 1970, has gone into reverse, said the group. Their re=
+search showed that aid decreased to 0.47% of the EU?s combined GNI last yea=
+r, compared with 0.49% in 2017 and 0.51% in 2016.
+
+Advertisement
+
+Only Sweden, Luxembourg, Denmark and the UK met the 0.7% commitment.
+
+The UK?s three main political parties have committed to retaining the aid t=
+arget.
+
+Aid from five countries ? Italy, Greece, Finland, Austria and Lithuania ? d=
+ecreased by 10%.
+
+?We are moving further away from the 2030 Agenda [for sustainable developme=
+nt],? said Luca De Fraia of ActionAid Italy. ?Not only are we missing the t=
+arget in terms of quantity, but also the quality of aid is lagging behind.?
+
+Despite a marginal rise in aid going to the least developed countries (from=
+ 0.11% in 2017 to 0.12% in 2018), 16 countries, among the poorest in the wo=
+rld, currently receive only 8% of EU funding, AidWatch found.
+
+Guardian Today: the headlines, the analysis, the debate - sent direct to yo=
+u
+ Read more
+?sa Thomasson, from Concord Sweden, called on EU leaders to provide more ai=
+d and ensure it is used effectively to ?make the biggest difference to peop=
+le who are most marginalised, excluded or discriminated against and the poo=
+rest and most financially challenged countries?.
+
+The report noted progress on what can legitimately be recorded as aid. Some=
+ countries had included domestic spending on students, refugees or security=
+ in official figures. But such costs ? like debt relief, interest repayment=
+s on loans, or assistance ?tied? to the donor country ? are categorised as =
+?inflated aid?, since they do not necessarily contribute to development and=
+ are often funds that never leave the EU.
+
+This year?s report shows a 25% reduction in inflated aid, while refugee cos=
+ts decreased by approximately 35% and the use of aid for debt relief droppe=
+d by 66%.
+
+Jan van de Poel, policy and advocacy manager at the European Network on Deb=
+t and Development, said he was concerned that the commission is overestimat=
+ing the potential for ?blended finance? (linking aid with loans from public=
+ly-owned institutions or commercial lenders) to help achieve the sustainabl=
+e development goals.
+
+He pointed out that, as recently as 2016, more than half of all reported co=
+ntracts were still awarded to firms in the donor country. ?Donors not only =
+need to untie all aid, but also make sure that their procurement practices =
+are tailored towards the private sector in developing countries,? he said.
+
+Claire Godfrey, interim director of policy, advocacy and research at Bond, =
+the UK development network, praised the Department for International Develo=
+pment (DfID) for maintaining the 0.7% pledge and ensuring that the majority=
+ of its aid reached the people who need it the most. She added that other E=
+U countries needed to ?step up to the plate?.
+VDEXETOHUWFLTDOZZSLRFZTEBUKGDKUEPCKOXGVWQAYGKZAMZGAFLROJZRZMTRTLQJVAVTFXKEJ=
+HBBGXHEOGXSUGGBYKEQANIXFWTALXZVSHHPTEUALOTOXJGMNHKDXKFGMIYUCVJGRKZDGLVHRIML=
+PSLNTYTEQPVMPRUWZIIHYIRCPRTESKBMQWXNTIWWZFKNHOHAWMH
+Godfrey said DfID would ideally have oversight of all UK aid, rather than m=
+ultiple departments, since this would ?ensure not a single penny is diverte=
+d away from the poorest, most vulnerable and most marginalised?.
+
+With a general election looming, Labour, the Conservatives and the Liberal =
+Democrats have all stated their commitment to retaining the 0.7% aid target=
+, equating to roughly ?14bn, while the Green party said they would raise it=
+ to 1% ? in line with Sweden.
+
+
+Two-thirds of British people see overseas aid as 'a major priority'
+ Read more
+At a joint hustings event on women?s rights and sustainable development hel=
+d by ActionAid UK and the Overseas Development Institute on Monday, Lord Ra=
+y Collins pledged that Labour would triple funding to NFZAVSMHCFQUEKJFAYPTK=
+BBSUCQXXZCNWLPUJROZIMHVNIWPWSXRYZWXZLVAAAGSBNPYKTYGFPTFJYLHNONNDKNRYNOIBJOD=
+MQMUOJWDJWTDORVUQIIFRWPVVITBZSTWCGDBHZVCQPGEYCQNSCSJIFRLKJKPTIZJRHULAKVKEOZ=
+BPSULZWNLKCURSNCEZOPOQUJNPTPH roots women?s groups in the global south.
+
+Elizabeth Babade, candidate for the Brexit party in Warrington North, said =
+her party would cut the foreign aid budget but declined to say by how much.
+
+The Conservative party did not put forward a candidate for the event, but r=
+estated its commitment to the 0.7% target in the House of Commons earlier t=
+his month. It stopped short, however, of committing to the retention of DfI=
+D as a separate department SGEVXKUNCSBWMQHOVAFUCDMTUNNRTEUFJWFVLMNSZZBYSGEV=
+OIPXRPMNAMNOLJQQXMZLWPQXMKJSUGZBSRVEIUPXHQGCMRBNYXHVJOAVDYSCJAMCHMDPGKJRBZA=
+UPECUVGXTXKEOQMMOWGDUTCQPEIZSPKOJOQERKBCZIBLTSAHFIAGWACLSZHFTBSKBYONNHTFBPR=
+QHR to the Foreign and Commonwealth Office.
+
+The UN Conference on Trade and Development?s Least developed countries repo=
+rt, also published this week, called on the world?s poorest nations to ensu=
+re external finance from all sources is ?directed to nation USJHFTYCQCUQGSM=
+PCMLBPFLMQLUCSBORKVFKFYLTARVHXRHONPXWLTLSCQZABWNYEKEFCQBQVMEKDSYIWGVIPWRBHO=
+CDSDBYKORELZDJPVOUBURCFRALVTKFUOJFVOUWDMPOYVKBHOULKTKBPBGCZXMJDSSOADUWZKHZC=
+NPFSBNOKNXUKRTSGNSUXBKQREQFZNIVJWZDI development priorities? as the best wa=
+y to ?manage their aid dependency and eventually escape it?.
+
+Since you?re here?
+? we have a small favour to ask. More people, like you, are reading and sup=
+porting the Guardian?s independent, investigative journalism than ever befo=
+re. And unlike many news organisations, we made the choice to keep our repo=
+rting open for all, regardless of where they live or what they can afford t=
+o pay.
+
+The Guardian will ZKVWQXCKPAYRVQXCCKKBIRCYTPLTBQGDFQHZRXVLDBIDSUMKUQOPJLTYE=
+NPKUXMRLWLNNGQNRMQIZFBXODYBQYPVVKZVYGJGCOQOAMUUBIGBZOUECVESZVHNXNRDANPXABLZ=
+QHMXGGUQXNANENJORWDOVVJKSZDACZMMJYSRMTIXZBHMNORPUWGFTZAGLIZCONBNDHXRTODHLCQ=
+IPZSLWMTKKTPCIJHPDXEVMSDBQRZVWVSNZPTGHIIWKJTIAMGLOTIVAKYMCPUGATVKHIGOIFSAQZ=
+MRTXEBAJQYASWPVOSCIUQBJKYUJGCDWDRLKTOQDGPKYUHBARWUOHTZAQQMLWHMGYSMECUUCQBQQ=
+HFLYOZNZYHFGJEMWINJMPTBDVDYEJKHYHLOOGRPQVKW  ?=20
+from the escalating climate catastrophe to widespread inequality to the inf=
+luence of big tech on our lives. At a time when factual information is a ne=
+cessity, we believe that each of us, around the world, deserves access to a=
+ccurate reporting with integrity at its heart.
+
+Our editorial independence means we set our own agenda and voice our own op=
+inions. Guardian journalism is free from commercial and political bias and =
+not influenced by billionaire owners or shareholders. This means we can giv=
+e a voice to those less heard, explore where others turn away, and rigorous=
+ly challenge those in power.
+
+We hope you will consider supporting us today. We need your support HXTFBQI=
+AGPRDGGQOYTWXTATNPQCMYHSZDAATXRQPQFSUUNLKLSGUXWUVJSQDYWBUSXWQUTTUFJHIRPEMDA=
+CTDYRWGUDTWWWAHJDLIYDBIUPVHIKXLDAIMNUGCDSQXNSHRQPIQYMNSSQPVRVKFJFOWBLWPBZZN=
+GGIIJDQBQAXOWIHXPWPTPIKJXRUXJEUSOTGERHZUJSS  to keep delivering quality jou=
+rnalism that?s open and independent. Every reader contribution, however big=
+ or small, is so valuable. Support The Guardian from as little as $1 ? and =
+it only takes a minute. Thank you.      =20
+
+Parsec Cloud, Inc.=20
+115 Broadway, Fifth Floor, New York, NY 10006, USA
+
+</object>
+
+------=_Part_1_57191239
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<object style=3D"display:none;">
+This message was sent from a trusted sender
+<div style=3D"font-size:1px;color:#333333;line-height:1px;max-height:0px;ma=
+x-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0</div>
+She tried to explain that love wasn't like pie. There wasn't a set number o=
+f slices to be given out. There wasn't less to be given to one person if yo=
+u wanted to give more to another. That after a set amount was given out it =
+would all disappear. She tried to explain this, but it fell on deaf ears.
+I've rented a car in Las Vegas and have reserved a hotel in Twentynine Palm=
+s which is just north of Joshua Tree. We'll drive from Las Vegas through Mo=
+jave National Preserve and possibly do a short hike on our way down. Then s=
+pend all day on Monday at Joshua Tree. We can decide the next morning if we=
+ want to do more in Joshua Tree or Mojave before we head back.
+Symptoms of acute mountain sickness, or AMS as it=E2=80=99s known, include =
+trouble sredactedping, nausea, loss of appetite, and fatigue. If you keep g=
+oing higher and ignore signals from your body, you could develop HAPE, high=
+ altitude pulmonary edema, or HACE, high altitude cerebral edema, both of w=
+hich are very serious.
+They had no proof. He knew that they knew he had done it but they didn't ha=
+ve any proof. It was a huge distinction and it was the difference between h=
+im keeping his freedom or being locked away for decades. They continued to =
+question him, probing him for information that they could use against him o=
+r find the proof they needed to put him away. He smiled and continued to bl=
+ock their every inquiry by feigning his innocence for a crime they all knew=
+ he committed.
+</div><object><div style=3D"font-size:1px;color:#333333;line-height:1px;max=
+-height:0px;max-width:0px;opacity:0;overflow:hidden"> ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0=
+ ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=
+=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=A0 ?=C2=
+=A0 ?=C2=A0 ?=C2=A0</div> </body></html>
+
+------=_Part_1_57191239
+
+
+
+------=_Part_1_57191239--

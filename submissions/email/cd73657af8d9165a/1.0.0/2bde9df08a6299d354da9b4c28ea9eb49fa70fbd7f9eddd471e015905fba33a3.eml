@@ -1,0 +1,200 @@
+ARC-Seal: i=2; a=rsa-sha256; t=1793858668; cv=pass;
+        d=google.com; s=arc-20260327;
+        b=mh+85pqD2BC2OqgFmZDIY6X5sh/D2ZaGM19fAaPPNuV9o9sEG8o3QkBIdSbHjm8cC5
+         WyDFmTTxT9jfS041CFw7AcZ8pO8mjY+NAmMGEtqpTkcjZn2kRwLvWazP92D08Tkmhyc6
+         cuOz6yzBDphigNurp7A9s6Mvp8I0NVXpdwcu5UOmB56QSwJRDPJLbJbiDvAYtvJUPRaZ
+         u92jxMraBsQVqxWu1oJB07YMRe1W69OGlJqd/RCg2iDrL4SsWGYSWPdjg+sjmRffbwbS
+         ZA5VfLQH1HJ1CkJCHY927sh5NCTcLnVPLo4BOlS+P9VbmSAtuXIjtJqJA4Q5Kv/6zVH6
+         eukg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=to:subject:message-id:date:from:sender:mime-version:dkim-signature;
+        bh=EH1g4i8JcyRNZyG6cXn9byHHUiir4UTUZJYAjySXt+g=;
+        fh=OyBJhkY9A7uaa9ZVKsFcCuYG0wwm1lKEl9tvwYVDNt8=;
+        b=sgV786WcHDcBcBpp6qm787PODZUj8cMMuu6kpoOOpGokUZRC5Ji1n04ntYFu9DT0hN
+         X9H8IzleUTrq9mxHopLEDYXpC9ev2mhr3Bh/AuEUtAxRBocVpVW71smk6MotQdmegZkj
+         8oN3WoiKYDWPaPpJBjBrfCnZUS0cfwDBd7s6/tu/AJMn7AtB5Wptxjw6N9BurdMvMtIg
+         AzyMCdn+0JUy1U6eMze7C+zMgfyZtbf214fLPmG1eR12Rbpli0c1XS0R0SxzHnEVQgU8
+         K79MxkzS2cOwGefPPNBec7MIDlL0fJUWp0e0zM7sesMqhq58F8QScE4vmFB/2+sFhBcL
+         YTZg==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@moe-dl.edu.my header.s=google header.b=KaaWydCC;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of m-13958296@moe-dl.edu.my designates
+ 209.85.220.65 as permitted sender) smtp.mailfrom=m-13958296@moe-dl.edu.my;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE)
+ header.from=moe-dl.edu.my;
+       dara=pass header.i=@gmail.com
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@moe-dl.edu.my header.s=google header.b=KaaWydCC;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of m-13958296@moe-dl.edu.my designates
+ 209.85.220.65 as permitted sender) smtp.mailfrom=m-13958296@moe-dl.edu.my;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE)
+ header.from=moe-dl.edu.my;
+       dara=pass header.i=@gmail.com
+ARC-Seal: i=1; a=rsa-sha256; t=1793858667; cv=none;
+        d=google.com; s=arc-20260327;
+        b=gtEreKdD5Hx/fokYJ0iQ3jmRxpBrUYs5jvxnYEi6Fruaxn8TmmE6JaQG7oeTvKgnQd
+         GJ3FBHgtFC5+vKSzTx0g+bw/L8r17cIGilRVr8809Y/ewi9TEKd0iqK3k46EMgxZXp1D
+         RDJGw0wzTOmc/cPKZa5IyBJogXLITh/UGx2/uhou9QhOF3xYm3tbvI8f+rmP5J8Ozu0k
+         dlhjZe4KsrQaGSvGDH1WbKyCjsxBZa026YYrjvW3e65cl/mnxo3tS28PtP8pbKVikZt0
+         lg0GcOn8K6H1oDGL5awXvpAIn5UVaQ/yfxbveRLiiZZ6yCrgwM0fCE8YrQVvIap8y+7t
+         mSsw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20260327;
+        h=to:subject:message-id:date:from:sender:mime-version:dkim-signature;
+        bh=EH1g4i8JcyRNZyG6cXn9byHHUiir4UTUZJYAjySXt+g=;
+        fh=OyBJhkY9A7uaa9ZVKsFcCuYG0wwm1lKEl9tvwYVDNt8=;
+        b=g1I+5ezUkzN4NmqVEN7lLcZRfkZnHg+QdpJL1vDWZ6hsWxWIier7INiu4VRUyDSPtV
+         RPqxnG8Dn0mDnIUy78GWjsthXW6BYEWUjsBZ+qlCXKBsomes5Q1ruQ89sk0fxW2A+L1t
+         f9p0q7JWFsG9dldKMIKk4O9BnqJTop+KFiPWXWdBCkneEucyEBLtWjAnTt/XMoPQVuXa
+         ta490gkFB90nmoyxLZs8Gin8My+/bRRMqZwLW2Pg+XNH7BEPtdwPwJOTHLdH2R2GesFd
+         HDv1ZWaSOxRYqk3+SqUA7Z1jrr+3z2+56csd8EtwmNLVRLoUV8DMDDvDQP+eC05x/uHi
+         yrkw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=moe-dl.edu.my; s=google; t=1793858667; x=1794463467;
+ dara=google.com;
+        h=content-type:to:subject:message-id:date:from:sender:mime-version
+         :from:to:cc:subject:date:message-id:reply-to:content-type;
+        bh=EH1g4i8JcyRNZyG6cXn9byHHUiir4UTUZJYAjySXt+g=;
+        b=KaaWydCC+ADKW4nQqlhNgnv67Qh7r/iTY9wCB5AGABCG7SBuwR6yqM/E3BYiOBi0Mb
+         0znAtcG2CqBhxm/MhBeX+x8pH0faR16LU4VE/as83+Q2YJ/DRsD04ZbqsgOzd2C3SD2p
+         haSE2em5v9D9e8LaFKNHqwlavm0wn1D/IpfWE=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20260707; t=1793858667; x=1794463467;
+        h=content-type:to:subject:message-id:date:from:sender:mime-version
+         :x-gm-gg:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to:content-type;
+        bh=EH1g4i8JcyRNZyG6cXn9byHHUiir4UTUZJYAjySXt+g=;
+        b=l94F9hTuH9dE2OtzZcl3faBFLgJhbsqTEGCyHIgTr+lV421GY6amLEWTzDHI4f0b5l
+         1CBmv40LL9RWc/8FscqJq8dVfQooiQ42IW39BX6ldqL/M+N0WS4WqXvW7Kzw4f/aj0gO
+         nT8q+SmfhbzXA0plswMKcq/75qSpSSktVJ2Dt3TCl7guAwI/Gl/HHW2U9RakSde6/Amk
+         d6ixscDeKKrGVnapJCOTZpTrcgvOwvrmIR+iGCwd6kopG/tRiS4LyzZWj1P6xnQxvZr9
+         i+AuRBV6YIT3oM0/BShnfWeX4bQGj+PDvAXYdfo5BBzVZiI04K18N1WL58ne3At+/9aE
+         lHmw==
+X-Gm-Message-State: APuU4Z9VOYP3WlQPofUnH8WSQhv/N21RS3gMNCGpqiYgeR5Lb5y3taEe
+	96P3RXUd84QFTlvfQRIJp6t2UHBEs0Lhmaoq1by6jOabxPloFwL1EPCL1qz6bETIs+aC/mHxk5R
+	NBrKnQAUNgNcu6Py9YbGSIHKgEVD3KhjK0i4fyvPZxs5l7eC9dGYxn1Q=
+X-Gm-Gg: AYBFou2CUzxmt+iMZfs1f5JhfPmn/wLPlZHp0cJzElRStU2CU+5Fatt6u6ukb1E8q1u
+	PPppRodarAXjnNdyicEhuuRXnN/hJWTHfatvz0IevPXvlrXC0dIq5yW25TReONiYhRGyQWFH0ts
+	dnYaKnM5SNheaASJAOxJwieyInr1m8A2QSnZdx3aWATEqu8Nu2OoR3C0mvwPVW0C2p76nmm+MeY
+	OWJgzc4KelAWtOppjKlsFqj3bofdf8vhXjOtGoNpaae3S+9Ze/3WHrB31Ry4Ldwq5ObG/P1z2uD
+	LDmQsv3Zlvkocji8TsdXyQmXPk83tJkSU5W7E4iGfT93IKWoa+lb0hLxxZ+c+qOLX3vdNuTUS73
+	sSidshwk6cickJTJn2oS5raQH7nX42yTJ0e3LNClz9wm9KITVB8csoO0yhpAF1mNIJ2mbjZWYrm
+	P9oT1FltPHSX1F
+MIME-Version: 1.0
+Sender: Angelina Brown <m-13958296@moe-dl.edu.my>
+From: Angelina Brown <m-13958296@moe-dl.edu.my>
+Date: Wed, 4 Nov 2026 22:04:26 -0800
+X-Google-Sender-Auth: IXQbU1PXt6eryCGWDln-8FCU_50
+X-Gm-Features: AclHuK8XI80SoENUUywxESaBHasMmFnCv5RvGgKuBe3zOX96SkOPlCdtXXZmPNk
+Message-ID: 
+ <CAN7HT_Hpn+X==1b6B9z63993AmzOmm2fkcG8Z7qGAkiLW+oc-A@mail.gmail.com>
+Subject: =?utf-8?q?Re=3A_Special_Invitation_=E2=99=A5?=
+To: redactedredactedredacted@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000a5aa35065f8144e6"
+
+--000000000000a5aa35065f8144e6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi redactedredactedredacted,
+
+Looking to Meet Someone Nearby? I=E2=80=99d Love to Connect!
+
+There=E2=80=99s no pressure and no expectation, Just remember=E2=80=94some =
+doors only open
+once. Explore at your own pace.
+
+Classified listing - Craigslist for-Sex
+hxxps://sites[.]google[.]com/view/casual-pleasurefree/
+=E2=80=A2 Live conversations with people who are open to connecting
+=E2=80=A2 Private one-on-one chats for more personal interactions
+=E2=80=A2 Curated profiles & galleries to discover new people
+=E2=80=A2 Shared interests that make starting conversations feel natural
+=E2=80=A2 A private, refined environment focused on conversation and connec=
+tion
+
+
+
+
+
+Sent from my iPhone
+
+--000000000000a5aa35065f8144e6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<head>
+<meta charset=3D"UTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+</head>
+<body style=3D"margin:0;padding:25px 15px;background:#ffffff;font-family:Ar=
+ial,Helvetica,sans-serif;text-align:center">
+<div style=3D"width:100%;max-width:600px;margin:0 auto;padding:0 10px;box-s=
+izing:border-box;font-family:Arial,Helvetica,sans-serif;font-size:16px;line=
+-height:1.65;color:#333333;text-align:left">
+<p style=3D"margin:0 0 20px 0;padding:0">
+Hi redactedredactedredacted,
+</p>
+<p style=3D"margin:0 0 20px 0;padding:0">
+Looking to Meet Someone Nearby? I=E2=80=99d Love to Connect!
+</p>
+<p style=3D"margin:0 0 20px 0;padding:0">
+There=E2=80=99s no pressure and no expectation, Just remember=E2=80=94some =
+doors only open once. Explore at your own pace.
+</p>
+<p style=3D"margin:0 0 25px 0;padding:0;font-weight:600;color:#333333">
+Classified listing - Craigslist for-Sex
+</p>
+<div style=3D"width:100%;margin:0 0 30px 0;padding:0;text-align:center">
+<a href=3D"hxxps://sites[.]google[.]com/view/casual-pleasurefree/" target=
+=3D"_blank" rel=3D"noopener noreferrer" style=3D"display:block;width:100%;b=
+ox-sizing:border-box;padding:18px 15px;background:#34a853;background:linear=
+-gradient(180deg,#5fd47a 0%,#34a853 40%,#239447 72%,#187b38 100%);color:#ff=
+ffff;font-family:Arial,Helvetica,sans-serif;text-align:center;text-decorati=
+on:none;border-radius:11px;border-top:2px solid #8ae5a0;border-left:1px sol=
+id #4fc66b;border-right:1px solid #19783a;border-bottom:5px solid #146b32;w=
+ord-break:break-word">
+<span style=3D"display:block;font-size:14px;line-height:24px;font-weight:70=
+0;color:#ffffff;word-break:break-word">
+hxxps://sites[.]google[.]com/view/casual-pleasurefree/
+</span>
+</a>
+</div>
+<div style=3D"width:100%;box-sizing:border-box;margin:0 0 28px 0;padding:13=
+px 15px;background:#f5fbf7;border-left:3px solid #34a853;border-radius:6px;=
+font-size:13px;line-height:1.65;color:#666666;text-align:left">
+<div style=3D"margin-bottom:6px">
+=E2=80=A2 Live conversations with people who are open to connecting
+</div>
+<div style=3D"margin-bottom:6px">
+=E2=80=A2 Private one-on-one chats for more personal interactions
+</div>
+<div style=3D"margin-bottom:6px">
+=E2=80=A2 Curated profiles &amp; galleries to discover new people
+</div>
+<div style=3D"margin-bottom:6px">
+=E2=80=A2 Shared interests that make starting conversations feel natural
+</div>
+<div>
+=E2=80=A2 A private, refined environment focused on conversation and connec=
+tion
+</div>
+</div>
+</div>
+<br><br><br><br><br>
+<p style=3D"margin:0;font-size:14px;color:#777777;text-align:center">
+Sent from my iPhone
+</p>
+</body>
+</html>
+
+--000000000000a5aa35065f8144e6--

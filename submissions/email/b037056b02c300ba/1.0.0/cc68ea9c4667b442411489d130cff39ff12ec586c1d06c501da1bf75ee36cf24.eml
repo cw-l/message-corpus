@@ -1,0 +1,350 @@
+Authentication-Results: mx.microsoft.com 1; spf=fail (sender IP is
+ 35.199.12.52) smtp.mailfrom=curtmfg.com; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=curtmfg.com;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:22BE6EDF06C960832691AF264005AFDF2B94170E5229A68F0F5B9D32C97DEA75;UpperCasedChecksum:80DF9490AB6B87C24F183E500D7CD74FCDD7AAC0DB47A1A998BCE9CA9A6A67D8;SizeAsReceived:320;Count:7
+From: Senior Health Insider <support@curtmfg.com>
+To: <redacted@redacted.com>
+Subject: IMPORTANT HEALTH UPDATE: What every family should know about dementia
+Message-ID: <1329cac0f4064d10b35b510918f24eb7@curtmfg.com>
+Date: Thu, 5 Nov 2026 00:47:05 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 05 Nov 2026 00:47:06.3787
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 50ce5028-7049-4a66-2d9a-08df3ad650da
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ SJ5PEPF000001D0:EE_|PH7P220MB1277:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ SJ5PEPF000001D0.namprd05.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/4/2026 7:06:11 AM
+X-MS-Office365-Filtering-Correlation-Id: 50ce5028-7049-4a66-2d9a-08df3ad650da
+X-Sender-IP: 35.199.12.52
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|1290799033|32020799003|34130799006|9400799043|46080799009|260928210016899003|8301999021|60050799012|11001999021|260826003000599003|2700799033|970799063|5139299004|10300799038|93100799006|6401999021|1680799066|9000799056|11119299006|6100799021|5301999021|7112599012|6022199012|30041999003|22062799003|18021999003|8011999015|56899033|7310799015|3412199025|1360799030|1370799030|1380799030|440099028|2406899039;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 Nov 2026 00:47:06.1305
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 50ce5028-7049-4a66-2d9a-08df3ad650da
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ SJ5PEPF000001D0.namprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH7P220MB1277
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.7245290
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0592.006
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9710001)(9610028)(9520007)(10115022)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"hxxp://www[.]w3[.]org/TR/xhtml1/DTD/xhtml1-strict[.]dtd"><html xmlns=3D"hx=
+xp://www[.]w3[.]org/1999/xhtml" lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <title>Memory &amp; Brain Health Dispatch</title>
+
+    <style type=3D"text/css">
+        body, table, td, a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            font-family: Arial, Helvetica, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        @media only screen and (max-width: 620px) {
+            .main-container {
+                width: 100% !important;
+            }
+
+            .content-pad {
+                padding-left: 18px !important;
+                padding-right: 18px !important;
+            }
+
+            .headline {
+                font-size: 24px !important;
+                line-height: 1.25 !important;
+            }
+
+            .body-text {
+                font-size: 16px !important;
+                line-height: 1.6 !important;
+            }
+
+            .btn-cta {
+                display: block !important;
+                width: auto !important;
+                padding: 16px 10px !important;
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Hidden Preheader -->
+    <div style=3D"display:none;font-size:1px;color:#f7f7f7;line-height:1px;=
+max-height:0;max-width:0;opacity:0;overflow:hidden;mso-hide:all;">
+        Discover what science says about memory, brain health and the popul=
+ar Vicks routine...
+        \u034f \u200c &nbsp; \u2007 =EF=BF=BD
+    </div>
+
+    <!-- Outer Wrapper -->
+    <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"background-color:#f7f7f7;">
+        <tbody>
+            <tr>
+                <td align=3D"center" style=3D"padding:30px 10px;">
+
+                    <!-- Main Card -->
+                    <table class=3D"main-container" role=3D"presentation" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max=
+-width:600px;background-color:#ffffff;border-radius:4px;overflow:hidden;bor=
+der:1px solid #e8e8e8;">
+
+                        <tbody>
+
+                            <!-- Main Content -->
+                            <tr>
+                                <td class=3D"content-pad" style=3D"padding:=
+30px 35px 20px;text-align:center;">
+
+                                    <!-- Headline -->
+                                    <h1 class=3D"headline" style=3D"font-fa=
+mily:Arial,Helvetica,sans-serif;
+                                        font-size:28px;font-weight:900;
+                                        color:#111111;margin:0 0 22px;
+                                        line-height:1.25;text-align:center;=
+">
+
+                                        The 15-Second Vicks Routine:
+                                        Discover the Claims About Memory
+                                        and Brain Health
+
+                                    </h1>
+
+                                    <!-- Hero Image -->
+                                    <div style=3D"margin:0 auto 25px;text-a=
+lign:center;">
+
+                                        <a href=3D"hxxps://storage[.]google=
+apis[.]com/dyablo/1[.]html" target=3D"_blank" style=3D"text-decoration:none=
+;display:block;">
+
+                                            <img src=3D"hxxps://clarpix[.]c=
+om/file_19bdabd2-9a18-4e86-b89f-dc8a59b2a509[.]jpg" alt=3D"Vicks Routine Vi=
+deo Presentation" width=3D"530" style=3D"display:block;width:100%;
+                                                max-width:530px;height:auto=
+;
+                                                border:0;margin:0 auto;">
+
+                                        </a>
+                                    </div>
+
+                                    <!-- Editorial Text -->
+                                    <div class=3D"body-text" style=3D"font-=
+family:Arial,Helvetica,sans-serif;
+                                        font-size:16px;color:#111111;
+                                        line-height:1.6;text-align:left;">
+
+                                        <p style=3D"margin:0 0 18px;">
+                                            An important conversation about
+                                            Alzheimer's disease, dementia
+                                            and age-related memory changes
+                                            is attracting attention online.
+                                        </p>
+
+                                        <p style=3D"margin:0 0 18px;">
+                                            Some online presentations claim
+                                            that a simple
+                                            <strong>15-second Vicks routine=
+</strong>
+                                            may support memory and brain he=
+alth.
+                                            However, these claims have not =
+been
+                                            established by reliable clinica=
+l
+                                            evidence.
+                                        </p>
+
+                                        <p style=3D"margin:0 0 18px;">
+                                            The presentation discusses a
+                                            home-based routine and its
+                                            proposed benefits. It is import=
+ant
+                                            to remember that Vicks is not
+                                            a proven treatment for memory l=
+oss,
+                                            dementia or Alzheimer's disease=
+.
+                                        </p>
+
+                                        <p style=3D"margin:0 0 30px;">
+                                            Watch the presentation to learn
+                                            what it claims and discuss any
+                                            concerns about memory changes
+                                            with a qualified healthcare
+                                            professional.
+                                        </p>
+
+                                    </div>
+
+                                    <!-- CTA Button -->
+                                    <table role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin-botto=
+m:35px;">
+
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center">
+
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/dyablo/1[.]html" target=3D"_blank" class=3D"btn-cta"=
+ style=3D"background-color:#cc0000;
+                                                        color:#ffffff;
+                                                        font-family:Arial,s=
+ans-serif;
+                                                        font-size:16px;
+                                                        font-weight:bold;
+                                                        text-decoration:non=
+e;
+                                                        padding:18px 34px;
+                                                        border-radius:3px;
+                                                        display:inline-bloc=
+k;
+                                                        letter-spacing:0.5p=
+x;">
+
+                                                        Watch The Presentat=
+ion
+
+                                                    </a>
+
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                            <!-- Dark Footer -->
+                            <tr>
+                                <td style=3D"background-color:#111111;
+                                    padding:25px 30px;color:#ffffff;">
+
+                                    <table role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+
+                                        <tbody>
+                                            <tr>
+                                                <td align=3D"center" style=
+=3D"font-family:Arial,sans-serif;
+                                                    font-size:11px;
+                                                    color:#888888;
+                                                    line-height:1.6;">
+
+                                                    <a href=3D"#" style=3D"=
+color:#ffffff;
+                                                        text-decoration:non=
+e;
+                                                        font-weight:bold;">
+                                                        Privacy Policy
+                                                    </a>
+
+                                                    &nbsp;|&nbsp;
+
+                                                    <a href=3D"#" style=3D"=
+color:#ffffff;
+                                                        text-decoration:non=
+e;
+                                                        font-weight:bold;">
+                                                        Terms of Use
+                                                    </a>
+
+                                                    &nbsp;|&nbsp;
+
+                                                    <a href=3D"hxxps://stor=
+age[.]googleapis[.]com/dyablo/1[.]html" target=3D"_blank" style=3D"color:#c=
+c0000;
+                                                        text-decoration:und=
+erline;
+                                                        font-weight:bold;">
+                                                        Unsubscribe
+                                                    </a>
+
+                                                    <br><br>
+
+                                                    =EF=BF=BD 2026 Memory &=
+amp;
+                                                    Brain Health Dispatch.
+                                                    All rights reserved.
+
+                                                    <br>
+                                                    Information is educatio=
+nal
+                                                    and not medical advice.
+
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+
