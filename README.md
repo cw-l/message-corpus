@@ -58,7 +58,7 @@ contributor's own number is not included anywhere in the data.
 ```
 submissions/
   email/
-    <addr-hash>/          <- opaque contributor ID, no PII
+    <addr-hash>/          <- opaque contributor ID (hash)
       <version>/          <- tool version that produced these outputs
         <sha256>.eml      <- redacted sample
   <service>/              <- message service, e.g. imessage
