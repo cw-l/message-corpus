@@ -1,0 +1,167 @@
+Authentication-Results: mx.microsoft.com 1; spf=softfail (sender IP is
+ 34.138.153.74) smtp.mailfrom=comunicadores.info; dkim=none (message not
+ signed) header.d=none;dmarc=fail action=none
+ header.from=comunicadores.info;compauth=fail reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:C7DF0C09333A15B5DCCC7947CE9D2CAD4E15C4FE5FF204F5ABADE68CEA64AA4E;UpperCasedChecksum:3E94720C363F53314C54148D85A7D59F28F82B84BBB9A377BBCAF09F9FBDBB33;SizeAsReceived:338;Count:7
+From: McAfee Billing Support <support@comunicadores.info>
+To: <redacted@redacted.com>
+Subject: 
+ =?utf-8?q?Warning=3A_High_risk_of_unprotected_devices_=EF=BF=BD=EF=BF=BD?=
+ =?utf-8?q?=EF=BF=BD_Renew_your_McAfee_plan_today?=
+Message-ID: <37b4722b3f954df0b9b64cf972a8ea6f@comunicadores.info>
+Date: Mon, 9 Nov 2026 22:05:36 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 09 Nov 2026 22:05:37.0155
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 71b6f5ee-ee7a-4a6b-6e11-08df3ead959b
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ MI3PEPF0000848B:EE_|DM8P220MB0533:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ MI3PEPF0000848B.eurprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/9/2026 6:11:06 PM
+X-MS-Office365-Filtering-Correlation-Id: 71b6f5ee-ee7a-4a6b-6e11-08df3ead959b
+X-Sender-IP: 34.138.153.74
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|32020799003|34130799006|9400799043|10300799038|5139299004|6100799021|260928210016899003|261105174916899003|970799063|2700799033|9000799056|6019299003|1290799033|260826003000599003|1680799066|3025599003|46080799009|60050799012|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 09 Nov 2026 22:05:36.6605
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 71b6f5ee-ee7a-4a6b-6e11-08df3ead959b
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ MI3PEPF0000848B.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM8P220MB0533
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.1869877
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0592.010
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(10005027)(9710001)(9610028)(9520007)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<style>
+    .header {
+    padding: 25px 20px;
+    text-align: center;
+    }
+    </style>
+<head>
+    
+    <title>McAfee Renewal Notice</title>
+</head>
+            <!-- Header -->
+            
+            <div class="header">
+                <img src="hxxps://upload[.]wikimedia[.]org/wikipedia/commons/thumb/c/cf/McAfee_logo[.]svg/3840px-McAfee_logo[.]svg[.]png?utm_source=ru[.]wikipedia[.]org&amp;utm_campaign=index&amp;utm_content=thumbnail" alt="Premium Antivirus" width="170" style="max-width: 170px; height: auto; display: block; margin: 0 auto;">
+            </div>
+<body style="margin:0; padding:0; background-color:#f4f4f4; font-family:Arial, sans-serif;">
+
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4f4f4">
+        <tr>
+            <td align="center">
+
+                <table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="margin:20px auto; border-radius:6px; overflow:hidden;">
+
+       
+                    <!-- Red Banner -->
+                    <tr>
+                        
+                        <td bgcolor="#d60000" style="color:#ffffff; text-align:center; padding:20px; font-size:18px; font-weight:bold;">
+                            Payment attempt may have failed while renewing your subscription for 
+              McAfee Total Protection
+                        </td>
+                    </tr>
+
+                    <!-- Warning Box -->
+                    <tr>
+                        <td style="padding:20px;">
+                            <div style="background:#fff4cc; border:1px solid #f0d98c; padding:12px; font-size:14px;">
+                                \u26a0\ufe0f Your payment method may have expired:
+                                <a href="#" style="color:#d60000; font-weight:bold;">update your payment details.</a>
+                            </div>
+                        </td>
+                    </tr>
+
+                    <!-- Content -->
+                    <tr>
+                        <td style="padding:0 20px 20px 20px; text-align:center; font-size:15px; color:#333;">
+                            Without antivirus protection, your computer could be at risk!<br>
+              Purchase or renew now to keep your PC protected.
+                        </td>
+                    </tr>
+
+                    <!-- Order Details -->
+                    <tr>
+                        <td style="padding:0 20px 20px 20px;">
+                            <table width="100%" cellpadding="10" cellspacing="0" border="0" style="border:1px solid #ddd;">
+                                <tr>
+                                    <td style="font-weight:bold; font-size:16px;">Order details:</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-size:14px;">
+                                        Subscription Number: ********<br>
+                    Product: <strong>McAfee Total Protection - Individual </strong><br>
+                    Expiration date: <span style="color:#d60000; font-weight:bold;">August 27, 2026</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Text -->
+                    <tr>
+                        <td style="padding:0 20px 20px 20px; font-size:14px; color:#555;">
+                            In order to keep your subscription running, please update the payment information on your
+                            customer account.<br><br>
+              Please click on the link below to sign in to your account and update your payment details. If we cannot process the billing prior to the expiration date of your subscription, your licence will expire.
+                        </td>
+                    </tr>
+
+                    <!-- CTA Button -->
+                    <tr>
+                        <td align="center" style="padding:20px;">
+                            <a href="hxxps://storage[.]googleapis[.]com/tfqwhvqghfqsgfhqsdh/lis" style="background:#0a1a72; color:#ffffff; text-decoration:none; padding:15px 25px; font-size:16px; font-weight:bold; border-radius:4px; display:inline-block;">
+                                Update my payment details
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td style="padding:20px; font-size:12px; color:#777; text-align:center;">
+                            You may unsubscribe at any time by clicking <a href="hxxps://storage[.]googleapis[.]com/tfqwhvqghfqsgfhqsdh/lis">here</a>[.]
+                         
+                        </td>
+                    </tr>
+
+                </table>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>w

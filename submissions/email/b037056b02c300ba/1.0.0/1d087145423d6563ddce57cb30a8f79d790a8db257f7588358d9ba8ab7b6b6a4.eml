@@ -1,0 +1,98 @@
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 89.163.221.193) smtp.mailfrom=vrdoro.com; dkim=fail (invalid public key)
+ header.d=vrdoro.com;dmarc=pass action=none
+ header.from=vrdoro.com;compauth=pass reason=100
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:A578AF2A970BF0C64F57BC30CF73252C0A6D0FC57295512DB2C33CB3AAD98620;UpperCasedChecksum:F74DC5005427ED955300A92EBBE6B8B4D0A595A5953449C0781817B5EC5744C7;SizeAsReceived:1242;Count:10
+Reply-To: Tevinferguson268@gmail
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vrdoro.com; s=mail;
+	t=1794208444; bh=q6cU2UheNW1AUWD/2/T0BtN866HklvtmPymiAnzNFZw=;
+	h=Reply-To:From:To:Subject;
+	b=JuTo7cEKKiah8vmVljMmJQOeQvad2YYb9WLSl8QbrzUcsGx1fnoe/90AD74GzecfV
+	 Imm2OwEYULd6ZHB0Bhbffutc3By5v53pnZLj5DXOxpzQB0T8j1DgpAHu46GKLzjD8S
+	 WGWpzcGoYsQJrcqULujIKzAs5UtlpmNZUhP3NQ8jQQCCm9lU093aepZiS5xTeAlIAs
+	 SP6YU0L78cCOKcbGXdHhtKuaCLFohHHXEvdsJJuN2WcGHzOf0oxJ5nZVQQuycB6n0l
+	 x18sQLVyHjObxehv17JqD1I1Yqj6zPg/XbmeK3OIL1WhjqWioe+LLEI81U2DTHv+Bd
+	 uhIy/YZYBWNtNREGS85h9S38/E5F/PEUcykDCrpADk+gz2FtTog9X1BhJ1Nf54ltNm
+	 6DuHbGYB9Qlcj6w+lAcvXnN0T8B5sjQAibhpf4tvJZAgkwqnYgjns+5c6l01xlq9ZK
+	 +scYVFwteBrEHKoD3B5PWMuVINn1vo859xDmlvvrEFH8xlQFicCVzW67/HXkDdawpQ
+	 De+oEN4uNdKXBBj41Qab5gqYyqcHyAIHBaM0F5bUiLM7XXTTDErpsWBRvnyxLSy1v1
+	 qwG46CtqnqoaRnC9Mql/TxPn+SJtjPj6SlyjT6iVD1Nu4MB4l6w1yhYh12XXoGXjaB
+	 ldWtF5YBnUGwpkuJwhv1hmk8=
+From: "Mr. Tevin Ferguson" <julia@vrdoro.com>
+To: redacted@redacted.com
+Subject: Re: Money solution
+Date: Sun, 8 Nov 2026 23:14:03 -0800
+Message-ID: <20261108231403.1C4E72616D7FAF8F@vrdoro.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-IncomingHeaderCount: 10
+X-MS-Exchange-Organization-ExpirationStartTime: 09 Nov 2026 08:25:53.9939
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 358bcad2-5c6e-4f91-e799-08df3e3b123d
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ BY1PEPF00026967:EE_|PH7P220MB1103:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ BY1PEPF00026967.namprd05.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/9/2026 2:17:20 AM
+X-MS-Office365-Filtering-Correlation-Id: 358bcad2-5c6e-4f91-e799-08df3e3b123d
+X-Sender-IP: 89.163.221.193
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: PASS
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:0;ARA:1444111002|13020799009|87000799021|3069299007|23130799006|6019299003|260826003000599003|60050799012|9800799015|29090799004|69000799021|51300799024|84100799006|1290799033|970799063|58200799025|34130799006|2700799033|46080799009|260928210016899003|261105174916899003|5090599003|1360799030|1370799030|1380799030|3412199025|4295299021|440099028;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 09 Nov 2026 08:25:53.6412
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 358bcad2-5c6e-4f91-e799-08df3e3b123d
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ BY1PEPF00026967.namprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH7P220MB1103
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.8670215
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0592.010
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;auth:1;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(9610028)(9560006)(10180024)(9320005)(9245025)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+Good day,
+
+I am contacting you regarding an estate proceeding, as the=20
+statutory deadline for claim review under Section 197 (1) No. 2=20
+BGB) (statute of limitations for inheritance claims) expires in a=20
+few weeks.
+
+This concerns the estate of a former client, for whom no=20
+relatives have yet been definitely identified. Since your last=20
+name matches that of the deceased, I would like to discreetly=20
+inquire whether this name might be familiar to you or whether=20
+there could be a family connection.
+
+If so, I would be very grateful if you could contact me briefly=20
+so that I can explain the background. Naturally, all information=20
+shared will be treated with strict confidentiality and in=20
+accordance with data protection regulations.
+
+Thank you in advance for your response. Please feel free to=20
+contact me by phone or email if you have any questions.
+
+Sincerely,
+
+Tevin Ferguson
