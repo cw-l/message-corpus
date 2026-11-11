@@ -1,0 +1,508 @@
+Authentication-Results: mx.microsoft.com 1; spf=fail (sender IP is
+ 104.196.67.134) smtp.mailfrom=zorlupsm.com; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=none header.from=zorlupsm.com;compauth=fail
+ reason=001
+X-IncomingTopHeaderMarker: 
+ OriginalChecksum:C0A622A87DEC1873BF63102FF700F1BFDF27005486C3D6377242CD0FE6D9A4AF;UpperCasedChecksum:2C1EB1EE3D9C2216A5E5C5F1CC429C7D4F3BB2FA1B872BDD49F88FCB64DB4861;SizeAsReceived:273;Count:7
+From: System Update <support@zorlupsm.com>
+To: <redacted@redacted.com>
+Subject: Uploads Paused: Storage Full
+Message-ID: <8ff45849026e41508cc84c7b56e50d02@zorlupsm.com>
+Date: Tue, 10 Nov 2026 21:59:34 +0000
+Content-Type: text/html; charset="utf-8"
+X-IncomingHeaderCount: 7
+X-MS-Exchange-Organization-ExpirationStartTime: 10 Nov 2026 21:59:35.3360
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 
+ 2daee0ba-5578-4b6b-4485-08df3f75e871
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: 
+ DM3PEPF000265BF:EE_|PH7P220MB1566:EE_|LV8P220MB1356:EE_
+X-MS-Exchange-Organization-AuthSource: 
+ DM3PEPF000265BF.namprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 11/10/2026 7:29:57 PM
+X-MS-Office365-Filtering-Correlation-Id: 2daee0ba-5578-4b6b-4485-08df3f75e871
+X-Sender-IP: 104.196.67.134
+X-MS-Exchange-EOPDirect: true
+X-SID-Result: FAIL
+X-MS-Exchange-Organization-SCL: 5
+X-Microsoft-Antispam: 
+ BCL:8;ARA:1444111002|260928210016899003|34130799006|32020799003|970799063|1290799033|5019299006|3069299007|9400799043|68400799013|46080799009|260826003000599003|60050799012|261105174916899003|3025599003|18040799006;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 10 Nov 2026 21:59:35.0852
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 
+ 2daee0ba-5578-4b6b-4485-08df3f75e871
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: 
+ DM3PEPF000265BF.namprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH7P220MB1566
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.0820887
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0592.010
+X-Microsoft-Antispam-Mailbox-Delivery: 
+ ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90005022)(91005020)(91035115)(9050020)(9100341)(944500132)(2008001181)(2008121020)(4810010)(4910033)(10005027)(9610028)(9540006)(10103005)(9320005)(9215007)(120001);RF:JunkEmail;
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0xO1NDTD02
+X-Microsoft-Antispam-Message-Info: 
+ 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
+MIME-Version: 1.0
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud Storage Warning</title>
+    <link href="hxxps://fonts[.]googleapis[.]com/css2?family=Syne:wght@700;800&amp;family=DM+Sans:wght@400;500;600&amp;display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #E0F2FE;
+            font-family: 'DM Sans', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            padding: 36px 16px;
+        }
+
+        .wrapper {
+            max-width: 580px;
+            margin: 0 auto;
+        }
+
+        /* \u2500\u2500 LOGO ROW \u2500\u2500 */
+        .logo-row {
+            display: table;
+            width: 100%;
+            margin-bottom: 18px;
+        }
+
+        .logo-left {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .logo-text {
+            font-size: 14px;
+            font-weight: 800;
+            color: #1E3A8A;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .logo-right {
+            display: table-cell;
+            vertical-align: middle;
+            text-align: right;
+        }
+
+        .logo-tag {
+            font-size: 11px;
+            font-weight: 600;
+            color: #3B82F6;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* \u2500\u2500 TOP DARK HEADER \u2500\u2500 */
+        .top-header {
+            background: #1E40AF;
+            border-radius: 12px 12px 0 0;
+            padding: 0;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .top-header-accent {
+            height: 3px;
+            background: #60A5FA;
+            width: 100%;
+        }
+
+        .top-header-inner {
+            display: table;
+            width: 100%;
+            padding: 26px 36px;
+        }
+
+        .top-header-left {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .expiry-label {
+            font-size: 11px;
+            font-weight: 700;
+            color: #93C5FD;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 6px;
+        }
+
+        .expiry-title {
+            font-size: 22px;
+            font-weight: 800;
+            color: #FFFFFF;
+            letter-spacing: -0.3px;
+            line-height: 1.2;
+        }
+
+        .top-header-right {
+            display: table-cell;
+            vertical-align: middle;
+            text-align: right;
+            width: 90px;
+        }
+
+        .expiry-badge {
+            display: inline-block;
+            border: 1.5px solid #93C5FD;
+            color: #fff;
+            background-color: #ff2222;
+            font-size: 15px;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            padding: 6px 12px;
+            border-radius: 4px;
+        }
+
+        /* \u2500\u2500 MAIN WHITE CARD \u2500\u2500 */
+        .card {
+            background: #FFFFFF;
+            border-radius: 0 0 12px 12px;
+            overflow: hidden;
+            margin-bottom: 3px;
+        }
+
+        /* \u2500\u2500 DESCRIPTION \u2500\u2500 */
+        .description {
+            padding: 24px 36px;
+            border-bottom: 1px solid #F0F0F0;
+            background: #FAFAFA;
+        }
+
+        .description p {
+            font-size: 14px;
+            color: #555;
+            line-height: 1.7;
+        }
+
+        .description strong {
+            color: #111;
+        }
+
+        /* \u2500\u2500 REF TABLE \u2500\u2500 */
+        .ref-table-wrap {
+            padding: 0 36px;
+            border-bottom: 1px solid #F0F0F0;
+        }
+
+        .ref-row {
+            display: table;
+            width: 100%;
+            padding: 15px 0;
+            border-bottom: 1px solid #F5F5F5;
+        }
+
+        .ref-row:last-child {
+            border-bottom: none;
+        }
+
+        .ref-label {
+            display: table-cell;
+            font-size: 11px;
+            font-weight: 700;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            vertical-align: middle;
+            width: 38%;
+        }
+
+        .ref-value {
+            display: table-cell;
+            font-size: 14px;
+            font-weight: 700;
+            color: #111;
+            text-align: right;
+            vertical-align: middle;
+        }
+
+        .ref-value.muted {
+            font-weight: 500;
+            color: #888;
+        }
+
+        .ref-chip {
+            display: inline-block;
+            background: #EFF6FF;
+            border: 1px solid #BFDBFE;
+            color: #1D4ED8;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 13px;
+            font-weight: 700;
+            padding: 4px 12px;
+            border-radius: 4px;
+            letter-spacing: 2px;
+        }
+
+        /* \u2500\u2500 OFFER BLOCK \u2500\u2500 */
+        .offer-block {
+            background: #1E3A8A;
+            padding: 28px 36px;
+            display: table;
+            width: 100%;
+            border-bottom: 1px solid #F0F0F0;
+        }
+
+        .offer-left {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .offer-headline {
+            font-size: 18px;
+            font-weight: 800;
+            color: #FFFFFF;
+            line-height: 1.25;
+            letter-spacing: -0.3px;
+        }
+
+        .offer-devices {
+            font-size: 12px;
+            color: #BFDBFE;
+            margin-top: 4px;
+        }
+
+        .offer-right {
+            display: table-cell;
+            vertical-align: middle;
+            text-align: right;
+            width: 130px;
+        }
+
+        .offer-discount {
+            display: inline-block;
+            background: #3B82F6;
+            color: #fff;
+            font-size: 12px;
+            font-weight: 800;
+            padding: 3px 9px;
+            border-radius: 3px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            margin-bottom: 5px;
+        }
+
+        .offer-price {
+            font-size: 28px;
+            font-weight: 800;
+            color: #FFFFFF;
+            letter-spacing: -1px;
+            line-height: 1;
+        }
+
+        /* \u2500\u2500 CTA \u2500\u2500 */
+        .cta-block {
+            padding: 28px 36px 32px;
+            text-align: center;
+        }
+
+        .cta-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: #888;
+            margin-bottom: 16px;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #2563EB;
+            color: #FFFFFF;
+            text-decoration: none;
+            padding: 16px 52px;
+            border-radius: 6px;
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .cta-note {
+            font-size: 11px;
+            color: #888;
+            margin-top: 12px;
+        }
+
+        /* \u2500\u2500 UNSUB \u2500\u2500 */
+        .unsub {
+            text-align: center;
+            font-size: 11px;
+            color: #888;
+            padding: 16px 0 4px;
+        }
+
+        .unsub a {
+            color: #888;
+            text-decoration: underline;
+        }
+
+        @media only screen and (max-width: 480px) {
+
+            .top-header-inner,
+            .ref-table-wrap,
+            .description,
+            .cta-block {
+                padding-left: 22px;
+                padding-right: 22px;
+            }
+
+            .offer-block {
+                padding: 22px;
+            }
+
+            .top-header-left,
+            .top-header-right {
+                display: block;
+                width: 100%;
+                text-align: left;
+            }
+
+            .top-header-right {
+                margin-top: 12px;
+            }
+
+            .offer-left,
+            .offer-right {
+                display: block;
+                width: 100%;
+                text-align: left;
+            }
+
+            .offer-right {
+                margin-top: 14px;
+            }
+
+            .ref-label,
+            .ref-value,
+            .ref-value.muted {
+                display: block;
+                width: 100%;
+                text-align: left;
+            }
+
+            .ref-row {
+                display: block;
+            }
+
+            .btn {
+                width: 100%;
+                display: block;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <!-- LOGO -->
+        <div class="logo-row">
+            <div class="logo-left">
+                <span style="display:inline-block; vertical-align:middle; margin-right:6px;">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="hxxp://www[.]w3[.]org/2000/svg">
+                        <path d="M6.5 17.5C4.01472 17.5 2 15.4853 2 13C2 10.7416 3.66692 8.87265 5.84277 8.54477C6.44686 5.37257 9.27897 3 12.5 3C16.1424 3 19.1417 5.76192 19.4674 9.30906C21.4646 9.77124 23 11.5369 23 13.6667C23 15.8758 21.2091 17.6667 19 17.6667H6.5Z" fill="#1E3A8A" />
+                    </svg>
+                </span>
+                <span class="logo-text" style="display:inline-block; vertical-align:middle;">Cloud Storage</span>
+            </div>
+            <div class="logo-right">
+                <span class="logo-tag">Storage Notification</span>
+            </div>
+        </div>
+
+        <!-- TOP DARK HEADER -->
+        <div class="top-header">
+            <div class="top-header-accent"></div>
+            <table class="top-header-inner" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td class="top-header-left">
+                        <div class="expiry-label">Warning</div>
+                        <div class="expiry-title">Storage is full</div>
+                    </td>
+                    <td class="top-header-right">
+                        <span class="expiry-badge">100%<br>Full</span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <!-- WHITE CARD -->
+        <div class="card">
+
+            <!-- Description -->
+            <div class="description">
+                <p><strong>Because you've exceeded your storage plan, your photos, videos, documents, contacts, and personal data are no longer backing up to the Cloud.</strong><br>
+            Some functions will be unavailable.</p>
+            </div>
+
+            <!-- Ref Table -->
+            <div class="ref-table-wrap">
+                <div class="ref-row">
+                    <span class="ref-label">Photos</span>
+                    <span class="ref-value"><span class="ref-chip">Stopped Updating</span></span>
+                </div>
+                <div class="ref-row">
+                    <span class="ref-label">Cloud Drive</span>
+                    <span class="ref-value muted">Stopped Updating</span>
+                </div>
+                <div class="ref-row">
+                    <span class="ref-label">Mail</span>
+                    <span class="ref-value muted">Stopped Updating</span>
+                </div>
+            </div>
+
+            <!-- Offer -->
+            <table class="offer-block" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td class="offer-left">
+                        <div class="offer-headline">Your photos, videos, and<br>personal data will be lost!</div>
+                        <div class="offer-devices">Action required to clean storage</div>
+                    </td>
+                    <td class="offer-right">
+                        <div><span class="offer-discount">Storage Used</span></div>
+                        <div class="offer-price">100%</div>
+                    </td>
+                </tr>
+            </table>
+
+            <!-- CTA -->
+            <div class="cta-block">
+                <div class="cta-label">To continue normal use, immediate action is required.</div>
+                <a href="hxxps://storage[.]googleapis[.]com/cloudstorage-t5ij/index" class="btn">Continue</a>
+                <div class="cta-note"></div>
+            </div>
+
+        </div>	
+
+        <!-- UNSUB -->
+        <div class="unsub">
+            If you no longer wish to receive these emails, you may <a href="hxxps://storage[.]googleapis[.]com/cloudstorage-t5ij/unsub">unsubscribe here</a>.
+        </div>
+
+    </div>
+</body>
+
+</html>
